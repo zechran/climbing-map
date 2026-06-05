@@ -1,0 +1,2133 @@
+[
+  {
+    "name": "Amálka",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618861,
+    "lon": 16.128722,
+    "url": "https://www.piskari.cz/cs/skala/amalka-2784/",
+    "routes": [
+      {
+        "name": "Adios Amigo",
+        "grade": "VI",
+        "date": "24.8.1985",
+        "url": "/cs/cesta/adios-amigo-3899/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.6.2016 8:10:15 Páša] Docela pěkně se dá dojistit, ale moc dlouhá neni.",
+          "[16.9.2016 21:23:44 felis] Hezká hrana, trochu nepříjemný vrcholový výšvih.",
+          "[27.3.2019 21:43:41 Rosťa] Dolez na vrchol je kvůli čepici z mechu a bordelu velmi problematický. Loni jsem v cestě při džce při výlezu vytrhl vrcholové hodinky (ne ty masivní které jsou na fotce od Belmonda, ty zůstaly). Vršek je asi težší než za VI. Vylezte si Kozí hřbety a omrkněte to!"
+        ]
+      },
+      {
+        "name": "Kozí hřbety",
+        "grade": "IV",
+        "date": "0.0.1982",
+        "url": "/cs/cesta/kozi-hrbety-3837/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[31.5.2015 19:20:09 Páša] Chce to dobře rozmylset kudy, ale jištění je habaděj."
+        ]
+      },
+      {
+        "name": "Sbohem Amálečko",
+        "grade": "VIIa",
+        "date": "21.4.2004",
+        "url": "/cs/cesta/sbohem-amalecko-3747/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[22.7.2013 19:27:11 Belmondo] Pod prvním Q jsou provázat velmi dobré hodiny.",
+          "[26.8.2013 10:17:43 Hlaďas] V průvodci je psané od 1.Q mírně stěnkou vlevo k 2.Q, ale to rozhodně není za VIIa, když se půjde od 1.Q rovně pod převis a až pak vlevo ke 2.Q takto za těch VIIa bude. Jinak mezi kruhy pěkné kroky.",
+          "[24.9.2013 23:23:20 felis] Souhlasím, vlevo od 1.Q se mi moc nechtělo... pěkná i odjištěná.",
+          "[24.4.2018 13:40:06 Špásik] Pod prvním celkem nečitelné, kudy to vede a najít ty VIIáčkové chyty. Od kruhu jsem šel přímo přes převísek a pak vlevo ke druhému a lehce na vrchol."
+        ]
+      },
+      {
+        "name": "Údolní",
+        "grade": "V",
+        "date": "0.0.1982",
+        "url": "/cs/cesta/udolni-3838/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[12.8.2013 22:07:46 felis] Pěkná, dobře odjištěná.",
+          "[31.5.2015 19:18:43 Páša] Pěkná, možná trošku těžší. Jen bacha po cestě je hnízdo"
+        ]
+      },
+      {
+        "name": "Vaja Kundios",
+        "grade": "VI",
+        "date": "20.4.2004",
+        "url": "/cs/cesta/vaja-kundios-3839/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[12.8.2013 22:14:57 felis] Málo lezená, po madlech, krásně odjištěná - 3x hodiny a Q.",
+          "[31.5.2015 19:22:26 Páša] Hezká, jen dolez je trošičku morálovej.",
+          "[1.5.2022 17:29:36 martin blažek] Dobre odjistitelna cesta, s podivem ze az z roku 2004. Nad kruhem jeste \"hodiny\" a pripadne sebou dlouhou smycu na obhozeni velke borovice. Vylez je v mechu."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Brek",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619333,
+    "lon": 16.129194,
+    "url": "https://www.piskari.cz/cs/skala/brek-2801/",
+    "routes": [
+      {
+        "name": "Jižní stěna",
+        "grade": "VI",
+        "date": "7.10.1961",
+        "url": "/cs/cesta/jizni-stena-10407/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.6.2015 0:05:47 felis] Těžší než vedlejší Rozlejzačka. Ke kruhu bez jištění a od něj už se dávno leze čistě. Také olezená ale i tak hezká. Kvůli jištění bez hvězdy.",
+          "[27.7.2015 20:47:02 Jura a Terka] Souhlas, těžší než rozlejzačka a až ke kruhu bez jištění, ale je zajímavá."
+        ]
+      },
+      {
+        "name": "Rozlejzačka",
+        "grade": "VIIa",
+        "date": "18.7.1989",
+        "url": "/cs/cesta/rozlejzacka-2306/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.5.2010 15:05:24 nosicek] Krátký, odjištěný, ale už zničený. Nebýt to zničený, dal bych i hvězdičku.",
+          "[27.5.2010 20:41:06 jakub] No a z vrcholu jde skočit na šmejda a slanit odtamtud. Je to hezký přeskok na naučení.",
+          "[28.6.2010 20:57:57 fancy] no popravdě pěkný rajbas, jen chyty dost olezlé, ale líbila se mi.",
+          "[5.12.2010 14:55:11 Hans] Sic olezené, tak pěkné. Název sedí, na rozlez ideální.",
+          "[1.3.2012 17:26:49 hans1996] dobře odjištěné",
+          "[5.8.2013 21:31:03 michal_sherpa] Dole olezlé, ale dá se. Zbytek parádní. Řekl bych, že cesta je spíše pro delší lidi.",
+          "[31.3.2014 23:03:22 andre] Jedna z prvnich na písku, parádní.",
+          "[27.7.2015 20:47:57 Jura a Terka] Moc pěkná rajbasová cesta."
+        ]
+      },
+      {
+        "name": "Sociálka",
+        "grade": "VIIb",
+        "date": "24.7.1994",
+        "url": "/cs/cesta/socialka-2733/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.12.2010 14:58:07 Hans] Zajímavá cesta, zvlášť když člověk neví o tom stavění a snaží se to dát čístě, nakonec postaví a nahoře s úlevou zjistí, že to neoprasil :D",
+          "[25.4.2011 18:48:16 lezecc] Na první pohled jsem si říkal co to je na ulet,pak jsem se dozvěděl že je to \"jen VIIb\" Cvaknutí prvního dobrý, postavením kolem něj to zhoustne a narovnání v sokolíku bude noční můrou VIIb lezců:)K obelzu 2 kruhu to svádí ale po chvilce člověk stratí trpělivost, i když uplně nereal mi to nepřišlo.",
+          "[6.1.2012 16:19:14 Staník] Linka vypadá fakt dobře i pěkné kroky. Oblez 1. Q je těžkej. Škoda stavění u 2. Tehdy mi to po pár pokusech přišlo naopak nereálný, ale vždycky se najde někdo šikovnej kdo si poradí...",
+          "[12.9.2022 17:35:00 Vondra] Hezká cesta, jen to stavění dalo zabrat ale pak už v pohodě."
+        ]
+      },
+      {
+        "name": "Sokolík",
+        "grade": "VI",
+        "date": "9.5.1969",
+        "url": "/cs/cesta/sokolik-2671/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Čertova stěna",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619722,
+    "lon": 16.127972,
+    "url": "https://www.piskari.cz/cs/skala/certova-stena-2782/",
+    "routes": [
+      {
+        "name": "Baltazarova",
+        "grade": "VIIa",
+        "date": "1.5.1998",
+        "url": "/cs/cesta/baltazarova-7390/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Čertí procházka",
+        "grade": "VI",
+        "date": "30.10.1982",
+        "url": "/cs/cesta/certi-prochazka-10408/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.6.2015 0:22:30 felis] Hezká stěnka po madlech. První jištění (smyčka) je celkem vysoko, potom několik hodin.",
+          "[13.4.2021 7:12:35 Pavlík] Pěkná cesta, spousta smyček"
+        ]
+      },
+      {
+        "name": "Čertův komín",
+        "grade": "III",
+        "date": "1.7.2000",
+        "url": "/cs/cesta/certuv-komin-10305/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[10.8.2014 22:29:54 felis] Hezká a odjištěná. Spíš stěnově než spárou."
+        ]
+      },
+      {
+        "name": "Kašparova",
+        "grade": "V",
+        "date": "1.5.1998",
+        "url": "/cs/cesta/kasparova-6236/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Melicharova",
+        "grade": "V",
+        "date": "1.5.1998",
+        "url": "/cs/cesta/melicharova-6237/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Pilířová",
+        "grade": "II",
+        "date": "26.5.1983",
+        "url": "/cs/cesta/pilirova-10449/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.7.2015 20:54:29 Jura a Terka] Lehká, pěkná, krátká. Ideální na solo."
+        ]
+      },
+      {
+        "name": "První",
+        "grade": "VI",
+        "date": "20.7.1981",
+        "url": "/cs/cesta/prvni-2303/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.5.2010 14:44:27 nosicek] Stěnka mezi spárou a převisem by mohla někoho zaskočit, ale nic fatálního, jenom se mi tam nepovedlo najít místo pro smyčku. Pod převisem jsou velký hodiny a v převisu supr madla.",
+          "[26.8.2013 14:36:54 jurakura] Pěkný, velký převis, kde se dá dobře padat do tutových hodin (odzkoušeno :).Mirwis do toho žuchnul a nechal ve spáře kus malíčku. Chce to po madlech co nejvýš a srovnat dobře nohy. Pak je vyhráno. Já sem to šel po jeho neúspěšném pokusu už s touhle radou a velmi se to líbilo. jou",
+          "[24.9.2013 22:40:35 felis] Moc pěkná, moje první VI, v nástupové spáře mně nebylo nejlíp, přes převis už za odměnu."
+        ]
+      },
+      {
+        "name": "Stěna a hrana",
+        "grade": "VI",
+        "date": "14.9.1958",
+        "url": "/cs/cesta/stena-a-hrana-338/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.5.2009 23:38:15 Tatuš] Pěkné, lehké a smyčkama dobře jištěné",
+          "[30.9.2009 12:56:35 Sumýš] začátek cesty hodně silový (aspoň pro mě :o), z balkonu již pohodové, lehce odjistitelné, čtverkové lezení ...",
+          "[3.6.2013 10:28:47 Špásik] Super cesta po vlastním, začátek trochu technický pak už lezení tak za IV, mnoho kvalitních pentliček a hodin. Štand za strom přímo nad cestou. Dolu se dá pohodlně slézt Sestupovou cestou.",
+          "[3.9.2013 13:14:07 jurakura] nástup trochu silovější a techničtější sokol. Pak pěkná lezba, každý krok jde vrátit, a u každého druhého kroku jde smyčka. Pěkná stěnka",
+          "[16.9.2016 21:02:00 zdend] Nádherná cesta, nástupový boulder jsem řešil pomocí díry vpravo. Z police lehké a pěkné lezení, dobrá smyčka každý druhý krok. Opravdu se vyplatí vylézt.",
+          "[29.7.2024 16:52:56 Dejv] Na záčatku opravdu boulder. Pak uz je to moc klidna hranka."
+        ]
+      },
+      {
+        "name": "Uzlová",
+        "grade": "IV",
+        "date": "14.9.1981",
+        "url": "/cs/cesta/uzlova-10306/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Čtyřhran",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618166,
+    "lon": 16.129666,
+    "url": "https://www.piskari.cz/cs/skala/ctyrhran-2789/",
+    "routes": [
+      {
+        "name": "Catenacio",
+        "grade": "VIIIb",
+        "date": "12.7.1982",
+        "url": "/cs/cesta/catenacio-2312/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[3.6.2010 20:07:34 Staník] Pěkná linka i lezení podél hrany. Mezi 1. a 2. Q je průměrná smyčka. Co se výrazně nepovedlo je umístění 2. Q - moc vyhnanej. Crux je ho cvaknout - dost to vyšťaví... Zkrátka \"...nešťastná 80sátá léta - jak píší v Pískařích. Škoda.",
+          "[12.5.2016 9:00:18 Hlaďas] Pěkná svižná hrana, pod 2.kruhem opatrně a cvaká se z madla vpravo pod ním.",
+          "[24.8.2018 9:31:34 PetrN] Pěkný, vše uvedeno níže a souhlas. A jde to i bez mága."
+        ]
+      },
+      {
+        "name": "Matematická rozcvička",
+        "grade": "VIIIa",
+        "date": "16.3.1982",
+        "url": "/cs/cesta/matematicka-rozcvicka-2143/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.2.2010 16:12:19 Hans] Chce to protáhnout prsty. Když už je to na zemovku, tak tam jsou v díře hodiny.",
+          "[16.2.2010 19:11:01 Jony] Lezl jsem ji dvakrat. Poprve nekdy ke konci 90. let a podruhe vloni. Negativni rozdil ve kvalite cesty za relativne kratkou dobu me prekvapil.",
+          "[3.6.2010 19:58:18 Staník] Také jsem ji lezl 2×, jisté opotřebení připouštím. Mě zase překvapil nástup, který poprvé v pohodě. Pod vrcholem 2 × smyčky, uzel a hodiny. Jinak pořád snad ještě hezké :-)",
+          "[11.8.2015 22:42:38 VojtaP] Kdyby nebyla cesta zapatlaná od maglajzu(hlavně dolní část) byla by ještě hezčí.",
+          "[27.5.2019 20:03:22 Páša] Pěkná prstová cesta. Škoda toho mága na ní, člověk přijde o hledání těch správnejch dírek."
+        ]
+      },
+      {
+        "name": "Požehnání ambasády",
+        "grade": "VIIIa",
+        "date": "15.7.2002",
+        "url": "/cs/cesta/pozehnani-ambasady-10748/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.8.2018 9:27:39 PetrN] Pěkná linka a luxusní jištění. Škoda, že chyty se zejména kolem 2. Q musejí vyhrabávat z mechu takže nohy spíš nasladko. Klasifikace je podle průvodce VIIIa, řekl bych že max VIIb s jedním nátahem kolem druhýho. Doporučuju. Jen ať se to leze a trochu vyčistí.",
+          "[27.5.2019 20:07:42 Páša] Pěkná a fakt dobře jištěná. Nahoře ale teda zelenina, celkově dělá obtíže spíš bordel. Bez mechu a lišejníku to bude pohodovka.",
+          "[1.5.2022 17:37:19 martin blažek] Asi rok zpatky jsme to vycistili kartacema . Neni to na 100%, ale uz se to da lezt. Dobre jisteni a hodiny na vylezu."
+        ]
+      },
+      {
+        "name": "SV stěna",
+        "grade": "III",
+        "date": "16.11.1958",
+        "url": "/cs/cesta/sv-stena-2802/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.4.2011 14:38:56 nosicek] Choďák ke kruhu, dva kroky, dle mě VI-VIIa (možná), pak zas choďák.",
+          "[31.7.2018 9:19:11 zdend] Původně jsem měl v plánu jít od kruhu vlevo, ale to se mi nelíbilo. Pak mi kolemjdoucí týpek poradil, že se to leze od kruhu vpravo za hranu a to mi přišlo nakonec moc pěkný."
+        ]
+      },
+      {
+        "name": "Svatební",
+        "grade": "VI",
+        "date": "4.10.1981",
+        "url": "/cs/cesta/svatebni-654/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[30.7.2009 21:27:44 Lukas] Výborně odjištěná cesta - 2 kruhy + několikatery hodiny. Místama ale trochu zelená.",
+          "[16.7.2010 1:00:47 Kuzma] První kruh je minimálně 3 roky vyndavací. Zasloužil zalepit.",
+          "[12.8.2010 9:36:37 ivanvrabec@seznam.cz] zdar, toto není Svatební cesta za VI, s kruhama je tzv. Povolenka z Ambasády VIIb, viz diskuze na lezci. Ptakoš",
+          "[20.6.2015 1:37:12 felis] U obou kruhů vedlejší cesty jsou v podobné výšce vpravo na hraně hodinky. Hezká a odjištěná."
+        ]
+      },
+      {
+        "name": "Vzpomínková",
+        "grade": "VIIb",
+        "date": "25.3.1972",
+        "url": "/cs/cesta/vzpominkova-2142/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.2.2010 20:05:42 nosicek] Lezl jsem to jako asi druhou nebo třetí cestu po zimě, takže mám vzpomínky malinko zkreslený, ale lezení se mi líbilo, jenom pod kruhem mi to připadalo jako že už asi na zem a celkem mi tam nateklo. Ale jinak bych hodnotil kladně;)",
+          "[6.10.2014 11:29:14 ondra] uz k hodinam mi to prislo pomerne tezke, ke kruhu jeste prituhlo, pak uz ok. nevim zda by hodiny daly pad z pod kruhu, celkove mi to prislo neprijemne a tezsi nez matematicka rozcvicka na stejnou vez.",
+          "[12.7.2015 22:11:07 Jura a Terka] Myslím, že poctivé VIIb, hodiny pod kruhem jsou v poho, dále ke kruhu a ještě pár kroků nad kruhem se musí trochu zabrat. Při výlezu ještě jedny hodiny.",
+          "[28.9.2015 21:09:12 VojtaP] Mně se tahle cesta docela líbila. Hodiny nad kruhem jistý výlez na vršek.",
+          "[15.7.2017 9:14:20 Belmondo] Od nástupu ke kruhu je to do kopce, po dobrých chytek. Do pracek to trochu nasype. U kruhu se ale dá sklepat a pak to došlápnout hore.",
+          "[13.6.2018 23:57:09 felis] Jedna z TOP cest na Jižních věžích v této obtížnosti. Celou cestu se leze. Nejhorší kroky těsně nad Q.",
+          "[13.6.2018 23:57:25 felis] Jedna z TOP cest na Jižních věžích v této obtížnosti. Celou cestu se leze. Nejhorší kroky těsně nad Q.",
+          "[13.8.2018 9:12:27 Mešák] Mně se to zdálo poměrně vyvážený a dobře odjištěný. Hodiny jsem zas tolik nezkoumal, ale přišly mi zdravý. Jak už tu bylo napsáno, leze se od začátku do konce. Chyty jsou, jen je potřeba trochu zabrat. Dolezovej rajbák jde odjistit hodinama u výlezu..."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Deštivá",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618388,
+    "lon": 16.12925,
+    "url": "https://www.piskari.cz/cs/skala/destiva-2787/",
+    "routes": [
+      {
+        "name": "Kapka u nosu",
+        "grade": "V",
+        "date": "27.4.1984",
+        "url": "/cs/cesta/kapka-u-nosu-3649/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2013 13:49:02 Hlaďas] Parádní chyty, mírně převislý a pod ring 3x tutový hodiny.Bezpečná.",
+          "[24.9.2013 22:54:28 felis] Pěkná a perfektně odjištěná, od Q lepší mírně vlevo (přes malé hodinky). Jinak je ve výlezu mechová zahrádka.",
+          "[20.4.2014 11:02:18 nosicek] Jištění tam je, to jo, ale nepřišlo mi to nějako krásný. Pod kruhem to solí a nad kruhem je zas kupa mechu. Ale pořád madla.",
+          "[1.6.2015 18:23:50 Páša] Pod kruhem hodně hodin, ale nad kruhem už nic moc a docela zelenina.",
+          "[31.7.2018 9:14:02 zdend] Ke kruhu dobré chyty i možnosti zajištění, já dal dvoje tutový hodiny, ale je to do kopce, takže na dlouhé bloumání o životě to není. Od kruhu jsem šel mírně vlevo přes hodiny, pak se terén narovnává až pokládá, mikrohodinky a zelenina. Ke konci to už je kus nad kruhem. Poslední chyty jsem si musel sám vyhrabat v mechu, ale pořád tam jsou a stupy taky. Krásná cesta."
+        ]
+      },
+      {
+        "name": "Údolní",
+        "grade": "IV",
+        "date": "30.4.1961",
+        "url": "/cs/cesta/udolni-3840/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[12.8.2013 22:30:33 felis] Spodek solí, nad jeskyňkou už dobrý, bezpečná - spousty hodin",
+          "[1.6.2015 18:22:31 Páša] Fajnová a dobře zajištěná, jen dolez trošku zelenej.",
+          "[13.8.2015 9:20:53 Lukas] Spousta smyček, na IV hezké lezení.",
+          "[11.9.2016 21:19:44 zdend] Na pohled vypadá silově, ve skutečnosti celou cestu jsou super čapáky a dobré možnosti zajištění. V převisu je člověk vždy jen chvilku, pak se dá zase odfrknout a pokračovat."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Druhá",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619,
+    "lon": 16.127583,
+    "url": "https://www.piskari.cz/cs/skala/druha-2781/",
+    "routes": [
+      {
+        "name": "Čtyřčlenka",
+        "grade": "VIIa",
+        "date": "10.5.2001",
+        "url": "/cs/cesta/ctyrclenka-8867/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[8.3.2014 19:32:38 felis] Lehčí VIIa, od Q to láká vyhoupnout se na hranu a dolézt cestu Náhorní stěnou za II, ale není třeba, i když už nic nejde namontovat.",
+          "[13.5.2015 11:17:40 Špásik] Lehší sedma, ale nic extra krásného v ní nehledejte, stačí preska do kruhu.",
+          "[14.7.2015 11:20:54 Hlaďas] krátký rajabsování kolem kruhu, ale pro druholezce v případě pádu po vycvaknutí kruhu čeká prohlídkový let až do cesty Druhá odmocnina:-)"
+        ]
+      },
+      {
+        "name": "Druhá odmocnina",
+        "grade": "VIIc",
+        "date": "19.7.1980",
+        "url": "/cs/cesta/druha-odmocnina-2722/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[31.10.2010 15:54:48 Hans] Těžší je nástup přímo (což si myslím, že je originál) trochu lehčí je nastoupit u pravé hrany. Jinak nejvetší obtíže dole, pak už lehčí.",
+          "[10.4.2011 20:23:57 pavel] Nástup přímo je tak nějak úměrný obtížnosti psaný v průvodci (VIIc). Po dolezu k hodinám už lehčí. Jinak ten lehčí nástup je vlevo u hrany, vpravo je varianta za VIIIc",
+          "[24.3.2014 9:35:53 Hlaďas] Nástup je klíčem celé cesty, pod hodinami jde smyčka do spárky, nad hodinami jde taky jedna a pak už ring. Hezké lezení.",
+          "[26.6.2016 11:19:49 VojtaP] Super cesta, která se dá dobře zajistit smyčkami.",
+          "[12.10.2016 17:25:58 django] pěkné lezení, škoda že to není delší.. spodek silový a jdou tam kdyžtak nějaké smyce.."
+        ]
+      },
+      {
+        "name": "Dvojčlenka",
+        "grade": "VIIa",
+        "date": "10.5.2001",
+        "url": "/cs/cesta/dvojclenka-3676/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.6.2013 10:38:06 Raďas] Krátké,lehčí VIIa.",
+          "[24.9.2013 23:28:32 felis] Od Q už nic nešlo, ale je to po madlech v poho. Lehčí VIIa.",
+          "[10.3.2014 7:59:34 polákys] Pěkná cesta,pod kruhem jsou myslím hodiny,nad ním už nic nejde,ale je to v pohodě.Dost mě překvapilo,že je to hodnocený jako VII,přišlo mi to výrazně lehčí.",
+          "[13.5.2015 11:19:02 Špásik] Pod kruhem tuty hodiny, pak trochu opatrněji ke kruhu a lehce bez smyček na vrchol.",
+          "[14.7.2015 11:24:00 Hlaďas] kolem kruhu pěkné lezení při západu slunce s posledníma paprskam a výhledem na ádr",
+          "[30.5.2025 16:12:15 baron] 1 m nad Q smyčka, nahoře pod sK hodiny. Je to tam už tak za II-III, ale byla by to podlaha..."
+        ]
+      },
+      {
+        "name": "Idylka",
+        "grade": "VI",
+        "date": "7.5.1982",
+        "url": "/cs/cesta/idylka-3365/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[11.5.2012 13:21:40 beny] Hodil by se kruh a písmenko.... pak hvězda bez !",
+          "[24.9.2013 23:41:41 felis] Souhlasím, pěkný lezení, ale měl jsem naděláno...",
+          "[14.5.2015 10:13:25 Špásik] Ve vhloubení je stará skoba, ale asi by toho moc nevydržela! Trochu morálu s sebou.",
+          "[26.6.2016 2:05:26 q59@atlas.cz] Ta skoba tam už není - včera jsme ji zlomili a natrhlo se nám o ni lano. Naštěstí prvolezce chytla smyčka, kterou si dal 10cm pod skobu a skončil těsně nad zemí. Docela klika (a nějaké pohmožděniny k tomu)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dvojče",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.61925,
+    "lon": 16.127777,
+    "url": "https://www.piskari.cz/cs/skala/dvojce-2760/",
+    "routes": [
+      {
+        "name": "Cesta datlů",
+        "grade": "VIIIa",
+        "date": "0.0.1986",
+        "url": "/cs/cesta/cesta-datlu-2783/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[7.4.2011 10:22:19 Jony] Přišlo mi to o dost těžší. Do první díry nepříjemný dlouhý tah, ale je tu možnost kličky zprava. Dle análů hore se cesta neleze, dle stavu cesty ano. Možná správně umístěný slaňák, možná jen není potřeba zápisu.",
+          "[12.4.2011 18:30:11 miroslav.kostal@centrum.cz] Cesta se leze až nahoru, ale kroky to jsou asi težší než VIIIa, jinak pěkný, vršek se jde od kruhu mírně šikmo doprava. Celkem poctivý",
+          "[3.8.2014 21:35:59 hans1996] zajímavá sekvence kroků"
+        ]
+      },
+      {
+        "name": "Dobré chyty",
+        "grade": "V",
+        "date": "27.7.1975",
+        "url": "/cs/cesta/dobre-chyty-3726/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Koutová spára",
+        "grade": "III",
+        "date": "14.9.1958",
+        "url": "/cs/cesta/koutova-spara-1866/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[30.9.2009 13:00:42 Sumýš] nijak krásné lezení, ale dobře odjistitelné (dvoje hodiny v levé hraně)",
+          "[30.9.2009 15:06:24 pavel] Tak tak, nic moc tam k vidění není.",
+          "[17.11.2009 14:34:17 nosicek] Dobré pro záčínající, dá se dojistit. A na čtyřku bych to neviděl... 5ekl bych, že je to lehká troječka",
+          "[17.6.2012 11:54:09 Špásik] Osobně se mi cesta nelíbila, odjistit se dá v pohodě dole smyčka a pak dvoje hodiny!",
+          "[30.7.2013 19:32:42 hans1996] nic moc....dobře jistitelná",
+          "[19.4.2015 21:09:44 andre] Na začátek dobrá určitě:)",
+          "[12.7.2015 9:17:41 Mirione] Mně jako začínajícímu tahači se cesta líbila. Založit jde i velká bambule.",
+          "[12.9.2022 17:33:40 Vondra] Hezká cesta, šla pojistit i bambuláky takže v pohodě, krásný lezení."
+        ]
+      },
+      {
+        "name": "Pod slaněním",
+        "grade": "V",
+        "date": "24.8.1964",
+        "url": "/cs/cesta/pod-slanenim-35/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[2.4.2009 23:02:13 Košťa] Hodně vostrá pětka, podle mě by tomu seděla VII mnohem víc :o)",
+          "[5.4.2009 10:26:41 beny] Ve starším průvodci bylo placeno za VIIa. Tak rozumný kompromis za VI.",
+          "[5.4.2009 10:33:29 beny] Jinak cesta velice pěkná!!!!",
+          "[6.4.2009 8:11:59 Hans] Klidně bych byl pro VIIa, protože je to celkem převislý a tahá to za ruce.",
+          "[30.9.2009 15:08:57 pavel] Trošku zavádějící obtížnost v průvodci. Trochu divný ty sokolíci trošku duněli pokud si dobře pamatuju ale zas na druhou stranu vydrželi tam už dost dlouho :) . Traverz docela silový",
+          "[27.1.2010 13:08:52 jakub] Pod kruhem jdou do sokolíků smyčky, taky bych byl pro VIIa. Ve starém šedivém průvodci od Šmída je V s hvězdičkou :)",
+          "[4.9.2011 19:41:30 Littlefox] tahle \"pětka\" mě trošku zaskočila na rozlez, ale je to hezké lezení. ve vrcholovce je psaná za VIIa :-) za Q se dají provázat hodiny..",
+          "[30.9.2012 14:46:38 Pepas] Záleží na silovém fondu lezce, takže obtížnost je silně subjektivní. Cesta je to hezká. Všude jsou dobré chyty i když v převise."
+        ]
+      },
+      {
+        "name": "Rodinný komplex",
+        "grade": "VIIa",
+        "date": "19.7.1980",
+        "url": "/cs/cesta/rodinny-komplex-2302/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.5.2010 14:38:24 nosicek] Trochu to tahá za ruce, ale jdou tam smyce... Já jsem si je teda tehdy vykopal :-(",
+          "[11.12.2010 19:41:23 nosicek] Jak tak koukám na fotku, jeden z nás lezl něco jinýho, než si myslel ;-) já jsem za Rodinný komplex považoval tu cestu hned nalevo od trojkový spáry... Je si někdo jistej, jak to teda je?",
+          "[13.12.2010 9:05:55 libor.holly@seznam.cz] Ta cesta je na té fotce dobře vidět,i ten Q.Lezec poleze kolem hrany a pak doleva ke Q.",
+          "[13.12.2010 9:54:40 beny] Ano, leze se to tak jak je na fotce. Mírně vpravo k hraně. Skoro po ní a pak vlevo ke kruhu. Pak už je to dávačka.",
+          "[18.5.2015 12:10:43 Mešák] Já jsem tam zkoušel zakládat co možná nejvíc smyček, dlouho jsem protahoval lanovici těma velkejma hodinama a tak jsem se u toho utavil, že jsem si musel slízt a potom to dát napodruhý. Ale cesta je to hezká, jen je potřeba umět odpočívat :-) U kruhu končí silovka a následují už jen technické obtíže..."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hodinář",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618333,
+    "lon": 16.129444,
+    "url": "https://www.piskari.cz/cs/skala/hodinar-2788/",
+    "routes": [
+      {
+        "name": "Časový posun",
+        "grade": "VIIc",
+        "date": "",
+        "url": "/cs/cesta/casovy-posun-10683/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.4.2018 7:34:05 Špásik] Lehčí VIIc, k prvnímu celkem snadno, pak trochu ladička, v díře tutové velké hodiny (trochu prodloužit) a pak zabrat přes osolený převis, ale jsou tam dobré chyty, nohy trochu solí.",
+          "[27.4.2018 8:51:35 Hlaďas] Pěkná cesta z údolí, mezi kruhy dvoje hodiny a nejtěžší kolem 2.Q.",
+          "[14.6.2018 0:05:51 felis] Hezké, bezpečné, lehčí VIIc... Před 6 lety jsme lezli \"Velikonoční IV\" od hodin tímto převískem hore bez Q a dnes je to VIIc... Spletli jsme se:)",
+          "[27.5.2019 19:59:02 Páša] Taky jsem se před lety motal v těch místech, když jsem lezl velikonoční. Jinak pěkná cesta.",
+          "[23.5.2026 23:41:08 Kostiej] Chtel jsem detem neco lehkeho, pekneho. Od hodin jsme dali casovy posun doprava za hranu a pres dalsi hodiny peknym sestkovym lezenim nahoru."
+        ]
+      },
+      {
+        "name": "Hluboké tóny",
+        "grade": "V",
+        "date": "13.7.1968",
+        "url": "/cs/cesta/hluboke-tony-2220/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.4.2010 13:48:00 Kuzma] Pro menší nepříjemné cvakání Q, ale jinak pěkná cesta.",
+          "[19.7.2010 13:18:17 Kokoszka@seznam.cz] U toho si ovšem asi půl metru od tutových hodin.",
+          "[29.7.2010 20:09:10 Kuzma] Nedávno jsem našel hodiny pod kruhem, ale z té pozice už je lepší cvaknout kruh. Jiný jsem ještě nepotkal...",
+          "[11.4.2011 10:56:08 polákys] Přímo uvnitř ty velký díry jsou tutový hodiny,který odjistěj cvaknutí kuhu,oblez kruhu je trošku výživnější,dolez stěnou už pohodička.",
+          "[29.5.2011 18:08:21 Párty] Nijak zvlášť pěkná cesta, kolem kruhu mi to na V nepřišlo, vršek jednoduchej, ale nejištěnej, nováčka bych tam neposlal a lepšímu leczi nedoporučil.",
+          "[6.6.2011 9:28:26 bedrichovo@seznam.cz] Pěkná a bezpečná cesta, težší lezení je kolem kruhu (cca 2m). Pak následje pohodový dolez hranou na vrchol. Jištění: hodiny, tutové hodiny v díře, kruh a hodinky u výlezové hrany.",
+          "[29.8.2011 13:08:43 strejda] docela prisna 5ka , hlavne kolem kruhu, nedoporucitelna zacatecnikum.",
+          "[17.6.2013 13:47:43 myš] Vše bylo již řečeno, výlez na vrchol je snadný, ale hodiny už vzal čas a je to asi podlaha........"
+        ]
+      },
+      {
+        "name": "Kala 89",
+        "grade": "VIIIc",
+        "date": "9.5.1991",
+        "url": "/cs/cesta/kala-89-10775/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[23.4.2019 21:27:40 VojtaP] Pěkná a dobře zajištěná cesta. Jen matroš je místy v horší kondici."
+        ]
+      },
+      {
+        "name": "Velikonoční",
+        "grade": "IV",
+        "date": "22.4.1962",
+        "url": "/cs/cesta/velikonocni-10247/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[21.5.2014 23:14:14 nosicek] nechci být šťoura, ale nepatří fotka (asi i cesta) náhodou na Hodináře? ;-) jestli ne, tak sorry, za spam",
+          "[22.5.2014 6:49:37 Jony] Cesta přemístěna k Hodináři."
+        ]
+      },
+      {
+        "name": "Vrchařská prémie",
+        "grade": "VIIa",
+        "date": "24.7.1981",
+        "url": "/cs/cesta/vrcharska-premie-3021/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.9.2011 8:34:33 Kostěna] nejtěžší mě to přišlo v tom nástupním sokolíku (moc nebere a je to lehce převislý) pak už je to dobrý ale na můj vkus docela těžká VIIa",
+          "[6.10.2014 11:32:02 ondra] nástup je svižný, chce to vymyslet kudy. nad kruhem uz ok.",
+          "[28.6.2015 21:10:01 prdola] a neleze se to náhodou od kruhu doprava přes převis k dalšímu kruhu a od něho doleva na hranu a n.v. ?",
+          "[22.7.2015 18:09:03 EL Diablo] Od Q lehce doprava a přes převis je Lyžařská varianta. Nad převisem se spojí s cestou Hluboké tóny. To jsem našel ve vrcholovce. Víc tam nepíšou. Podle mně VIIb až VIIc.",
+          "[9.5.2016 8:39:51 Hlaďas] Pod kruh to chce opatrně, jde tam jedna smyčka ale lepší jít a zapnout až v klidu kruh."
+        ]
+      },
+      {
+        "name": "Západní stěna",
+        "grade": "III",
+        "date": "23.11.1958",
+        "url": "/cs/cesta/zapadni-stena-339/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.5.2009 23:47:58 Tatuš] Lehoučká, dodaným kruhem dobře jištěná cesta, bohužel již nesoucí známky olezení. Vhodné pro úplné začátky.",
+          "[30.9.2009 15:10:57 pavel] Tak jsem si konečně dal tuhle cestu a můžu říct, že naposledy :(. Škoda že je tak olezená.",
+          "[7.1.2014 14:24:49 standby] lezli jsme to jako jednu z prvních cest na jaře a na začátek to bylo super",
+          "[31.8.2014 21:22:10 Tomašulín] Lehká cesta. Jde cvaknout asi jen dodaný kruh.",
+          "[25.11.2015 22:00:24 zdend] Nad Q jsou ještě hodiny."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Hronovské věže",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618833,
+    "lon": 16.12925,
+    "url": "https://www.piskari.cz/cs/skala/hronovske-veze-2793/",
+    "routes": [
+      {
+        "name": "Drsná spára",
+        "grade": "VIIa",
+        "date": "25.7.1968",
+        "url": "/cs/cesta/drsna-spara-2920/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[20.7.2011 11:18:46 Pavlína] Stavění lze i čistě, což nebyl můj případ. Nad převisem potěší hodiny. Od nich je ještě zajímavý odlez.",
+          "[25.4.2021 20:16:06 simonjanosec] Dobrá spára, člověk se v tom dře na OS, říká si jaký to nebude zářez... no a v knížce zjistí že je to za 6 :D"
+        ]
+      },
+      {
+        "name": "Jarní únava",
+        "grade": "VIIb",
+        "date": "20.4.1975",
+        "url": "/cs/cesta/jarni-unava-10836/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2020 14:28:16 PetrN] Krásná sedmdesátá léta a jejich klasický styl. Traverz je morálně hodnotnější spíše pro druholozce a stavění vyžaduje dlouhého lezce :-). Ve spáře pár tutových smyc jde. Pěkný."
+        ]
+      },
+      {
+        "name": "Jiráskův Hronov",
+        "grade": "IXa",
+        "date": "13.9.1992",
+        "url": "/cs/cesta/jiraskuv-hronov-2818/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[15.5.2011 19:25:48 lezecc] Divadelní představení který člověk nemusí vidět dvakrát.Hlavní zápletka se odehrává u 3 kruhu, kde tomu člověk nejdříve nerozumí a po chvilce by se nejradši zbalil a šel domů.Ale rozuzlení se nakonec najde....."
+        ]
+      },
+      {
+        "name": "Kloubní myška",
+        "grade": "VIIIa",
+        "date": "25.7.1981",
+        "url": "/cs/cesta/kloubni-myska-10826/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[31.3.2020 15:00:56 VojtaP] Pěkná, zřídkakdy lezená spárová linka. Na spárové VIIIa mi to přišlo lehčí."
+        ]
+      },
+      {
+        "name": "Kokšova",
+        "grade": "VIIa",
+        "date": "4.10.1959",
+        "url": "/cs/cesta/koksova-1870/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[4.9.2009 16:59:36 cervo] Krásna cesta,jemne moralová záverečná spára sa dá vyliezť aj na sokola.",
+          "[15.5.2011 13:56:00 kopcolezec] Krásná cesta (přidanýkruh více než potěší :)",
+          "[20.7.2011 10:49:11 Pavlína] Pěkná linka. Za bezpečnější a jistější považuju lézt širočinu jako širočinu (teda ne na sokola). Dole trochu zelené.",
+          "[2.8.2015 17:59:49 Mešák] Krásná spára! A to píšu i přesto, že nemám spáry moc v oblibě... Lezl jsem to celý sokolíkem a šlo to pěkně - nejtěžší byl asi závěrečnej výlez, kdy bylo potřeba zalízt do rozšíření. Nedokážu si představit jak moc bych se nadřel, kdybych se tam soukal jako v širočině...",
+          "[3.5.2016 10:00:28 martin blažek] spodek lehce zeleným , traverz ke kruhu v pohodě, jen se nevybát a potom sokolem kterej krasně drží až ke kruhu i nad ním. Závěrečné dva metry horší, ale je tam schovany chyt."
+        ]
+      },
+      {
+        "name": "Kokšova - Přímá varianta",
+        "grade": "VIIa",
+        "date": "1.8.2003",
+        "url": "/cs/cesta/koksova-prima-varianta-10851/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Od borovic",
+        "grade": "VIIa",
+        "date": "3.8.1978",
+        "url": "/cs/cesta/od-borovic-10828/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.4.2020 23:59:34 VojtaP] Nepatří k vyhledávaným. Spára celkem důkladně prověří odhodlání se dostat na vrchol. Holt Páleníček :)"
+        ]
+      },
+      {
+        "name": "Překvapení",
+        "grade": "VIIa",
+        "date": "3.4.1982",
+        "url": "/cs/cesta/prekvapeni-2144/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.2.2010 16:18:56 Hans] Jde dobře odjistit smyčkama. Překvapení čeká na vrcholu pilíře :)",
+          "[11.6.2010 21:16:43 štika] Hvězdičková ,ale to překvápko už není za VII,a.",
+          "[23.5.2014 10:11:36 myš] Hezká cesta na hezký kopec. Pod prvním lze dobře zajistit, smyčky a hodiny. Od kruhu technický zved (nejtěžší místo těsně u kruhu) ke druhému kruhu a následuje lehké stavění s bezproblémovým odlezem vhodné pro každého. Překvapení na konec nebudu prozrazovat, ale nakonec se nikdo nezrakví a problém je v obtížnosti která opravdu není VIIa spíš VIIIa a je dobře zajištěná.",
+          "[9.5.2016 8:37:30 Hlaďas] Odlez od 1.Q je parádní kroucení, bezpečné."
+        ]
+      },
+      {
+        "name": "Západní komín",
+        "grade": "V",
+        "date": "26.5.1960",
+        "url": "/cs/cesta/zapadni-komin-10257/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[28.5.2014 22:36:50 michal] Nezáludný komín, pod výlezem se trošec zúží."
+        ]
+      },
+      {
+        "name": "Zimní",
+        "grade": "VIIa",
+        "date": "1.3.1964",
+        "url": "/cs/cesta/zimni-10248/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Jerry",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619361,
+    "lon": 16.129027,
+    "url": "https://www.piskari.cz/cs/skala/jerry-2803/",
+    "routes": []
+  },
+  {
+    "name": "Kocour",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618555,
+    "lon": 16.129472,
+    "url": "https://www.piskari.cz/cs/skala/kocour-2766/",
+    "routes": [
+      {
+        "name": "Druhá šichta",
+        "grade": "VIIb",
+        "date": "1.5.1975",
+        "url": "/cs/cesta/druha-sichta-3264/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[13.3.2012 16:24:09 Kuzma] Jestli si dobře pamatuju, tak po ladění ve stěně jsou pod klíčovým místem v hraně dobré hodiny. K nim myslím nic nešlo a po nich taky ne, ale už je to taky pár let...",
+          "[19.6.2024 14:09:27 Belmondo] Jištění tragický, ve 4m jde do dobrého chytu nacpat uzel / ufon, zblokuje to ale chyt. Pak dvoje mizerný hodiny a pak až pod kocouří hlavou v deseti metrech mega hodiny, pak už nic, určitě těžší než uváděných VIIb. VIIc/VIIIa asi lepší."
+        ]
+      },
+      {
+        "name": "Jižní hrana",
+        "grade": "VI",
+        "date": "4.10.1959",
+        "url": "/cs/cesta/jizni-hrana-50/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.4.2009 18:01:31 Hans] Jde to celkem dobře dojistit smyčkama.",
+          "[9.6.2010 18:35:29 Raďas] Moc pěkná cesta.Jak už bylo psáno dobře odjistitelná smyčkama.Kolem kruhu je to asi nejtěžší.určitě stojí za přelez",
+          "[27.5.2011 8:07:56 amis19@seznam.cz] Je to krásná cesta, jen škoda že je tak ošlapaná.",
+          "[23.5.2013 8:41:55 myš] V díře pod slaňákem hnízdí dravci, tak chvíli vydržte.",
+          "[24.3.2015 16:55:46 Páša] Dobře odjištěná s nejhorším krokem u kruhu. Jinak je fakt docela ošlpaná."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Křižácká stěna",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.6181944,
+    "lon": 16.1298611,
+    "url": "https://www.piskari.cz/cs/skala/krizacka-stena-2790/",
+    "routes": [
+      {
+        "name": "Karanténa",
+        "grade": "VI",
+        "date": "",
+        "url": "/cs/cesta/karantena-10837/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.4.2020 20:11:01 BÍĎA] Až se tato cesta rozkřikne tak bude vrcholová knížka za léto plná.Opravdu pěkná madlozní cesta se spoustou jištění..hodiny,hodiny,kruh,hodiny,hodiny,kruh,hodiny,hodiny,kruh a to vše na max 12 metrech",
+          "[28.5.2020 17:35:22 potys] další super cesta na vrchol....super odjištěna"
+        ]
+      },
+      {
+        "name": "Pravá letní pohoda",
+        "grade": "VI",
+        "date": "28.6.1983",
+        "url": "/cs/cesta/prava-letni-pohoda-3622/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[20.11.2012 14:41:55 Hlaďas] Pod kruhem asi 3x hodiny, docela svižné lezení...nad kruhem rajbas a za hranou jsou madla:-)",
+          "[20.11.2012 16:50:17 beny] Dle mě podhodnocené. Pod kruhem bych řekl, že spoře odjištěné.",
+          "[28.7.2024 19:09:15 Dejv] Kolem kruhu je to svižný, pak technický výlez po hraně. Ale žádná záludnost"
+        ]
+      },
+      {
+        "name": "Pravá letní pohoda - Varianta",
+        "grade": "VIIa",
+        "date": "0.0.0000",
+        "url": "/cs/cesta/prava-letni-pohoda-varianta-3623/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[6.11.2020 1:37:45 Lobino] Tak to v této nepříliš velké stěně už máme: 1. Pravá letní pohoda 2. Pravá letní pohoda - Varianta (napojuje se na předešlou zleva u kruhu) 3. Pravá letní pohoda - Varianta - Wu-Chan vir variant = (od Varianty se odpojuje nad převisem, kde je nový kruh v místě, kde se původní varianta dala zajistit betonovou smyčkou a tak vlastně dojišťuje starší cestu) 4. Karanténa, která začíná vpravo, křižuje Pravou letní pohodu v místě napojení Varianty u kruhy, který je teď společný pro tři cesty a na Wu-Chan vir variant se napojuje u jejího posledního kruhu Hlásím se o autorství prvovýstupu \"Druhá vlna\": nástup Karanténou (kruh), stěnou ke kruhu Pravé letní pohody, sestup Variantou k prvnímu kruhu Wu-Chan vir variant, po 15 cm smyčka, stěnou vzhůru (2. a 3. kruh cesty Wu-Chan vir variant), traverz doprava cestou Karanténa zpět ke kruhu Pravé letní pohody, stěnou a rajbasem na temeno. Ke konci už dost natejká a táhne lano... Ale moje srdcovka je stejně původní Varianta s krásným nástupem přes převis."
+        ]
+      },
+      {
+        "name": "Údolní",
+        "grade": "V",
+        "date": "0.0.0000",
+        "url": "/cs/cesta/udolni-3842/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[12.8.2013 22:46:18 felis] lehká V, po madlech, 3x hodiny.",
+          "[27.5.2019 19:56:27 Páša] Je to vcelku zelený"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Malá milenecká",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619,
+    "lon": 16.129694,
+    "url": "https://www.piskari.cz/cs/skala/mala-milenecka-2797/",
+    "routes": [
+      {
+        "name": "Brnkačka",
+        "grade": "V",
+        "date": "17.6.1983",
+        "url": "/cs/cesta/brnkacka-10357/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[19.4.2026 23:02:24 Lobino] Moc se to neleze, ve vrcholovce jsem za posledních pět let napočítal jeden přelez. Ani se moc nedivím, ze začátku je tam víc mechu než pískovce, následuje docela pěkné lezení kolem hodin. Po přelezení bříška nad hodinama jsem se ocitl v rajbasu, který se jeví docela schůdně, ale je za a) děsně zarostlej lišejníkem a za b) až na vršek k borovici nezajištěnej. Dolů to nešlo, nahoru taky ne, přiznám bez mučení, že jsem byl rád, že mě zachránilo lano hozené z vršku (díky kluci). I po očištění by to bylo pro někoho, kdo si je v rajbasech jistej, z posledního těžšího kroku to je asi na zem :-/ Ale lezení je to pěkný."
+        ]
+      },
+      {
+        "name": "Cesta vilných starců",
+        "grade": "VIIb",
+        "date": "4.5.2003",
+        "url": "/cs/cesta/cesta-vilnych-starcu-3987/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[22.9.2013 15:07:14 Hlaďas] k 1.Q svižně a silově, pak lehčím rajbasem k 2.Q odtud k hodinám tutovkám kde je nepříjemný zdvih v rajbasu ke 3.Q, ten se mi nepodařilo cvaknout-je to totálně zamešeně-zališejníkovaný. Chce to vyčistit a to rázně. Když to bude čistý tak super cesta relativně i dlouhá.",
+          "[25.9.2013 17:49:25 broněk] Cestu jsme lezli těsně po vytvoření. Při vzlínání ke 3 k jsem trochu upadl do hodin. Druhý pokus výhra, chce to vymyslet. Pak krásný rajbas až na konec. Obtížnost spíš VIIc. Pěkná cesta.",
+          "[28.6.2015 10:02:27 Staník] Nedalo mi nezkusit, shybů u prvního bylo spíš 5 :-) (trochu to solí) dále pohodové lezení až pod 3. Q. Mohl bych napsat, že ho \"staroušci\" trochu vyhnali ale upřímnější bude říct, že neumím lézt :-) a protože jsem si nechtěl kazit odpoledne, tak jsem dolezení cesty nechal na jindy :-)",
+          "[8.7.2016 22:01:17 VojtaP] Dost poctivý VIIb. K prvnímu opatrně, docela to solí. Pod třetím výživnej zved a od něj nepříjemný rajbák. Podle vrcholovky má cesta cca 9 přelezů.",
+          "[3.4.2019 9:03:29 Pavlík] No docela zajímavé lezení. U prvního osolený převis,dále osolené a špinavé, u třetího to chce o hodně víc úsilí,než by lezec v VIIb čekal,od něj stále osolené,ale rajbák se nakolmuje a u čtvrtého to je už jen procházka růžovou zahradou. Teda zelenou neudržovanou zahradou z mechu a kapradí. Ale na hvězdičku to je"
+        ]
+      },
+      {
+        "name": "Marcel bubnuj",
+        "grade": "VIIIb",
+        "date": "29.4.1994",
+        "url": "/cs/cesta/marcel-bubnuj-2825/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[20.5.2011 7:29:16 Jony] Celkem pěkný."
+        ]
+      },
+      {
+        "name": "Pitkinova lahůdka",
+        "grade": "VIIa",
+        "date": "30.3.2003",
+        "url": "/cs/cesta/pitkinova-lahudka-2019/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.11.2009 14:37:48 nosicek] Moc jezká a odjištěná. Příjemný rajbásek, co není v průvodci...",
+          "[20.6.2010 21:40:21 Párty] Rozhodně moc pěkná, dobře odjištěná cesta - 3 kruhy a nějaký hodiny cestou i pod prvnim. Vážně lahůdka",
+          "[20.5.2012 23:00:23 kokes] Nádherná cesta! Zatím nejhezčí rajbas co jsem lezl. Pod prvním jsou hodiny a mezi kruhy tam také něco bylo.",
+          "[21.5.2012 13:55:08 trpaslík] Krásná a dobře odjištěná cesta :-))",
+          "[27.3.2013 14:23:46 Špásik] Dle nového průvodce prvovýstupce: Zdeněk Zilvar a Petr Mocek 30.3.2003. Jinak super bezpečná cesta!",
+          "[25.4.2013 15:16:38 Hlaďas] dlouhý a bezpečný rajbasování s výživným oblezem 3.Q. Ale pokud se budou lidi chovat k",
+          "[26.4.2013 9:36:50 Hlaďas] hodinám jak prasata tak to bude brzo bez hodin.",
+          "[9.6.2013 16:35:54 Špásik] Hezký rajbák suprově odjištěný pod prvním hodiny, hruh, hodiny, 2 kruhy, a u výlezu zase hodiny. Bezpečná, ale celkem težké na VIIa. Nejtěžší oblez 3.Q"
+        ]
+      },
+      {
+        "name": "Z jeskyně",
+        "grade": "III",
+        "date": "0.0.0000",
+        "url": "/cs/cesta/z-jeskyne-2751/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.9.2013 23:47:10 felis] V jeskyni tutový hrot + dlouhá smyce."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Milenecká",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619222,
+    "lon": 16.129472,
+    "url": "https://www.piskari.cz/cs/skala/milenecka-2798/",
+    "routes": [
+      {
+        "name": "Aprílový žert",
+        "grade": "VIIIa",
+        "date": "16.4.1976",
+        "url": "/cs/cesta/aprilovy-zert-2808/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2011 18:38:53 lezecc] Nástup který je popsaný v průvodci je hodně odvážná záležitost, a nějak se mi do něj nechtělo.Do cesty se dá nastoupit i zleva z bloků což nabídne možnost smyce a lepší pocit při prvních krocích.Cvakáni kruhu je dost na dlouho.Oblez kruhu celkem jde,krutě přituhne při nálezu do převislý širočiny, kde by už nebylo příjemný padání a člověk se pěkně zahřeje a vydechne až kousek pod druhým kruhem.Od něj už jen pár kroků v rajbasu a je posekáno.Celkový dojem super, jen cesta pro mě na hranici vykřičníku."
+        ]
+      },
+      {
+        "name": "Bouřlivá",
+        "grade": "VI",
+        "date": "13.5.1983",
+        "url": "/cs/cesta/bourliva-2096/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.1.2010 19:30:25 jakub] Pokud si vzpomínám tak ten nástupový žlábek je pěkně vykutálený a rajbásek od kruhu je hezký",
+          "[23.1.2010 10:26:25 libor.holly@seznam.cz] Je to moc hezká cesta,ale určitě by ji neměl lézt šestkový lezec.Rajbasové kroky nad kruhem jsou trošku těžší.",
+          "[24.4.2011 20:52:56 pavel] Nejlepší z celý cesty je rozhodně žlábek na nástupu :-) Rajbas nad kruhem je hezký.",
+          "[24.9.2013 23:55:41 felis] Nad Q pěkný rajbas, ale nebylo mi do zpěvu...",
+          "[3.8.2014 20:14:03 hans1996] celkem srandovní cesta. nato že nástup je \"trojkovej\" tak už musíš trochu zabrat ale ten rajbuňk je mňamina"
+        ]
+      },
+      {
+        "name": "Hormonální porucha",
+        "grade": "VIIIa",
+        "date": "30.6.1968",
+        "url": "/cs/cesta/hormonalni-porucha-2732/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.12.2010 14:53:35 Hans] Pokud si to dobře pamatuju, byl tam nějaký natahovák u prvního kruhu.",
+          "[6.12.2010 8:20:30 libor.holly@seznam.cz] Kolem 1.Q je traverz v pohodě.Na jeho konci tutové hodiny a nad nimi je třeba trošku protáhnout tělo.Celkově je to jedna z nejkrásnějších cest na Křižáku.Jen trošku morál k 1.Q v traverzu bez jištění.",
+          "[6.12.2010 8:37:28 beny] No já bych řekl, že je to docela v pohodě až ke druhému kruhu. K tomu prvnímu je jen třeba rozmyslet kterou rukou ve které díře, aby to vyšlo správně u kruhu. Pak to trochu přituhuje v tom sokolíku od druhého. Ale nejvštší problém jsem měl nahoře z té díry tou převislou spárkou. Byla taková zahnojená a pořád mi tam klouzala žába. Ty smyčky se mi nezdály zrovna jako kruhovice. Nakonec jsem to vyřešil krátkým traverzkem z té díry vlevo a stěnou nad tu spárku. Jinak krásná, dlouhá cesta ve stínu.",
+          "[7.8.2012 19:17:58 onder1@centrum.cz] ..super cesta, pro toho kdo se boji k prvnimu jako ja mam dobrou zpravu lze nalezt dvoje hodinky cestou, ty druhe jsem provazoval nekde u leve nohy, dokonce mam foto tak ho sem pak muzu hodit. erarni smycy pod vylezem lze tuplovat hodinama vpravo od ni:)",
+          "[8.8.2012 10:53:27 libor.holly@seznam.cz] Vím stoprocentně,že tam k 1.Q žádné hodinky nebyly(ještě před třemi lety).Některé dírky se tak tvářily,ale pár milimetrů jim chybělo.Moc bych za to nedal,že nějaký koumák ty hodiny vyrobil.Bohužel i to se na písku děje.",
+          "[8.8.2012 11:48:43 beny] Také si myslím, že jsem k prvnímu kruhu nic nedal. A protože jsem se dost bál, tak jsem určitě hledal pečlivě. Ale celkem se to k tomu kruhu i bez toho jištění dalo, výš je to horší.",
+          "[8.8.2012 15:32:30 štika] hoj,hoj,lezl jsem to letos z jara a hodiny tam byli ,ale ,ale až po řádném pruzkumu ,jsou trošku u nohou a s nimi je to jako v obejváku na kavalci .Bez nich byl loni pytel .",
+          "[12.8.2012 18:36:27 libor.holly@seznam.cz] Podíval jsem se na fotku a je to jak jsem psal-ty první hodiny jsou stoprocentně umělé,vyrobené v posledních třech letech."
+        ]
+      },
+      {
+        "name": "Jarní pudy",
+        "grade": "VIIa",
+        "date": "21.4.1968",
+        "url": "/cs/cesta/jarni-pudy-2673/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[14.10.2010 8:02:53 Jony] Překrok do stěny z rozporu je trochu delší, ale římsa je dobrá a na kraji komína ve stěně Milenecké jsou pár metrů pod rozšířením hodiny.",
+          "[31.3.2022 8:12:44 Pavlík] Pekný lezení. Se svými 178 cm jsem to měl v komíně knopový, menší spolulezci museli pod kruhem na prapor. Bez dodaného kruhu by to byl asi pytel. Do dobré díry, ze které se cvaká první původní kruh mi totiž pár centimetrů chybělo a musel jsem přeplácat oblou, lehce křupavou římsu. Od kruhu poměrně dlouhé, vyrovnané lezení stěnorajbasem na vrchol s jednou podpůrnou smyčkou."
+        ]
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "III",
+        "date": "25.9.1960",
+        "url": "/cs/cesta/stara-cesta-2970/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[21.8.2011 12:38:58 Kuzma] Nález do nástupového žlábku je rozhodující.",
+          "[1.10.2011 19:41:49 pavelknittl] Souhlasím,nástup do žlabu přes ošlapaný stup a dvě mělké spárky je rozhodujcí."
+        ]
+      },
+      {
+        "name": "Věrné milování",
+        "grade": "IXb",
+        "date": "15.8.1987",
+        "url": "/cs/cesta/verne-milovani-2819/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[15.5.2011 21:45:09 lezecc] Jen těžko hledat slova která by dokázala vystuhnou tuto nádhernou cestu. Úžasná linie před spodní převislé trhliny které člověka pěkně rozehřejí, na následný traverz je potřeba se zase vyklidnit, vymyslet oblez posledního kruhu a pak už se jen nenechat spláchnout z vrcholovýho žlábku....Podle mě jedna z TOP linií na Křížáku.",
+          "[16.5.2011 7:43:53 Jony] Kdyby to šlo, dal bych ***.",
+          "[6.4.2020 23:42:51 VojtaP] Dechberoucí linie. Obtížné lezení odspodu až na vrchol."
+        ]
+      },
+      {
+        "name": "Ze soutěsky",
+        "grade": "VIIa",
+        "date": "15.10.1967",
+        "url": "/cs/cesta/ze-soutesky-3263/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Oslice",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.piskari.cz/cs/skala/oslice-2791/",
+    "routes": [
+      {
+        "name": "Ia ie",
+        "grade": "Ia",
+        "date": "10.4.1997",
+        "url": "/cs/cesta/ia-ie-10256/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[28.5.2014 22:25:26 michal] Kratičká, chytovatá cestička. Kdo chce dá i žábu."
+        ]
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "II",
+        "date": "0.0.0000",
+        "url": "/cs/cesta/stara-cesta-10255/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Oslík",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.piskari.cz/cs/skala/oslik-2792/",
+    "routes": [
+      {
+        "name": "Klikarova direttissima",
+        "grade": "VI",
+        "date": "3.11.1984",
+        "url": "/cs/cesta/klikarova-direttissima-10254/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.6.2015 15:24:09 ondra] kvak, ale pekne kroky. kdyz uz sem clovek zabloudi tak stoji za vylezeni.",
+          "[20.6.2015 1:32:25 felis] Odjištěná a bezpečná stěnka.",
+          "[27.5.2019 20:00:18 Páša] Celkem svižné lezení na šestku mi přišlo."
+        ]
+      },
+      {
+        "name": "Oslovská",
+        "grade": "V",
+        "date": "22.8.1986",
+        "url": "/cs/cesta/oslovska-1960/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[30.9.2009 15:16:07 pavel] Hezké lehké lezení ke kruhu je několik hodin. Nad kruhem se to chce podívat kam s nohama dřív než člověk přijde na to, že je tam špatně nalezlej. Mě se to stalo tak jsem lezl vršek přes koleno neboť nohy začaly klouzat.",
+          "[29.6.2010 18:51:30 Raďas] Taky jsem měl problém s výlezem.Nalezl jsem nad kruh a tam nic.V průvodci je psáno ....ke kruhu a vlevo stěnou na vrchol.V levo nad kruhem jsou velký hodiny a pak už je to brnkačka.",
+          "[6.9.2012 8:28:33 Hlaďas] Od kruhu docela pikantní rajbasové kroky...",
+          "[31.7.2018 9:16:50 zdend] Ke kruhu pohoda, od kruhu jsem to absolutně nepochopil a čistě jsme to nedali. Podle mě to s pětkou nemá v tomto místě vůbec nic společného. Neviděl jsem tam ani ruce ani nohy.",
+          "[28.5.2020 17:30:43 potys1] věžička určitě stojí za vylezení....na křižák neopotřebované obě cesty ve stěnce krásně odjištěny...."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pahorek",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618416,
+    "lon": 16.129305,
+    "url": "https://www.piskari.cz/cs/skala/pahorek-2786/",
+    "routes": [
+      {
+        "name": "Alarm",
+        "grade": "IV",
+        "date": "22.8.1982",
+        "url": "/cs/cesta/alarm-8869/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[8.3.2014 20:13:44 felis] Jištění moc tutový není, ale obtížnost souhlasí.",
+          "[13.8.2015 9:19:40 Lukas] Trošku zelená, ale hezky odjistitelná cesta."
+        ]
+      },
+      {
+        "name": "Hodinová mzda",
+        "grade": "III",
+        "date": "15.3.1982",
+        "url": "/cs/cesta/hodinova-mzda-3633/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[4.12.2012 17:43:37 Roztoč] Moje první cesta na Křižáku, hodiny střídají hodiny a asi jeden či dva kroky lezení :)",
+          "[31.3.2014 23:11:08 andre] Moje druhá:) ..lehká,bezpečná..",
+          "[31.8.2014 21:19:07 Tomašulín] Hodiny a hodiny a ... Nahoře se dá zaštandovat za borovici. Nemá slaňák, používá se sestupová cesta.",
+          "[12.7.2015 22:05:03 Jura a Terka] Krásné a bezpečné lezení.",
+          "[11.9.2016 21:21:53 zdend] Co krok, to hodiny. Moc hezké na rozlezení na začátku dne.",
+          "[23.4.2018 10:35:54 info@vvstudio.cz] První vytažená cesta na písku. Krása"
+        ]
+      },
+      {
+        "name": "Raport",
+        "grade": "V",
+        "date": "15.3.1982",
+        "url": "/cs/cesta/raport-341/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.5.2009 0:08:31 Tatuš] Pěkná lehká a dobře jištěná stěnka vhodná pro začátky",
+          "[30.9.2009 13:07:09 Sumýš] Tatuš: naprosto souhlasím, pěkná cesta pro začátečníka, jedna z prvních cest, které jsem na Křižáku tahal :o)",
+          "[17.6.2012 11:50:50 Špásik] Hezká cesta také jedna z prvních na Křižáku, najde se tam pár hodin!",
+          "[12.7.2015 22:03:38 Jura a Terka] Moc příjemná cesta, možná i lehčí než za 5, nad kruhem už nic není, ale nevadí to, pod kruhem jedny hodiny.",
+          "[12.9.2016 10:56:16 zdend] Ke kruhu pohoda, od kruhu pár kroků na tření, V bych nechal.",
+          "[4.9.2022 8:41:07 marťas1962] Docela nízko jsou hodinky a před zdvihem ke kruhu jde vpravo do spárky dobrá lanovice. V průvodci z r. 1993 uvedena varianta od kruhu vpravo, n.v., tady jde založit dobrý uzel do spárky. Kdo potřebuje, může jištění využít i pro klasický oblez kruhu.",
+          "[28.7.2024 18:40:31 Dejv] Nad kruhem par technickych kroků, kromě kruhu jsem tam snad nic nedal. Fajn cesta"
+        ]
+      },
+      {
+        "name": "Stráníkova VI",
+        "grade": "VI",
+        "date": "0.0.1992",
+        "url": "/cs/cesta/stranikova-vi-10420/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[7.6.2015 8:02:03 andre] Kruh na dobrém mistě, nad kruhem ještě hodinky.",
+          "[20.6.2015 1:17:07 felis] Kolem kruhu i za VII.",
+          "[12.7.2015 22:07:21 Jura a Terka] Trochu problem nalézt ke kruhu, kolem kruhu těžší a zbytek cesty je na pohodu."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Papala",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.6185,
+    "lon": 16.12925,
+    "url": "https://www.piskari.cz/cs/skala/papala-2785/",
+    "routes": [
+      {
+        "name": "Hopsa hejsa do Brandejsa",
+        "grade": "VI",
+        "date": "30.8.1980",
+        "url": "/cs/cesta/hopsa-hejsa-do-brandejsa-10411/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.6.2015 18:37:27 Páša] Sokolík docela vyhazuje a jištění ke kruhu nic moc, pak už je to hezký."
+        ]
+      },
+      {
+        "name": "Matohův spálený chléb",
+        "grade": "VIIa",
+        "date": "31.3.2002",
+        "url": "/cs/cesta/matohuv-spaleny-chleb-2305/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.5.2010 15:00:25 nosicek] Bohužel jsem si nezapamatoval z vrcholovky autora a datum. Není v průvodci. Ve výlezu z převisu jsou velký hodiny. Nevěděl jsem kudy to uplně vede a lezl jsem to lehce zprava a tam to není uplně nejlehčí rajbas a nic tutovýho se mi tam dát nepovedlo.",
+          "[31.5.2010 18:12:36 rakkuba@seznam.cz] Myslim že to udelal Ziky (P.Vondráček) v roce 2002.Ten dolez není nejpříjemnější.",
+          "[25.8.2010 17:03:10 prdola] hezká cesta, nejtěžší místo je asi dole pod převisem ve stěně, přes převis po madlech a rajbas ťapačka na pohodičku",
+          "[23.2.2011 16:28:13 polákys] Ke kruhu to je pěkná stěnka s chytama,přes převis madla,dál jsem to lez doleva na hranu,ještě tam byl nějakej uzel,ale přišel mi ten dolez trošku nepříjemnej.",
+          "[10.4.2011 20:21:51 pavel] Nic moc...",
+          "[15.9.2011 1:20:44 kiwi.hlad@centrum.cz] ke kruhu po madlech, nad převisem hodiny a pak v rajbásku pár smyček, některé spíše morálové...krásná cesta",
+          "[17.6.2012 11:45:29 Špásik] Cesta je super ke kruhu pěkný kroky, nad kruhem megahodiny a silový kroky v bajbasu hodiny pak tutová smyce a lehký boulder n.v.",
+          "[18.6.2012 21:33:23 Špásik] Cesta byla vylezena 31.3.2002 prvovýstupci P.Vondráček a V.Vaněk."
+        ]
+      },
+      {
+        "name": "Pozdrav zapomenutých",
+        "grade": "V",
+        "date": "17.8.1973",
+        "url": "/cs/cesta/pozdrav-zapomenutych-10410/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.6.2015 18:31:37 Páša] Cesta pěkná, ale jištění jen morálový hodinky a nějakej uzlík.",
+          "[3.7.2017 23:50:12 Suklaa] Nedoporučuji. Nesmyslná nejistitelná cesta. Technicky celkem jednoduchá, ale musí ji lézt aspoň sedmičkář, případný pád je na zem. Zasloužilo by si to kruh tak v 7m, nahoře něco založit jde."
+        ]
+      },
+      {
+        "name": "Předmaturitní",
+        "grade": "VI",
+        "date": "23.4.1983",
+        "url": "/cs/cesta/predmaturitni-10412/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.6.2015 18:41:55 Páša] Ke kruhu nic založit nejde myslim a kroky mi přišly těžší než VI.",
+          "[10.5.2016 21:08:09 Belmondo] Ke kruhu dobrý chyty, hezký kroky (taky mně to přišlo těžší než za VI), nad kruhem trochu jetele a jehličí, ale už jsou nějaký šňůry.",
+          "[9.8.2019 17:50:54 romcaromicek@gmail.com] Pod kruhem vpravo jde do spárky lanovice. Těžší VI."
+        ]
+      },
+      {
+        "name": "Trojkový masakr",
+        "grade": "VIIa",
+        "date": "",
+        "url": "/cs/cesta/trojkovy-masakr-2834/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[29.5.2011 18:46:15 Párty] Hezká cesta, lehkej vrcholovej rajbásek trochu zahumusenej jehličím a pískem, ale hvězdičku si zaslouží.",
+          "[17.10.2013 9:01:55 Hlaďas] spodek lehce solí, jinak pod 1.Q dvě tutovky a pak krásně jištěno až n.v",
+          "[24.3.2015 16:43:07 Páša] Lehčí sedmička, krásně odjištěná.",
+          "[20.6.2015 1:27:18 felis] Na kopci jsou i těžší VI."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Paroháč užalovanej",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618805,
+    "lon": 16.129722,
+    "url": "https://www.piskari.cz/cs/skala/parohac-uzalovanej-2795/",
+    "routes": [
+      {
+        "name": "Jihovýchodní",
+        "grade": "III",
+        "date": "30.8.1980",
+        "url": "/cs/cesta/jihovychodni-10242/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.5.2014 0:49:18 michal] Začátek spárka s chyty okolo, lze pěkně zajistit. Druhá půlka je spíš průchod zarostlým svahem na vrchol.",
+          "[10.4.2019 18:26:48 Lukas] O pět let déle a ještě o něco zelenější, jinak by klidně i na tu hvězdičku byla. O oblíbenosti věže vypovídá počet návětěv cca 1/rok. Nahoře není slaňák.",
+          "[29.6.2025 21:06:44 Renno] V současnosti ještě zelenější, vrcholová knížka zatím není a na slanáku nějaký borec pracuje. Suchá velká borovice ze strany slanění, která vypadá jako tutovka, je dole uhnilá a hrozí pád, bacha na ni."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pilířek",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.piskari.cz/cs/skala/pilirek-2804/",
+    "routes": []
+  },
+  {
+    "name": "První",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618972,
+    "lon": 16.127666,
+    "url": "https://www.piskari.cz/cs/skala/prvni-2780/",
+    "routes": [
+      {
+        "name": "Cesta K. H. Máchy",
+        "grade": "VIIa",
+        "date": "1.5.2009",
+        "url": "/cs/cesta/cesta-k-h-machy-2716/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[30.10.2010 17:59:27 nosicek] Jestli jsme trefili správnou cestu, tak pod a v převísku nad prvním to solí strašným způsobem..."
+        ]
+      },
+      {
+        "name": "Dlouhé námluvy (Dlhé pytačky)",
+        "grade": "IXb",
+        "date": "12.5.1983",
+        "url": "/cs/cesta/dlouhe-namluvy-dlhe-pytacky-3583/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[12.10.2012 10:05:49 Jony] Pěkný lezení. Po odvážnějším úseku k prvnímu následuje technická hříčka ke 2. kruhu.",
+          "[13.10.2012 11:39:30 hajenka@volny.cz] Ovšem cesta se jmenuje původně \"Dlhé pytačky\". Překladem ztrácí název své kouzlo."
+        ]
+      },
+      {
+        "name": "Jáma a kyvadlo",
+        "grade": "VIIb",
+        "date": "31.10.1982",
+        "url": "/cs/cesta/jama-a-kyvadlo-2720/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[30.10.2010 8:15:11 Hans] Do traverzu jdou smyčky a jsou tam dobrý chyty. Nejtežší je výlez z díry na hradu a kousek po hraně. Tam už bych padat nechtěl."
+        ]
+      },
+      {
+        "name": "Jarní stěna",
+        "grade": "VIIb",
+        "date": "24.4.1968",
+        "url": "/cs/cesta/jarni-stena-2216/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2010 16:20:04 Hans] Pěkný, ale jistění horší. Kus pod kruhem v díře stará skoba, dolez ke kruhu nepříjemný. Stavění delší a pak rajbásek na vršek. Moc přelezů to nemá.",
+          "[25.4.2010 23:13:08 Staník] Nelze než okomentovat obligátním: \"to je dobře Tondo, že jste dali málo kruhů, apoň se to moc nepoleze. Exkluzivní linka zprzněná \"pokrytecky hrdinským\" přístupem tehdejší doby. Skoba jistě v \"souladu s pravidly\". Stavění bylo tak přiměřené co si pamatuji, jen kruh nebudil moc důvěru.",
+          "[2.5.2011 22:54:02 štika] Pár cest asi nezapomenu ,Jarní stěna k nim patří .Šli jsme to jako na klid poslední cestu dne . Osazení kruhu musel bejt velkej zážitek pro pana Rouska .",
+          "[26.4.2015 12:02:36 smolo] včera som to vyliezol RP... kruh som obliezol sprava (z diery priamo hore zanikajúcou špárkou v plytkom žliabku) podla mna tak VIIIc"
+        ]
+      },
+      {
+        "name": "Kundial",
+        "grade": "VIIc",
+        "date": "14.5.2005",
+        "url": "/cs/cesta/kundial-2715/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Mundial 86",
+        "grade": "IXb",
+        "date": "8.6.1986",
+        "url": "/cs/cesta/mundial-86-2725/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[2.11.2010 16:50:31 Jony] Police (balkonek) pod 1. kruhem, eventuelní místo dopadu při nevyřešení problému nad 1. kruhem, mi neustále vrtala hlavou."
+        ]
+      },
+      {
+        "name": "Náhorní komín",
+        "grade": "III",
+        "date": "14.9.1958",
+        "url": "/cs/cesta/nahorni-komin-2217/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.8.2012 21:04:37 nosicek] Lehoučká pohodvka, kolem spáry madla - doporučil bych úplným začátečníkům.",
+          "[4.6.2023 21:11:49 Lukasaky] Hezká cesta, pár metrů pod vrškem jsou vpravo u spáry hodinky.",
+          "[4.6.2023 21:12:14 Lukasaky] Hezká cesta, pár metrů pod vrškem jsou vpravo u spáry hodinky.",
+          "[4.6.2023 21:12:27 Lukasaky] Hezká cesta, pár metrů pod vrškem jsou vpravo u spáry hodinky."
+        ]
+      },
+      {
+        "name": "Náhorní komín - varianta",
+        "grade": "IV",
+        "date": "0.0.0000",
+        "url": "/cs/cesta/nahorni-komin-varianta-2097/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[28.7.2024 18:56:50 Dejv] Výlez žlabem nepříjemný a blbě odjištěný"
+        ]
+      },
+      {
+        "name": "Supernaut",
+        "grade": "Xc",
+        "date": "0.0.1999",
+        "url": "/cs/cesta/supernaut-10545/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.4.2019 22:03:15 django] boulder jak hrom! by mě zajímalo, kdo si to lajznul a naskočil z toho pilířku do madla bez jištění :) klobouk dolů!"
+        ]
+      },
+      {
+        "name": "Údolní",
+        "grade": "VIIc",
+        "date": "27.6.1961",
+        "url": "/cs/cesta/udolni-2494/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.8.2010 8:59:18 Jony] Starý VIIb. Převislý úsek spáry je trochu nepříjemný. V díře měly na jaře hnízdo poštolky."
+        ]
+      },
+      {
+        "name": "Údolní - Údolní zkratka",
+        "grade": "VIIc",
+        "date": "30.3.1985",
+        "url": "/cs/cesta/udolni-udolni-zkratka-2495/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.8.2010 9:04:07 Jony] Před traverzem z vhloubení jdou dobré tenčí smyčky. Výšvih přes převis může být trochu špinavý, protože tam vytéká spára zeshora.",
+          "[5.3.2025 11:59:01 EMBER] Pred traverzom z vhloubení sa dá cvaknúť (patrične predĺžený) kruh z originál Údolní. Charakter mi príde oveľa viac špára ako stena."
+        ]
+      },
+      {
+        "name": "Unisono",
+        "grade": "IXa",
+        "date": "20.5.1986",
+        "url": "/cs/cesta/unisono-2215/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2010 16:16:31 Hans] Vypadá to lehce olámaně.",
+          "[16.5.2018 9:59:40 Hlaďas] Skvostná linie, kde se kolem kruhů svižně leze a vršek je vzdušnější a je potřeba si vyhrát se smyčkama.",
+          "[16.4.2019 22:01:08 django] vršek je lehký, ale špinavý. Nejtěžší kolem prvního. Pod druhým hodiny(erární) + obhoz kyzu (chlupatice ideál). Hrana ako lusk!"
+        ]
+      },
+      {
+        "name": "Východní hrana",
+        "grade": "VIIa",
+        "date": "29.7.1963",
+        "url": "/cs/cesta/vychodni-hrana-2218/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2010 19:48:25 nosicek] Hezká a docela hezky i zajištěná... Nepříjemný mi přišlo dolízt k hodinám a pak zvednutí ke kruhu. Stavění se přelízt asi dá, ale nějak se mi nepovedlo...:( a erárka na cestě k hodinám je celkem příjemná;-)",
+          "[24.2.2016 17:48:13 Špajda] Moc pěkná a co si pamatuju i dobře zajištěná cesta. Třetí stavění na tuto věž, které se konečně podařilo :-)"
+        ]
+      },
+      {
+        "name": "Východní hrana - První varianta",
+        "grade": "V",
+        "date": "9.5.1969",
+        "url": "/cs/cesta/vychodni-hrana-prvni-varianta-2533/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.8.2010 10:57:29 nosicek] Krásná a příjemná pětička, doporučil bych to i na začátky. Nic záludnýho v tom není, i nějaký malinký hodinky se potkat dají. Přeskok je celkem v pohodě. Jen mi příjde zajímavý, že z Křížový jehly na Pevnost je to psaný za 2 a tenhle za 1. Z tý jehly se dá skoro překročit a tady se musí trochu i skočit a skočit správně.",
+          "[17.8.2010 11:02:05 pavel] Na dvouhvězdičkovou cestu mi to nahoře přišlo docela zasraný. Přeskok je si myslím těžší. Hlavně netrefit strom :-). Kdo nechce skákat tak tu má výhodu, dá se to rozporem ošulit.",
+          "[17.8.2010 14:15:16 Neluše] S tím hořejškem bych tak nesouhlasila, stupy jsou čistý. Pěkná cesta, žádný problém :-) (až na ten trus od ptačince)",
+          "[17.8.2010 15:19:32 Včela] Přeskok docela lehký, po cestě ke kruhu malé hodiny. Nejtěžší je v cestě asi oblez kruhu.",
+          "[17.6.2012 11:16:49 Špásik] Super cesta, přesko není vůbec těžký, po cestě ke kruhu jedny hodiny, těžší oblez kruhu, ale nic zásadního chce to věřit nohám a pohoda n.v. PS: Krásný výhled na Adr!",
+          "[23.8.2015 12:25:26 Goťák] Ač správně dle popisu, tomu jak to skákali autoři a většiny skákajících, se skáče k borovici, lze to to skákat i na plošinku přímo do stěny. To co vypadá jako dobrý bočák, skutečně i je.Snad to není ani těžší než k borovici, možná to chce o trochu víc odhodlání, ale přijde mi to hezčí. Stačí se odhodlat, lehce skočit na plošinku a chytit se bočáku. Pořád to, ale je max. 2 přeskok.",
+          "[7.6.2016 20:26:22 Páša] Pěkná cesta, u přeskoku to chce moc nepřemejšlet a poslat to tam. Jinak vršek od kruhu začíná bejt docela ošlapanej. Ten nádhernej výhled láká asi kde koho.",
+          "[12.4.2025 20:48:49 Dejv] Přeskok je v pohodě. Ke kruhu také. Ale od kruhu to už za 5 nebude. Celkem to solí a horni část je špinavá. Jako zažitek super, ale opatrně"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Sukničkář",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618861,
+    "lon": 16.129833,
+    "url": "https://www.piskari.cz/cs/skala/suknickar-2796/",
+    "routes": [
+      {
+        "name": "Alnáda",
+        "grade": "V",
+        "date": "24.4.2009",
+        "url": "/cs/cesta/alnada-10494/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[10.10.2015 0:28:57 felis] Od spoda to nalákalo, ale je to opět Piskořova pětička... Spíš VIIa, hrozně to solí a láme se. U čtvrtého kroku mě zůstal chyt v ruce.. Málem to odnesl jistič. A dolez na vrchol (už od kruhu) je dost zamešený."
+        ]
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "II",
+        "date": "30.8.1980",
+        "url": "/cs/cesta/stara-cesta-10493/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[10.10.2015 0:15:23 felis] Věž nemá knihu ani slaňák."
+        ]
+      },
+      {
+        "name": "Údolní",
+        "grade": "III",
+        "date": "30.8.1980",
+        "url": "/cs/cesta/udolni-10492/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[10.10.2015 0:12:45 felis] Docela dlouhá, hezká, skvěle odjištěná (4x hodiny a jde jich mnohem víc). Ale čím výš, tím víc zarostlá. Vršek už je úplně pod hlínou."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Šmejd",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619416,
+    "lon": 16.129194,
+    "url": "https://www.piskari.cz/cs/skala/smejd-2802/",
+    "routes": [
+      {
+        "name": "Koutem",
+        "grade": "V",
+        "date": "4.11.1962",
+        "url": "/cs/cesta/koutem-10243/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.5.2014 1:02:00 michal] Dole lezení kolem spárky, přelez bříška pořeší dobrý nohy."
+        ]
+      },
+      {
+        "name": "Přeskok",
+        "grade": "II",
+        "date": "14.3.1969",
+        "url": "/cs/cesta/preskok-3078/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[2.3.2016 16:52:34 Pavlík] hustý. je to spíše seskok do rajbasu.."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Šmodrchal",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619194,
+    "lon": 16.129194,
+    "url": "https://www.piskari.cz/cs/skala/smodrchal-2800/",
+    "routes": [
+      {
+        "name": "Draštická",
+        "grade": "III",
+        "date": "10.5.1987",
+        "url": "/cs/cesta/drasticka-8871/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[8.3.2014 20:41:24 felis] Až na plošinu procházka jehličím."
+        ]
+      },
+      {
+        "name": "Hruškový kompot",
+        "grade": "VIIb",
+        "date": "11.4.1999",
+        "url": "/cs/cesta/hruskovy-kompot-2753/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.3.2011 22:13:52 Kuzma] Výlez na balkónek pod 2.Q mi přišel dost nepříjemný (mech a sliz). Možná trochu tužší než VIIb, ale kdo ví...",
+          "[2.3.2011 13:56:09 Staník] No ehm, linka pěkná ale... Nevinně vyhlížející hrana pod 1. Q je docela vý....b. Prvolezec se několikrát vracel a šel na body. Na druhém jsem 2× sedl než jsem na to přišel, na prvním bych to lézt nechtěl. Příčina - solivý sever a buď tam nběco chybí nebo jsme máčky. Možná málo lezené a tím nekultivované. Nedoporučil bych asi. Od 1Q. už celkem dobrý i když stále špinavé.",
+          "[11.5.2011 7:39:23 Jony] Ta hvězdička v průvodci musí snad být prací nějakýho šotka, jinak si to neumím vysvěttlit. Cvakání 1. kruhu pro kratší účastníky může být celkem blbý."
+        ]
+      },
+      {
+        "name": "Nouhentka",
+        "grade": "VI",
+        "date": "3.5.2009",
+        "url": "/cs/cesta/nouhentka-242/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Od Breka",
+        "grade": "V",
+        "date": "15.8.1987",
+        "url": "/cs/cesta/od-breka-2672/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2011 18:52:47 lezecc] pro spáraře s prstem v nose:))",
+          "[20.10.2012 21:01:34 nosicek] Spára trochu kouše, ale je hezká. Jdou tam větší uzly nebo i bambula. Někoho ještě může překvapit výlez z mezivěží ;-)"
+        ]
+      },
+      {
+        "name": "Skrz díru",
+        "grade": "II",
+        "date": "10.5.1987",
+        "url": "/cs/cesta/skrz-diru-2752/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Šmodrchanice",
+        "grade": "VIIIa",
+        "date": "22.4.2009",
+        "url": "/cs/cesta/smodrchanice-2823/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[18.5.2011 18:13:56 Jony] Když jsem to viděl poprvý, tak jsem jsem si říkal, co je to zase za honosnou linii, no nakonec tam pár zajímavých kroků je, hlavně u druhého kruhu. Špinavá hranka z balkonu je útěk z již lehce dosažitelného vršku. Celkově dle mě hezčí než v průvodci ohvězdičkovaný Kompot z hrušek, kterým jsme se nechali napálit nedávno."
+        ]
+      },
+      {
+        "name": "Šrůtkova patička",
+        "grade": "VIIIa",
+        "date": "4.6.2002",
+        "url": "/cs/cesta/srutkova-paticka-10776/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[23.4.2019 21:34:49 VojtaP] Cesta se zajímavým bouldříkem."
+        ]
+      },
+      {
+        "name": "Švýcařina",
+        "grade": "VIIIb",
+        "date": "22.8.1987",
+        "url": "/cs/cesta/svycarina-2816/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[11.5.2011 8:12:47 Jony] Originální popis z knížky je poněkud poetičtější. ... ke kruhu a kurvárkem ... Kurvárek by chtělo ještě trochu vysmejčit. Vykřičník v průvodci je mimo mísu, neboť smyček jde docela dost a dobrých."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Textilácká",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.6195,
+    "lon": 16.128805,
+    "url": "https://www.piskari.cz/cs/skala/textilacka-2805/",
+    "routes": [
+      {
+        "name": "Čerstvý vítr",
+        "grade": "VI",
+        "date": "24.4.1982",
+        "url": "/cs/cesta/cerstvy-vitr-2750/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.3.2011 20:17:03 beny] Hezká cesta, jen trošku divný traverzek kousek nad nástupem, pod spárou. Trošku hůř zajištěný, pak už fajn.",
+          "[20.4.2014 11:01:04 nosicek] Krásná cesta, jenom pro prvolezce se slabšími nervy je horší traverz ke kruhu, kde asi neradno padat."
+        ]
+      },
+      {
+        "name": "Elite",
+        "grade": "VIIa",
+        "date": "13.3.1982",
+        "url": "/cs/cesta/elite-2112/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[20.10.2012 20:53:17 nosicek] Ke kruhu maličko křehký, ale jsou nějaký hodiny. Boulder kolem kruhu mi přišel celkem výživnej a dále jsme se nedostali. (svedli jsme vinu na mokrý mech, ale i za sucha mi to přišlo jako zajímací)",
+          "[16.6.2015 15:23:07 ondra] Taky jsem se nedostal od prvniho, taky jsem to svedl na mech. kazdopadne bouldr je asi tezsi. stromek by to resil, ale nepodarilo se mi jej chytnout.",
+          "[30.8.2015 21:46:04 VojtaP] Ke kruhu ještě ok, ale bohužel boulder se přelézt nepodařilo. Zvednout se za ty plytký misky je fakt umění.",
+          "[31.8.2015 8:55:32 Mike] Ke kruhu dost lámavé, takže pozor co berete. Kruh jsem opral 3x než mi poradil kamarád, že musím nejdříve nakopat nohy vysoko a potom to stavět. Když se vám to podaří, budete mít velkou radost :)",
+          "[29.5.2017 7:49:40 Belmondo] Ke kruhu po docela dobrých chytech. Ve spodní části to trochu soli a duní :) Od kruhu výše je to zajímavej bouldering přes nic moc chyty a obliny, ustát to na keckách ale jde. VIIb by asi sedělo víc. Radost z přelezu určitě je!"
+        ]
+      },
+      {
+        "name": "Kanafas",
+        "grade": "V",
+        "date": "",
+        "url": "/cs/cesta/kanafas-10416/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[2.6.2015 22:12:57 felis] Hodně možností k jištění. Kolem spáry jsou chyty."
+        ]
+      },
+      {
+        "name": "Pašerácká",
+        "grade": "V",
+        "date": "25.9.1966",
+        "url": "/cs/cesta/paseracka-2095/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.9.2013 23:58:56 felis] Odjištěná, první polovina hezká."
+        ]
+      },
+      {
+        "name": "Severovýchodní komín",
+        "grade": "III",
+        "date": "28.5.1961",
+        "url": "/cs/cesta/severovychodni-komin-2755/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Uvážená investice",
+        "grade": "VIIa",
+        "date": "21.3.1993",
+        "url": "/cs/cesta/uvazena-investice-2754/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[2.3.2011 14:06:07 Staník] Pěkný směr a výše i hezké kroky. Svižný nástup - převisek. Oblez kolem 1 Q. jsme nepochopili - \"bouldr jako loudr\" (A0) ale pak zajímavé lezení. Nahoře horší matroš (trochu solí) ale je to už lehčí. Přimloovám se za jednu * a možná ještě půjdu ještě sundat restík kolem 1. Q.",
+          "[20.6.2013 14:20:05 myš] Čistě kolem prvního to za VIIa určitě není, ale viděl jsem to čistě oblézt. Pak už to nějak jde a je to dobře zajištěný.",
+          "[31.8.2015 8:51:54 Mike] Pravda, za VIIa to u prvního kruhu není. Ta klasa je spíše za příjemné jištění. Dole je to boulder s dlouhým nátahem pravou rukou do madla. Měřím dva metry, takže jsem to roztáhl z cvakacího madla. Menší lidi musí podrdit jemného sokolíka. Zbytek cesty je famózní :)",
+          "[25.6.2017 23:10:22 Belmondo] Pěkná cesta. 1Q se cvaká v poho, boulder přes něj je pěknej, dají se tam v sokolících najít lišty na přídrž, dal bych tomu i klidně VIIc. Celý jinak bezpečný, kruhy dobře osazený."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tom",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619277,
+    "lon": 16.129722,
+    "url": "https://www.piskari.cz/cs/skala/tom-2799/",
+    "routes": [
+      {
+        "name": "Večery pod Moskvou",
+        "grade": "VIIIb",
+        "date": "21.8.1987",
+        "url": "/cs/cesta/vecery-pod-moskvou-2809/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[25.4.2011 21:01:51 lezecc] První kruh je hooodně vysoko, ale sem tam nějaká ta smyčka jde utrousit,a až k velkým hodinám je to celkem pěkný stěnový lezení kde jen pokulhává ne uplně super material.Nálezem do prvního žlábku se člověk zahřeje a k prvnímu kruhu už nic v cestě nestojí.Porovnáním kolem kruhu se začne trošku přiostřívat a přesahem do druhého žlábku se to docela slušně pos... . Žlábkem v jehož utrobách je prstová trhlina přetékající mechem a hlínou se člověk musí probrat pár metrů vzhůru k dalšímu kruhu, stylem stažená prdel a samozřejmě bez kloudný smyce.Pocity by se dali popsat asi jako vytírání zadku bez papíru, pěkně to klouže a prsty jsou celý od hou.. :)Od 2 kruhu na vršek už jen kousek ale tamní zahrada nás odradila od jakýhokoliv zkoušení čistých přelezů.Každopádně velkolepý počin a zážitek na dlouhou dobu.Za 24 let 3 přelez."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Třetí",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619111,
+    "lon": 16.127638,
+    "url": "https://www.piskari.cz/cs/skala/treti-2767/",
+    "routes": [
+      {
+        "name": "Markovinky",
+        "grade": "VI",
+        "date": "20.7.1991",
+        "url": "/cs/cesta/markovinky-51/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.4.2009 18:06:01 Hans] Pěkný rajbasový kroky.",
+          "[7.4.2009 23:16:41 beny] Krásná cesta. Rajbas a pak ta hrana nad kruhem. To je prostě nádhera.",
+          "[30.9.2009 13:11:22 Sumýš] parádní rajbasové lezeníčko, dobře odjištěné ... akorát nahoře není slaňák, tak je jednodužší odjistit přes strom (případně kořeny) pod vrcholem ...",
+          "[7.1.2012 11:53:33 Kuzma] Jak již bylo zmíněno, pěkná, ale kraťoučká, rajbasová hrana s dobrým jištěním.",
+          "[3.6.2013 10:20:37 Špásik] Příjemná cesta kde není potřeba smyček. Na vrchlu jak už je psáno není slaňák ani knížka, ale dá se pohodlně obvázat celý vrchol.",
+          "[12.9.2022 17:30:34 Vondra] Hezká cesta, hezký rajbasy jen není nahoře slaňák ale dá se obvázat v pohodě vrchol, případně pak sejít."
+        ]
+      },
+      {
+        "name": "Spárková",
+        "grade": "V",
+        "date": "20.7.1991",
+        "url": "/cs/cesta/sparkova-10418/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[4.6.2015 22:43:45 felis] Docela pěkná cesta odjištěná uzly."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Tvrz",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.618722,
+    "lon": 16.129027,
+    "url": "https://www.piskari.cz/cs/skala/tvrz-2765/",
+    "routes": [
+      {
+        "name": "Jihovýchodní komín",
+        "grade": "II",
+        "date": "22.8.1959",
+        "url": "/cs/cesta/jihovychodni-komin-8866/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.1.2014 14:09:08 standby] jedna z prvních cest na písku, chytla nás průtrž mračen, uztup jsem slaňoval na půl loďáku a tak se mě zamotalo lano, že jsem musel znova nahoru :-("
+        ]
+      },
+      {
+        "name": "Jihozápadní stěna",
+        "grade": "VI",
+        "date": "30.8.1959",
+        "url": "/cs/cesta/jihozapadni-stena-49/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[9.6.2010 18:41:00 Raďas] Tuto cestu jsem lezl několikrát a je super.Pod kruhem dvoje hodiny a spousta chytů.Nad kruhem těžší místečko ale jinak pohoda.",
+          "[29.5.2011 18:10:24 Párty] Samý madláky, taková hodně lehká VI, jen toho jištění sem čekal víc, ale dá se.",
+          "[5.8.2013 21:22:14 michal_sherpa] Pod kruhem hůře zajistitelné, ale madlovaté. Pak méně příjemný ale stále jednoduchý traverz ke kruhu. Nepamatuju si ani žádné problémy nad kruhem.",
+          "[24.3.2015 16:39:41 Páša] Fajnová cesta, jištění ke kruhu nic moc, pak je tam pár hodinek.",
+          "[3.8.2017 11:13:36 Mirione] Ja toho ke kruhu namotal a založil teda docela dost. Cesta krasna, pomerne dlouha a bez zadrhelu ci hlavolamu:) Jedna z mych prvnich delsich cest na Krizaku. **",
+          "[4.9.2022 22:09:19 dolfa.krnkin@seznam.cz] Krásná dlouhá bezpečná cesta, jde tam dát spousta smyc",
+          "[28.7.2024 13:45:53 Dejv] Moje první šestka na Křížaku. Je to hezka cesta a doporučuji"
+        ]
+      },
+      {
+        "name": "Jižní stěna",
+        "grade": "V",
+        "date": "6.9.1959",
+        "url": "/cs/cesta/jizni-stena-3903/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.8.2013 8:33:46 PavelS] Dolní polovina pěkná, horní část překvapivě zarostlá. Jištění dobré, několikatery hodiny a dobrý uzel ve spáře, suchý strom je na spadnutí.",
+          "[15.5.2014 1:05:54 felis] Souhlasím, horní polovina pokazí dojem z pěkné a odjištěné cesty.",
+          "[24.3.2015 16:35:27 Páša] Taky souhlasím, začátek pěknej, ale pak začína džungle. Suchej strom taky nic moc. Jinak pěkná.",
+          "[10.9.2016 19:33:01 zdend] My jsme štandovali u suchého stromu a pak jsme traverzovali doleva a přes Q Kouzelných brýlí a výlez spárkou na vrchol. Přišlo mi to moc pěkné, Jestli se jde originálně od suchého stromu koutovou spárou vzhůru, tak to věřím, že je trochu opruz. Tam se mi to moc nelíbilo."
+        ]
+      },
+      {
+        "name": "Kdosi cosi",
+        "grade": "V",
+        "date": "16.8.1981",
+        "url": "/cs/cesta/kdosi-cosi-10461/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Kouzelné brýle",
+        "grade": "VI",
+        "date": "18.8.1981",
+        "url": "/cs/cesta/kouzelne-bryle-8884/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.4.2014 21:26:53 andre] Dole dvoje hodinky,další až kousek pod kruhem který je poměrně vysoko,takže jsem se málem po... jinač se mi nic založit nepovedlo ale je to po madlech. Od kruhu krásné kroky za odměnu:)",
+          "[9.6.2014 8:01:56 Mike] krásná údolka, po výlezu z první spárky jsem šel trochu doprava a provázal jsem tam další dvoje nebo troje hodinky. Od kruhu teprve začínají těžší kroky ale je to moc krásné.",
+          "[24.3.2015 16:37:24 Páša] Pěkná cesta, nějaký ty hodinky po cestě jsou, ale tutovky to úplně nejsou.",
+          "[19.4.2015 21:02:30 andre] Tak jsem lépe koukal než minule a našel další dvoje hodiny, s nimi už lepší:)",
+          "[2.6.2015 22:19:57 felis] Nejobtížnější VI v JZ stěně. Ale moc pěkná. Pod kruhem jsou min. čtyřikrát tutové hodiny."
+        ]
+      },
+      {
+        "name": "Podivné odpoledne",
+        "grade": "VIIc",
+        "date": "15.9.1999",
+        "url": "/cs/cesta/podivne-odpoledne-10576/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.4.2018 9:04:48 Hlaďas] Pěkná cesta s parádními pohyby, smyčky netřeba a pod 2.Q opatrně. Obtíže jsou o něco výše tak VIIIa/b ?! stejné jako u cesty cesty Blejskání na časy...",
+          "[19.4.2025 11:58:54 Pajas] Kromě kruhů jsem nic nezaložil, i když bych za to byl pod druhým rád. Špatně jsem to přečetl a dolez k němu byl tak celkem výživnej. Sokolíkový lupen pod druhým, kterej je ještě vidět na zdejších fotkách, je pryč, takže bych to skoro viděl i na malej vykřičník."
+        ]
+      },
+      {
+        "name": "Pythagorova věta",
+        "grade": "VIIIb",
+        "date": "19.8.1981",
+        "url": "/cs/cesta/pythagorova-veta-10392/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Růžový cvikr",
+        "grade": "VI",
+        "date": "0.0.0000",
+        "url": "/cs/cesta/ruzovy-cvikr-10885/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.4.2021 15:10:35 PetrN] Moc pěkně zajištěná pohodovka. Borhák je zřejmě náhradníkem uřízlého stromu a ten zase důvodem, proč tam ta cesta může být. Jinak by to asi bylo strašidelně vozelenalý. Hezký."
+        ]
+      },
+      {
+        "name": "Severozápadní spára",
+        "grade": "IV",
+        "date": "22.8.1959",
+        "url": "/cs/cesta/severozapadni-spara-3675/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[16.6.2013 10:29:00 Raďas] Pravá klasika starých lezců.Znám jednodušší čtyřky.",
+          "[12.8.2013 22:33:04 felis] Jištění uzly, pod výlezem hodinky."
+        ]
+      },
+      {
+        "name": "Za nosem",
+        "grade": "VI",
+        "date": "17.8.1981",
+        "url": "/cs/cesta/za-nosem-2304/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.5.2010 14:48:49 nosicek] Jde tam hromada smyček, vůbec nevadí, že je kruh trochu výš. Když člověk hledá, vždycky oběví madla;-)",
+          "[24.3.2015 16:41:13 Páša] Přesně, je to pěkná cesta, jen to chce hledat.",
+          "[28.7.2024 13:53:06 Dejv] Založit opravdu jde, ale chce to hledat a vyhrát si. Ke kruhu daleko. Od kruhu exponovany výstup. Těžši než JZ stěna."
+        ]
+      },
+      {
+        "name": "Západní hrana",
+        "grade": "V",
+        "date": "7.5.1969",
+        "url": "/cs/cesta/zapadni-hrana-10417/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[4.6.2015 22:38:08 felis] Cestou je spousty hodin."
+        ]
+      },
+      {
+        "name": "Západní komín",
+        "grade": "III",
+        "date": "22.8.1959",
+        "url": "/cs/cesta/zapadni-komin-10307/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[10.8.2014 22:41:05 felis] Hezký, lehký, odjištěný komín."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Unavené kameny",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.6195556,
+    "lon": 16.1281389,
+    "url": "https://www.piskari.cz/cs/skala/unavene-kameny-2783/",
+    "routes": [
+      {
+        "name": "JZ stěna",
+        "grade": "IV",
+        "date": "21.3.1981",
+        "url": "/cs/cesta/jz-stena-2801/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.4.2011 14:35:39 nosicek] Cestou asi dvoje hodiny a asi by šlo několik smyček. Dole se trochu láme.",
+          "[25.9.2013 0:03:31 felis] Odjištěná, pěkná, pro začátky."
+        ]
+      },
+      {
+        "name": "Na rohu",
+        "grade": "V",
+        "date": "22.4.1984",
+        "url": "/cs/cesta/na-rohu-2800/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.4.2011 14:33:19 nosicek] Pohodová, hezky odjištěná pětka... Vykřičník za matroš, hodně pozor, co berete, název věže má svůj důvod!!!"
+        ]
+      },
+      {
+        "name": "Přes převis",
+        "grade": "IV",
+        "date": "21.3.1981",
+        "url": "/cs/cesta/pres-previs-8872/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[8.3.2014 21:15:08] Pod ani nad převisem jsem nenašel nic tutovýho. Případný pád by byl až na zem.",
+          "[29.7.2024 16:50:49 Dejv] Pod previsem jsem dal bambulaka, ale ten by nedrzel. Nahore nad previsem se mi zdalo o čertech. Jeste k tomu je to špinavý. Spletl jsem si cestu"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Zeppelin",
+    "area": "Křížový vrch",
+    "sector": "Jižní věže",
+    "lat": 50.619027,
+    "lon": 16.129055,
+    "url": "https://www.piskari.cz/cs/skala/zeppelin-2794/",
+    "routes": [
+      {
+        "name": "Pro holky",
+        "grade": "VI",
+        "date": "",
+        "url": "/cs/cesta/pro-holky-3399/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[17.6.2012 11:24:28 Špásik] Název ani autora neznám, v průvodci není! Překrásná cesta po super chytech, madlo sřídá madlo! Mezi kruhy troje hodiny.",
+          "[19.6.2012 18:06:30 sweddy43@seznam.cz] Cesta se jmenuje Pro holky, autor Smolo v roce 2010",
+          "[20.10.2012 21:00:32 nosicek] Moc hezká cesta, jak už bylo zmíněno výše. Jenom moc nerozumím tomu druhýmu kruhu v místě, kde by spíše sedl slaňák...",
+          "[25.4.2013 13:52:19 Hlaďas] Vpravo od cesty pro holky vede na hraně taky nějaká cesta s 1 ringem, nevíte co to je??",
+          "[23.5.2013 20:52:55 Špásik] Vpravo vede cesta od K. Raka a S. Cermana - Každý Den Je Sobota za V - Pravou údolní hranou (hodiny) ke kruhu. Stěnou zleva (hodiny) na vrchol.",
+          "[24.5.2013 1:36:15 Hlaďas] díky, už jsem se s kubínem bavil ale obtížnost mi přišla víc než V",
+          "[30.7.2013 11:32:00 hajenka@volny.cz] v novým průvodci je cesta nazvaná Babské léto, masiv je pojmenovanej Babinec (č. 22, s. 126) a klasa je tam chybně na IV. je to ale opravdu spíš VI.",
+          "[31.3.2014 23:08:25 andre] Lehčí,pěkná,bezpečná."
+        ]
+      }
+    ]
+  }
+]

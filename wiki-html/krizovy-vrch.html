@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Křížový vrch (Křížák) — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link">How to Generate a GPX File</a>
+<a href="climber-filter.html" class="nav-link">Climber Filter</a>
+<a href="qa-report.html" class="nav-link">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link active indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>Křížový vrch (Křížák)</h1>
+<p><strong>Summary</strong>: One of the five Czech sandstone climbing areas in the Polická pánev, colloquially known as &ldquo;Křížák&rdquo;. All 3 obvods fully processed ✅ — routes, GPS, and comments complete.</p>
+<p><strong>Sources</strong>: <code>lezení na českém písku, na pískovcových skálách (...).md</code>, piskari.cz, db-sandsteinklettern.gipfelbuch.de, mapy.com API, <code>piskari-scraper.py</code>, <code>gipfelbuch-gps.py</code>, <code>mapycz-gps.py</code></p>
+<p><strong>Last updated</strong>: 2026-05-25</p>
+<hr />
+<p>Křížový vrch (colloquially &ldquo;Křížák&rdquo;) is one of the five climbing areas in the <a href="policka-panev.html">Polická pánev (Police Basin)</a>, governed by <a href="ovk-broumovsko.html">OVK Broumovsko</a>. It is a distinct area from <a href="adrspach.html">Adršpach (Ádr)</a> — separate rock formations, separate URL namespace on piskari.cz (<code>/cs/krizovy-vrch/</code>).</p>
+<p><strong>Key difference from Adršpach</strong>: piskari.cz does not provide GPS coordinates for Křížový vrch towers (no Google Maps embed on tower pages). GPS is sourced from the German sandstone climbing database at <code>db-sandsteinklettern.gipfelbuch.de</code>, which covers the same towers under the name &ldquo;Křížový_vrch/Kreuzberg (Holsterberg)&rdquo;.</p>
+<h2>Obvods (sectors)</h2>
+<p>Křížový vrch is divided into 3 obvods. Both data sources cover all 3:</p>
+<table>
+<thead>
+<tr>
+<th>Obvod</th>
+<th>piskari.cz URL</th>
+<th>gipfelbuch.de sektorid</th>
+<th>JSON file</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Jižní věže</td>
+<td><code>/cs/krizovy-vrch/jizni-veze-22/</code></td>
+<td>71</td>
+<td><code>piskovce-jizni-veze.json</code></td>
+<td>✅ done</td>
+</tr>
+<tr>
+<td>Křížový hřeben</td>
+<td><code>/cs/krizovy-vrch/krizovy-hreben-23/</code></td>
+<td>70</td>
+<td><code>piskovce-krizovy-hreben.json</code></td>
+<td>✅ done</td>
+</tr>
+<tr>
+<td>Zdoňovský oblouk</td>
+<td><code>/cs/krizovy-vrch/zdonovsky-oblouk-24/</code></td>
+<td>72</td>
+<td><code>piskovce-zdonovsky-oblouk.json</code></td>
+<td>✅ done</td>
+</tr>
+</tbody>
+</table>
+<h2>GPS data source: gipfelbuch.de</h2>
+<p>The German DB at <code>http://db-sandsteinklettern.gipfelbuch.de/gebiet.php?gebietid=10</code> carries <code>Gipfelkoordinaten</code> (GPS coordinates) per tower. These are matched to the piskari.cz JSON by Czech tower name.</p>
+<p><strong>Important</strong>: The site uses <strong>cp1250</strong> (Windows-1250) encoding, not iso-8859-2. This matters because cp1250 encodes <code>š</code> as <code>\x9a</code> and <code>ž</code> as <code>\x9e</code> — bytes that iso-8859-2 treats as invisible control characters, causing name-matching failures (e.g. <code>Tomášova věžička</code> appearing as <code>Tomá\x9aova vě\x9eička</code>). The <code>gipfelbuch-gps.py</code> script uses cp1250 correctly.</p>
+<h2>Full workflow per obvod</h2>
+<pre><code class="language-bash">cd ~/Documents/LLM-pieskari/pieskari &amp;&amp; source venv/bin/activate
+
+# Step 1: scrape routes from piskari.cz → JSON (no GPS yet)
+python piskari-scraper.py --kv-sector &quot;Jižní věže&quot; --headless
+
+# Step 2: patch GPS from gipfelbuch.de → updates JSON + writes GPX
+python gipfelbuch-gps.py --sektor &quot;Jižní věže&quot; --json piskovce-jizni-veze.json
+
+# Step 3: fill remaining GPS gaps via mapy.com API (fallback for towers missing from gipfelbuch.de)
+python mapycz-gps.py --json piskovce-jizni-veze.json
+
+# Step 4 (optional): manually fix any towers still missing GPS
+#   - open piskovce-jizni-veze.json, search for &quot;lat&quot;: null
+#   - look up tower on mapy.cz, fill in coordinates
+#   - then rebuild GPX from updated JSON (no web access):
+python piskari-scraper.py --rebuild-gpx &quot;Jižní věže&quot;
+
+# Step 5: enrich with route descriptions and comments
+python piskari-scraper.py --add-comments piskovce-jizni-veze.json
+</code></pre>
+<p>For all 3 obvods at once (steps 3–5 still need to be run per-obvod):</p>
+<pre><code class="language-bash">python piskari-scraper.py --all-krizovy-vrch --headless
+python gipfelbuch-gps.py --all-kv
+</code></pre>
+<h2>Known GPS gaps</h2>
+<p>Some towers are missing from gipfelbuch.de — <code>mapycz-gps.py</code> (Step 3) handles most of these automatically. It only touches towers still missing GPS, so it is safe to chain after <code>gipfelbuch-gps.py</code>.</p>
+<p>Towers not found by either script must be resolved manually (look up on mapy.cz, edit the JSON, then run <code>--retry</code> to regenerate the GPX before proceeding to <code>--add-comments</code>).</p>
+<p>Name mismatches between piskari.cz and gipfelbuch.de may also cause a tower to be skipped — check the mismatch report and add a manual name mapping if needed.</p>
+<h2>Related pages</h2>
+<ul>
+<li><a href="policka-panev.html">Polická pánev (Police Basin)</a></li>
+<li><a href="ovk-broumovsko.html">OVK Broumovsko</a></li>
+<li><a href="czech-sandstone-climbing.html">Czech Sandstone Climbing</a></li>
+<li><a href="technical.html">Technical Documentation</a></li>
+<li><a href="piskari-cz.html">piskari.cz</a></li>
+</ul>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

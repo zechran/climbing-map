@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Climber Filter — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link">How to Generate a GPX File</a>
+<a href="climber-filter.html" class="nav-link active">Climber Filter</a>
+<a href="qa-report.html" class="nav-link">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>Climber Filter</h1>
+<p><strong>Summary</strong>: How to generate a personal GPX map showing only towers a specific climber has visited, identified by their comments in the route data.</p>
+<p><strong>Last updated</strong>: 2026-05-28</p>
+<hr />
+<h2>What it does</h2>
+<p><code>climber-filter.py</code> scans all <code>piskovce-*.json</code> files in the project folder and collects every tower where a given climber has left at least one comment on any route. It then produces a new JSON + GPX containing those towers — with all their routes intact, not just the commented ones.</p>
+<p>The result is a personal climbing map: import it into Locus Map and see exactly which towers a climber has been to.</p>
+<h2>Usage</h2>
+<p>No virtual environment needed — the script uses Python standard library only.</p>
+<pre><code class="language-bash">cd ~/Documents/LLM-pieskari/pieskari
+
+# Basic — produces adrspach-cervo.json + adrspach-cervo.gpx
+python3 climber-filter.py --climber cervo
+
+# Custom output filename prefix
+python3 climber-filter.py --climber cervo --output my-cervo-map
+
+# Preview matches without writing files
+python3 climber-filter.py --climber cervo --dry-run
+
+# Different source directory
+python3 climber-filter.py --climber cervo --source /path/to/jsons
+</code></pre>
+<h2>How climbers are identified</h2>
+<p>Comments in the JSON follow the format:</p>
+<pre><code>[25.7.2013 14:49:05 cervo] Krásna dvojspára, ale občas trochu široká...
+</code></pre>
+<p>The script matches <code>[date time USERNAME]</code> at the start of each comment. The match is exact — <code>cervo</code> will not match <code>cervo2</code> or <code>supercervo</code>.</p>
+<h2>Output</h2>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Contents</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>adrspach-{climber}.json</code></td>
+<td>All matching towers in standard piskovce format</td>
+</tr>
+<tr>
+<td><code>adrspach-{climber}.gpx</code></td>
+<td>GPX ready to import into Locus Map</td>
+</tr>
+</tbody>
+</table>
+<p>The JSON uses the same structure as all other sector JSON files, so it can be used with <code>piskari-scraper.py --rebuild-gpx</code> if you need to regenerate the GPX later.</p>
+<h2>Refreshing</h2>
+<p>Run the script again any time sector JSONs are updated with new comments:</p>
+<pre><code class="language-bash">python3 climber-filter.py --climber cervo
+</code></pre>
+<p>It always rebuilds from scratch, so the output stays in sync with the source data.</p>
+<h2>Related pages</h2>
+<ul>
+<li><a href="howto-generate-gpx.html">How to Generate a GPX File</a> — how sector JSON files are produced</li>
+<li><a href="technical.html">Technical Documentation</a> — JSON data model and comment format</li>
+</ul>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

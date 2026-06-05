@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>How to Generate a GPX File — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link active">How to Generate a GPX File</a>
+<a href="climber-filter.html" class="nav-link">Climber Filter</a>
+<a href="qa-report.html" class="nav-link">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>How to Generate a GPX File</h1>
+<p><strong>Summary</strong>: Step-by-step guide for generating climbing map GPX files from piskari.cz. Two methods: manual terminal and agent-based (parallel sectors).</p>
+<p><strong>Last updated</strong>: 2026-05-25</p>
+<hr />
+<h2>Before you start — one-time setup</h2>
+<p>You only need to do this once. If you&rsquo;ve done it before, skip to Method 1 or Method 2.</p>
+<p><strong>Requirements</strong>:<br />
+- Python 3.8+ installed on your Mac<br />
+- The <code>pieskari</code> project folder at <code>~/Documents/LLM-pieskari/pieskari/</code></p>
+<p><strong>Setup</strong>:</p>
+<pre><code class="language-bash">cd ~/Documents/LLM-pieskari/pieskari
+python3 -m venv venv
+source venv/bin/activate
+pip install playwright
+python -m playwright install chromium
+</code></pre>
+<p>You should see <code>(venv)</code> appear in your terminal prompt. That means you&rsquo;re ready.</p>
+<hr />
+<h2>What the process produces</h2>
+<p>For each sector you run, you get two files in the project folder:</p>
+<table>
+<thead>
+<tr>
+<th>File</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>piskovce-[sector].gpx</code></td>
+<td>Import this into Locus Map</td>
+</tr>
+<tr>
+<td><code>piskovce-[sector].json</code></td>
+<td>Intermediate data store — keep this, never delete it</td>
+</tr>
+</tbody>
+</table>
+<p>The JSON is the source of truth. The GPX is always regenerated from it.</p>
+<hr />
+<h2>Method 1 — Manual (terminal, one sector at a time)</h2>
+<p>Best for: running a single sector, troubleshooting, or when you want full control.</p>
+<h3>Step 1 — Activate the environment</h3>
+<p>Open Terminal, then:</p>
+<pre><code class="language-bash">cd ~/Documents/LLM-pieskari/pieskari
+source venv/bin/activate
+</code></pre>
+<p>You&rsquo;ll see <code>(venv)</code> in the prompt. Do this every time you open a new terminal.</p>
+<h3>Step 2 — Scrape GPS and routes</h3>
+<p>Replace <code>"Himálaj"</code> with the sector you want. A browser window will open automatically — don&rsquo;t close it.</p>
+<pre><code class="language-bash">python piskari-scraper.py --sector &quot;Himálaj&quot;
+</code></pre>
+<p>You&rsquo;ll see progress printed in the terminal:</p>
+<pre><code>📍 Collecting towers in: Himálaj
+   Found 47 towers
+[1/47] Abakus → 50.61823, 16.09541
+[2/47] Adamec → 50.61901, 16.09483
+...
+✅ GPX written: piskovce-himalaj.gpx
+</code></pre>
+<p>This takes roughly 5–15 minutes depending on sector size.</p>
+<h3>Step 3 — Fill GPS gaps via mapy.com API</h3>
+<p>Some towers won&rsquo;t have GPS after Step 2. This script queries the mapy.com API and fills in coordinates for towers where it finds a confident match. It only touches towers still missing GPS, so it is safe to always run.</p>
+<pre><code class="language-bash">python mapycz-gps.py --json piskovce-himalaj.json
+</code></pre>
+<p>The script reads your API key from the <code>MAPYCZ_API_KEY</code> environment variable if set, otherwise it prompts you interactively. To avoid the prompt (especially useful when running multiple sectors), set the variable once at the start of your terminal session:</p>
+<pre><code class="language-bash">export MAPYCZ_API_KEY=&quot;your-key-here&quot;
+</code></pre>
+<p>The key lives only in the shell session&rsquo;s memory — it is never written to any file and disappears when you close the terminal.</p>
+<h3>Step 4 (optional) — Handle towers still missing GPS</h3>
+<p>After Step 3, check if any towers are still missing GPS. If so, add them manually:</p>
+<ol>
+<li>Open <code>piskovce-himalaj.json</code> in any text editor</li>
+<li>Search for <code>"lat": null</code></li>
+<li>Look up the tower on mapy.cz, copy the coordinates</li>
+<li>Replace <code>"lat": null, "lon": null</code> with <code>"lat": 50.12345, "lon": 16.12345</code></li>
+</ol>
+<h3>Step 5 — Enrich with route descriptions and comments</h3>
+<p>This visits every individual route page to add the full description, climbing character, and climber comments. Takes longer (~30–60 min for a large sector).</p>
+<pre><code class="language-bash">python piskari-scraper.py --add-comments piskovce-himalaj.json
+</code></pre>
+<p>Progress:</p>
+<pre><code>Fetching details for 142 routes across 47 towers...
+  [1/142] Abakus — Stará cesta   (2 comments)
+  [2/142] Abakus — Nová cesta    (0 comments)
+  ...
+✅ GPX written: piskovce-himalaj.gpx
+</code></pre>
+<h3>Step 6 (optional) — Rebuild GPX after manual GPS edits</h3>
+<p>After Step 5 completes, you may find some towers still have no GPS when you check the GPX in Locus Map. Open the JSON, fix the coordinates manually, then rebuild the GPX without re-fetching comments from the web:</p>
+<pre><code class="language-bash">python piskari-scraper.py --rebuild-gpx &quot;Himálaj&quot;
+</code></pre>
+<p>This reads the JSON as-is and writes a fresh GPX — no browser, no web access, no comments re-fetch.</p>
+<h3>Step 7 — Import into Locus Map</h3>
+<ol>
+<li>Transfer <code>piskovce-himalaj.gpx</code> to your phone (AirDrop, cable, or shared folder)</li>
+<li>Open Locus Map → My Library → Import</li>
+<li>Select the GPX file</li>
+<li>When prompted for a folder, create one named after the sector (e.g. &ldquo;Himálaj&rdquo;)</li>
+<li>Done — tap any pin on the map to see routes and comments</li>
+</ol>
+<p><strong>Note</strong>: If you did Step 6 (manual GPS fix), re-import the updated GPX to replace the previous one.</p>
+<hr />
+<h2>Method 2 — Agent-based (parallel sectors)</h2>
+<p>Best for: generating multiple sectors at once without sitting at the terminal. Each Cowork agent handles one sector independently.</p>
+<h3>How it works</h3>
+<p>Open a new Cowork chat for each sector. Give each agent a single instruction. They run in parallel — while one scrapes Himálaj, another scrapes Jezerka, etc.</p>
+<h3>Agent instruction template</h3>
+<p>Paste this into a new Cowork chat. You need to substitute <strong>two things</strong>:<br />
+- <code>YOUR_KEY</code> → your mapy.com API key<br />
+- <code>SECTOR_NAME</code> → the sector name from column 3 of the table below</p>
+<blockquote>
+<p>This is a fully automated task. Do not ask for confirmation, permission, or approval at any point — not before running commands, not between steps, not at the end. Just execute everything and report results only when fully done or on error.</p>
+<p>Generate a GPX file for the <strong>SECTOR_NAME</strong> sector of Adršpach by running these commands in order in the terminal:</p>
+<p><code>cd ~/Documents/LLM-pieskari/pieskari &amp;&amp; source venv/bin/activate &amp;&amp; export MAPYCZ_API_KEY="YOUR_KEY"
+python piskari-scraper.py --sector SECTOR_NAME
+python mapycz-gps.py --sector SECTOR_NAME
+python piskari-scraper.py --add-comments SECTOR_NAME</code></p>
+<p>When done, report: how many towers total, how many have GPS, and the name of the GPX file created.</p>
+<p>If I later tell you I updated the JSON manually, run without asking: <code>python piskari-scraper.py --rebuild-gpx SECTOR_NAME</code></p>
+</blockquote>
+<h3>All 11 Adršpach sectors — one instruction per agent</h3>
+<p>Copy the template above, substitute <code>YOUR_KEY</code> and <code>SECTOR_NAME</code>, and start a separate chat for each. The JSON filename is derived automatically by the scripts — listed here for reference only:</p>
+<table>
+<thead>
+<tr>
+<th>Agent</th>
+<th>Sector</th>
+<th>SECTOR_NAME</th>
+<th>JSON_FILE</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Agent 1</td>
+<td>✅ Done</td>
+<td><code>"Milenecká hora"</code></td>
+<td><code>piskovce-milenecka-hora.json</code></td>
+</tr>
+<tr>
+<td>Agent 2</td>
+<td>✅ Done</td>
+<td><code>"Himálaj"</code></td>
+<td><code>piskovce-himalaj.json</code></td>
+</tr>
+<tr>
+<td>Agent 3</td>
+<td>✅ Done</td>
+<td><code>"Jezerka"</code></td>
+<td><code>piskovce-jezerka.json</code></td>
+</tr>
+<tr>
+<td>Agent 4</td>
+<td>✅ Done</td>
+<td><code>"Království"</code></td>
+<td><code>piskovce-kralovstvi.json</code></td>
+</tr>
+<tr>
+<td>Agent 5</td>
+<td>✅ Done</td>
+<td><code>"Město"</code></td>
+<td><code>piskovce-mesto.json</code></td>
+</tr>
+<tr>
+<td>Agent 6</td>
+<td>✅ Done</td>
+<td><code>"Ostrov"</code></td>
+<td><code>piskovce-ostrov.json</code></td>
+</tr>
+<tr>
+<td>Agent 7</td>
+<td>✅ Done</td>
+<td><code>"Panoptikum"</code></td>
+<td><code>piskovce-panoptikum.json</code></td>
+</tr>
+<tr>
+<td>Agent 8</td>
+<td>✅ Done</td>
+<td><code>"Podhradí"</code></td>
+<td><code>piskovce-podhrati.json</code></td>
+</tr>
+<tr>
+<td>Agent 9</td>
+<td>✅ Done</td>
+<td><code>"Rokle nad Spáleným mlýnem"</code></td>
+<td><code>piskovce-rokle-nad-spalenym-mlynem.json</code></td>
+</tr>
+<tr>
+<td>Agent 10</td>
+<td>✅ Done</td>
+<td><code>"Vstupní obvod"</code></td>
+<td><code>piskovce-vstupni-obvod.json</code></td>
+</tr>
+<tr>
+<td>Agent 11</td>
+<td>✅ Done</td>
+<td><code>"Za pískovnou"</code></td>
+<td><code>piskovce-za-piskovnou.json</code></td>
+</tr>
+</tbody>
+</table>
+<h3>After all agents finish</h3>
+<p>Each agent produces a GPX file. Import each one into Locus Map into its own folder:</p>
+<pre><code>Locus Map / My Library /
+  ├── Himálaj/          ← piskovce-himalaj.gpx  ✅
+  ├── Jezerka/          ← piskovce-jezerka.gpx  ✅
+  ├── Království/       ← piskovce-kralovstvi.gpx  ✅
+  ├── Město/            ← piskovce-mesto.gpx  ✅
+  ├── Milenecká hora/   ← piskovce-milenecka-hora.gpx  ✅
+  ├── Ostrov/           ← piskovce-ostrov.gpx  ✅
+  ├── Panoptikum/       ← piskovce-panoptikum.gpx  ✅
+  ├── Podhradí/         ← piskovce-podhrati.gpx  ✅
+  ├── Rokle/            ← piskovce-rokle-nad-spalenim-mlynem.gpx  ✅
+  ├── Vstupní obvod/    ← piskovce-vstupni-obvod.gpx  ✅
+  └── Za pískovnou/     ← piskovce-za-piskovnou.gpx  ✅
+</code></pre>
+<hr />
+<h2>Refreshing an existing sector</h2>
+<p>When piskari.cz has significant new comments (every few months):</p>
+<pre><code class="language-bash">cd ~/Documents/LLM-pieskari/pieskari
+source venv/bin/activate
+
+# Option A — refresh comments only (fast, keeps existing GPS)
+python piskari-scraper.py --add-comments piskovce-himalaj.json
+
+# Option B — full re-scrape from scratch (slower, picks up new towers too)
+python piskari-scraper.py --sector &quot;Himálaj&quot;
+python piskari-scraper.py --add-comments piskovce-himalaj.json
+</code></pre>
+<p>Then re-import the updated GPX into Locus Map (replace the existing file in the folder).</p>
+<hr />
+<h2>Troubleshooting</h2>
+<p><strong><code>(venv)</code> not showing in prompt</strong><br />
+Run <code>source venv/bin/activate</code> again. You need to do this every time you open a new terminal.</p>
+<p><strong><code>python: command not found</code></strong><br />
+Use <code>python3</code> instead of <code>python</code> if you get this error.</p>
+<p><strong>Tower shows → NO GPS</strong><br />
+The tower has no map tab on piskari.cz (usually a newer tower with a 3xxx ID). First run <code>mapycz-gps.py</code> (Step 3) — it may find a match. If still missing, add coordinates manually — see Step 4 above.</p>
+<p><strong>Browser window opens but nothing happens</strong><br />
+piskari.cz may be slow or temporarily down. Wait 30 seconds and try again. If it keeps failing, run with <code>--headless</code> removed (it&rsquo;s off by default) and watch what the browser does.</p>
+<p><strong>GPX imports into Locus Map but no pins appear</strong><br />
+Check that the GPX has at least one valid <code>&lt;wpt&gt;</code> element with lat/lon. Open the file in a text editor and look for <code>&lt;wpt lat=</code>. If it&rsquo;s empty, check the terminal output for errors during scraping.</p>
+<hr />
+<hr />
+<h2>Note: Křížový vrch workflow differs</h2>
+<p>Křížový vrch requires an extra GPS step because piskari.cz provides no GPS for that area. Instead of Step 2 above, GPS is sourced from <code>gipfelbuch-gps.py</code> first, then <code>mapycz-gps.py</code> as fallback. See <a href="krizovy-vrch.html">Křížový vrch (Křížák)</a> for the full workflow.</p>
+<hr />
+<h2>Related pages</h2>
+<ul>
+<li><a href="technical.html">Technical Documentation</a> — Full technical reference: data model, selectors, GPS extraction method</li>
+<li><a href="product-spec.html">Product Specification — Climbing Map</a> — Why this product exists and what it&rsquo;s trying to do</li>
+<li><a href="krizovy-vrch.html">Křížový vrch (Křížák)</a> — Křížový vrch workflow (different GPS pipeline)</li>
+<li><a href="adrspach.html">Adršpach (Ádr)</a> — Adršpach area and its 11 sectors</li>
+</ul>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

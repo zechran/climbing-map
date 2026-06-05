@@ -1,0 +1,1396 @@
+[
+  {
+    "name": "Bakalář",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.616187,
+    "lon": 16.100952,
+    "url": "https://www.piskari.cz/cs/skala/bakalar-1728/",
+    "routes": [
+      {
+        "name": "Severní hrana",
+        "grade": "III",
+        "date": "9.7.1997",
+        "url": "/cs/cesta/severni-hrana-2880/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[19.6.2011 18:51:14 Hofmič] Lehká cesta pro začátečníky, jištění přes hodiny..."
+        ]
+      },
+      {
+        "name": "Severozápadní stěna",
+        "grade": "IV",
+        "date": "9.7.1997",
+        "url": "/cs/cesta/severozapadni-stena-5633/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní",
+        "grade": "V",
+        "date": "13.7.1996",
+        "url": "/cs/cesta/udolni-6433/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Bažík",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615717,
+    "lon": 16.101673,
+    "url": "https://www.piskari.cz/cs/skala/bazik-1725/",
+    "routes": [
+      {
+        "name": "Bažíkova",
+        "grade": "V",
+        "date": "23.5.1966",
+        "url": "/cs/cesta/bazikova-3974/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[10.9.2013 21:54:55 felis] K převisu krásně zajištěný, ale solí to. Nad ním už nic tutového nebylo."
+        ]
+      },
+      {
+        "name": "Cesta invalidů",
+        "grade": "III",
+        "date": "26.7.1971",
+        "url": "/cs/cesta/cesta-invalidu-4951/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Novotatínkovská",
+        "grade": "IV",
+        "date": "13.6.1987",
+        "url": "/cs/cesta/novotatinkovska-5635/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Soljanka",
+        "grade": "IV",
+        "date": "27.6.1981",
+        "url": "/cs/cesta/soljanka-5634/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "III",
+        "date": "23.5.1966",
+        "url": "/cs/cesta/stara-cesta-2934/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.7.2011 19:54:57 Hofmič] Pohodový komínek, ale trochu zelený..."
+        ]
+      },
+      {
+        "name": "Údolní stěna",
+        "grade": "VI",
+        "date": "1.8.1980",
+        "url": "/cs/cesta/udolni-stena-7029/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[11.7.2015 0:22:17 felis] Hezky odjištěná hodinami. Škoda lišejníku v rajbasové stěnce pod vrcholovou hlavou, kde je díky tomu nejtěžší místo, ale nic hrozného.",
+          "[23.8.2016 20:21:25 Martin] Pěkná stěnovka s jedním, jištěno hodinami.",
+          "[27.8.2023 21:32:49 Kube] Hvězdičkou bych šetřil, spodek je hezkej, hodin až přebytek a v díře jsou kruhové hodiny, ale vršek je fakt zasviněnej lišejníkem a vším možným. Jinak by to byla hezká cesta."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Bob",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615987,
+    "lon": 16.101247,
+    "url": "https://www.piskari.cz/cs/skala/bob-1726/",
+    "routes": [
+      {
+        "name": "Králičí",
+        "grade": "V",
+        "date": "17.5.1993",
+        "url": "/cs/cesta/kralici-6190/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Maxova",
+        "grade": "III",
+        "date": "15.8.1980",
+        "url": "/cs/cesta/maxova-4690/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Prolejzačka",
+        "grade": "IV",
+        "date": "17.5.1993",
+        "url": "/cs/cesta/prolejzacka-5385/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Sestupová",
+        "grade": "II",
+        "date": "15.8.1980",
+        "url": "/cs/cesta/sestupova-4283/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.9.2017 17:48:10 Páša] Solidní zelenina, tak jako na celý věži."
+        ]
+      },
+      {
+        "name": "Stromová",
+        "grade": "II",
+        "date": "15.8.1980",
+        "url": "/cs/cesta/stromova-4284/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní",
+        "grade": "V",
+        "date": "17.5.1993",
+        "url": "/cs/cesta/udolni-6189/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "zaječí",
+        "grade": "IV",
+        "date": "21.9.1993",
+        "url": "/cs/cesta/zajeci-5386/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Bobek",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615897,
+    "lon": 16.101654,
+    "url": "https://www.piskari.cz/cs/skala/bobek-1721/",
+    "routes": [
+      {
+        "name": "Letní procházka",
+        "grade": "IV",
+        "date": "1.8.1980",
+        "url": "/cs/cesta/letni-prochazka-2841/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Brucknerova věž",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615868,
+    "lon": 16.102185,
+    "url": "https://www.piskari.cz/cs/skala/brucknerova-vez-1718/",
+    "routes": [
+      {
+        "name": "Matčina",
+        "grade": "III",
+        "date": "30.7.1980",
+        "url": "/cs/cesta/matcina-4956/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Otcova",
+        "grade": "IV",
+        "date": "30.7.1980",
+        "url": "/cs/cesta/otcova-5641/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[23.8.2016 20:09:24 Martin] Moc často se neleze a dle toho je i zamechovaná...presto pěkná kratší stenovka na rozlez, případný pád do hlubin údolí zajistí smrček u nástupu a výše uzlík."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Divočák",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615412,
+    "lon": 16.100273,
+    "url": "https://www.piskari.cz/cs/skala/divocak-1735/",
+    "routes": [
+      {
+        "name": "Soutěska",
+        "grade": "III",
+        "date": "7.8.1980",
+        "url": "/cs/cesta/souteska-4945/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Drážďanská",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.616234,
+    "lon": 16.101858,
+    "url": "https://www.piskari.cz/cs/skala/drazdanska-1713/",
+    "routes": [
+      {
+        "name": "Křižácká",
+        "grade": "VIIc",
+        "date": "21.9.1980",
+        "url": "/cs/cesta/krizacka-8228/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Radioaktivní",
+        "grade": "VIIIa",
+        "date": "10.5.1986",
+        "url": "/cs/cesta/radioaktivni-8455/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Spanilá jízda",
+        "grade": "VIIIb",
+        "date": "29.5.1975",
+        "url": "/cs/cesta/spanila-jizda-8634/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "VIIb",
+        "date": "25.5.1960",
+        "url": "/cs/cesta/stara-cesta-2489/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[3.8.2016 23:23:19 michal] Parádní, celkem dlouhá cesta. Dobře zajistitelná (bambule, větší uzly a pak plno hodin). Spára není těžká a okolo jsou chyty. Stavění není vůbec potřeba řešit. Celkově spíš VIIa.",
+          "[1.8.2018 9:28:52 Pavlík] Podle mého klasa sedí. Klidně bych řekl, že tam sasíci původně nestavěli, páč tam je to už opravdu lehké (tak za V). Ale je to pouze můj osobní soukromý osobní názor."
+        ]
+      },
+      {
+        "name": "Studená",
+        "grade": "VI",
+        "date": "27.10.1963",
+        "url": "/cs/cesta/studena-7032/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Dřevorubec",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.614536,
+    "lon": 16.100463,
+    "url": "https://www.piskari.cz/cs/skala/drevorubec-1738/",
+    "routes": [
+      {
+        "name": "Cesta Anity",
+        "grade": "V",
+        "date": "7.6.1980",
+        "url": "/cs/cesta/cesta-anity-6428/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Chlapská",
+        "grade": "VI",
+        "date": "7.6.1980",
+        "url": "/cs/cesta/chlapska-7027/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní",
+        "grade": "IV",
+        "date": "19.7.1980",
+        "url": "/cs/cesta/udolni-4111/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Hajný Habr se psem",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.614737,
+    "lon": 16.099906,
+    "url": "https://www.piskari.cz/cs/skala/hajny-habr-se-psem-1739/",
+    "routes": [
+      {
+        "name": "Bratrská",
+        "grade": "III",
+        "date": "18.7.1980",
+        "url": "/cs/cesta/bratrska-4943/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Helenina",
+        "grade": "IV",
+        "date": "18.7.1980",
+        "url": "/cs/cesta/helenina-5632/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Hloubětínská",
+        "grade": "V",
+        "date": "6.7.1980",
+        "url": "/cs/cesta/hloubetinska-6427/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Přes bříško hajnýho",
+        "grade": "VI",
+        "date": "11.6.1980",
+        "url": "/cs/cesta/pres-brisko-hajnyho-7026/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Přes čelist",
+        "grade": "III",
+        "date": "11.6.1980",
+        "url": "/cs/cesta/pres-celist-4942/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Halapartník",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615776,
+    "lon": 16.099777,
+    "url": "https://www.piskari.cz/cs/skala/halapartnik-1742/",
+    "routes": [
+      {
+        "name": "Climblink",
+        "grade": "VIIa",
+        "date": "",
+        "url": "/cs/cesta/climblink-3550/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[27.9.2012 12:04:15 Iwoš] Obtíže se ukrývají v prvních čtyřech metrech.",
+          "[6.7.2015 21:29:54 Šáfa] Dole VIIIa krok, horní polovina za IV, sakumprdum zprůměrováno na VIIa, které stojí za návštěvu. I když je to kvak."
+        ]
+      },
+      {
+        "name": "Pohodlná",
+        "grade": "III",
+        "date": "30.7.1976",
+        "url": "/cs/cesta/pohodlna-3548/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "III",
+        "date": "13.10.1974",
+        "url": "/cs/cesta/stara-cesta-3547/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Veteránská",
+        "grade": "IV",
+        "date": "13.10.1974",
+        "url": "/cs/cesta/veteranska-3549/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Hejkal",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615622,
+    "lon": 16.10052,
+    "url": "https://www.piskari.cz/cs/skala/hejkal-1733/",
+    "routes": [
+      {
+        "name": "Zvonivá",
+        "grade": "III",
+        "date": "4.6.1966",
+        "url": "/cs/cesta/zvoniva-8857/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Hejkalka",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615914,
+    "lon": 16.100772,
+    "url": "https://www.piskari.cz/cs/skala/hejkalka-1732/",
+    "routes": [
+      {
+        "name": "Bu bu bu",
+        "grade": "V",
+        "date": "12.6.1980",
+        "url": "/cs/cesta/bu-bu-bu-6430/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Bu bu bu – Varianta",
+        "grade": "III",
+        "date": "12.6.1980",
+        "url": "/cs/cesta/bu-bu-bu-varianta-4947/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Komín",
+        "grade": "III",
+        "date": "26.6.1999",
+        "url": "/cs/cesta/komin-4946/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Přeskok",
+        "grade": "",
+        "date": "12.6.1980",
+        "url": "/cs/cesta/preskok-4055/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Hradní",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.617456,
+    "lon": 16.10019,
+    "url": "https://www.piskari.cz/cs/skala/hradni-1743/",
+    "routes": [
+      {
+        "name": "Hradní straš!",
+        "grade": "VIIb",
+        "date": "",
+        "url": "/cs/cesta/hradni-stras-2908/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[13.7.2011 10:39:49 shama] Až nad druhý kruh pěkné lezení po kyzech, nejtěžší asi nástup. Vršek je solidně zališejníkovaný, zato je už výrazně lehčí a najde se i pár hodin k provázání. Něco mezi průměrem a jednou hvězdou.",
+          "[6.7.2015 21:47:49 Šáfa] Těžké jen pod prvním. Ani by už nemusely být kruhy a přesto by to bylo (na Ádr) bezpečné s obhozy kyzů a hodinami."
+        ]
+      },
+      {
+        "name": "Hráškovačka",
+        "grade": "VIIa",
+        "date": "30.10.1983",
+        "url": "/cs/cesta/hraskovacka-7450/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[19.9.2014 9:16:03 Šáfa] Další kyzová stěna. Ke kruhu to jde, tam (už s cvaklým kruhem) srovnat nohy a dál už to zase jde. Metr nad Q hodiny a vylézá se u slaňáku, takže opravdu bezpečná cesta.",
+          "[18.8.2025 7:58:37 HoPe] Pěkné kyzy pod kruhem a poté vyladit pár kroků u kruhu. Vršek špinavý, mechový, ale nevadí to, klíčové stupy se dají v klidu vyčistít. Opatrně na začátku, leze se nad zábradlím."
+        ]
+      },
+      {
+        "name": "Hráškovačka – Paráde varianta",
+        "grade": "VI",
+        "date": "23.3.1984",
+        "url": "/cs/cesta/hraskovacka-parade-varianta-6936/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Kyzová spára",
+        "grade": "VI",
+        "date": "16.9.1960",
+        "url": "/cs/cesta/kyzova-spara-3603/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.10.2012 7:33:15 Hathori] 27.10. Hore Zdar 2012, předchozí zápis Hore Zdar 2011. Pěkná, krátká, žábovačka se zpoustou kyzů okolo a dvěma tutovejma bambulema.",
+          "[19.9.2014 9:13:33 Šáfa] žába, kde se dá odšlápnout na kyzy okolo.",
+          "[18.9.2016 9:18:14 cervo] ideálna prvá spárová šestka, dá sa myslím odistiť bambulou a pekne odstúpať po kyzoch",
+          "[6.9.2024 15:04:23 Vondra] V knížce za V. což si myslím že na těch pár metrů sedí."
+        ]
+      },
+      {
+        "name": "Padací most",
+        "grade": "VIIc",
+        "date": "24.3.1984",
+        "url": "/cs/cesta/padaci-most-8186/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní spára",
+        "grade": "VIIb",
+        "date": "19.8.1973",
+        "url": "/cs/cesta/udolni-spara-7858/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní spára – Varianta",
+        "grade": "VIIb",
+        "date": "11.8.1985",
+        "url": "/cs/cesta/udolni-spara-varianta-7859/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Husita",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.617456,
+    "lon": 16.10019,
+    "url": "https://www.piskari.cz/cs/skala/husita-1744/",
+    "routes": [
+      {
+        "name": "Okem bojovníka",
+        "grade": "VIIc",
+        "date": "13.8.1977",
+        "url": "/cs/cesta/okem-bojovnika-8227/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[3.8.2016 23:37:07 michal] Před vlezem do okna jde v podstatě jedno jištění ( s ním ** bez něj !) a je dobrý si to nakoukat z předskalí, pač tam už není moc času, celkem to tahá. Nástup je lehčí než se tváří, ale pak je tam takový né úplně zadarmo skoro bouldřík do okna a tam to chce zajistit. Průlez a dál to už je ok. Moc se to neleze a když už, tak podle zářezů od lana bych řekl, že se to ojebavá prohozením přes okno."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Jezevčík",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615409,
+    "lon": 16.09971,
+    "url": "https://www.piskari.cz/cs/skala/jezevcik-1737/",
+    "routes": [
+      {
+        "name": "Náhorní hrana",
+        "grade": "III",
+        "date": "10.6.1980",
+        "url": "/cs/cesta/nahorni-hrana-4944/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Jódl-módl",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615776,
+    "lon": 16.101008,
+    "url": "https://www.piskari.cz/cs/skala/jodl-modl-1731/",
+    "routes": [
+      {
+        "name": "Fikaná",
+        "grade": "V",
+        "date": "6.8.1960",
+        "url": "/cs/cesta/fikana-2926/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.7.2011 23:00:23 Iwoš] V pruvodci je popsaná jako \"Horolezecká maturita\", ale ta by měla podle knížky vést vlevo od téhle cesty. Jinak spíš sedí originální název. Svižná pětka.",
+          "[18.9.2016 9:15:10 cervo] Kokšove veldielo :) v podstate sa jedná o jeden z prvých adršpašských bouldrov. V sprievodcovi od Cikána je názov Horolezecká maturita, vo vrcholovke Fikaná. Oba názvy sedia dokonale"
+        ]
+      },
+      {
+        "name": "Fůra starostí",
+        "grade": "VI",
+        "date": "27.6.1981",
+        "url": "/cs/cesta/fura-starosti-7028/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[18.9.2016 9:16:00 cervo] tu už Čada celkom pritvrdil, i keď klasifikácia je len o stupienok vyššie."
+        ]
+      },
+      {
+        "name": "Maturita horolezce",
+        "grade": "V",
+        "date": "6.8.1960",
+        "url": "/cs/cesta/maturita-horolezce-6431/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Joo",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.61577,
+    "lon": 16.101684,
+    "url": "https://www.piskari.cz/cs/skala/joo-1724/",
+    "routes": [
+      {
+        "name": "Grogová",
+        "grade": "IV",
+        "date": "4.7.1982",
+        "url": "/cs/cesta/grogova-5636/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[23.8.2016 20:18:37 Martin] Začátek trochu zelenější, potom lze pokračovat pořád po hraně (Q), obtížnost tak V-VI. Chybí knížka i slaňák (ale je statný strom)."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kentaur",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615999,
+    "lon": 16.102057,
+    "url": "https://www.piskari.cz/cs/skala/kentaur-1717/",
+    "routes": [
+      {
+        "name": "Koňský zadek",
+        "grade": "V",
+        "date": "4.7.1985",
+        "url": "/cs/cesta/konsky-zadek-6438/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Náhorní procházka",
+        "grade": "II",
+        "date": "26.5.1985",
+        "url": "/cs/cesta/nahorni-prochazka-3967/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[10.9.2013 10:45:52 Špásik] Takový krátký kvak, jsou tam jedny hodiny vhodné na solo. Zajímavější je Údolní štreka!"
+        ]
+      },
+      {
+        "name": "Náhorní procházka",
+        "grade": "II",
+        "date": "26.5.1985",
+        "url": "/cs/cesta/nahorni-prochazka-4379/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stříbrný rouno",
+        "grade": "VIIb",
+        "date": "",
+        "url": "/cs/cesta/stribrny-rouno-10694/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[29.8.2017 21:54:55 Páša] Krátký, lehký VIIb v krapet špinavý stěně.",
+          "[19.9.2018 17:59:57 potys] Krátké,leč hezké a perfektně odjištěné,stupy chyty co používáš jsou ok čisté.... když už jsem člověk zajde polézt vyplatí se na této stěnce dát všechny tři cestičky vzhůru....já doporučuji"
+        ]
+      },
+      {
+        "name": "Tasemnice koňská",
+        "grade": "VIIIb",
+        "date": "0.5.2005",
+        "url": "/cs/cesta/tasemnice-konska-10696/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[31.8.2017 11:53:08 Šáfa] Takovéhle převisy v Ádru spočítáš pomalu na prstech jedné ruky"
+        ]
+      },
+      {
+        "name": "Údolní štreka",
+        "grade": "VI",
+        "date": "26.5.1985",
+        "url": "/cs/cesta/udolni-streka-2838/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.6.2011 7:29:10 Hofmič] Pohodová cesta bez větších záludností.",
+          "[1.6.2011 9:23:59 nosicek] Pohodovka a nakonec se i nějaký to lano vymotá. S sebou hodně smyček do hodin.",
+          "[6.6.2011 6:17:48 Hans] Cesta spise krizakovskeho typu. Dobre odjisteny pekny lezeni.",
+          "[27.7.2013 15:30:43 myš] Cesta pro začátečníky a pohodáře. Klasifikace je hodně přestřelená spíše lehčí pětka. Není ve skalním městě tolik tak kvalitně zajistitelných cest, do kterých jde bez strachu poslat nováčka,případně tělocvičnového lezce na ostrém konci lana.",
+          "[10.9.2013 10:49:33 Špásik] Hezká cesta pod kruhem trochu zapřemýšlet , ale pod sebou máš tutové hodiny. Pak chvilku komínek a rajbák s množstvím hodin na vrchol. Určitě stojí za vylezení!",
+          "[11.8.2014 16:10:30 hans1996] jeto supr ale je tam až moc hodin",
+          "[22.7.2015 19:51:14 Pajzl] Nádherná cesta, překvapila mě, že je i docela dlouhá. Nejtěžší asi pod kruhem (pro vyšší lidi pohodový - jde cvaknout kruh a až pak to řešit). A celkově luxusně jištěná - kdyby měl člověk zakládat jištění všude, kde to jde, tak by na tom strávil věčnost.",
+          "[23.8.2016 20:34:20 Martin] Dlouhá pěkná cesta, jedinou vadou na kráse jsou již vyšmatlané stupy."
+        ]
+      },
+      {
+        "name": "Údolní štreka – Varianta",
+        "grade": "VI",
+        "date": "25.4.1992",
+        "url": "/cs/cesta/udolni-streka-varianta-7030/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[29.8.2017 21:46:40 Páša] Člověk si řekne, že jde o pěknou a asi ne moc lezenou variantu Štreky, než doleze ke kruhu Koňskýho zadku (doufám, že to byl on, je to první starej zrezlej kruh co se v traverzu zjeví). Tam jsem celkem koukal, nakonec jsem to vytrápil čistě, ale za V mi to přišlo leda se stavěním. Snad jsem tam něco nepřehlíd.",
+          "[30.8.2017 10:27:45 Šáfa] podle popisu by to mohla být Tasemnice koňská VIIIb od Jirky Šrůtka",
+          "[5.9.2017 18:14:20 Páša] Podle popisu to sedí, ale já přitraverzoval až k dolezu Konškým zadkem, kterým Tasemnice taky končí. Tam už by to podle průvodce za VIIIb bejt nemělo."
+        ]
+      },
+      {
+        "name": "Ulomený kopyto",
+        "grade": "VIIa",
+        "date": "13.9.1987",
+        "url": "/cs/cesta/ulomeny-kopyto-7524/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Zlaté hovno",
+        "grade": "VI",
+        "date": "",
+        "url": "/cs/cesta/zlate-hovno-10695/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[29.8.2017 22:00:17 Páša] Krátká trochu špinavější stěnko spára.",
+          "[19.9.2018 18:01:20 potys] krátké,ale hezké a odjištěné perfektně.....vyplatí se dát si potom všechny tři cestičky v této stěnce....doporučuji za sebe"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Kočička",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.614653,
+    "lon": 16.101188,
+    "url": "https://www.piskari.cz/cs/skala/kocicka-1734/",
+    "routes": [
+      {
+        "name": "Klouzavá",
+        "grade": "IV",
+        "date": "27.7.1980",
+        "url": "/cs/cesta/klouzava-5295/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Mroucek",
+        "grade": "IV",
+        "date": "26.7.1980",
+        "url": "/cs/cesta/mroucek-5294/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Lesní hodinář",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615581,
+    "lon": 16.100072,
+    "url": "https://www.piskari.cz/cs/skala/lesni-hodinar-1736/",
+    "routes": [
+      {
+        "name": "Ptačí křik",
+        "grade": "V",
+        "date": "29.4.1990",
+        "url": "/cs/cesta/ptaci-krik-6429/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Lichvář",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615879,
+    "lon": 16.101531,
+    "url": "https://www.piskari.cz/cs/skala/lichvar-1723/",
+    "routes": [
+      {
+        "name": "Hrana",
+        "grade": "III",
+        "date": "1.8.1980",
+        "url": "/cs/cesta/hrana-2848/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[2.6.2011 21:03:00 Hofmič] Vhodná skalka na učení...",
+          "[5.9.2017 18:23:24 Páša] Asi si to vzalo hodně lidí k srdci, jelikož začíná bejt docela ošlapaná."
+        ]
+      },
+      {
+        "name": "Kvakova",
+        "grade": "III",
+        "date": "14.6.1981",
+        "url": "/cs/cesta/kvakova-2849/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[2.6.2011 21:06:18 Hofmič] Pěkná skalka na učení, velké množství chytů."
+        ]
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "II",
+        "date": "1.8.1980",
+        "url": "/cs/cesta/stara-cesta-2575/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Zelené stíny",
+        "grade": "V",
+        "date": "27.6.1981",
+        "url": "/cs/cesta/zelene-stiny-6435/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[23.8.2016 20:25:14 Martin] Čistá stěna s dobrými chyty, problémové místo až nahoře, ale nic, co by překračovalo danou obtížnost."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Lišák",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.61436,
+    "lon": 16.100184,
+    "url": "https://www.piskari.cz/cs/skala/lisak-1740/",
+    "routes": [
+      {
+        "name": "Plotnou",
+        "grade": "V",
+        "date": "7.8.1980",
+        "url": "/cs/cesta/plotnou-6100/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní hrana",
+        "grade": "VI",
+        "date": "8.8.1980",
+        "url": "/cs/cesta/udolni-hrana-6743/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Loupežník",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.616949,
+    "lon": 16.10101,
+    "url": "https://www.piskari.cz/cs/skala/loupeznik-1745/",
+    "routes": [
+      {
+        "name": "Jihozápadní spára",
+        "grade": "VI",
+        "date": "16.9.1960",
+        "url": "/cs/cesta/jihozapadni-spara-7025/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[3.8.2016 23:42:59 michal] Zajistit moc nejde, ale lízt jde dobře, občas chyt. Není knížka, ale jelikož je hned vedle chodníku na hrad je tam spousta jiných věcí :)"
+        ]
+      },
+      {
+        "name": "Loupežnická zkouška odvahy",
+        "grade": "VIIb",
+        "date": "15.8.2008",
+        "url": "/cs/cesta/loupeznicka-zkouska-odvahy-10790/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[6.9.2024 15:02:41 Vondra] Hezké lezení po kyzech v ne úplně čistém materiálu."
+        ]
+      },
+      {
+        "name": "Novosvětská",
+        "grade": "VI",
+        "date": "27.10.1963",
+        "url": "/cs/cesta/novosvetska-7024/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "IV",
+        "date": "21.8.1960",
+        "url": "/cs/cesta/stara-cesta-5631/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta – Varianta",
+        "grade": "III",
+        "date": "21.8.1986",
+        "url": "/cs/cesta/stara-cesta-varianta-4941/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Větší půlka",
+        "grade": "VIIa",
+        "date": "2.10.1983",
+        "url": "/cs/cesta/vetsi-pulka-7523/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Malý Ondra",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.616384,
+    "lon": 16.101614,
+    "url": "https://www.piskari.cz/cs/skala/maly-ondra-1714/",
+    "routes": [
+      {
+        "name": "Projekce",
+        "grade": "V",
+        "date": "25.9.1983",
+        "url": "/cs/cesta/projekce-6443/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Za školou",
+        "grade": "V",
+        "date": "25.9.1983",
+        "url": "/cs/cesta/za-skolou-6442/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[3.8.2016 23:48:09 michal] Ke Q pěkný stěnový lezení po dírách, trochu do kopce-hodiny. Stavění u kruhu už se leze dle zápisů čistě, ale nepodařilo se nám to. Výlez určitě není za V a je trošec o držku, dolézá se přes bříško do mechů, dost odjížděj."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mikrob",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.616159,
+    "lon": 16.101096,
+    "url": "https://www.piskari.cz/cs/skala/mikrob-1727/",
+    "routes": [
+      {
+        "name": "Kominická",
+        "grade": "III",
+        "date": "27.10.1963",
+        "url": "/cs/cesta/kominicka-4950/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Sluneční hrana",
+        "grade": "III",
+        "date": "2.8.1980",
+        "url": "/cs/cesta/slunecni-hrana-2881/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[19.6.2011 18:59:26 Hofmič] Lehká cesta, jištění přes hodiny, není slaňák..."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nadlesní",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.614412,
+    "lon": 16.099629,
+    "url": "https://www.piskari.cz/cs/skala/nadlesni-1741/",
+    "routes": [
+      {
+        "name": "Cesta Beaty",
+        "grade": "V",
+        "date": "5.8.1980",
+        "url": "/cs/cesta/cesta-beaty-6426/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Olympijská",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615809,
+    "lon": 16.101839,
+    "url": "https://www.piskari.cz/cs/skala/olympijska-1719/",
+    "routes": [
+      {
+        "name": "Bramborová medaile",
+        "grade": "VIIa",
+        "date": "29.5.1988",
+        "url": "/cs/cesta/bramborova-medaile-2573/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[7.9.2010 21:57:02 pavel] Hezká cesta. pod kruhem a kolem kruhu celkem vyrovnaná cesta, nahoře to není tak horký. Nad kruhem hodiny. V průvodci je cesta je v popisu chyba, cesta vede vlevo od cesty Křehké vztahy.",
+          "[6.7.2015 21:50:35 Šáfa] Pod kruhem jsem nic založit nedokázal, nad kruhem jsem nic založit nepotřeboval.",
+          "[18.7.2015 9:47:33 Špajda] Pořád po chytech s jedním krapet hektičtějším krokem pod kruhem. Paráda!",
+          "[23.8.2016 20:12:22 Martin] Pěkná cesta, ke kruhu po madlech.",
+          "[12.9.2016 8:48:22 Hlaďas] Pod kruhem horší matroš jinak pěkné, kratší.",
+          "[9.7.2017 17:38:11 potyssnowby@gmail.com] hezká bezpečná sedma.......",
+          "[5.9.2017 17:42:54 Páša] Matroš teda nic moc, chce to s citem."
+        ]
+      },
+      {
+        "name": "Křehké vztahy",
+        "grade": "V",
+        "date": "26.6.1981",
+        "url": "/cs/cesta/krehke-vztahy-2839/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.6.2011 7:35:50 Hofmič] Celkem jednoduchá cesta pro začátečníky...",
+          "[5.9.2017 17:44:22 Páša] Kratší a lehká cesta. Dolez se dá řešit více způsoby.",
+          "[30.9.2018 10:17:09 Pajzl] Pěkná, kratší cesta, závěrečný výšvih lze buďto vzít zleva, nebo rovně (neptarně těžší)"
+        ]
+      },
+      {
+        "name": "Pepkova",
+        "grade": "III",
+        "date": "1.8.1980",
+        "url": "/cs/cesta/pepkova-4955/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Přeskok",
+        "grade": "",
+        "date": "7.8.1985",
+        "url": "/cs/cesta/preskok-4066/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "II",
+        "date": "1.8.1980",
+        "url": "/cs/cesta/stara-cesta-4378/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[5.9.2017 18:20:02 Páša] Po cestě je hodně nepříjemně dunící blok."
+        ]
+      },
+      {
+        "name": "Volná",
+        "grade": "IV",
+        "date": "1.8.1980",
+        "url": "/cs/cesta/volna-5640/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Palcát",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.616176,
+    "lon": 16.101974,
+    "url": "https://www.piskari.cz/cs/skala/palcat-1712/",
+    "routes": [
+      {
+        "name": "Božích Bojovníků",
+        "grade": "VIIb",
+        "date": "20.6.1974",
+        "url": "/cs/cesta/bozich-bojovniku-2393/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[13.7.2010 19:29:31 lezecc] Při pohledu z vrcholu Dráždanské, parádní kyzovytá stěna která láká.Ale asi ne nadarmo jsme tenkrát když jsme to lezli měli jeden z prvních přelezů,alespon podle zápisů ve vrcholovce.Vykřičník je zcela oprávněný, jištění jsem objevil až pod vrškem kde je lepší udělat už krok na horu,ale hlavně opatrně!!! Krásná linie, jen obtížnost VIIb....no ne nadarmo se v průvodci 500 výstupů v adršpachu píše VIIIa.",
+          "[19.7.2019 14:55:42 kopcolezec] jak píše lezecc, když k tomu přistoupíte, že lezete VIIIa a navíc jako my si spletete strany věže a od Q nelezete do \"lehkýho\" ve středu stěny, ale valíte si to po hraně (bo si myslíte, že lezete Studničkovu), tak narazíte na hraně na slušné hodiny, co dost pomůžou a pak je to lezení teda krásný, to jó!"
+        ]
+      },
+      {
+        "name": "Božích bojovníků – Kombinace",
+        "grade": "VI",
+        "date": "20.6.1974",
+        "url": "/cs/cesta/bozich-bojovniku-kombinace-7033/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Husitský chorál",
+        "grade": "VIIIa",
+        "date": "27.9.1980",
+        "url": "/cs/cesta/husitsky-choral-2394/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[13.7.2010 22:14:50 lezecc] Krásná cesta, pod kruhem kyzová stěnka nad kruhem balancování a kroucení na ostré hraně, pak nátah přes převis, druhý kruh,bez stavění přichází vysoký nášlap vyvážení a už jen běžet na vrchol.",
+          "[12.9.2012 0:46:58 Alešák] Nádherná stěna, pod kruhem jemné, nad ním velkolepé, čistý přelez stavění je jemně velkolepý.",
+          "[9.7.2018 22:39:46 Staník] Lezení je pěkné, i matroš pevný ale... Krux dostat se k levé díře je teda dost daleko od 1. Q. Nevím jestli by to vyšlo nad předskalí když by se smeklo... Dále se zdá, že ne moc košer cvakání kruhu je tu zhusta užíváno (hódně dlouhé bidlo za předskalím aj. indicie) Přiznávám, že i já cvakl kruh o něco dříve ... Následuje podrobnější popis, protože mi cesta nepřipadá moc bezpečná a čitelná. Onsajtéři nečtou. Ad popis: z předskalí se začíná se na pravé hraně (stojím-li pod stěnkou s 1.Q kruhem). Po hraně, 2× hodiny, pak do kyzů pod kruhem. Od něj zpět na hranu, za ní a vzhůru až pod převis. Zde nepříjemné překulit se zpět do stěny nad kruhem, do levé díry pod převisem. Z ní se dá bezpečně dosáhnout doprava do cvakací (dobré) díry vpravo v převisu (bočák), k tomu celkem dobré stupy. Bez stavění za VIIIb - scifi, spíš těžší. Ve vrcholovce varianta traverz na pravou hranu do Kokšovy a n.v. (vyhnutí se stavění)."
+        ]
+      },
+      {
+        "name": "Studničkova",
+        "grade": "VIIIa",
+        "date": "13.10.1966",
+        "url": "/cs/cesta/studnickova-583/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[23.6.2009 12:08:20 Alešák] Trochu zavádějící popis. Cesta vede 2 spárami kousek vedle sebe (mezi nimi myslím hodiny) na balkon, z něj doleva za hranu, stěnkou (klíč. místo) přes hodinky a smyčku pod převis, tam zpět doprava na hranu a po madlech ke Q. U něj štand (lano dře skálu a nad Q to je už zadarmo). Dobře odjištěná cesta.",
+          "[14.9.2009 17:46:13 dusa] Spodek je hodně osolený a trochu silový, ale jde výborně odjistit (skoro v každý smyčce sem seděl:) )",
+          "[26.8.2013 7:33:26 myš] Snažili jsme se cestu lézt dle popisu v průvodci. Nástup je celkem jasný, levá širočina od Větrné 2x hodiny, pak na balkóně úplně vlevo na hraně k hodinám a dále nahoru kde cesta míjí kruh od Husitského chorálu (v době prvovýstupu tam nebyl a pokud ho cvaknete tak je nutné zaštandovat). Od kruhu cca 2metry nahoru po hraně a traverz do středu stěny k velkým hodinám, od nich (technicky nejtěžší místo) traverz k dalším hodinám pod převisem na hraně. Silový výlez za velké chyty ke kruhu a pak už jen buldřík kolem kruhu a mazat na vrchol. Velkolepá cesta na málo lezenou věž.",
+          "[22.10.2017 17:39:00 cervo] Parádna, dobre odistená cesta s luxusnými lezeckými pohybmi. Človeka drží celý čas v strehu (na prvý pohľad) nejasnosť línie, no vždy je to nakoniec ľahšie ako to vypadá. A to je na tom to krásne!"
+        ]
+      },
+      {
+        "name": "Vozová hradba",
+        "grade": "IXa",
+        "date": "7.7.1991",
+        "url": "/cs/cesta/vozova-hradba-5874/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Poustevníček",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615696,
+    "lon": 16.101129,
+    "url": "https://www.piskari.cz/cs/skala/poustevnicek-1730/",
+    "routes": [
+      {
+        "name": "Komín",
+        "grade": "II",
+        "date": "18.6.1960",
+        "url": "/cs/cesta/komin-4375/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stěna",
+        "grade": "III",
+        "date": "18.6.1960",
+        "url": "/cs/cesta/stena-4948/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Radek",
+    "area": "Adršpach",
+    "sector": "Podhradí",
+    "lat": 50.615635,
+    "lon": 16.101255,
+    "url": "https://www.piskari.cz/cs/skala/radek-1729/",
+    "routes": [
+      {
+        "name": "Severozápadní hrana",
+        "grade": "V",
+        "date": "19.10.1974",
+        "url": "/cs/cesta/severozapadni-hrana-6432/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Traverzová",
+        "grade": "III",
+        "date": "19.10.1974",
+        "url": "/cs/cesta/traverzova-4949/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  }
+]

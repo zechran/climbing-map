@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Technical Documentation — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link active">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link">How to Generate a GPX File</a>
+<a href="climber-filter.html" class="nav-link">Climber Filter</a>
+<a href="qa-report.html" class="nav-link">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>Technical Documentation</h1>
+<p><strong>Summary</strong>: Implementation details of the piskari.cz scraping pipeline — site structure, data extraction, JSON model, GPX format, and how to extend to new areas.</p>
+<p><strong>Sources</strong>: piskari-scraper.py, direct inspection of piskari.cz via Claude in Chrome</p>
+<p><strong>Last updated</strong>: 2026-05-25 (mapycz-gps.py added)</p>
+<hr />
+<h2>Architecture overview</h2>
+<pre><code>piskari.cz  ──scrape──►  JSON  ──generate──►  GPX  ──import──►  Locus Map
+              browser               file                         (offline)
+</code></pre>
+<p>The browser is required because GPS coordinates are only available inside a JavaScript-rendered Google Maps embed. Plain HTTP fetches return no coordinates. All scraping uses <strong>Playwright</strong> (Python) controlling a Chromium browser.</p>
+<hr />
+<h2>piskari.cz site structure</h2>
+<h3>URL patterns</h3>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Pattern</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Area</td>
+<td><code>/cs/[area]/</code></td>
+<td><code>/cs/adrspach/</code></td>
+</tr>
+<tr>
+<td>Sector</td>
+<td><code>/cs/[area]/[sector-slug]-[ID]/</code></td>
+<td><code>/cs/adrspach/milenecka-hora-7/</code></td>
+</tr>
+<tr>
+<td>Sector page 2+</td>
+<td><code>/cs/[area]/[sector-slug]-[ID]/[N]/</code></td>
+<td><code>/cs/adrspach/milenecka-hora-7/1/</code></td>
+</tr>
+<tr>
+<td>Tower</td>
+<td><code>/cs/skala/[name-slug]-[ID]/</code></td>
+<td><code>/cs/skala/adam-a-eva-1378/</code></td>
+</tr>
+<tr>
+<td>Route</td>
+<td><code>/cs/cesta/[name-slug]-[ID]/</code></td>
+<td><code>/cs/cesta/jizni-2389/</code></td>
+</tr>
+<tr>
+<td>Tower search</td>
+<td><code>/cs/vyhledani-skalni-veze/</code></td>
+<td>alphabetical, paginated</td>
+</tr>
+</tbody>
+</table>
+<p>Sector pages show 30 towers per page. Page 1 has no suffix; page 2 is <code>/1/</code>, page 3 is <code>/2/</code>, etc. (zero-indexed offset).</p>
+<h3>Tower IDs</h3>
+<p>Tower IDs in the 1xxx–2xxx range are established towers with full data including GPS. IDs in the 3xxx range are newer additions that typically have no GPS map on piskari.cz yet (confirmed: Amorek 3614, Konipas 3662, Sokolík 3613, Tři sestry 3680 — all missing map tab in Milenecká hora).</p>
+<h3>Tower page structure</h3>
+<p>A tower page at <code>/cs/skala/[name]-[ID]/</code> contains three tab sections (JavaScript-toggled):</p>
+<ul>
+<li><strong>cesty</strong> — route table, visible on page load (no JS needed)</li>
+<li><strong>mapa, okolní věže</strong> — Google Maps embed + list of nearby towers</li>
+<li><strong>hlášení pro skalní údržbu</strong> — maintenance reporting form</li>
+</ul>
+<p>The route table (<code>&lt;table class="vypis vypisCest"&gt;</code>) lists all routes with links to <code>/cs/cesta/</code> pages. Each route link has the name as link text; grade and first-ascent date appear as plain text in the same <code>&lt;td&gt;</code>.</p>
+<h3>GPS storage</h3>
+<p>GPS coordinates are <strong>not in the raw HTML</strong>. They are passed to the Google Maps API in inline JavaScript. The map container is <code>&lt;div id="a-vypis-mapy"&gt;</code>. After clicking the &ldquo;mapa, okolní věže&rdquo; tab, Google Maps initialises as <code>window.map</code> (a <code>google.maps.Map</code> instance). The map is centred on the tower&rsquo;s location.</p>
+<p><strong>Extraction method</strong>: <code>window.map.getCenter()</code> returns a <code>google.maps.LatLng</code> object. Calling <code>.lat()</code> and <code>.lng()</code> on it gives the tower&rsquo;s coordinates.</p>
+<p><strong>Wait condition</strong>: The map object exists before it is fully ready. The safe wait condition is:</p>
+<pre><code class="language-javascript">() =&gt; {
+    try {
+        var c = window.map.getCenter();
+        return c !== null &amp;&amp; typeof c.lat === 'function' &amp;&amp; c.lat() !== 0;
+    } catch(e) { return false; }
+}
+</code></pre>
+<h3>Route page structure</h3>
+<p>A route page at <code>/cs/cesta/[name]-[ID]/</code> contains:</p>
+<ul>
+<li><strong>Route metadata</strong> — in a single <code>&lt;td&gt;</code> containing lines prefixed with <code>popis:</code>, <code>datum prvovýstupu:</code>, <code>autor:</code>, <code>charakter:</code></li>
+<li><strong>Comments</strong> — in <code>&lt;table class="komentare"&gt;</code>. Rows alternate: odd rows = date + username, even rows = comment text. Rows containing <code>"Uživatel cestu pouze hodnotil, nekomentoval."</code> are rating-only entries with no text and should be skipped.</li>
+</ul>
+<hr />
+<h2>Scraper: piskari-scraper.py</h2>
+<h3>Requirements</h3>
+<pre><code class="language-bash">python3 -m venv venv
+source venv/bin/activate
+pip install playwright
+python -m playwright install chromium
+</code></pre>
+<p>Tested with Python 3.8.2. The <code>from __future__ import annotations</code> import at the top enables modern type hint syntax on Python 3.8.</p>
+<h3>Functions</h3>
+<table>
+<thead>
+<tr>
+<th>Function</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>collect_tower_urls(page, sector_path)</code></td>
+<td>Crawls all pages of a sector, returns list of <code>{name, url}</code></td>
+</tr>
+<tr>
+<td><code>get_tower_data(page, tower_url)</code></td>
+<td>Visits one tower page: extracts name, area, sector, GPS, routes</td>
+</tr>
+<tr>
+<td><code>get_route_details(page, route_url)</code></td>
+<td>Visits one route page: extracts popis, charakter, autor, comments</td>
+</tr>
+<tr>
+<td><code>build_desc(tower, comments_by_route)</code></td>
+<td>Assembles the <code>&lt;desc&gt;</code> string for a GPX waypoint</td>
+</tr>
+<tr>
+<td><code>write_gpx(towers, comments, output, label)</code></td>
+<td>Writes GPX file from tower list</td>
+</tr>
+</tbody>
+</table>
+<h3>CLI flags</h3>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--sector "Name"</code></td>
+<td>Scrape one Adršpach sector by name (default: Milenecká hora)</td>
+</tr>
+<tr>
+<td><code>--all-adrspach</code></td>
+<td>Scrape all 11 Adršpach sectors in sequence</td>
+</tr>
+<tr>
+<td><code>--kv-sector "Name"</code></td>
+<td>Scrape one Křížový vrch obvod by name</td>
+</tr>
+<tr>
+<td><code>--all-krizovy-vrch</code></td>
+<td>Scrape all 3 Křížový vrch obvods in sequence</td>
+</tr>
+<tr>
+<td><code>--tower /cs/skala/[name]-[ID]/</code></td>
+<td>Scrape a single tower</td>
+</tr>
+<tr>
+<td><code>--add-comments FILE.json</code></td>
+<td>Enrich existing JSON with route details and comments, regenerate GPX</td>
+</tr>
+<tr>
+<td><code>--retry FILE.json</code></td>
+<td>Re-scrape only towers with missing GPS in an existing JSON</td>
+</tr>
+<tr>
+<td><code>--comments</code></td>
+<td>Fetch comments during the initial scrape (slower; prefer <code>--add-comments</code>)</td>
+</tr>
+<tr>
+<td><code>--output FILE</code></td>
+<td>Override output file name</td>
+</tr>
+<tr>
+<td><code>--headless</code></td>
+<td>Run browser without visible window</td>
+</tr>
+</tbody>
+</table>
+<h3>Performance notes</h3>
+<ul>
+<li>Images, CSS and fonts are blocked via Playwright route interception to speed up page loads</li>
+<li>GPS extraction requires waiting for Google Maps to initialise (~2–5s per tower)</li>
+<li>Typical throughput: ~10–15 towers/minute for the GPS+routes pass</li>
+<li>The <code>--add-comments</code> pass visits ~3–4 route pages per tower; budget ~1 hour per 100 towers</li>
+</ul>
+<hr />
+<h2>JSON data model</h2>
+<p>Each tower is one object. The JSON file is a list of tower objects.</p>
+<pre><code class="language-json">{
+  &quot;name&quot;: &quot;Adam a Eva&quot;,
+  &quot;area&quot;: &quot;Adršpach&quot;,
+  &quot;sector&quot;: &quot;Milenecká hora&quot;,
+  &quot;lat&quot;: 50.608439,
+  &quot;lon&quot;: 16.115956,
+  &quot;url&quot;: &quot;https://www.piskari.cz/cs/skala/adam-a-eva-1378/&quot;,
+  &quot;routes&quot;: [
+    {
+      &quot;name&quot;: &quot;Jižní&quot;,
+      &quot;grade&quot;: &quot;V&quot;,
+      &quot;date&quot;: &quot;21.6.1961&quot;,
+      &quot;url&quot;: &quot;/cs/cesta/jizni-2389/&quot;,
+      &quot;popis&quot;: &quot;Od JZ komínem do vnitřního prostoru. Vpravo spárou a komínem na vrchol.&quot;,
+      &quot;charakter&quot;: &quot;širočina | komín&quot;,
+      &quot;autor&quot;: &quot;Fritz Flötgen a Herbert Richter&quot;,
+      &quot;comments&quot;: [
+        &quot;[19.8.2015 14:00:09 Standa] Dole zajistit jde...&quot;,
+        &quot;[22.9.2016 20:04:12 half] Kdo se rád plazí...&quot;,
+        &quot;[28.6.2017 13:05:44 cervo] Zrejme najľahšia cesta...&quot;
+      ]
+    }
+  ]
+}
+</code></pre>
+<p><code>lat</code>/<code>lon</code> are <code>null</code> for towers where GPS extraction failed (no map tab on piskari.cz). <code>popis</code>, <code>charakter</code>, <code>autor</code>, <code>comments</code> are empty/absent until <code>--add-comments</code> is run.</p>
+<p>The JSON file is the canonical intermediate store. The GPX is always regenerated from it — never edit the GPX directly.</p>
+<hr />
+<h2>GPX format</h2>
+<p>One <code>&lt;wpt&gt;</code> per tower. Towers without GPS (<code>lat</code>/<code>lon</code> = null) are silently skipped.</p>
+<pre><code class="language-xml">&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;
+&lt;gpx version=&quot;1.1&quot; creator=&quot;piskari-scraper.py&quot;
+     xmlns=&quot;http://www.topografix.com/GPX/1/1&quot;&gt;
+  &lt;metadata&gt;
+    &lt;name&gt;Piskovce — Milenecká hora&lt;/name&gt;
+    &lt;desc&gt;Climbing towers from piskari.cz — Milenecká hora. Generated 2026-05-23.&lt;/desc&gt;
+  &lt;/metadata&gt;
+  &lt;wpt lat=&quot;50.6084390&quot; lon=&quot;16.1159560&quot;&gt;
+    &lt;name&gt;Adam a Eva&lt;/name&gt;
+    &lt;desc&gt;
+OBLAST: Adršpach / Milenecká hora
+ZDROJ: piskari.cz
+URL: https://www.piskari.cz/cs/skala/adam-a-eva-1378/
+
+--- CESTY ---
+1. Jižní | V | (21.6.1961)
+   Charakter: širočina | komín
+   Popis: Od JZ komínem do vnitřního prostoru...
+   Autor: Fritz Flötgen a Herbert Richter
+   Komentáře:
+   &gt; [19.8.2015 14:00:09 Standa] Dole zajistit jde...
+    &lt;/desc&gt;
+    &lt;sym&gt;Flag, Blue&lt;/sym&gt;
+  &lt;/wpt&gt;
+&lt;/gpx&gt;
+</code></pre>
+<p>The <code>&lt;desc&gt;</code> field is plain text — Locus Map renders it as-is with line breaks. No HTML or markdown is used because Locus Map does not render markup in waypoint descriptions.</p>
+<hr />
+<h2>Locus Map import</h2>
+<ul>
+<li><strong>Import path</strong>: My Library → Import → select GPX file</li>
+<li><strong>Folder</strong>: create one folder per sector; import each sector&rsquo;s GPX into its own folder</li>
+<li><strong>Visibility</strong>: entire sector shown/hidden with one tap on the folder</li>
+<li><strong>Offline</strong>: works fully without cell signal once LoMaps are downloaded for the region</li>
+<li><strong>Waypoint limit</strong>: no hard limit; display performance consideration at ~10,000 simultaneous points (well above the total tower count for all five <a href="policka-panev.html">Polická pánev (Police Basin)</a> areas)</li>
+</ul>
+<hr />
+<h2>Known limitations</h2>
+<table>
+<thead>
+<tr>
+<th>Limitation</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Towers with no GPS</td>
+<td>IDs in 3xxx range on piskari.cz have no map tab; lat/lon remain null and tower is excluded from GPX. Fix manually in JSON if coordinates are found elsewhere.</td>
+</tr>
+<tr>
+<td>Google Maps API error dialog</td>
+<td>&ldquo;This page can&rsquo;t load Google Maps correctly&rdquo; appears on some tower pages (invalid API key). Does not affect GPS extraction — <code>window.map.getCenter()</code> works regardless. Playwright dismisses it automatically.</td>
+</tr>
+<tr>
+<td>Comment count</td>
+<td>Up to 8 comments per route are fetched (configurable via <code>max_comments</code> param in <code>get_route_details</code>). Older comments are not retrieved.</td>
+</tr>
+<tr>
+<td>Grade regex</td>
+<td>Grade extraction uses a regex that covers most Czech sandstone grades (I–Xa). Edge cases like &ldquo;VIId RP: VIIc&rdquo; may parse incorrectly.</td>
+</tr>
+<tr>
+<td>Session state</td>
+<td>Each scraper run opens a fresh browser. piskari.cz does not require login to read tower/route data.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Script: gipfelbuch-gps.py</h2>
+<p>A second script handles GPS for areas where piskari.cz provides no coordinates (currently: Křížový vrch). It fetches <code>Gipfelkoordinaten</code> from <code>db-sandsteinklettern.gipfelbuch.de</code> and patches an existing piskovce-*.json in place.</p>
+<h3>Requirements</h3>
+<pre><code class="language-bash">pip install requests beautifulsoup4
+</code></pre>
+<p>No Playwright or browser needed — gipfelbuch.de is static HTML.</p>
+<h3>How it works</h3>
+<ol>
+<li>Fetches the sector page (<code>gipfel.php?sektorid=N</code>) to collect all gipfelids</li>
+<li>For each tower, fetches <code>weg.php?gipfelid=N</code> and extracts:</li>
+<li>Czech name from the <code>&lt;h2&gt;</code> heading (format: <code>NR GERMAN_NAME / CZECH_NAME</code>)</li>
+<li>GPS from the line <code>Gipfelkoordinaten: LAT Grad nördlicher Breite und LON Grad östlicher Länge</code></li>
+<li>Normalizes both names (strip diacritics, lowercase) and matches to the existing JSON</li>
+<li>Writes updated JSON and regenerates GPX</li>
+</ol>
+<h3>Encoding: cp1250 (critical)</h3>
+<p>gipfelbuch.de uses <strong>Windows-1250 (cp1250)</strong> encoding, <strong>not</strong> iso-8859-2. The difference matters in the 0x80–0x9F byte range:</p>
+<table>
+<thead>
+<tr>
+<th>Byte</th>
+<th>cp1250</th>
+<th>iso-8859-2</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>\x9a</code></td>
+<td><code>š</code></td>
+<td>control char (invisible)</td>
+</tr>
+<tr>
+<td><code>\x9e</code></td>
+<td><code>ž</code></td>
+<td>control char (invisible)</td>
+</tr>
+</tbody>
+</table>
+<p>Reading the page as iso-8859-2 causes names like <code>Tomášova věžička</code> to appear as <code>Tomá\x9aova vě\x9eička</code>, breaking name matching. The script explicitly sets <code>r.encoding = "cp1250"</code>.</p>
+<h3>CLI flags</h3>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--sektor "Name"</code></td>
+<td>One Křížový vrch obvod (looks up sektorid automatically)</td>
+</tr>
+<tr>
+<td><code>--all-kv</code></td>
+<td>All 3 Křížový vrch obvods (auto-detects JSON filenames)</td>
+</tr>
+<tr>
+<td><code>--json FILE</code></td>
+<td>Override JSON path (for <code>--sektor</code> only)</td>
+</tr>
+</tbody>
+</table>
+<h3>Known gaps</h3>
+<ul>
+<li>Some towers exist on piskari.cz but not on gipfelbuch.de → no GPS available automatically; must be added manually to the JSON</li>
+<li>Name mismatches between the two sources → reported by the script after each run; add a manual mapping dict in the script if needed</li>
+</ul>
+<h3>sektorid map for Křížový vrch</h3>
+<table>
+<thead>
+<tr>
+<th>Obvod</th>
+<th>piskari.cz URL</th>
+<th>gipfelbuch sektorid</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Křížový hřeben</td>
+<td><code>/cs/krizovy-vrch/krizovy-hreben-23/</code></td>
+<td>70</td>
+</tr>
+<tr>
+<td>Jižní věže</td>
+<td><code>/cs/krizovy-vrch/jizni-veze-22/</code></td>
+<td>71</td>
+</tr>
+<tr>
+<td>Zdoňovský oblouk</td>
+<td><code>/cs/krizovy-vrch/zdonovsky-oblouk-24/</code></td>
+<td>72</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Script: mapycz-gps.py</h2>
+<p>A third GPS script using the official <strong>mapy.com REST API</strong> (geocoding, <code>type=poi</code>). Works for any area — unlike <code>gipfelbuch-gps.py</code> which is Křížový vrch only. Also useful as a fallback for towers that piskari.cz itself cannot geocode (e.g. the 3xxx ID towers in Adršpach).</p>
+<h3>Requirements</h3>
+<pre><code class="language-bash">pip install requests   # already installed if you have the other scripts
+</code></pre>
+<p>No API key stored in the script. Key is prompted at runtime via <code>getpass</code> (hidden input, not echoed).</p>
+<p>Get a free key at: <a href="https://developer.mapy.com/rest-api-mapy-cz/how-to-start/">developer.mapy.com</a><br />
+Cost: 4 credits per geocoding call. Free tier: 250,000 credits/month → ~62,500 lookups free.</p>
+<h3>How it works</h3>
+<ol>
+<li>Prompts for API key (hidden input)</li>
+<li>For each tower with missing GPS, calls <code>GET https://api.mapy.cz/v1/geocode?query=NAME&amp;type=poi&amp;lang=cs&amp;limit=5&amp;apikey=KEY</code></li>
+<li>Validates each result is within the area&rsquo;s <strong>bounding box</strong> (auto-detected from the JSON filename) — filters out false matches from other parts of CZ</li>
+<li>Takes the best result (inside bbox + name match preferred)</li>
+<li>Patches JSON and regenerates GPX</li>
+</ol>
+<h3>CLI flags</h3>
+<table>
+<thead>
+<tr>
+<th>Flag</th>
+<th>Effect</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>--json FILE</code></td>
+<td>JSON file to patch (required)</td>
+</tr>
+<tr>
+<td><code>--all</code></td>
+<td>Re-geocode all towers, not just those with missing GPS</td>
+</tr>
+<tr>
+<td><code>--dry-run</code></td>
+<td>Print what would be found without writing any files</td>
+</tr>
+<tr>
+<td><code>--no-gpx</code></td>
+<td>Update JSON only, skip GPX regeneration</td>
+</tr>
+</tbody>
+</table>
+<h3>Bounding boxes</h3>
+<p>The script auto-detects the area bounding box from the JSON filename. Defined in <code>AREA_BBOX</code> dict:</p>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Bbox (min_lon, min_lat, max_lon, max_lat)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Adršpach</td>
+<td>16.05, 50.57, 16.22, 50.67</td>
+</tr>
+<tr>
+<td>Křížový vrch</td>
+<td>16.08, 50.59, 16.20, 50.67</td>
+</tr>
+<tr>
+<td>Broumovské stěny</td>
+<td>16.27, 50.52, 16.50, 50.65</td>
+</tr>
+<tr>
+<td>Ostaš</td>
+<td>16.10, 50.54, 16.25, 50.62</td>
+</tr>
+<tr>
+<td>Teplické skály</td>
+<td>16.05, 50.57, 16.22, 50.67</td>
+</tr>
+<tr>
+<td>default (fallback)</td>
+<td>15.80, 50.40, 16.60, 50.80</td>
+</tr>
+</tbody>
+</table>
+<h3>Coverage and limitations</h3>
+<ul>
+<li><strong>Works well</strong> for towers with standard Czech names that mapy.cz indexes as POIs</li>
+<li><strong>Partial coverage</strong> — mapy.cz may not have every tower, especially newer or smaller ones</li>
+<li><strong>Not found</strong> results are listed after each run; fix manually in the JSON or try a spelling variant</li>
+<li>Tested with dry-run against Jižní věže: partial match, results verified against map</li>
+</ul>
+<h3>GPS source comparison</h3>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>piskari.cz (Playwright)</th>
+<th>gipfelbuch.de (scraping)</th>
+<th>mapy.com API</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Areas covered</td>
+<td>Adršpach only (GPS)</td>
+<td>Křížový vrch only</td>
+<td>All areas</td>
+</tr>
+<tr>
+<td>Auth needed</td>
+<td>None</td>
+<td>None</td>
+<td>API key (free)</td>
+</tr>
+<tr>
+<td>Encoding issues</td>
+<td>None</td>
+<td>cp1250 bug (fixed)</td>
+<td>None (UTF-8)</td>
+</tr>
+<tr>
+<td>Coverage</td>
+<td>~97% of known towers</td>
+<td>Partial</td>
+<td>Partial</td>
+</tr>
+<tr>
+<td>Fragility</td>
+<td>Depends on JS map loading</td>
+<td>HTML scraping</td>
+<td>Stable REST API</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Recommended GPS strategy per area:</strong><br />
+- Adršpach: <code>piskari-scraper.py</code> (primary) → <code>mapycz-gps.py</code> (fallback for 3xxx IDs)<br />
+- Křížový vrch: <code>piskari-scraper.py</code> (routes) → <code>gipfelbuch-gps.py</code> (GPS) → <code>mapycz-gps.py</code> (remaining gaps)<br />
+- Other areas (future): <code>piskari-scraper.py</code> (routes) → <code>mapycz-gps.py</code> (GPS)</p>
+<hr />
+<h2>Extending to other areas</h2>
+<h3>Area dictionaries in the script</h3>
+<p>The script maintains a separate sector dictionary per area. As of 2026-05-24:</p>
+<table>
+<thead>
+<tr>
+<th>Dict</th>
+<th>Area</th>
+<th>Sectors</th>
+<th>CLI flag</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>ADRSPACH_SECTORS</code></td>
+<td><a href="adrspach.html">Adršpach (Ádr)</a></td>
+<td>11</td>
+<td><code>--sector / --all-adrspach</code></td>
+</tr>
+<tr>
+<td><code>KRIZOVY_VRCH_SECTORS</code></td>
+<td><a href="krizovy-vrch.html">Křížový vrch (Křížák)</a></td>
+<td>3</td>
+<td><code>--kv-sector / --all-krizovy-vrch</code></td>
+</tr>
+</tbody>
+</table>
+<h3>Adding a new area</h3>
+<ol>
+<li>Find sector URLs on piskari.cz (navigate the area&rsquo;s index page, e.g. <code>/cs/broumovske-steny/</code>)</li>
+<li>Add a new dict (e.g. <code>BROUMOVSKE_STENY_SECTORS = { ... }</code>) in <code>piskari-scraper.py</code></li>
+<li>Add corresponding <code>--bs-sector</code> / <code>--all-broumovske-steny</code> args and execution branches in <code>main()</code> — follow the Křížový vrch pattern added 2026-05-24</li>
+</ol>
+<p>The remaining three <a href="policka-panev.html">Polická pánev (Police Basin)</a> areas to be added:</p>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>Base URL</th>
+<th>Status</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Broumovské stěny</td>
+<td><code>/cs/broumovske-steny/</code></td>
+<td>⏳ sector URLs not yet collected</td>
+</tr>
+<tr>
+<td>Ostaš</td>
+<td><code>/cs/ostas/</code></td>
+<td>⏳ sector URLs not yet collected</td>
+</tr>
+<tr>
+<td>Teplické skály</td>
+<td><code>/cs/teplice/</code></td>
+<td>⏳ sector URLs not yet collected</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Related pages</h2>
+<ul>
+<li><a href="product-spec.html">Product Specification — Climbing Map</a></li>
+<li><a href="piskari-cz.html">piskari.cz</a></li>
+<li><a href="adrspach.html">Adršpach (Ádr)</a></li>
+<li><a href="sektor-milenecka-hora.html">Milenecká hora (Sector)</a></li>
+<li><a href="czech-sandstone-climbing.html">Czech Sandstone Climbing</a></li>
+</ul>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

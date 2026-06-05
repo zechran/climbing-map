@@ -1,0 +1,315 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Specification — Climbing Map — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link active">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link">How to Generate a GPX File</a>
+<a href="climber-filter.html" class="nav-link">Climber Filter</a>
+<a href="qa-report.html" class="nav-link">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>Product Specification — Climbing Map</h1>
+<p><strong>Summary</strong>: A mobile-first climbing map delivering GPS-located towers with route descriptions and climber comments, all sourced from piskari.cz, delivered as a GPX file and viewed in Locus Map.</p>
+<p><strong>Status</strong>: ✅ Pipeline built and validated — Adršpach (Himálaj ✅, Milenecká hora ✅) and Křížový vrch ✅ complete</p>
+<p><strong>Last updated</strong>: 2026-05-25</p>
+<hr />
+<h2>Problem</h2>
+<p>Climbing information in the <a href="policka-panev.html">Polická pánev (Police Basin)</a> region is all on piskari.cz, but piskari.cz is a web portal with no map. A climber in the field has to juggle a phone browser to look up a tower, with no offline capability, no GPS location, no navigation to the crag.</p>
+<p>A climber standing in front of a sandstone tower needs to answer: <em>&ldquo;What do I climb here, and how do I protect it?&rdquo;</em> — without cell signal.</p>
+<h2>Goal</h2>
+<p>Tap a tower on an offline map → see its routes, grades, protection character, and recent climber comments. No cell signal required.</p>
+<hr />
+<h2>Users</h2>
+<p><strong>MVP phase</strong> — 1–2 people (friends). Solution does not need to be polished or idiot-proof. Working is enough.</p>
+<p><strong>Next phase</strong> — broader climbing community. Smooth, shareable, maintainable.</p>
+<hr />
+<h2>Hard requirements</h2>
+<ul>
+<li><strong>Offline</strong> — the full map and all route/comment content must be available without cell signal. Climbers frequently go off-grid in the mountains.</li>
+<li><strong>Both platforms</strong> — Android and iOS must be covered.</li>
+</ul>
+<hr />
+<h2>Data architecture</h2>
+<h3>Data sources</h3>
+<p>The map draws on three data sources depending on the area:</p>
+<table>
+<thead>
+<tr>
+<th>Source</th>
+<th>What it provides</th>
+<th>Areas</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>piskari.cz</td>
+<td>Tower list, routes, grades, route detail, comments, GPS (via JS map)</td>
+<td>All areas for routes; Adršpach for GPS</td>
+</tr>
+<tr>
+<td>db-sandsteinklettern.gipfelbuch.de</td>
+<td>GPS coordinates per tower</td>
+<td>Křížový vrch (primary GPS)</td>
+</tr>
+<tr>
+<td>mapy.com REST API (geocoding, <code>type=poi</code>)</td>
+<td>GPS coordinates per tower name</td>
+<td>All areas (fallback / gap-filler)</td>
+</tr>
+</tbody>
+</table>
+<p>piskari.cz is the primary source for climbing content (routes, comments). GPS sourcing varies by area because piskari.cz only embeds a Google Maps panel for Adršpach towers — other areas have no GPS on piskari.cz.</p>
+<h3>GPS by area</h3>
+<table>
+<thead>
+<tr>
+<th>Area</th>
+<th>GPS source</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Adršpach</td>
+<td>piskari.cz JS map (<code>window.map.getCenter()</code> after clicking the &ldquo;mapa&rdquo; tab)</td>
+</tr>
+<tr>
+<td>Křížový vrch</td>
+<td>gipfelbuch.de (primary) → mapy.com API (fallback)</td>
+</tr>
+<tr>
+<td>Broumovské stěny, Ostaš, Teplické skály</td>
+<td>mapy.com API (to be confirmed when scraped)</td>
+</tr>
+</tbody>
+</table>
+<h3>Hierarchy</h3>
+<pre><code>Area  (e.g. Adršpach)
+  └── Sector  (e.g. Milenecká hora)
+        └── Tower  (e.g. Adam a Eva)         ← GPS from piskari.cz JS map
+              └── Route  (e.g. Jižní, V)     ← from piskari.cz
+                    └── Comments  (beta)      ← from piskari.cz
+</code></pre>
+<h3>URL patterns</h3>
+<table>
+<thead>
+<tr>
+<th>Level</th>
+<th>Pattern</th>
+<th>Example</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Area</td>
+<td><code>/cs/[area]/</code></td>
+<td><code>/cs/adrspach/</code></td>
+</tr>
+<tr>
+<td>Sector</td>
+<td><code>/cs/[area]/[sector]-[ID]/</code></td>
+<td><code>/cs/adrspach/milenecka-hora-7/</code></td>
+</tr>
+<tr>
+<td>Tower</td>
+<td><code>/cs/skala/[name]-[ID]/</code></td>
+<td><code>/cs/skala/adam-a-eva-1378/</code></td>
+</tr>
+<tr>
+<td>Route</td>
+<td><code>/cs/cesta/[name]-[ID]/</code></td>
+<td><code>/cs/cesta/jizni-2389/</code></td>
+</tr>
+<tr>
+<td>Tower search</td>
+<td><code>/cs/vyhledani-skalni-veze/</code></td>
+<td>alphabetical, paginated</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Delivery format — GPX file</h2>
+<p>Each tower is one <code>&lt;wpt&gt;</code> waypoint. The <code>&lt;name&gt;</code> field is shown on the map; the <code>&lt;desc&gt;</code> field contains the full route sheet.</p>
+<pre><code class="language-xml">&lt;wpt lat=&quot;50.6084167&quot; lon=&quot;16.1159444&quot;&gt;
+  &lt;name&gt;Adam a Eva&lt;/name&gt;
+  &lt;desc&gt;
+OBLAST: Adršpach / Milenecká hora
+ZDROJ: piskari.cz
+
+CESTY:
+1. Jižní | V | (21.6.1961)
+2. Senzační prázdniny | VIIc | (28.6.1971)
+3. Severní | VIIIb | (28.6.1961)
+
+KOMENTÁŘE:
+[2026-05-10] Jižní: ...
+[2026-04-28] Severní: ...
+  &lt;/desc&gt;
+&lt;/wpt&gt;
+</code></pre>
+<hr />
+<h2>Platform — Locus Map</h2>
+<h3>Why Locus Map</h3>
+<ul>
+<li><strong>Czech-made app</strong> (Asamm, Brno) — well known and trusted in the Czech/Slovak outdoor community</li>
+<li><strong>Android + iOS</strong> — both platforms covered</li>
+<li><strong>GPX import with <code>&lt;desc&gt;</code></strong> — confirmed on both Android and iOS (see Test history)</li>
+<li><strong>Offline LoMaps</strong> — downloadable offline maps covering Czech Republic including Adršpach/Broumov region</li>
+<li><strong>Sync across devices</strong> — one person imports the GPX, both users sync via Locus Account (Premium Gold)</li>
+<li><strong>Guidance to waypoint</strong> — tap a tower pin → navigate there</li>
+</ul>
+<h3>Platform status (confirmed 2026-05-20)</h3>
+<table>
+<thead>
+<tr>
+<th>Feature</th>
+<th>Android (Locus Map 4)</th>
+<th>iOS (Locus Map Lite)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPX import — points</td>
+<td>✅</td>
+<td>✅ confirmed</td>
+</tr>
+<tr>
+<td>GPX <code>&lt;desc&gt;</code> rendering</td>
+<td>✅</td>
+<td>✅ confirmed</td>
+</tr>
+<tr>
+<td>Offline LoMaps</td>
+<td>✅</td>
+<td>✅ confirmed</td>
+</tr>
+<tr>
+<td>Sync Android ↔ iOS</td>
+<td>✅</td>
+<td>✅ (Premium Gold)</td>
+</tr>
+<tr>
+<td>Turn-by-turn navigation</td>
+<td>✅</td>
+<td>❌ not yet</td>
+</tr>
+<tr>
+<td>Guidance to waypoint</td>
+<td>✅</td>
+<td>✅</td>
+</tr>
+<tr>
+<td>App maturity</td>
+<td>Full</td>
+<td>Early stage (started 2023)</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Test history</h2>
+<h3>mapy.com — GPX <code>&lt;desc&gt;</code> — ❌ FAILED (2026-05-20)</h3>
+<p>Tested <code>test-adam-a-eva.gpx</code> (single waypoint, Adam a Eva) on mapy.com web (Safari) and iOS mobile, free and Premium.</p>
+<ul>
+<li><code>&lt;name&gt;</code> displayed correctly ✅</li>
+<li><code>&lt;desc&gt;</code> completely ignored — not shown anywhere ❌</li>
+<li>&ldquo;Add note&rdquo; exists but is Premium-only, manual, and not importable via GPX ⚠️</li>
+</ul>
+<p><strong>Conclusion:</strong> mapy.com is not viable. Dropped from the project entirely.</p>
+<h3>Locus Map — GPX <code>&lt;desc&gt;</code> — ✅ CONFIRMED (2026-05-20)</h3>
+<p>Same file (<code>test-adam-a-eva.gpx</code>) imported into Locus Map Lite (iOS).</p>
+<ul>
+<li><code>&lt;desc&gt;</code> content fully displayed when tapping the tower pin ✅</li>
+<li>Full description visible (no truncation observed) ✅</li>
+<li>Platform confirmed for iOS; Android known to work ✅</li>
+</ul>
+<p><strong>Waypoint limit</strong>: No hard limit on import. Display performance consideration at ~10,000 simultaneous points — well above the expected tower count for the full <a href="policka-panev.html">Polická pánev (Police Basin)</a>.</p>
+<hr />
+<h2>MVP user journey</h2>
+<ol>
+<li><strong>One-time setup</strong> — import <code>piskovce-adrspach.gpx</code> into Locus Map. File saved to My Library. (Optional: sync to second user via Locus Account.)</li>
+<li><strong>Before the trip</strong> — download offline LoMap for Czech Republic / Adršpach area in Locus Map.</li>
+<li><strong>At the crag</strong> — open Locus Map offline. Tower pins visible on map. Tap a tower → see routes and recent comments. No cell signal needed.</li>
+<li><strong>Keeping current</strong> — when piskari.cz has significant new comments, regenerate GPX and re-import (or sync via shared Locus account).</li>
+</ol>
+<hr />
+<h2>Data pipeline</h2>
+<p>To generate the GPX, the following steps are needed:</p>
+<ol>
+<li><strong>Crawl tower list</strong> — fetch piskari.cz sector pages for each area to collect all tower names and URLs (e.g. all towers in Milenecká hora)</li>
+<li><strong>Extract GPS per tower</strong> — render each tower page (<code>/cs/skala/[name]-[ID]/</code>) in a JavaScript-capable browser; extract lat/lon from the map initialization code</li>
+<li><strong>Extract routes per tower</strong> — from the same page, collect route list (name, grade, date)</li>
+<li><strong>Extract route detail</strong> — optionally fetch <code>/cs/cesta/[name]-[ID]/</code> for protection notes and full description</li>
+<li><strong>Extract comments</strong> — collect recent comments from route pages</li>
+<li><strong>Assemble GPX</strong> — one <code>&lt;wpt&gt;</code> per tower, <code>&lt;desc&gt;</code> containing formatted route sheet + recent comments</li>
+<li><strong>Test import</strong> — import GPX into Locus Map and verify display</li>
+</ol>
+<p><strong>Tooling options</strong>: Claude in Chrome (interactive, one-off), Puppeteer/Playwright (automated, repeatable), Python + requests-html (for GPS extraction phase).</p>
+<hr />
+<h2>Open questions</h2>
+<ol>
+<li><strong>Description length limit?</strong> — How much text fits in <code>&lt;desc&gt;</code> before Locus Map truncates? Not yet hit a limit in practice.</li>
+<li><strong>Update distribution</strong> — How does a user get an updated GPX? Email, shared URL, Locus sync?</li>
+<li><strong>GPS coverage for remaining areas</strong> — mapy.com API assumed as GPS source for Broumovské stěny, Ostaš, Teplické skály — to be confirmed when those areas are scraped.</li>
+</ol>
+<hr />
+<h2>Next steps</h2>
+<ol>
+<li>✅ Platform confirmed — Locus Map (Android + iOS); <code>&lt;desc&gt;</code> renders fully on both</li>
+<li>✅ GPS extraction confirmed — <code>window.map.getCenter()</code> on piskari.cz tower pages (Adršpach)</li>
+<li>✅ Pipeline built — <code>piskari-scraper.py</code> (routes + GPS), <code>gipfelbuch-gps.py</code> (KV GPS), <code>mapycz-gps.py</code> (fallback GPS)</li>
+<li>✅ Milenecká hora — 125/129 towers, end-to-end validated in Locus Map</li>
+<li>✅ Himálaj — complete</li>
+<li>✅ Křížový vrch — all 3 obvods complete (routes + GPS + comments)</li>
+<li>⏳ Remaining 9 Adršpach sectors</li>
+<li>⏳ Broumovské stěny, Ostaš, Teplické skály — sector URLs to be collected, then scraped</li>
+</ol>
+<hr />
+<h2>Related pages</h2>
+<ul>
+<li><a href="policka-panev.html">Polická pánev (Police Basin)</a></li>
+<li><a href="adrspach.html">Adršpach (Ádr)</a></li>
+<li><a href="czech-sandstone-climbing.html">Czech Sandstone Climbing</a></li>
+<li><a href="piskari-cz.html">piskari.cz</a></li>
+<li><a href="vez-adam-a-eva.html">Skalní věž Adam a Eva</a></li>
+<li><a href="sektor-milenecka-hora.html">Milenecká hora (Sector)</a></li>
+</ul>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

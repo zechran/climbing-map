@@ -1,0 +1,921 @@
+[
+  {
+    "name": "Amfora",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611399,
+    "lon": 16.13121,
+    "url": "https://www.piskari.cz/cs/skala/amfora-1837/",
+    "routes": [
+      {
+        "name": "Rozporová",
+        "grade": "V",
+        "date": "13.7.1969",
+        "url": "/cs/cesta/rozporova-6407/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Bochník",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.piskari.cz/cs/skala/bochnik-3637/",
+    "routes": [
+      {
+        "name": "Nakulovačka",
+        "grade": "VIIb",
+        "date": "27.7.2008",
+        "url": "/cs/cesta/nakulovacka-2682/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Cimburek",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611973,
+    "lon": 16.131548,
+    "url": "https://www.piskari.cz/cs/skala/cimburek-1846/",
+    "routes": [
+      {
+        "name": "Bermudský koloúhelník",
+        "grade": "VI",
+        "date": "20.9.1998",
+        "url": "/cs/cesta/bermudsky-kolouhelnik-7004/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Čůčo",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611736,
+    "lon": 16.131776,
+    "url": "https://www.piskari.cz/cs/skala/cuco-1844/",
+    "routes": [
+      {
+        "name": "Od západu",
+        "grade": "IV",
+        "date": "20.8.1983",
+        "url": "/cs/cesta/od-zapadu-5603/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Dafné",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611584,
+    "lon": 16.131615,
+    "url": "https://www.piskari.cz/cs/skala/dafne-1842/",
+    "routes": [
+      {
+        "name": "Cesta pro Lýdii",
+        "grade": "VIIa",
+        "date": "21.8.1984",
+        "url": "/cs/cesta/cesta-pro-lydii-7505/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Náhorní",
+        "grade": "III",
+        "date": "6.7.1969",
+        "url": "/cs/cesta/nahorni-4898/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Od okrajovky",
+        "grade": "III",
+        "date": "16.8.1982",
+        "url": "/cs/cesta/od-okrajovky-4899/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Zbytky dojídám",
+        "grade": "VI",
+        "date": "1.4.1999",
+        "url": "/cs/cesta/zbytky-dojidam-7005/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Diktát",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612803,
+    "lon": 16.13119,
+    "url": "https://www.piskari.cz/cs/skala/diktat-1865/",
+    "routes": [
+      {
+        "name": "Náhorní cesta",
+        "grade": "III",
+        "date": "0.0.0000",
+        "url": "/cs/cesta/nahorni-cesta-4895/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Geraldina",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611647,
+    "lon": 16.132041,
+    "url": "https://www.piskari.cz/cs/skala/geraldina-1848/",
+    "routes": [
+      {
+        "name": "Nenávratná",
+        "grade": "VI",
+        "date": "13.7.1969",
+        "url": "/cs/cesta/nenavratna-7002/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.6.2016 21:58:44 Pavlík] tomu říkám cesta. vydrápat se komínama na předskalí ještě docela jde. traverz stěnou doleva za roh jsem musel vyřešit plazením se nohama napřed za roh do širočiny, což nebylo úplně přijemné skrz to, že nebylo nic viděl, další traverz do šikmé spáry udělal poctivých 15 metrů odlezu. A když jsem už jsem byl 4 metrů pod vrcholem, nešlo už utáhnout lano skrz tření. Po pár pokusech dolézt na vrchol jsem to vzdal (lano se mi nechtělo odvazovat kvůli slanění). z nenávratné jsem se naštěstí vrátil. jinak materiál, který by se hodil na tak leda pískoviště samozřejmostí a smyčky žádné. Pane Rusý, opravdu to stálo za to? Asi stálo.."
+        ]
+      },
+      {
+        "name": "Přechodová",
+        "grade": "VI",
+        "date": "9.7.1985",
+        "url": "/cs/cesta/prechodova-7003/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Hrošík",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611819,
+    "lon": 16.132376,
+    "url": "https://www.piskari.cz/cs/skala/hrosik-1852/",
+    "routes": [
+      {
+        "name": "Bertíkova písnička",
+        "grade": "IV",
+        "date": "",
+        "url": "/cs/cesta/bertikova-pisnicka-10556/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[23.5.2016 9:07:26 PetrN] Je to asi 6m kvak a na vršku není ani slaňák ani knížka. Sestoupil jsem kolem borovice a u sklapelu slanění z borovice do \"kanceláře\". Asi se tam moc neleze :-)."
+        ]
+      },
+      {
+        "name": "K narozeninám",
+        "grade": "III",
+        "date": "1.4.1999",
+        "url": "/cs/cesta/k-narozeninam-4896/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Kapucín",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611724,
+    "lon": 16.132422,
+    "url": "https://www.piskari.cz/cs/skala/kapucin-1851/",
+    "routes": [
+      {
+        "name": "Obtahování čtverečku",
+        "grade": "VIIIa",
+        "date": "29.5.1987",
+        "url": "/cs/cesta/obtahovani-ctverecku-8426/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Přepad",
+        "grade": "IV",
+        "date": "5.7.1969",
+        "url": "/cs/cesta/prepad-5526/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Ptačí cesta",
+        "grade": "IV",
+        "date": "8.7.1984",
+        "url": "/cs/cesta/ptaci-cesta-5527/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Kolohnát",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611744,
+    "lon": 16.131915,
+    "url": "https://www.piskari.cz/cs/skala/kolohnat-1845/",
+    "routes": [
+      {
+        "name": "Bláznů ráj",
+        "grade": "VIIc",
+        "date": "1.4.1999",
+        "url": "/cs/cesta/blaznu-raj-8224/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Přechodem",
+        "grade": "IV",
+        "date": "20.8.1983",
+        "url": "/cs/cesta/prechodem-5602/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Marlen",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611714,
+    "lon": 16.131617,
+    "url": "https://www.piskari.cz/cs/skala/marlen-1843/",
+    "routes": [
+      {
+        "name": "Údolní",
+        "grade": "V",
+        "date": "14.6.1970",
+        "url": "/cs/cesta/udolni-6403/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní – Varianta",
+        "grade": "V",
+        "date": "16.7.1982",
+        "url": "/cs/cesta/udolni-varianta-6404/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Moravská brána",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612721,
+    "lon": 16.131904,
+    "url": "https://www.piskari.cz/cs/skala/moravska-brana-1864/",
+    "routes": [
+      {
+        "name": "Binovačka",
+        "grade": "IV",
+        "date": "23.4.1984",
+        "url": "/cs/cesta/binovacka-5599/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Májovka",
+        "grade": "VI",
+        "date": "13.5.2008",
+        "url": "/cs/cesta/majovka-2683/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Réza",
+        "grade": "V",
+        "date": "26.8.2008",
+        "url": "/cs/cesta/reza-2686/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Trpělivá",
+        "grade": "VIIc",
+        "date": "27.8.2008",
+        "url": "/cs/cesta/trpeliva-2680/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Mravenečník",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612051,
+    "lon": 16.13247,
+    "url": "https://www.piskari.cz/cs/skala/mravenecnik-1856/",
+    "routes": [
+      {
+        "name": "Břízová",
+        "grade": "VIIb",
+        "date": "22.6.1969",
+        "url": "/cs/cesta/brizova-7895/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Ovce",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612318,
+    "lon": 16.132755,
+    "url": "https://www.piskari.cz/cs/skala/ovce-1860/",
+    "routes": [
+      {
+        "name": "Danova cesta",
+        "grade": "VIIa",
+        "date": "7.7.1985",
+        "url": "/cs/cesta/danova-cesta-7501/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.7.2017 7:46:12 Šáfa] Bezpečné.",
+          "[25.7.2018 22:15:47 Pavlík] .. a traverz doleva na hranu a po hraně na vrchol."
+        ]
+      },
+      {
+        "name": "Dovolenková",
+        "grade": "VI",
+        "date": "10.8.1982",
+        "url": "/cs/cesta/dovolenkova-7000/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Mopslíkova",
+        "grade": "VIIa",
+        "date": "30.5.1983",
+        "url": "/cs/cesta/mopslikova-7502/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.7.2017 7:47:19 Šáfa] Hodně bezpečné. Autor si to ve vrcholovce cení na VI. Já souhlasím."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Panenka",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612001,
+    "lon": 16.132315,
+    "url": "https://www.piskari.cz/cs/skala/panenka-1855/",
+    "routes": [
+      {
+        "name": "Dírou",
+        "grade": "V",
+        "date": "20.9.1964",
+        "url": "/cs/cesta/dirou-6400/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Panic",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612711,
+    "lon": 16.132918,
+    "url": "https://www.piskari.cz/cs/skala/panic-1863/",
+    "routes": [
+      {
+        "name": "Pytlácká",
+        "grade": "V",
+        "date": "17.5.1969",
+        "url": "/cs/cesta/pytlacka-6399/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Perla",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611556,
+    "lon": 16.131236,
+    "url": "https://www.piskari.cz/cs/skala/perla-1841/",
+    "routes": [
+      {
+        "name": "Cesta okapi",
+        "grade": "VIIb",
+        "date": "12.7.1985",
+        "url": "/cs/cesta/cesta-okapi-8779/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Pinguin",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611424,
+    "lon": 16.130896,
+    "url": "https://www.piskari.cz/cs/skala/pinguin-1838/",
+    "routes": [
+      {
+        "name": "Jediná",
+        "grade": "III",
+        "date": "14.5.1975",
+        "url": "/cs/cesta/jedina-4900/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Pivní skaut",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611738,
+    "lon": 16.132687,
+    "url": "https://www.piskari.cz/cs/skala/pivni-skaut-1854/",
+    "routes": [
+      {
+        "name": "Debut",
+        "grade": "VI",
+        "date": "8.7.1984",
+        "url": "/cs/cesta/debut-7001/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Náhorní cesta",
+        "grade": "V",
+        "date": "30.5.1983",
+        "url": "/cs/cesta/nahorni-cesta-6401/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[4.8.2022 20:49:36 Pavlík] O lezení se moc nejedná. Nejtěžší je najit přístup na tu správnou okrajovku. Pak sestupem a potom překrokem, přepadem nebo přeskokek ze zabordelované oblé hrany, což je nepřijemné hlavně pro druholezce."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Policajt",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": null,
+    "lon": null,
+    "url": "https://www.piskari.cz/cs/skala/policajt-3638/",
+    "routes": [
+      {
+        "name": "Pomáhat a chránit",
+        "grade": "VIIIb",
+        "date": "27.7.2008",
+        "url": "/cs/cesta/pomahat-a-chranit-2684/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Poustevník",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612534,
+    "lon": 16.132738,
+    "url": "https://www.piskari.cz/cs/skala/poustevnik-1862/",
+    "routes": [
+      {
+        "name": "Černá",
+        "grade": "V",
+        "date": "31.8.1965",
+        "url": "/cs/cesta/cerna-6333/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[1.9.2019 18:06:46 miloshell95@gmail.com] Když si odmyslím mech, pavučiny a takovy ten lesní bordel ve spaře, tak je to i hezká, docela dobře zajištěná cesta. Hvězdu tomu ale nedokážu dát. ;-)",
+          "[6.8.2022 21:08:23 Pavlík] Když už se nacházite v okolí Skopce, tak to za vylezení stojí. Bezpečná cesta od atletů."
+        ]
+      },
+      {
+        "name": "Hříšný celibát",
+        "grade": "VIIc",
+        "date": "",
+        "url": "/cs/cesta/hrisny-celibat-10684/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.7.2017 8:03:47 Šáfa] Nádhera. Od nástupu to graduje k velkému finále na výlezu. Smyce netřeba."
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Pralinka",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612051,
+    "lon": 16.13247,
+    "url": "https://www.piskari.cz/cs/skala/pralinka-1857/",
+    "routes": [
+      {
+        "name": "Baum Weg",
+        "grade": "VI",
+        "date": "12.7.2002",
+        "url": "/cs/cesta/baum-weg-10616/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[28.8.2016 23:28:55 Kuzma] Rozpor lze též saským stavěním. Vršek byl špinavý, ale rajbas pěkný. Pro podporu morálu lze nahodit slaňák, nebo malý hrot. 2. přelez.",
+          "[29.8.2016 12:13:37 Tatuš] Není to z větší části shodné s cestou \"Kyzíková stěna\"? (dle popisu, neviděl jsem)",
+          "[29.8.2016 13:27:04 Kuzma] Když koukám na popisy, tak by to tak i být mohlo. Informaci jsem vzal z knížky viz foto. Lezli jsme to od oka a v knize se dopátrali této cesty. Z police od borovice se jde vpravo žlábkovitým rajbasem ke slaňáku. Nicméně se mi to líbilo. Jinak Pralinka je v průvodci zaměněná za Panice."
+        ]
+      },
+      {
+        "name": "Kyzíková stěna",
+        "grade": "IV",
+        "date": "16.8.1988",
+        "url": "/cs/cesta/kyzikova-stena-8780/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "III",
+        "date": "6.9.1964",
+        "url": "/cs/cesta/stara-cesta-8782/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[29.7.2014 20:42:59 myš] Hlemzačka, která asi po dvou metrech konečně pustí, a dále je to snadné. Málo lezená oblast."
+        ]
+      },
+      {
+        "name": "Údolní",
+        "grade": "IV",
+        "date": "4.10.1975",
+        "url": "/cs/cesta/udolni-8781/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Sírová věž",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611792,
+    "lon": 16.132535,
+    "url": "https://www.piskari.cz/cs/skala/sirova-vez-1853/",
+    "routes": [
+      {
+        "name": "Cestička pivních žalářníků",
+        "grade": "VIIb",
+        "date": "10.7.1984",
+        "url": "/cs/cesta/cesticka-pivnich-zalarniku-7896/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Skalpel",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611763,
+    "lon": 16.132199,
+    "url": "https://www.piskari.cz/cs/skala/skalpel-1850/",
+    "routes": [
+      {
+        "name": "Po ostří",
+        "grade": "IV",
+        "date": "26.9.1965",
+        "url": "/cs/cesta/po-ostri-5601/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Skopec",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612226,
+    "lon": 16.13283,
+    "url": "https://www.piskari.cz/cs/skala/skopec-1858/",
+    "routes": [
+      {
+        "name": "Andělská stěna",
+        "grade": "VIIb",
+        "date": "29.8.1965",
+        "url": "/cs/cesta/andelska-stena-7894/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[24.7.2017 7:45:06 Šáfa] První stavění se dnes musí lézt čistě, protože 2.kruh je přetlučený o dva metry níž, ale obtížnost se asi nezvyšuje. Druhé stavění je stále možné, nicméně čisté přelezení už chce sílu - je to tam u třetího už dost zničené.",
+          "[3.7.2018 10:55:40 Pavlík] Nádherná cesta po lištách"
+        ]
+      },
+      {
+        "name": "Čertovina",
+        "grade": "VIIIa",
+        "date": "21.5.1978",
+        "url": "/cs/cesta/certovina-8451/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Jojoáda",
+        "grade": "VIIc",
+        "date": "1.7.1968",
+        "url": "/cs/cesta/jojoada-8223/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Skopičina",
+        "grade": "VIIa",
+        "date": "11.7.1973",
+        "url": "/cs/cesta/skopicina-7503/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Stará cesta",
+        "grade": "IV",
+        "date": "7.7.1946",
+        "url": "/cs/cesta/stara-cesta-2503/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[9.8.2010 12:26:30 sejk] Nejjednoduší cesta na krásný vrchol. Komíny jsou užší, ale žádná velká dřina to není. Pokud zvolíte druhou možnost dolezu, ještě vás čekají 2 kroky z předvrcholu na vrchol, které jistí tutové hodiny.",
+          "[31.8.2016 16:13:11 Kuzma] My volili 2. možnost. Z předvrcholu stěnou to jistě za IV není. Proto jsme prolezli komínem na druhou stranu věže, zatraverzovali do vedlejšího komínu a jím n.v. Mě i ostatním se cesta úzkými, čistými komíny líbila. Doporučil bych i pro začínající, bo není kde vypadnout.",
+          "[1.9.2019 18:24:39 miloshell95@gmail.com] Lezli jsme to variantou vlevo, po stupních. Rozhodně to byly kroky těžší nez IV. Ale hvězdu dám, i když se to špatně zajišťuje. Kdo se citi dobre v rajbasech, jen do toho ;-)"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Srubová",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.61168,
+    "lon": 16.132215,
+    "url": "https://www.piskari.cz/cs/skala/srubova-1849/",
+    "routes": [
+      {
+        "name": "Natěračská",
+        "grade": "V",
+        "date": "12.7.1969",
+        "url": "/cs/cesta/nateracska-6402/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Rytířská cesta",
+        "grade": "VIIa",
+        "date": "9.7.1985",
+        "url": "/cs/cesta/rytirska-cesta-7504/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Trio",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611334,
+    "lon": 16.131094,
+    "url": "https://www.piskari.cz/cs/skala/trio-1836/",
+    "routes": []
+  },
+  {
+    "name": "Tučňák",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.611476,
+    "lon": 16.130976,
+    "url": "https://www.piskari.cz/cs/skala/tucnak-1839/",
+    "routes": [
+      {
+        "name": "Východní spára",
+        "grade": "VI",
+        "date": "29.7.1963",
+        "url": "/cs/cesta/vychodni-spara-6872/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Západní",
+        "grade": "III",
+        "date": "29.7.1963",
+        "url": "/cs/cesta/zapadni-4723/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      }
+    ]
+  },
+  {
+    "name": "Večernice",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612223,
+    "lon": 16.133015,
+    "url": "https://www.piskari.cz/cs/skala/vecernice-1859/",
+    "routes": [
+      {
+        "name": "Flop",
+        "grade": "VIIb",
+        "date": "1.9.1984",
+        "url": "/cs/cesta/flop-8783/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[3.7.2018 10:57:51 Pavlík] Asi těžší než VIIb a nesmí se udělat chyba"
+        ]
+      },
+      {
+        "name": "Mléčná dráha",
+        "grade": "VIIc",
+        "date": "25.8.1984",
+        "url": "/cs/cesta/mlecna-draha-321/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[22.5.2009 11:38:57 Hans] Spodek je trochu špinavej, ale pak je to nádherný lezení zakončený výlezem do \"letiště\".",
+          "[3.7.2018 11:01:04 Pavlík] Jestli se dobře pamatuji,tak to má víc kruhů. Řekl bych, že tři. Když to srovnám s vedlejší Andělskou na Skopce (stejní autoři) tak i výrazně těžší"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Věž Otty Černého",
+    "area": "Adršpach",
+    "sector": "Rokle nad Spáleným mlýnem",
+    "lat": 50.612306,
+    "lon": 16.13287,
+    "url": "https://www.piskari.cz/cs/skala/vez-otty-cerneho-1861/",
+    "routes": [
+      {
+        "name": "Severozápadní stěna",
+        "grade": "VI",
+        "date": "",
+        "url": "/cs/cesta/severozapadni-stena-10688/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[8.8.2017 8:18:59 Šáfa] Zrochu lehčí. V knížce V-VI."
+        ]
+      },
+      {
+        "name": "Špenátová",
+        "grade": "VI",
+        "date": "7.7.1985",
+        "url": "/cs/cesta/spenatova-6999/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": []
+      },
+      {
+        "name": "Údolní cesta",
+        "grade": "VIIb",
+        "date": "",
+        "url": "/cs/cesta/udolni-cesta-10687/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[26.8.2024 20:52:34 miloshell95@gmail.com] Moc pěkná a originální cesta, dobré jištění. Kruh na správném místě, od něho mne to navedlo doprava. Kdyby to nebylo od kruhu zelené, dal bych dvě hvězdy."
+        ]
+      },
+      {
+        "name": "Západní pilíř",
+        "grade": "V",
+        "date": "1.10.1995",
+        "url": "/cs/cesta/zapadni-pilir-10686/",
+        "popis": "",
+        "charakter": "",
+        "autor": "",
+        "comments": [
+          "[7.8.2017 9:33:52 Šáfa] Hezké smyčky, výlez je pro dlouhé snazší."
+        ]
+      }
+    ]
+  }
+]

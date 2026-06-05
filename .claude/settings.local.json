@@ -1,0 +1,21 @@
+{
+  "defaultMode": "acceptEdits",
+  "spinnerTipsEnabled": false,
+  "autoScrollEnabled": true,
+  "autoMemoryEnabled": true,
+  "permissions": {
+    "allow": [
+      "Bash",
+      "Read",
+      "Write",
+      "Edit",
+      "Glob",
+      "Grep",
+      "WebFetch",
+      "TaskOutput"
+    ]
+  },
+  "env": {
+    "PYTHONUNBUFFERED": "1"
+  }
+}

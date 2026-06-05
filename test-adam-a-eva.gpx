@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Pieskari Wiki" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>Pieskari test – Skalní věž Adam a Eva</name>
+    <desc>Test waypoint: single tower with route descriptions and climber comments.</desc>
+  </metadata>
+  <wpt lat="50.6084167" lon="16.1159444">
+    <name>Adam a Eva</name>
+    <desc>
+OBLAST: Adršpach / Dolní Adršpach / Milenecká hora
+ZDROJ: piskari.cz
+
+--- CESTY ---
+
+1. Adamova cesta | VIIa
+   Charakter: Spára (crack) do komína
+   Jištění: smyčky, 1 kruh
+
+2. Evina cesta | VIIIb
+   Charakter: Hrana (arête), technické lezení
+   Jištění: smyčky, 2 kruhy
+
+--- KOMENTÁŘE ---
+
+[2026-05-10] Adamova cesta: Spodní část mokrá po dešti, smyčky šly dobře. Kruh výš než vypadá. Vrchol nádherný.
+
+[2026-04-28] Evina cesta: Těžší než VIIIb, doporučuji jít s mindsetem VIIIc. Pod druhým kruhem skvělé bambule.
+
+--- INFO ---
+GPS: 50.6084167N, 16.1159444E
+piskari.cz: https://www.piskari.cz
+    </desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+</gpx>

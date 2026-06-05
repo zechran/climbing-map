@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>QA Report — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link">How to Generate a GPX File</a>
+<a href="climber-filter.html" class="nav-link">Climber Filter</a>
+<a href="qa-report.html" class="nav-link active">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>QA Report</h1>
+<p><strong>Summary</strong>: How to validate sector JSON data quality against the live piskari.cz source using random sampling.</p>
+<p><strong>Last updated</strong>: 2026-05-28</p>
+<hr />
+<h2>What it checks</h2>
+<p><code>qa-report.py</code> randomly samples towers from a sector JSON and fetches their live pages on piskari.cz. For each sampled tower it compares:</p>
+<table>
+<thead>
+<tr>
+<th>Check</th>
+<th>Method</th>
+<th>Pass threshold</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>GPS coordinates</td>
+<td>Absolute delta per axis</td>
+<td>≤ ±0.0001°</td>
+</tr>
+<tr>
+<td>Route names</td>
+<td>Fuzzy match (SequenceMatcher)</td>
+<td>ratio ≥ 0.85</td>
+</tr>
+<tr>
+<td>Route grades</td>
+<td>Exact after normalisation, then fuzzy</td>
+<td>ratio ≥ 0.85</td>
+</tr>
+<tr>
+<td>Comment counts</td>
+<td>Exact count</td>
+<td>exact match</td>
+</tr>
+</tbody>
+</table>
+<p>Results are <strong>PASS</strong>, <strong>WARN</strong>, or <strong>FAIL</strong> per check. The overall result is FAIL if any single check fails.</p>
+<h2>Sample size</h2>
+<p>5% of the sector&rsquo;s tower count, with a minimum of 5 towers. For a sector with 47 towers that gives 3 towers — the minimum floor raises it to 5.</p>
+<h2>Usage</h2>
+<pre><code class="language-bash">cd ~/Documents/LLM-pieskari/pieskari
+source venv/bin/activate   # needs playwright
+
+# Random sample (different towers each run)
+python qa-report.py --sector &quot;Himálaj&quot;
+
+# Reproducible sample (same towers every run with this seed)
+python qa-report.py --sector &quot;Himálaj&quot; --seed 42
+
+# Headless (no browser window)
+python qa-report.py --sector &quot;Himálaj&quot; --headless --seed 42
+</code></pre>
+<h2>Output</h2>
+<p>Produces <code>qa-{sector-slug}.md</code> in the project folder, e.g. <code>qa-himalaj.md</code>.</p>
+<p>The report contains:<br />
+- Run metadata (date, JSON file, sample size, seed)<br />
+- Summary table (pass/warn/fail counts per check type)<br />
+- Per-tower sections with GPS table, routes table, comment counts table</p>
+<p>The Markdown is ready to paste into the wiki as a QA result page.</p>
+<h2>Notes on comment counts</h2>
+<p>The scraper caps comments at 8 per route. If the live page has more than 8 comments and the JSON shows exactly 8, the report marks this as ⚠️ WARN (expected behaviour, not a data error). Only a mismatch where JSON has more than live is a ❌ FAIL.</p>
+<h2>Interpreting results</h2>
+<table>
+<thead>
+<tr>
+<th>Result</th>
+<th>Meaning</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>✅ PASS</td>
+<td>All checks within tolerance</td>
+</tr>
+<tr>
+<td>⚠️ WARN</td>
+<td>Minor differences — GPS slightly off, fuzzy name match, or capped comments</td>
+</tr>
+<tr>
+<td>❌ FAIL</td>
+<td>Significant mismatch — likely scraping error or site change since last scrape</td>
+</tr>
+</tbody>
+</table>
+<p>If a sector shows repeated FAILs, re-run the scraper for that sector to refresh the data.</p>
+<h2>Agent instruction template</h2>
+<p>To run the QA test agentically, paste this into a new Cowork chat. Substitute <strong>one or two things</strong>:<br />
+- <code>SECTOR_NAME</code> → the sector name (required)<br />
+- <code>SEED</code> → a number for reproducible results, or remove <code>--seed SEED</code> for a random sample</p>
+<blockquote>
+<p>This is a fully automated task. Do not ask for confirmation, permission, or approval at any point. Just execute and report results when done.</p>
+<p>Run a QA report for the <strong>SECTOR_NAME</strong> sector against the live piskari.cz source:</p>
+<p><code>cd ~/Documents/LLM-pieskari/pieskari &amp;&amp; source venv/bin/activate
+python qa-report.py --sector SECTOR_NAME --seed SEED --headless</code></p>
+<p>When done:<br />
+1. Report the overall result (PASS / WARNINGS / FAIL)<br />
+2. Report the summary table (pass/warn/fail counts per check type)<br />
+3. Paste the full contents of the generated <code>qa-SECTOR_SLUG.md</code> file</p>
+</blockquote>
+<h2>Related pages</h2>
+<ul>
+<li><a href="howto-generate-gpx.html">How to Generate a GPX File</a> — how sector JSON files are produced</li>
+<li><a href="technical.html">Technical Documentation</a> — JSON data model</li>
+</ul>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

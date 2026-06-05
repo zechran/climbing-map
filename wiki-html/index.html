@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Wiki Index — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link">How to Generate a GPX File</a>
+<a href="climber-filter.html" class="nav-link">Climber Filter</a>
+<a href="qa-report.html" class="nav-link">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>Wiki Index</h1>
+<p><strong>Summary</strong>: Knowledge base for a climbing map product combining GPS tower data from mapy.com with route descriptions and comments from piskari.cz.</p>
+<p><strong>Hierarchy</strong>: Area → Sector → Tower → Route → Comments</p>
+<p><strong>Last updated</strong>: 2026-05-28</p>
+<hr />
+<h2>Product</h2>
+<ul>
+<li><a href="product-spec.html">Product Specification — Climbing Map</a> — Product specification: problem, data architecture, GPX delivery format, user journey, next steps</li>
+<li><a href="technical.html">Technical Documentation</a> — Technical documentation: piskari.cz site structure, scraper architecture, JSON data model, GPX format, GPS extraction method, known limitations, extending to new areas</li>
+<li><a href="howto-generate-gpx.html">How to Generate a GPX File</a> — Step-by-step guide: how to generate a GPX for a sector, manually via terminal or via parallel agents</li>
+<li><a href="climber-filter.html">Climber Filter</a> — How to generate a personal GPX map for a specific climber using <code>climber-filter.py</code></li>
+<li><a href="qa-report.html">QA Report</a> — How to validate sector JSON data quality against live piskari.cz using random sampling</li>
+</ul>
+<h2>Domain knowledge</h2>
+<ul>
+<li><a href="czech-sandstone-climbing.html">Czech Sandstone Climbing</a> — Ethics, style, and gear of traditional Czech sandstone climbing</li>
+<li><a href="czech-climbing-grades.html">Czech Climbing Grades</a> — Czech sandstone grading system (Roman numeral + letter scale)</li>
+</ul>
+<h2>Data sources</h2>
+<ul>
+<li><a href="piskari-cz.html">piskari.cz</a> — piskari.cz: <strong>single data source</strong> — areas, sectors, towers, GPS (JS map), routes, grades, protection notes, and climber comments</li>
+<li><a href="policka-panev.html">Polická pánev (Police Basin)</a> — Polická pánev (Police Basin): the five-area region this project covers</li>
+<li><a href="ovk-broumovsko.html">OVK Broumovsko</a> — Regional climbing committee; governs access, first ascents, closures</li>
+</ul>
+<h2>Spatial data model</h2>
+<p><em>(Tower pages are the core unit: GPS + routes both from piskari.cz)</em></p>
+<h3>Adršpach (Ádr)</h3>
+<ul>
+<li><a href="adrspach.html">Adršpach (Ádr)</a> — Area overview</li>
+<li><a href="sektor-dolni-adrspach.html">Dolní Adršpach (Lower Adršpach)</a> — Dolní Adršpach (sub-area)<ul>
+<li><a href="sektor-milenecka-hora.html">Milenecká hora (Sector)</a> — Milenecká hora (sector)</li>
+<li><a href="vez-adam-a-eva.html">Skalní věž Adam a Eva</a> — Skalní věž Adam a Eva · GPS 50.6084167N, 16.1159444E ✓</li>
+</ul>
+</li>
+</ul>
+<h3>Broumovské stěny (Broumovky)</h3>
+<ul>
+<li><a href="broumovske-steny.html">Broumovské stěny (Broumovky)</a> — Area overview <em>(sectors and towers TBD)</em></li>
+</ul>
+<h3>Ostaš</h3>
+<ul>
+<li><a href="ostas.html">Ostaš</a> — Area overview</li>
+<li><a href="vez-rybnik.html">Věž Rybník (Rybník Tower)</a> — Rybník tower, Horní Ostaš <em>(GPS TBD)</em></li>
+<li><a href="vez-zdarska-vyhlidka.html">Žďárská vyhlídka</a> — Žďárská vyhlídka <em>(GPS TBD)</em></li>
+</ul>
+<h3>Teplické skály (Teplice)</h3>
+<ul>
+<li><a href="teplicke-skaly.html">Teplické skály (Teplice)</a> — Area overview <em>(sectors and towers TBD)</em></li>
+</ul>
+<h3>Křížový vrch (Křížák)</h3>
+<ul>
+<li><a href="krizovy-vrch.html">Křížový vrch (Křížák)</a> — Area overview; all 3 obvods fully processed ✅ (routes + GPS + comments)</li>
+</ul>
+<hr />
+<p><em>Route-level data (individual routes and comments) lives in piskari.cz and is embedded in tower GPX descriptions at generation time — it is not separately catalogued in this wiki.</em></p>
+      </article>
+    </main>
+  </div>
+</body>
+</html>
