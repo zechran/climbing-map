@@ -4,6 +4,16 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-06-04 — Added publishing.md wiki page and publish.sh script
+
+**New script**: `publish.sh "message"` — rebuilds HTML from markdown, commits, and pushes to GitHub in one command. Claude runs this automatically after every wiki change.
+
+**New wiki page**: `publishing.md` — documents the full publishing pipeline, infrastructure, folder roles, and custom domain setup.
+
+**Pages updated**: `index.md`, `log.md`
+
+---
+
 ## 2026-06-04 — All 11 Adršpach sectors complete
 
 All sector JSON and GPX files confirmed present on disk. Agent table and Locus Map folder listing in `howto-generate-gpx.md` updated to reflect 11/11 ✅.

@@ -14,6 +14,7 @@ cd "$(dirname "$0")"
 MSG="${1:-Wiki update: $(date '+%Y-%m-%d %H:%M')}"
 
 echo "🔨 Building wiki..."
+source venv/bin/activate
 python3 build-wiki.py
 
 echo "📦 Committing..."

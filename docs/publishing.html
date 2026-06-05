@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Publishing — Pieskari Wiki</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="layout">
+    <nav class="sidebar">
+      <div class="sidebar-title">
+        <a href="index.html">🧗 Pieskari Wiki</a>
+      </div>
+      <div class="nav-section">Product</div>
+<a href="product-spec.html" class="nav-link">Product Specification — Climbing Map</a>
+<a href="technical.html" class="nav-link">Technical Documentation</a>
+<a href="howto-generate-gpx.html" class="nav-link">How to Generate a GPX File</a>
+<a href="publishing.html" class="nav-link active">Publishing</a>
+<a href="climber-filter.html" class="nav-link">Climber Filter</a>
+<a href="qa-report.html" class="nav-link">QA Report</a>
+<div class="nav-section">Domain knowledge</div>
+<a href="czech-sandstone-climbing.html" class="nav-link">Czech Sandstone Climbing</a>
+<a href="czech-climbing-grades.html" class="nav-link">Czech Climbing Grades</a>
+<div class="nav-section">Data sources</div>
+<a href="piskari-cz.html" class="nav-link">piskari.cz</a>
+<a href="policka-panev.html" class="nav-link">Polická pánev (Police Basin)</a>
+<a href="ovk-broumovsko.html" class="nav-link">OVK Broumovsko</a>
+<div class="nav-section">Spatial data model</div>
+<div class="nav-subsection">Adršpach (Ádr)</div>
+<a href="adrspach.html" class="nav-link indent-1">Adršpach (Ádr)</a>
+<a href="sektor-dolni-adrspach.html" class="nav-link indent-2">Dolní Adršpach (Lower Adršpach)</a>
+<a href="sektor-milenecka-hora.html" class="nav-link indent-2">Milenecká hora (Sector)</a>
+<a href="vez-adam-a-eva.html" class="nav-link indent-2">Skalní věž Adam a Eva</a>
+<div class="nav-subsection">Broumovské stěny (Broumovky)</div>
+<a href="broumovske-steny.html" class="nav-link indent-1">Broumovské stěny (Broumovky)</a>
+<div class="nav-subsection">Ostaš</div>
+<a href="ostas.html" class="nav-link indent-1">Ostaš</a>
+<a href="vez-rybnik.html" class="nav-link indent-2">Věž Rybník (Rybník Tower)</a>
+<a href="vez-zdarska-vyhlidka.html" class="nav-link indent-2">Žďárská vyhlídka</a>
+<div class="nav-subsection">Teplické skály (Teplice)</div>
+<a href="teplicke-skaly.html" class="nav-link indent-1">Teplické skály (Teplice)</a>
+<div class="nav-subsection">Křížový vrch (Křížák)</div>
+<a href="krizovy-vrch.html" class="nav-link indent-1">Křížový vrch (Křížák)</a>
+    </nav>
+    <main class="content">
+      <article>
+        <h1>Publishing</h1>
+<p><strong>Summary</strong>: How the wiki is built and published to GitHub Pages as a public website.</p>
+<p><strong>Last updated</strong>: 2026-06-04</p>
+<hr />
+<h2>Overview</h2>
+<p>Wiki content is authored in Markdown (<code>wiki/</code>) and published as HTML (<code>docs/</code>). A single script handles the full pipeline — build, commit, and push.</p>
+<pre><code>wiki/*.md  →  build-wiki.py  →  docs/*.html  →  git push  →  GitHub Pages
+</code></pre>
+<p>The public site updates automatically within ~1 minute of every push.</p>
+<hr />
+<h2>Publishing workflow</h2>
+<p>Claude runs this after every wiki change:</p>
+<pre><code class="language-bash">./publish.sh &quot;descriptive commit message&quot;
+</code></pre>
+<p>This does three things in sequence:<br />
+1. Runs <code>python3 build-wiki.py</code> — converts all <code>wiki/*.md</code> to <code>docs/*.html</code><br />
+2. Runs <code>git add . &amp;&amp; git commit -m "message"</code> — commits all changes<br />
+3. Runs <code>git push</code> — pushes to GitHub, triggering Pages deployment</p>
+<hr />
+<h2>Manual run</h2>
+<p>If you need to publish manually from Terminal:</p>
+<pre><code class="language-bash">cd ~/Documents/LLM-pieskari/pieskari
+./publish.sh &quot;your commit message&quot;
+</code></pre>
+<p>Or step by step:</p>
+<pre><code class="language-bash">python3 build-wiki.py
+git add .
+git commit -m &quot;your message&quot;
+git push
+</code></pre>
+<hr />
+<h2>Infrastructure</h2>
+<table>
+<thead>
+<tr>
+<th>Component</th>
+<th>Detail</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Repository</td>
+<td><code>github.com/YOUR_USERNAME/climbing-map</code> (public)</td>
+</tr>
+<tr>
+<td>Hosting</td>
+<td>GitHub Pages</td>
+</tr>
+<tr>
+<td>Source folder</td>
+<td><code>docs/</code> (on <code>main</code> branch)</td>
+</tr>
+<tr>
+<td>Public URL</td>
+<td><code>https://YOUR_USERNAME.github.io/climbing-map/</code></td>
+</tr>
+<tr>
+<td>Custom domain</td>
+<td>TBD</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Folder roles</h2>
+<table>
+<thead>
+<tr>
+<th>Folder</th>
+<th>Role</th>
+<th>Edited by</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>wiki/</code></td>
+<td>Authoring format (Markdown)</td>
+<td>Claude</td>
+</tr>
+<tr>
+<td><code>docs/</code></td>
+<td>Published output (HTML)</td>
+<td><code>build-wiki.py</code> — never edit directly</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Custom domain setup</h2>
+<p>When you&rsquo;re ready to point a domain at the wiki:</p>
+<ol>
+<li>Go to <strong>GitHub → Settings → Pages → Custom domain</strong></li>
+<li>Enter your domain (e.g. <code>wiki.yourdomain.com</code>)</li>
+<li>Add a <code>CNAME</code> DNS record at your domain registrar pointing to <code>YOUR_USERNAME.github.io</code></li>
+<li>Wait for DNS propagation (up to 24h)</li>
+<li>Tick <strong>Enforce HTTPS</strong> once the certificate is issued</li>
+</ol>
+<hr />
+<h2>Related pages</h2>
+<ul>
+<li><a href="howto-generate-gpx.html">How to Generate a GPX File</a> — workflow for generating GPX files</li>
+<li><a href="qa-report.html">QA Report</a> — automated data quality validation</li>
+</ul>
+      </article>
+    </main>
+  </div>
+</body>
+</html>

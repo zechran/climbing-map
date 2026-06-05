@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/qa-report.md",
+                "file": "wiki/publishing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "qa-report"
+              "title": "publishing"
             }
           }
         ]
@@ -185,6 +185,9 @@
   },
   "active": "d3ff99bff9ed9508",
   "lastOpenFiles": [
+    "wiki/index.md",
+    "wiki/publishing.md",
+    "wiki/qa-report.md",
     "publish.sh",
     "docs/vez-zdarska-vyhlidka.html",
     "docs/vez-rybnik.html",
@@ -195,10 +198,7 @@
     "docs/style.css",
     "docs/sektor-milenecka-hora.html",
     "docs/sektor-dolni-adrspach.html",
-    "docs/qa-report.html",
     "wiki/product-spec.md",
-    "wiki/index.md",
-    "wiki/qa-report.md",
     "qa-ostrov.md",
     "wiki/howto-generate-gpx.md",
     "qa-himalaj.md",

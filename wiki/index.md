@@ -13,6 +13,7 @@
 - [[product-spec]] — Product specification: problem, data architecture, GPX delivery format, user journey, next steps
 - [[technical]] — Technical documentation: piskari.cz site structure, scraper architecture, JSON data model, GPX format, GPS extraction method, known limitations, extending to new areas
 - [[howto-generate-gpx]] — Step-by-step guide: how to generate a GPX for a sector, manually via terminal or via parallel agents
+- [[publishing]] — How the wiki is built and published to GitHub Pages
 - [[climber-filter]] — How to generate a personal GPX map for a specific climber using `climber-filter.py`
 - [[qa-report]] — How to validate sector JSON data quality against live piskari.cz using random sampling
 
