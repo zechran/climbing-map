@@ -33,7 +33,7 @@ except ImportError:
     sys.exit(1)
 
 WIKI_DIR  = Path("wiki")
-OUT_DIR   = Path("wiki-html")
+OUT_DIR   = Path("docs")
 EXCLUDE   = {"log.md"}
 SITE_NAME = "Pieskari Wiki"
 
