@@ -32,7 +32,7 @@ When the user adds a new source to `raw/` and asks you to ingest it:
 5. Add wiki-links ([[page-name]]) to connect related pages
 6. Update `wiki/index.md` with new pages and one-line descriptions
 7. Append an entry to `wiki/log.md` with the date, source name, and what changed
-8. Run `python3 build-wiki.py` to regenerate the HTML output
+8. Run `./publish.sh "descriptive commit message"` to rebuild HTML and push to GitHub
 
 A single source may touch 10-15 wiki pages. That is normal.
 
@@ -95,7 +95,7 @@ When the user asks you to lint or audit the wiki:
 
 - Never modify anything in the `raw/` folder
 - Always update `wiki/index.md` and `wiki/log.md` after any wiki changes
-- Always run `python3 build-wiki.py` after any wiki changes to keep the HTML output in sync
+- Always run `./publish.sh "descriptive commit message"` after any wiki changes — this rebuilds the HTML and pushes to GitHub automatically
 - Keep page names lowercase with hyphens (e.g. `machine-learning.md`)
 - Write in clear, plain language
 - When uncertain about how to categorize something, ask the user
