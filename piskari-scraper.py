@@ -169,39 +169,10 @@ async def get_tower_data(page, tower_url: str) -> dict | None:
     except Exception as e:
         print(f"  Route scrape error for {tower_name}: {e}", file=sys.stderr)
 
-    # ── GPS: click map tab and read window.map.getCenter() ──
+    # ── GPS: not extracted here ──
+    # mapy.com is the single GPS source of truth.
+    # Run mapycz-gps.py after this script to populate lat/lon via the mapy.com API.
     lat, lon = None, None
-    try:
-        map_tab = await page.query_selector('a:has-text("mapa")')
-        if map_tab:
-            await map_tab.click()
-            # Wait until map is fully ready: getCenter() must return a usable LatLng
-            await page.wait_for_function("""
-                () => {
-                    try {
-                        if (typeof window.map === 'undefined') return false;
-                        var c = window.map.getCenter();
-                        return c !== null && c !== undefined && typeof c.lat === 'function' && c.lat() !== 0;
-                    } catch(e) { return false; }
-                }
-            """, timeout=20000)
-            # Dismiss "This page can't load Google Maps correctly" dialog if present
-            try:
-                ok_btn = await page.wait_for_selector('button:has-text("OK")', timeout=2000)
-                if ok_btn:
-                    await ok_btn.click()
-            except Exception:
-                pass
-            coords = await page.evaluate("""
-                () => {
-                    var c = window.map.getCenter();
-                    return {lat: c.lat(), lng: c.lng()};
-                }
-            """)
-            lat = coords["lat"]
-            lon = coords["lng"]
-    except Exception as e:
-        print(f"  GPS error for {tower_name}: {e}", file=sys.stderr)
 
     return {
         "name": tower_name,
@@ -273,7 +244,7 @@ async def get_route_details(page, route_url: str, max_comments: int = 8) -> dict
 
 # ── GPX assembly ─────────────────────────────────────────────────────────────
 
-def build_desc(tower: dict, comments_by_route: dict) -> str:
+def build_desc(tower: dict) -> str:
     lines = []
     if tower["area"] or tower["sector"]:
         lines.append(f"OBLAST: {tower['area']} / {tower['sector']}")
@@ -287,15 +258,13 @@ def build_desc(tower: dict, comments_by_route: dict) -> str:
             grade = f" | {r['grade']}" if r["grade"] else ""
             date  = f" ({r['date']})" if r["date"] else ""
             lines.append(f"{i}. {r['name']}{grade}{date}")
-            # Route detail (popis, charakter) stored inline in route dict
             if r.get("charakter"):
                 lines.append(f"   Charakter: {r['charakter']}")
             if r.get("popis"):
                 lines.append(f"   Popis: {r['popis']}")
             if r.get("autor"):
                 lines.append(f"   Autor: {r['autor']}")
-            # Comments — stored inline in route dict (preferred) or legacy lookup
-            coms = r.get("comments") or comments_by_route.get(r.get("url", ""), [])
+            coms = r.get("comments", [])
             if coms:
                 lines.append(f"   Komentáře:")
                 for c in coms:
@@ -305,15 +274,18 @@ def build_desc(tower: dict, comments_by_route: dict) -> str:
     return "\n".join(lines)
 
 
-def write_gpx(towers: list[dict], comments_by_route: dict, output_path: Path, label: str):
+def write_gpx(towers: list[dict], output_path: Path, label: str):
     gpx = ET.Element("gpx", {
         "version": "1.1",
-        "creator": "piskari-scraper.py",
+        "creator": "piskari-scraper.py + mapycz-gps.py",
         "xmlns": "http://www.topografix.com/GPX/1/1",
     })
     meta = ET.SubElement(gpx, "metadata")
     ET.SubElement(meta, "name").text = f"Piskovce — {label}"
-    ET.SubElement(meta, "desc").text = f"Climbing towers from piskari.cz — {label}. Generated {datetime.now().strftime('%Y-%m-%d')}."
+    ET.SubElement(meta, "desc").text = (
+        f"Climbing towers from piskari.cz — {label}. "
+        f"GPS from mapy.com API. Generated {datetime.now().strftime('%Y-%m-%d')}."
+    )
 
     skipped = 0
     for t in towers:
@@ -325,7 +297,7 @@ def write_gpx(towers: list[dict], comments_by_route: dict, output_path: Path, la
             "lon": f"{t['lon']:.7f}",
         })
         ET.SubElement(wpt, "name").text = t["name"]
-        ET.SubElement(wpt, "desc").text = build_desc(t, comments_by_route)
+        ET.SubElement(wpt, "desc").text = build_desc(t)
         ET.SubElement(wpt, "sym").text = "Flag, Blue"
 
     # ET.indent is Python 3.9+ — use minidom for pretty-printing on 3.8
@@ -356,8 +328,6 @@ async def main():
                        help="Scrape all 3 Křížový vrch obvods")
     group.add_argument("--tower", metavar="PATH",
                        help="Single tower path, e.g. /cs/skala/adam-a-eva-1378/")
-    group.add_argument("--retry", metavar="JSON_FILE",
-                       help="Re-scrape towers with missing GPS from an existing JSON file and update GPX")
     group.add_argument("--add-comments", metavar="JSON_FILE_OR_SECTOR",
                        help="Enrich an existing JSON with route descriptions and comments, then regenerate GPX. "
                             "Accepts either a JSON filename or a sector name (e.g. \"Himálaj\") — "
@@ -366,8 +336,6 @@ async def main():
                        help="Rebuild GPX from an existing JSON without any web access. "
                             "Use after manually editing GPS coordinates in the JSON. "
                             "Accepts either a JSON filename or a sector name.")
-    parser.add_argument("--comments", action="store_true",
-                       help="Also fetch comments for each route (slower)")
     parser.add_argument("--output", metavar="FILE",
                        help="Output GPX path (default: auto-named)")
     parser.add_argument("--headless", action="store_true", default=False,
@@ -384,7 +352,7 @@ async def main():
         towers = json.loads(json_file.read_text(encoding="utf-8"))
         label = json_file.stem.replace("piskovce-", "").replace("-", " ").title()
         out = Path(args.output) if args.output else json_file.with_suffix(".gpx")
-        write_gpx(towers, {}, out, label)
+        write_gpx(towers, out, label)
         return
 
     async with async_playwright() as pw:
@@ -398,37 +366,7 @@ async def main():
         towers = []
         label = ""
 
-        if args.retry:
-            # Read existing JSON, re-scrape only towers where lat is null
-            json_file = Path(args.retry)
-            towers = json.loads(json_file.read_text(encoding="utf-8"))
-            missing = [t for t in towers if t.get("lat") is None]
-            print(f"Found {len(missing)} towers without GPS in {json_file.name}, re-scraping...")
-            for i, t in enumerate(missing):
-                # Derive path from full URL
-                tower_path = t["url"].replace(BASE_URL, "")
-                print(f"[{i+1}/{len(missing)}] {t['name']}", end="  ", flush=True)
-                data = await get_tower_data(page, tower_path)
-                if data and data["lat"] is not None:
-                    # Update in place
-                    for j, orig in enumerate(towers):
-                        if orig["url"] == t["url"]:
-                            towers[j] = data
-                            break
-                    print(f"→ {data['lat']:.5f},{data['lon']:.5f}")
-                else:
-                    print("→ FAILED again")
-            label = json_file.stem.replace("piskovce-", "").replace("-", " ").title()
-            # Save updated JSON
-            json_file.write_text(json.dumps(towers, ensure_ascii=False, indent=2), encoding="utf-8")
-            print(f"   JSON updated: {json_file}")
-            # Re-generate GPX from updated data
-            out = Path(args.output) if args.output else json_file.with_suffix(".gpx")
-            await browser.close()
-            write_gpx(towers, {}, out, label)
-            return
-
-        elif args.add_comments:
+        if args.add_comments:
             # Enrich existing JSON with popis, charakter, autor, comments per route
             # Accept either a JSON filename or a sector name
             raw = args.add_comments
@@ -458,7 +396,7 @@ async def main():
             label = json_file.stem.replace("piskovce-", "").replace("-", " ").title()
             out = Path(args.output) if args.output else json_file.with_suffix(".gpx")
             await browser.close()
-            write_gpx(towers, {}, out, label)
+            write_gpx(towers, out, label)
             return
 
         elif args.tower:
@@ -479,8 +417,7 @@ async def main():
                     data = await get_tower_data(page, t["url"])
                     if data:
                         towers.append(data)
-                        gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
-                        print(f"→ {gps}")
+                        print(f"→ OK (GPS via mapycz-gps.py)")
                     else:
                         print("→ FAILED")
 
@@ -495,8 +432,7 @@ async def main():
                     data = await get_tower_data(page, t["url"])
                     if data:
                         towers.append(data)
-                        gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
-                        print(f"→ {gps}")
+                        print(f"→ OK (GPS via mapycz-gps.py)")
                     else:
                         print("→ FAILED")
 
@@ -516,8 +452,7 @@ async def main():
                 data = await get_tower_data(page, t["url"])
                 if data:
                     towers.append(data)
-                    gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
-                    print(f"→ {gps}")
+                    print("→ OK (GPS via mapycz-gps.py)")
                 else:
                     print("→ FAILED")
 
@@ -537,21 +472,9 @@ async def main():
                 data = await get_tower_data(page, t["url"])
                 if data:
                     towers.append(data)
-                    gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
-                    print(f"→ {gps}")
+                    print("→ OK (GPS via mapycz-gps.py)")
                 else:
                     print("→ FAILED")
-
-        # Optionally fetch comments
-        comments_by_route: dict = {}
-        if args.comments and towers:
-            print("\n💬 Fetching route comments...")
-            for t in towers:
-                for r in t.get("routes", []):
-                    if r["url"] and r["url"] not in comments_by_route:
-                        coms = await get_route_comments(page, r["url"])
-                        if coms:
-                            comments_by_route[r["url"]] = coms
 
         await browser.close()
 
@@ -561,7 +484,7 @@ async def main():
         else:
             out = Path(f"piskovce-{slugify(label)}.gpx")
 
-        write_gpx(towers, comments_by_route, out, label)
+        write_gpx(towers, out, label)
 
         # Also save raw JSON for debugging
         json_out = out.with_suffix(".json")

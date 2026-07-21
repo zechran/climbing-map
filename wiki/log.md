@@ -4,6 +4,18 @@ Append-only record of all wiki operations.
 
 ---
 
+## 2026-07-22 — mapy.com as single GPS source of truth; popis/charakter/autor fix
+
+**piskari-scraper.py** — removed GPS extraction entirely (the Google Maps `window.map.getCenter()` scraping). GPS now always comes from `mapycz-gps.py`. Removed obsolete `--retry` flag and broken `--comments` flag. Cleaned up `build_desc()` and `write_gpx()` signatures.
+
+**piskari-scraper.py** — fixed `get_route_details()`: the `td:has-text("popis:")` CSS selector never matched because `popis`/`charakter`/`autor` are in `<strong>` tags, not table cells. Replaced with a JavaScript evaluation that walks `<strong>` elements. Fixed `already_done` check to re-scrape routes where popis is still empty even if comments exist.
+
+**Next step**: run `python mapycz-gps.py --sector SECTOR --all` for all 14 sectors to overwrite piskari.cz GPS with mapy.com GPS.
+
+**Pages updated**: `howto-generate-gpx.md`, `log.md`
+
+---
+
 ## 2026-06-04 — Added publishing.md wiki page and publish.sh script
 
 **New script**: `publish.sh "message"` — rebuilds HTML from markdown, commits, and pushes to GitHub in one command. Claude runs this automatically after every wiki change.

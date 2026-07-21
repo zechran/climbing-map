@@ -47,7 +47,7 @@
       <article>
         <h1>How to Generate a GPX File</h1>
 <p><strong>Summary</strong>: Step-by-step guide for generating climbing map GPX files from piskari.cz. Two methods: manual terminal and agent-based (parallel sectors).</p>
-<p><strong>Last updated</strong>: 2026-05-25</p>
+<p><strong>Last updated</strong>: 2026-07-22</p>
 <hr />
 <h2>Before you start — one-time setup</h2>
 <p>You only need to do this once. If you&rsquo;ve done it before, skip to Method 1 or Method 2.</p>
@@ -93,38 +93,41 @@ python -m playwright install chromium
 source venv/bin/activate
 </code></pre>
 <p>You&rsquo;ll see <code>(venv)</code> in the prompt. Do this every time you open a new terminal.</p>
-<h3>Step 2 — Scrape GPS and routes</h3>
+<h3>Step 2 — Scrape tower list and routes</h3>
 <p>Replace <code>"Himálaj"</code> with the sector you want. A browser window will open automatically — don&rsquo;t close it.</p>
 <pre><code class="language-bash">python piskari-scraper.py --sector &quot;Himálaj&quot;
 </code></pre>
 <p>You&rsquo;ll see progress printed in the terminal:</p>
 <pre><code>📍 Collecting towers in: Himálaj
    Found 47 towers
-[1/47] Abakus → 50.61823, 16.09541
-[2/47] Adamec → 50.61901, 16.09483
+[1/47] Abakus → OK (GPS via mapycz-gps.py)
+[2/47] Adamec → OK (GPS via mapycz-gps.py)
 ...
-✅ GPX written: piskovce-himalaj.gpx
 </code></pre>
+<p>This collects tower names and all route data (names, grades, dates). GPS coordinates are <strong>not</strong> scraped here — that is Step 3.</p>
 <p>This takes roughly 5–15 minutes depending on sector size.</p>
-<h3>Step 3 — Fill GPS gaps via mapy.com API</h3>
-<p>Some towers won&rsquo;t have GPS after Step 2. This script queries the mapy.com API and fills in coordinates for towers where it finds a confident match. It only touches towers still missing GPS, so it is safe to always run.</p>
-<pre><code class="language-bash">python mapycz-gps.py --json piskovce-himalaj.json
+<h3>Step 3 — Get GPS from mapy.com API</h3>
+<p>mapy.com is the <strong>single GPS source of truth</strong> for this project. This script geocodes all towers by name and writes coordinates into the JSON.</p>
+<pre><code class="language-bash">python mapycz-gps.py --sector &quot;Himálaj&quot;
 </code></pre>
 <p>The script reads your API key from the <code>MAPYCZ_API_KEY</code> environment variable if set, otherwise it prompts you interactively. To avoid the prompt (especially useful when running multiple sectors), set the variable once at the start of your terminal session:</p>
 <pre><code class="language-bash">export MAPYCZ_API_KEY=&quot;your-key-here&quot;
 </code></pre>
 <p>The key lives only in the shell session&rsquo;s memory — it is never written to any file and disappears when you close the terminal.</p>
 <h3>Step 4 (optional) — Handle towers still missing GPS</h3>
-<p>After Step 3, check if any towers are still missing GPS. If so, add them manually:</p>
+<p>After Step 3, any towers mapy.com couldn&rsquo;t match are listed in the output as <code>NOT FOUND in bbox</code>. Add them manually:</p>
 <ol>
 <li>Open <code>piskovce-himalaj.json</code> in any text editor</li>
 <li>Search for <code>"lat": null</code></li>
-<li>Look up the tower on mapy.cz, copy the coordinates</li>
+<li>Look up the tower on <a href="https://mapy.cz">mapy.cz</a>, copy the coordinates</li>
 <li>Replace <code>"lat": null, "lon": null</code> with <code>"lat": 50.12345, "lon": 16.12345</code></li>
 </ol>
+<p>Then rebuild the GPX without re-fetching anything from the web:</p>
+<pre><code class="language-bash">python piskari-scraper.py --rebuild-gpx &quot;Himálaj&quot;
+</code></pre>
 <h3>Step 5 — Enrich with route descriptions and comments</h3>
-<p>This visits every individual route page to add the full description, climbing character, and climber comments. Takes longer (~30–60 min for a large sector).</p>
-<pre><code class="language-bash">python piskari-scraper.py --add-comments piskovce-himalaj.json
+<p>This visits every individual route page to add the full description (<code>popis</code>), climbing character (<code>charakter</code>), first ascensionist (<code>autor</code>), and climber comments. Takes longer (~30–60 min for a large sector).</p>
+<pre><code class="language-bash">python piskari-scraper.py --add-comments &quot;Himálaj&quot;
 </code></pre>
 <p>Progress:</p>
 <pre><code>Fetching details for 142 routes across 47 towers...
@@ -133,12 +136,7 @@ source venv/bin/activate
   ...
 ✅ GPX written: piskovce-himalaj.gpx
 </code></pre>
-<h3>Step 6 (optional) — Rebuild GPX after manual GPS edits</h3>
-<p>After Step 5 completes, you may find some towers still have no GPS when you check the GPX in Locus Map. Open the JSON, fix the coordinates manually, then rebuild the GPX without re-fetching comments from the web:</p>
-<pre><code class="language-bash">python piskari-scraper.py --rebuild-gpx &quot;Himálaj&quot;
-</code></pre>
-<p>This reads the JSON as-is and writes a fresh GPX — no browser, no web access, no comments re-fetch.</p>
-<h3>Step 7 — Import into Locus Map</h3>
+<h3>Step 6 — Import into Locus Map</h3>
 <ol>
 <li>Transfer <code>piskovce-himalaj.gpx</code> to your phone (AirDrop, cable, or shared folder)</li>
 <li>Open Locus Map → My Library → Import</li>
@@ -146,7 +144,7 @@ source venv/bin/activate
 <li>When prompted for a folder, create one named after the sector (e.g. &ldquo;Himálaj&rdquo;)</li>
 <li>Done — tap any pin on the map to see routes and comments</li>
 </ol>
-<p><strong>Note</strong>: If you did Step 6 (manual GPS fix), re-import the updated GPX to replace the previous one.</p>
+<p><strong>Note</strong>: If you did Step 4 (manual GPS fix + rebuild), re-import the updated GPX to replace the previous one.</p>
 <hr />
 <h2>Method 2 — Agent-based (parallel sectors)</h2>
 <p>Best for: generating multiple sectors at once without sitting at the terminal. Each Cowork agent handles one sector independently.</p>
@@ -163,6 +161,7 @@ source venv/bin/activate
 python piskari-scraper.py --sector SECTOR_NAME
 python mapycz-gps.py --sector SECTOR_NAME
 python piskari-scraper.py --add-comments SECTOR_NAME</code></p>
+<p>Note: GPS coordinates always come from the mapy.com API (Step 2). piskari-scraper.py does not extract GPS.</p>
 <p>When done, report: how many towers total, how many have GPS, and the name of the GPX file created.</p>
 <p>If I later tell you I updated the JSON manually, run without asking: <code>python piskari-scraper.py --rebuild-gpx SECTOR_NAME</code></p>
 </blockquote>
@@ -268,29 +267,33 @@ python piskari-scraper.py --add-comments SECTOR_NAME</code></p>
 source venv/bin/activate
 
 # Option A — refresh comments only (fast, keeps existing GPS)
-python piskari-scraper.py --add-comments piskovce-himalaj.json
+python piskari-scraper.py --add-comments &quot;Himálaj&quot;
 
 # Option B — full re-scrape from scratch (slower, picks up new towers too)
 python piskari-scraper.py --sector &quot;Himálaj&quot;
-python piskari-scraper.py --add-comments piskovce-himalaj.json
+python mapycz-gps.py --sector &quot;Himálaj&quot;
+python piskari-scraper.py --add-comments &quot;Himálaj&quot;
 </code></pre>
 <p>Then re-import the updated GPX into Locus Map (replace the existing file in the folder).</p>
+<p>To refresh GPS coordinates from mapy.com only (no route re-scraping):</p>
+<pre><code class="language-bash">python mapycz-gps.py --sector &quot;Himálaj&quot; --all
+</code></pre>
 <hr />
 <h2>Troubleshooting</h2>
 <p><strong><code>(venv)</code> not showing in prompt</strong><br />
 Run <code>source venv/bin/activate</code> again. You need to do this every time you open a new terminal.</p>
 <p><strong><code>python: command not found</code></strong><br />
 Use <code>python3</code> instead of <code>python</code> if you get this error.</p>
-<p><strong>Tower shows → NO GPS</strong><br />
-The tower has no map tab on piskari.cz (usually a newer tower with a 3xxx ID). First run <code>mapycz-gps.py</code> (Step 3) — it may find a match. If still missing, add coordinates manually — see Step 4 above.</p>
+<p><strong>Tower shows → no GPS in Locus Map</strong><br />
+mapy.com couldn&rsquo;t geocode this tower (unusual name or not yet listed as a POI). Add coordinates manually — see Step 4 above. You can also look it up on <a href="https://mapy.cz">mapy.cz</a> directly by searching the tower name.</p>
 <p><strong>Browser window opens but nothing happens</strong><br />
 piskari.cz may be slow or temporarily down. Wait 30 seconds and try again. If it keeps failing, run with <code>--headless</code> removed (it&rsquo;s off by default) and watch what the browser does.</p>
 <p><strong>GPX imports into Locus Map but no pins appear</strong><br />
 Check that the GPX has at least one valid <code>&lt;wpt&gt;</code> element with lat/lon. Open the file in a text editor and look for <code>&lt;wpt lat=</code>. If it&rsquo;s empty, check the terminal output for errors during scraping.</p>
 <hr />
 <hr />
-<h2>Note: Křížový vrch workflow differs</h2>
-<p>Křížový vrch requires an extra GPS step because piskari.cz provides no GPS for that area. Instead of Step 2 above, GPS is sourced from <code>gipfelbuch-gps.py</code> first, then <code>mapycz-gps.py</code> as fallback. See <a href="krizovy-vrch.html">Křížový vrch (Křížák)</a> for the full workflow.</p>
+<h2>Note: Křížový vrch</h2>
+<p>Křížový vrch uses the same workflow as Adršpach — the same 3-step sequence applies. The sector names to use are <code>"Jižní věže"</code>, <code>"Křížový hřeben"</code>, and <code>"Zdoňovský oblouk"</code>. See <a href="krizovy-vrch.html">Křížový vrch (Křížák)</a> for area context.</p>
 <hr />
 <h2>Related pages</h2>
 <ul>
