@@ -3,8 +3,8 @@
     "name": "Alenčina věž",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623583,
-    "lon": 16.128472,
+    "lat": 50.62358,
+    "lon": 16.12847,
     "url": "https://www.piskari.cz/cs/skala/alencina-vez-2922/",
     "routes": [
       {
@@ -165,8 +165,8 @@
     "name": "Bezzubá",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623583,
-    "lon": 16.126472,
+    "lat": 50.62364,
+    "lon": 16.12647,
     "url": "https://www.piskari.cz/cs/skala/bezzuba-2877/",
     "routes": [
       {
@@ -452,8 +452,8 @@
     "name": "Dělová roura",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623361,
-    "lon": 16.127861,
+    "lat": 50.62331,
+    "lon": 16.12786,
     "url": "https://www.piskari.cz/cs/skala/delova-roura-2910/",
     "routes": [
       {
@@ -531,8 +531,8 @@
     "name": "Eskymáček",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623472,
-    "lon": 16.127638,
+    "lat": 50.62347,
+    "lon": 16.12764,
     "url": "https://www.piskari.cz/cs/skala/eskymacek-2905/",
     "routes": [
       {
@@ -591,8 +591,8 @@
     "name": "Eskymačka",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623138,
-    "lon": 16.12775,
+    "lat": 50.62347,
+    "lon": 16.12764,
     "url": "https://www.piskari.cz/cs/skala/eskymacka-2912/",
     "routes": [
       {
@@ -669,8 +669,8 @@
     "name": "Eskymák",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623277,
-    "lon": 16.127638,
+    "lat": 50.62328,
+    "lon": 16.12764,
     "url": "https://www.piskari.cz/cs/skala/eskymak-2909/",
     "routes": [
       {
@@ -791,8 +791,8 @@
     "name": "Jidoda",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623333,
-    "lon": 16.128333,
+    "lat": 50.62333,
+    "lon": 16.12833,
     "url": "https://www.piskari.cz/cs/skala/jidoda-2917/",
     "routes": [
       {
@@ -1031,8 +1031,8 @@
     "name": "Kostlivec",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623472,
-    "lon": 16.128333,
+    "lat": 50.62347,
+    "lon": 16.12833,
     "url": "https://www.piskari.cz/cs/skala/kostlivec-2918/",
     "routes": []
   },
@@ -1067,8 +1067,8 @@
     "name": "Lehkotěžká stěnka",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623805,
-    "lon": 16.126416,
+    "lat": 50.62381,
+    "lon": 16.12642,
     "url": "https://www.piskari.cz/cs/skala/lehkotezka-stenka-2878/",
     "routes": [
       {
@@ -1867,8 +1867,8 @@
     "name": "Piškot",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623277,
-    "lon": 16.128666,
+    "lat": 50.62339,
+    "lon": 16.12861,
     "url": "https://www.piskari.cz/cs/skala/piskot-2920/",
     "routes": []
   },
@@ -2065,8 +2065,8 @@
     "name": "Rypouš sloní",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.623555,
-    "lon": 16.127222,
+    "lat": 50.61289,
+    "lon": 16.10205,
     "url": "https://www.piskari.cz/cs/skala/rypous-sloni-2900/",
     "routes": []
   },
@@ -2083,8 +2083,8 @@
     "name": "Sněžný muž",
     "area": "Křížový vrch",
     "sector": "Zdoňovský oblouk",
-    "lat": 50.622944,
-    "lon": 16.127805,
+    "lat": 50.62294,
+    "lon": 16.12781,
     "url": "https://www.piskari.cz/cs/skala/snezny-muz-2913/",
     "routes": []
   },

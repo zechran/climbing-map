@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Himalaj</name>
-    <desc>Climbing towers from piskari.cz — Himalaj. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Himalaj. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6145820" lon="16.1040580">
     <name>Ama Dablam</name>
@@ -82,7 +82,7 @@ URL: https://www.piskari.cz/cs/skala/annapurna-767/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6127780" lon="16.1068360">
+  <wpt lat="50.6127900" lon="16.1068600">
     <name>Banga-Chang</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -95,7 +95,7 @@ URL: https://www.piskari.cz/cs/skala/banga-chang-757/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6144130" lon="16.1035370">
+  <wpt lat="50.6142900" lon="16.1036100">
     <name>Baruntce</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -214,7 +214,7 @@ URL: https://www.piskari.cz/cs/skala/broad-peak-799/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151090" lon="16.1041760">
+  <wpt lat="50.6150400" lon="16.1042000">
     <name>Čhangabang</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -283,7 +283,7 @@ URL: https://www.piskari.cz/cs/skala/cho-oju-785/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151230" lon="16.1040500">
+  <wpt lat="50.6150800" lon="16.1040600">
     <name>Čhogolisa</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -347,7 +347,7 @@ URL: https://www.piskari.cz/cs/skala/chogori-770/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6153410" lon="16.1034730">
+  <wpt lat="50.6152500" lon="16.1035800">
     <name>Čhomolhari</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -494,7 +494,7 @@ URL: https://www.piskari.cz/cs/skala/dhaulagiri-797/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6135950" lon="16.1051360">
+  <wpt lat="50.6135300" lon="16.1051700">
     <name>Dudh kosí</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -625,7 +625,7 @@ URL: https://www.piskari.cz/cs/skala/gangapurna-766/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6137430" lon="16.1042530">
+  <wpt lat="50.6137600" lon="16.1041500">
     <name>Gašerbrum</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -651,7 +651,7 @@ URL: https://www.piskari.cz/cs/skala/gaserbrum-795/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6135010" lon="16.1048700">
+  <wpt lat="50.6134400" lon="16.1048300">
     <name>Harry peak</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -724,7 +724,7 @@ URL: https://www.piskari.cz/cs/skala/hidden-peak-777/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6125680" lon="16.1075870">
+  <wpt lat="50.6134400" lon="16.1047500">
     <name>Himálajská</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -751,7 +751,7 @@ URL: https://www.piskari.cz/cs/skala/himalajska-753/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138500" lon="16.1031620">
+  <wpt lat="50.6138200" lon="16.1031700">
     <name>Himálajská vyhlídka</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -776,7 +776,7 @@ URL: https://www.piskari.cz/cs/skala/himalajska-vyhlidka-820/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6140270" lon="16.1055460">
+  <wpt lat="50.6140300" lon="16.1055600">
     <name>Himálajský hřeben</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -802,7 +802,7 @@ URL: https://www.piskari.cz/cs/skala/himalajsky-hreben-761/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6124220" lon="16.1067510">
+  <wpt lat="50.6124300" lon="16.1068200">
     <name>Himálajský prcek</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -955,7 +955,7 @@ URL: https://www.piskari.cz/cs/skala/jetik-3707/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6123440" lon="16.1074100">
+  <wpt lat="50.6122700" lon="16.1075200">
     <name>Jongsong</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -983,7 +983,7 @@ URL: https://www.piskari.cz/cs/skala/jongsong-754/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6127900" lon="16.1059350">
+  <wpt lat="50.6127900" lon="16.1058900">
     <name>Kangčhendžanga</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1016,7 +1016,7 @@ URL: https://www.piskari.cz/cs/skala/kangchendzanga-771/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151160" lon="16.1033040">
+  <wpt lat="50.6150600" lon="16.1033300">
     <name>Kangdu</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1057,7 +1057,7 @@ URL: https://www.piskari.cz/cs/skala/karkulka-762/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6145000" lon="16.1032070">
+  <wpt lat="50.6144600" lon="16.1032600">
     <name>Kharta Phu</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1078,7 +1078,7 @@ URL: https://www.piskari.cz/cs/skala/kharta-phu-804/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6142500" lon="16.1051950">
+  <wpt lat="50.6141300" lon="16.1051700">
     <name>Khumbu Himal</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1123,7 +1123,7 @@ URL: https://www.piskari.cz/cs/skala/khumbu-himal-763/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6129780" lon="16.1066220">
+  <wpt lat="50.6129600" lon="16.1065900">
     <name>Košíček</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1191,7 +1191,7 @@ URL: https://www.piskari.cz/cs/skala/krecek-826/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6153000" lon="16.1026040">
+  <wpt lat="50.6152000" lon="16.1026800">
     <name>Křemeňáci</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1207,7 +1207,7 @@ URL: https://www.piskari.cz/cs/skala/kremenaci-817/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151310" lon="16.1030950">
+  <wpt lat="50.6150600" lon="16.1031600">
     <name>Kulagangri</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1268,7 +1268,7 @@ vrchol.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147180" lon="16.1035160">
+  <wpt lat="50.6146800" lon="16.1035200">
     <name>Ledopád Khumbu</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1389,7 +1389,7 @@ URL: https://www.piskari.cz/cs/skala/makalu-768/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6137320" lon="16.1031130">
+  <wpt lat="50.6137400" lon="16.1031500">
     <name>Malloryho věže</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1484,7 +1484,7 @@ URL: https://www.piskari.cz/cs/skala/matlak-827/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6133310" lon="16.1054040">
+  <wpt lat="50.6132800" lon="16.1054200">
     <name>Mustagh Tower</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1637,7 +1637,7 @@ URL: https://www.piskari.cz/cs/skala/nupce-800/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6133150" lon="16.1058870">
+  <wpt lat="50.6132600" lon="16.1058700">
     <name>Palácový pes</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1653,7 +1653,7 @@ URL: https://www.piskari.cz/cs/skala/palacovy-pes-774/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6146400" lon="16.1036580">
+  <wpt lat="50.6146100" lon="16.1036800">
     <name>Pasang Dava Láma</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1673,7 +1673,7 @@ URL: https://www.piskari.cz/cs/skala/pasang-dava-lama-808/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147690" lon="16.1046400">
+  <wpt lat="50.6146900" lon="16.1046100">
     <name>Pimpršluk</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1697,7 +1697,7 @@ URL: https://www.piskari.cz/cs/skala/pimprsluk-791/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6148560" lon="16.1045270">
+  <wpt lat="50.6147500" lon="16.1045600">
     <name>Pimpršlukova stěna</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1841,7 +1841,7 @@ URL: https://www.piskari.cz/cs/skala/rododendron-782/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6137120" lon="16.1052060">
+  <wpt lat="50.6137100" lon="16.1052400">
     <name>Sinjolču</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1908,7 +1908,7 @@ URL: https://www.piskari.cz/cs/skala/svist-781/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6137820" lon="16.1038940">
+  <wpt lat="50.6138000" lon="16.1039500">
     <name>Šarpa</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -1959,7 +1959,7 @@ URL: https://www.piskari.cz/cs/skala/sisa-pangma-786/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6144850" lon="16.1037540">
+  <wpt lat="50.6144000" lon="16.1038800">
     <name>Tave Čhe</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -2029,7 +2029,7 @@ URL: https://www.piskari.cz/cs/skala/vajgl-790/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6141700" lon="16.1049190">
+  <wpt lat="50.6141600" lon="16.1049500">
     <name>Věž Dr. Kounického</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -2042,7 +2042,7 @@ URL: https://www.piskari.cz/cs/skala/vez-dr-kounickeho-788/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6136410" lon="16.1052970">
+  <wpt lat="50.6135800" lon="16.1053300">
     <name>Věž Herberta Tichého</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -2068,7 +2068,7 @@ URL: https://www.piskari.cz/cs/skala/vez-herberta-ticheho-779/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6142190" lon="16.1048350">
+  <wpt lat="50.6142300" lon="16.1049100">
     <name>Věž Karla Schuberta</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -2092,7 +2092,7 @@ URL: https://www.piskari.cz/cs/skala/vez-karla-schuberta-787/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6143590" lon="16.1026390">
+  <wpt lat="50.6145400" lon="16.1028100">
     <name>Věž průzkumníků</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -2117,7 +2117,7 @@ URL: https://www.piskari.cz/cs/skala/vez-pruzkumniku-822/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151200" lon="16.1027030">
+  <wpt lat="50.6150400" lon="16.1027500">
     <name>Věž Svena Hedina</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz
@@ -2158,7 +2158,7 @@ URL: https://www.piskari.cz/cs/skala/vez-svena-hedina-815/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6136420" lon="16.1059270">
+  <wpt lat="50.6136100" lon="16.1059200">
     <name>Žebrácký velmož</name>
     <desc>OBLAST: Adršpach / Himálaj
 ZDROJ: piskari.cz

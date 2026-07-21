@@ -4,13 +4,13 @@ Append-only record of all wiki operations.
 
 ---
 
-## 2026-07-22 — mapy.com as single GPS source of truth; popis/charakter/autor fix
+## 2026-07-22 — Dual-source GPS: piskari.cz first pass, mapy.com overlay; popis/charakter/autor fix
 
 **piskari-scraper.py** — removed GPS extraction entirely (the Google Maps `window.map.getCenter()` scraping). GPS now always comes from `mapycz-gps.py`. Removed obsolete `--retry` flag and broken `--comments` flag. Cleaned up `build_desc()` and `write_gpx()` signatures.
 
 **piskari-scraper.py** — fixed `get_route_details()`: the `td:has-text("popis:")` CSS selector never matched because `popis`/`charakter`/`autor` are in `<strong>` tags, not table cells. Replaced with a JavaScript evaluation that walks `<strong>` elements. Fixed `already_done` check to re-scrape routes where popis is still empty even if comments exist.
 
-**Next step**: run `python mapycz-gps.py --sector SECTOR --all` for all 14 sectors to overwrite piskari.cz GPS with mapy.com GPS.
+**GPS strategy**: piskari-scraper.py extracts GPS from piskari.cz Google Maps (first pass, ~70% coverage). mapycz-gps.py --all overlays mapy.com GPS where found (mapy.com always wins); piskari.cz value kept where mapy.com has no match.
 
 **Pages updated**: `howto-generate-gpx.md`, `log.md`
 

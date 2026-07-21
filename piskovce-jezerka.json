@@ -112,8 +112,8 @@
     "name": "Bendžo",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.607349,
-    "lon": 16.117848,
+    "lat": 50.60733,
+    "lon": 16.11783,
     "url": "https://www.piskari.cz/cs/skala/bendzo-994/",
     "routes": [
       {
@@ -166,8 +166,8 @@
     "name": "Bubáček",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.607886,
-    "lon": 16.117104,
+    "lat": 50.60788,
+    "lon": 16.11701,
     "url": "https://www.piskari.cz/cs/skala/bubacek-988/",
     "routes": [
       {
@@ -551,8 +551,8 @@
     "name": "Eurydika",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.607142,
-    "lon": 16.117352,
+    "lat": 50.60711,
+    "lon": 16.11733,
     "url": "https://www.piskari.cz/cs/skala/eurydika-997/",
     "routes": [
       {
@@ -853,8 +853,8 @@
     "name": "Hádův trůn",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.606779,
-    "lon": 16.118287,
+    "lat": 50.60669,
+    "lon": 16.11831,
     "url": "https://www.piskari.cz/cs/skala/haduv-trun-1004/",
     "routes": [
       {
@@ -1301,8 +1301,8 @@
     "name": "Hraboš",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609082,
-    "lon": 16.118445,
+    "lat": 50.60909,
+    "lon": 16.11837,
     "url": "https://www.piskari.cz/cs/skala/hrabos-950/",
     "routes": [
       {
@@ -1435,8 +1435,8 @@
     "name": "Charónovo bidlo",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.606374,
-    "lon": 16.119158,
+    "lat": 50.60639,
+    "lon": 16.11917,
     "url": "https://www.piskari.cz/cs/skala/charonovo-bidlo-1010/",
     "routes": [
       {
@@ -1465,8 +1465,8 @@
     "name": "Inkvizitor",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.608319,
-    "lon": 16.116852,
+    "lat": 50.60828,
+    "lon": 16.11678,
     "url": "https://www.piskari.cz/cs/skala/inkvizitor-981/",
     "routes": [
       {
@@ -1499,8 +1499,8 @@
     "name": "Jakobín",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.6085,
-    "lon": 16.117616,
+    "lat": 50.60847,
+    "lon": 16.11767,
     "url": "https://www.piskari.cz/cs/skala/jakobin-962/",
     "routes": [
       {
@@ -1685,8 +1685,8 @@
     "name": "Ještěrovo křídlo",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609745,
-    "lon": 16.119856,
+    "lat": 50.60972,
+    "lon": 16.11989,
     "url": "https://www.piskari.cz/cs/skala/jesterovo-kridlo-908/",
     "routes": [
       {
@@ -1995,8 +1995,8 @@
     "name": "Krunýř",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609007,
-    "lon": 16.119558,
+    "lat": 50.609,
+    "lon": 16.11956,
     "url": "https://www.piskari.cz/cs/skala/krunyr-923/",
     "routes": [
       {
@@ -2045,8 +2045,8 @@
     "name": "Květák",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.608395,
-    "lon": 16.118753,
+    "lat": 50.60839,
+    "lon": 16.11875,
     "url": "https://www.piskari.cz/cs/skala/kvetak-933/",
     "routes": [
       {
@@ -2200,8 +2200,8 @@
     "name": "Loskulák",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.608129,
-    "lon": 16.116699,
+    "lat": 50.60806,
+    "lon": 16.11672,
     "url": "https://www.piskari.cz/cs/skala/loskulak-984/",
     "routes": [
       {
@@ -2278,8 +2278,8 @@
     "name": "Lososí trůn",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.607967,
-    "lon": 16.11672,
+    "lat": 50.60797,
+    "lon": 16.11669,
     "url": "https://www.piskari.cz/cs/skala/lososi-trun-986/",
     "routes": [
       {
@@ -2328,8 +2328,8 @@
     "name": "Ludvík Vaculík",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.607831,
-    "lon": 16.116795,
+    "lat": 50.60781,
+    "lon": 16.11688,
     "url": "https://www.piskari.cz/cs/skala/ludvik-vaculik-989/",
     "routes": [
       {
@@ -2559,8 +2559,8 @@
     "name": "Medvědí stěna",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.607601,
-    "lon": 16.117726,
+    "lat": 50.60756,
+    "lon": 16.11783,
     "url": "https://www.piskari.cz/cs/skala/medvedi-stena-992/",
     "routes": [
       {
@@ -2895,8 +2895,8 @@
     "name": "Pařavec",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.608889,
-    "lon": 16.118248,
+    "lat": 50.6089,
+    "lon": 16.1182,
     "url": "https://www.piskari.cz/cs/skala/paravec-955/",
     "routes": [
       {
@@ -3038,8 +3038,8 @@
     "name": "Pastička",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": null,
-    "lon": null,
+    "lat": 50.60844,
+    "lon": 16.11728,
     "url": "https://www.piskari.cz/cs/skala/pasticka-3696/",
     "routes": [
       {
@@ -3331,8 +3331,8 @@
     "name": "Pikopetos",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.606223,
-    "lon": 16.119875,
+    "lat": 50.60625,
+    "lon": 16.11992,
     "url": "https://www.piskari.cz/cs/skala/pikopetos-1014/",
     "routes": [
       {
@@ -3642,8 +3642,8 @@
     "name": "Protopapatakis",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609656,
-    "lon": 16.118579,
+    "lat": 50.60961,
+    "lon": 16.11838,
     "url": "https://www.piskari.cz/cs/skala/protopapatakis-914/",
     "routes": [
       {
@@ -3676,8 +3676,8 @@
     "name": "Proxyma",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.606881,
-    "lon": 16.118246,
+    "lat": 50.60686,
+    "lon": 16.11825,
     "url": "https://www.piskari.cz/cs/skala/proxyma-1002/",
     "routes": [
       {
@@ -3696,8 +3696,8 @@
     "name": "Půlnoční",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.608094,
-    "lon": 16.117808,
+    "lat": 50.60806,
+    "lon": 16.11783,
     "url": "https://www.piskari.cz/cs/skala/pulnocni-971/",
     "routes": [
       {
@@ -4251,8 +4251,8 @@
     "name": "Rozhoďnožka",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609008,
-    "lon": 16.117313,
+    "lat": 50.60894,
+    "lon": 16.11733,
     "url": "https://www.piskari.cz/cs/skala/rozhodnozka-944/",
     "routes": [
       {
@@ -4344,8 +4344,8 @@
     "name": "Skleněná koule",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609562,
-    "lon": 16.119156,
+    "lat": 50.60954,
+    "lon": 16.11892,
     "url": "https://www.piskari.cz/cs/skala/sklenena-koule-917/",
     "routes": [
       {
@@ -4394,8 +4394,8 @@
     "name": "Snoqualme",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.607947,
-    "lon": 16.116849,
+    "lat": 50.60797,
+    "lon": 16.11671,
     "url": "https://www.piskari.cz/cs/skala/snoqualme-987/",
     "routes": [
       {
@@ -4424,8 +4424,8 @@
     "name": "Studničkova věž",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609476,
-    "lon": 16.117936,
+    "lat": 50.60934,
+    "lon": 16.11793,
     "url": "https://www.piskari.cz/cs/skala/studnickova-vez-939/",
     "routes": [
       {
@@ -4551,8 +4551,8 @@
     "name": "Šavlička",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.609239,
-    "lon": 16.119217,
+    "lat": 50.60928,
+    "lon": 16.11917,
     "url": "https://www.piskari.cz/cs/skala/savlicka-921/",
     "routes": [
       {
@@ -5290,8 +5290,8 @@
     "name": "Zarytý nepřítel",
     "area": "Adršpach",
     "sector": "Jezerka",
-    "lat": 50.605991,
-    "lon": 16.118756,
+    "lat": 50.60589,
+    "lon": 16.11886,
     "url": "https://www.piskari.cz/cs/skala/zaryty-nepritel-1009/",
     "routes": [
       {

@@ -169,10 +169,41 @@ async def get_tower_data(page, tower_url: str) -> dict | None:
     except Exception as e:
         print(f"  Route scrape error for {tower_name}: {e}", file=sys.stderr)
 
-    # ── GPS: not extracted here ──
-    # mapy.com is the single GPS source of truth.
-    # Run mapycz-gps.py after this script to populate lat/lon via the mapy.com API.
+    # ── GPS: click map tab and read window.map.getCenter() ──
+    # piskari.cz is the first GPS source (~70% coverage via Google Maps).
+    # Run mapycz-gps.py --all afterwards — it overwrites with mapy.com where found,
+    # and keeps the piskari.cz value for towers it cannot match.
     lat, lon = None, None
+    try:
+        map_tab = await page.query_selector('a:has-text("mapa")')
+        if map_tab:
+            await map_tab.click()
+            await page.wait_for_function("""
+                () => {
+                    try {
+                        if (typeof window.map === 'undefined') return false;
+                        var c = window.map.getCenter();
+                        return c !== null && c !== undefined && typeof c.lat === 'function' && c.lat() !== 0;
+                    } catch(e) { return false; }
+                }
+            """, timeout=20000)
+            # Dismiss "This page can't load Google Maps correctly" dialog if present
+            try:
+                ok_btn = await page.wait_for_selector('button:has-text("OK")', timeout=2000)
+                if ok_btn:
+                    await ok_btn.click()
+            except Exception:
+                pass
+            coords = await page.evaluate("""
+                () => {
+                    var c = window.map.getCenter();
+                    return {lat: c.lat(), lng: c.lng()};
+                }
+            """)
+            lat = coords["lat"]
+            lon = coords["lng"]
+    except Exception as e:
+        print(f"  GPS error for {tower_name}: {e}", file=sys.stderr)
 
     return {
         "name": tower_name,
@@ -417,7 +448,8 @@ async def main():
                     data = await get_tower_data(page, t["url"])
                     if data:
                         towers.append(data)
-                        print(f"→ OK (GPS via mapycz-gps.py)")
+                        gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
+                        print(f"→ {gps}")
                     else:
                         print("→ FAILED")
 
@@ -432,7 +464,8 @@ async def main():
                     data = await get_tower_data(page, t["url"])
                     if data:
                         towers.append(data)
-                        print(f"→ OK (GPS via mapycz-gps.py)")
+                        gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
+                        print(f"→ {gps}")
                     else:
                         print("→ FAILED")
 
@@ -452,7 +485,8 @@ async def main():
                 data = await get_tower_data(page, t["url"])
                 if data:
                     towers.append(data)
-                    print("→ OK (GPS via mapycz-gps.py)")
+                    gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
+                    print(f"→ {gps}")
                 else:
                     print("→ FAILED")
 
@@ -472,7 +506,8 @@ async def main():
                 data = await get_tower_data(page, t["url"])
                 if data:
                     towers.append(data)
-                    print("→ OK (GPS via mapycz-gps.py)")
+                    gps = f"{data['lat']:.5f},{data['lon']:.5f}" if data["lat"] else "NO GPS"
+                    print(f"→ {gps}")
                 else:
                     print("→ FAILED")
 

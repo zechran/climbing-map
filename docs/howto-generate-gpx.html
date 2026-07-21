@@ -93,29 +93,31 @@ python -m playwright install chromium
 source venv/bin/activate
 </code></pre>
 <p>You&rsquo;ll see <code>(venv)</code> in the prompt. Do this every time you open a new terminal.</p>
-<h3>Step 2 — Scrape tower list and routes</h3>
+<h3>Step 2 — Scrape routes and GPS from piskari.cz</h3>
 <p>Replace <code>"Himálaj"</code> with the sector you want. A browser window will open automatically — don&rsquo;t close it.</p>
 <pre><code class="language-bash">python piskari-scraper.py --sector &quot;Himálaj&quot;
 </code></pre>
 <p>You&rsquo;ll see progress printed in the terminal:</p>
 <pre><code>📍 Collecting towers in: Himálaj
    Found 47 towers
-[1/47] Abakus → OK (GPS via mapycz-gps.py)
-[2/47] Adamec → OK (GPS via mapycz-gps.py)
+[1/47] Abakus → 50.61823, 16.09541
+[2/47] Adamec → 50.61901, 16.09483
 ...
+✅ GPX written: piskovce-himalaj.gpx
 </code></pre>
-<p>This collects tower names and all route data (names, grades, dates). GPS coordinates are <strong>not</strong> scraped here — that is Step 3.</p>
+<p>This collects tower names, all route data (names, grades, dates), and GPS from piskari.cz&rsquo;s embedded Google Maps (~70% of towers get GPS here; the rest show <code>NO GPS</code>).</p>
 <p>This takes roughly 5–15 minutes depending on sector size.</p>
-<h3>Step 3 — Get GPS from mapy.com API</h3>
-<p>mapy.com is the <strong>single GPS source of truth</strong> for this project. This script geocodes all towers by name and writes coordinates into the JSON.</p>
-<pre><code class="language-bash">python mapycz-gps.py --sector &quot;Himálaj&quot;
+<h3>Step 3 — Overlay GPS from mapy.com API</h3>
+<p>mapy.com is the <strong>preferred GPS source</strong> — its coordinates are more accurate. This step overwrites piskari.cz GPS with mapy.com GPS where a match is found (~70%). For towers mapy.com cannot match, the piskari.cz value from Step 2 is kept.</p>
+<pre><code class="language-bash">python mapycz-gps.py --sector &quot;Himálaj&quot; --all
 </code></pre>
+<p>The <code>--all</code> flag ensures every tower is re-checked against mapy.com, even those that already have GPS from piskari.cz.</p>
 <p>The script reads your API key from the <code>MAPYCZ_API_KEY</code> environment variable if set, otherwise it prompts you interactively. To avoid the prompt (especially useful when running multiple sectors), set the variable once at the start of your terminal session:</p>
 <pre><code class="language-bash">export MAPYCZ_API_KEY=&quot;your-key-here&quot;
 </code></pre>
 <p>The key lives only in the shell session&rsquo;s memory — it is never written to any file and disappears when you close the terminal.</p>
 <h3>Step 4 (optional) — Handle towers still missing GPS</h3>
-<p>After Step 3, any towers mapy.com couldn&rsquo;t match are listed in the output as <code>NOT FOUND in bbox</code>. Add them manually:</p>
+<p>After Steps 2 and 3, a small number of towers may still have <code>lat: null</code> — towers with no map tab on piskari.cz AND no match on mapy.com. Add them manually:</p>
 <ol>
 <li>Open <code>piskovce-himalaj.json</code> in any text editor</li>
 <li>Search for <code>"lat": null</code></li>
@@ -161,7 +163,7 @@ source venv/bin/activate
 python piskari-scraper.py --sector SECTOR_NAME
 python mapycz-gps.py --sector SECTOR_NAME
 python piskari-scraper.py --add-comments SECTOR_NAME</code></p>
-<p>Note: GPS coordinates always come from the mapy.com API (Step 2). piskari-scraper.py does not extract GPS.</p>
+<p>Note: GPS is a two-source process — piskari.cz provides the first pass, mapy.com (&ndash;all) overlays and wins where it finds a match.</p>
 <p>When done, report: how many towers total, how many have GPS, and the name of the GPX file created.</p>
 <p>If I later tell you I updated the JSON manually, run without asking: <code>python piskari-scraper.py --rebuild-gpx SECTOR_NAME</code></p>
 </blockquote>
@@ -271,12 +273,13 @@ python piskari-scraper.py --add-comments &quot;Himálaj&quot;
 
 # Option B — full re-scrape from scratch (slower, picks up new towers too)
 python piskari-scraper.py --sector &quot;Himálaj&quot;
-python mapycz-gps.py --sector &quot;Himálaj&quot;
+python mapycz-gps.py --sector &quot;Himálaj&quot; --all
 python piskari-scraper.py --add-comments &quot;Himálaj&quot;
 </code></pre>
 <p>Then re-import the updated GPX into Locus Map (replace the existing file in the folder).</p>
-<p>To refresh GPS coordinates from mapy.com only (no route re-scraping):</p>
-<pre><code class="language-bash">python mapycz-gps.py --sector &quot;Himálaj&quot; --all
+<p>To refresh GPS coordinates only (no route re-scraping):</p>
+<pre><code class="language-bash"># Refresh from mapy.com for towers already in JSON (mapy.com wins where found)
+python mapycz-gps.py --sector &quot;Himálaj&quot; --all
 </code></pre>
 <hr />
 <h2>Troubleshooting</h2>

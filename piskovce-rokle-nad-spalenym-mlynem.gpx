@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Rokle Nad Spalenym Mlynem</name>
-    <desc>Climbing towers from piskari.cz — Rokle Nad Spalenym Mlynem. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Rokle Nad Spalenym Mlynem. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6113990" lon="16.1312100">
     <name>Amfora</name>
@@ -65,7 +65,7 @@ URL: https://www.piskari.cz/cs/skala/dafne-1842/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6128030" lon="16.1311900">
+  <wpt lat="50.6127800" lon="16.1315300">
     <name>Diktát</name>
     <desc>OBLAST: Adršpach / Rokle nad Spáleným mlýnem
 ZDROJ: piskari.cz
@@ -77,7 +77,7 @@ URL: https://www.piskari.cz/cs/skala/diktat-1865/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6116470" lon="16.1320410">
+  <wpt lat="50.6116300" lon="16.1320500">
     <name>Geraldina</name>
     <desc>OBLAST: Adršpach / Rokle nad Spáleným mlýnem
 ZDROJ: piskari.cz
@@ -133,7 +133,7 @@ URL: https://www.piskari.cz/cs/skala/kapucin-1851/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6117440" lon="16.1319150">
+  <wpt lat="50.6117700" lon="16.1317700">
     <name>Kolohnát</name>
     <desc>OBLAST: Adršpach / Rokle nad Spáleným mlýnem
 ZDROJ: piskari.cz
@@ -279,7 +279,7 @@ URL: https://www.piskari.cz/cs/skala/pinguin-1838/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6117380" lon="16.1326870">
+  <wpt lat="50.6115800" lon="16.1328200">
     <name>Pivní skaut</name>
     <desc>OBLAST: Adršpach / Rokle nad Spáleným mlýnem
 ZDROJ: piskari.cz
@@ -348,7 +348,7 @@ URL: https://www.piskari.cz/cs/skala/pralinka-1857/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6117920" lon="16.1325350">
+  <wpt lat="50.6116500" lon="16.1326400">
     <name>Sírová věž</name>
     <desc>OBLAST: Adršpach / Rokle nad Spáleným mlýnem
 ZDROJ: piskari.cz
@@ -361,7 +361,7 @@ URL: https://www.piskari.cz/cs/skala/sirova-vez-1853/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6117630" lon="16.1321990">
+  <wpt lat="50.6116500" lon="16.1322800">
     <name>Skalpel</name>
     <desc>OBLAST: Adršpach / Rokle nad Spáleným mlýnem
 ZDROJ: piskari.cz
@@ -470,7 +470,7 @@ URL: https://www.piskari.cz/cs/skala/vecernice-1859/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6123060" lon="16.1328700">
+  <wpt lat="50.6123200" lon="16.1328300">
     <name>Věž Otty Černého</name>
     <desc>OBLAST: Adršpach / Rokle nad Spáleným mlýnem
 ZDROJ: piskari.cz

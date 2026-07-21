@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Jezerka</name>
-    <desc>Climbing towers from piskari.cz — Jezerka. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Jezerka. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6079400" lon="16.1156230">
     <name>Afrodité</name>
@@ -74,7 +74,7 @@ URL: https://www.piskari.cz/cs/skala/becka-963/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6073490" lon="16.1178480">
+  <wpt lat="50.6073300" lon="16.1178300">
     <name>Bendžo</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -109,7 +109,7 @@ URL: https://www.piskari.cz/cs/skala/brtnik-3606/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6078860" lon="16.1171040">
+  <wpt lat="50.6078800" lon="16.1170100">
     <name>Bubáček</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -316,7 +316,7 @@ URL: https://www.piskari.cz/cs/skala/etna-952/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6071420" lon="16.1173520">
+  <wpt lat="50.6071100" lon="16.1173300">
     <name>Eurydika</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -490,7 +490,7 @@ URL: https://www.piskari.cz/cs/skala/hades-1000/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6067790" lon="16.1182870">
+  <wpt lat="50.6066900" lon="16.1183100">
     <name>Hádův trůn</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -733,7 +733,7 @@ URL: https://www.piskari.cz/cs/skala/hladova-961/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6090820" lon="16.1184450">
+  <wpt lat="50.6090900" lon="16.1183700">
     <name>Hraboš</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -813,7 +813,7 @@ URL: https://www.piskari.cz/cs/skala/charon-1007/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6063740" lon="16.1191580">
+  <wpt lat="50.6063900" lon="16.1191700">
     <name>Charónovo bidlo</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -829,7 +829,7 @@ URL: https://www.piskari.cz/cs/skala/charonovo-bidlo-1010/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6083190" lon="16.1168520">
+  <wpt lat="50.6082800" lon="16.1167800">
     <name>Inkvizitor</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -849,7 +849,7 @@ URL: https://www.piskari.cz/cs/skala/inkvizitor-981/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6085000" lon="16.1176160">
+  <wpt lat="50.6084700" lon="16.1176700">
     <name>Jakobín</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -942,7 +942,7 @@ URL: https://www.piskari.cz/cs/skala/jesterka-909/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6097450" lon="16.1198560">
+  <wpt lat="50.6097200" lon="16.1198900">
     <name>Ještěrovo křídlo</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1118,7 +1118,7 @@ URL: https://www.piskari.cz/cs/skala/klepeto-913/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6090070" lon="16.1195580">
+  <wpt lat="50.6090000" lon="16.1195600">
     <name>Krunýř</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1140,7 +1140,7 @@ URL: https://www.piskari.cz/cs/skala/krunyr-923/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6083950" lon="16.1187530">
+  <wpt lat="50.6083900" lon="16.1187500">
     <name>Květák</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1232,7 +1232,7 @@ URL: https://www.piskari.cz/cs/skala/lajos-932/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6081290" lon="16.1166990">
+  <wpt lat="50.6080600" lon="16.1167200">
     <name>Loskulák</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1270,7 +1270,7 @@ URL: https://www.piskari.cz/cs/skala/loskulak-984/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6079670" lon="16.1167200">
+  <wpt lat="50.6079700" lon="16.1166900">
     <name>Lososí trůn</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1299,7 +1299,7 @@ URL: https://www.piskari.cz/cs/skala/lucie-976/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6078310" lon="16.1167950">
+  <wpt lat="50.6078100" lon="16.1168800">
     <name>Ludvík Vaculík</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1424,7 +1424,7 @@ URL: https://www.piskari.cz/cs/skala/medea-966/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6076010" lon="16.1177260">
+  <wpt lat="50.6075600" lon="16.1178300">
     <name>Medvědí stěna</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1608,7 +1608,7 @@ URL: https://www.piskari.cz/cs/skala/orfeus-996/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6088890" lon="16.1182480">
+  <wpt lat="50.6089000" lon="16.1182000">
     <name>Pařavec</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1674,6 +1674,32 @@ URL: https://www.piskari.cz/cs/skala/past-965/
 6. Zimní | IV (3.12.1961)
    Popis: V koutě na SZ straně věže komínem a stěnou na vrchol.
    Autor: Milan Doubek, Z. Klikar, K. Hauschke
+</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="50.6084400" lon="16.1172800">
+    <name>Pastička</name>
+    <desc>OBLAST: Adršpach / Jezerka
+ZDROJ: piskari.cz
+URL: https://www.piskari.cz/cs/skala/pasticka-3696/
+
+--- CESTY ---
+1. Jihozápadní | V (3.7.1982)
+   Popis: JZ spárkou do římsy a stěnou na vrchol.
+   Autor: Petr Blahna, K. Krecbach, J. Řehna, M. Vaňásková
+2. Sestupový komín | II
+   Charakter: komín
+   Popis: Od JZ komínem.
+   Autor: Stanislav Lukavský
+3. Sklopec | III
+   Popis: Z jihu podél spárky na balkón a vlevo po hraně n.v.
+   Autor: Arnold Rosenberg, P.Mocek, M. Svěcená, St. Lukavský
+4. Slabý péro | V
+   Charakter: ruční spára
+   Popis: Spárou z vých. strany na balkón a vpravo po hraně na vrchol.
+   Autor: Miloslava Svěcená, P.Mocek
+   Komentáře:
+   &gt; [20.8.2013 23:27:56 michal] Věžička se nachází přímo pod slaněním z věže &quot;Past&quot;. Cesta je to krátká a v pohodě.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1820,7 +1846,7 @@ URL: https://www.piskari.cz/cs/skala/persefona-1001/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6062230" lon="16.1198750">
+  <wpt lat="50.6062500" lon="16.1199200">
     <name>Pikopetos</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -1985,7 +2011,7 @@ URL: https://www.piskari.cz/cs/skala/prometheus-974/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6096560" lon="16.1185790">
+  <wpt lat="50.6096100" lon="16.1183800">
     <name>Protopapatakis</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2005,7 +2031,7 @@ URL: https://www.piskari.cz/cs/skala/protopapatakis-914/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6068810" lon="16.1182460">
+  <wpt lat="50.6068600" lon="16.1182500">
     <name>Proxyma</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2018,7 +2044,7 @@ URL: https://www.piskari.cz/cs/skala/proxyma-1002/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6080940" lon="16.1178080">
+  <wpt lat="50.6080600" lon="16.1178300">
     <name>Půlnoční</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2323,7 +2349,7 @@ URL: https://www.piskari.cz/cs/skala/rosnicka-978/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6090080" lon="16.1173130">
+  <wpt lat="50.6089400" lon="16.1173300">
     <name>Rozhoďnožka</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2375,7 +2401,7 @@ URL: https://www.piskari.cz/cs/skala/sisyfos-1003/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6095620" lon="16.1191560">
+  <wpt lat="50.6095400" lon="16.1189200">
     <name>Skleněná koule</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2404,7 +2430,7 @@ URL: https://www.piskari.cz/cs/skala/skokan-982/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6079470" lon="16.1168490">
+  <wpt lat="50.6079700" lon="16.1167100">
     <name>Snoqualme</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2420,7 +2446,7 @@ URL: https://www.piskari.cz/cs/skala/snoqualme-987/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6094760" lon="16.1179360">
+  <wpt lat="50.6093400" lon="16.1179300">
     <name>Studničkova věž</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2495,7 +2521,7 @@ URL: https://www.piskari.cz/cs/skala/savle-920/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6092390" lon="16.1192170">
+  <wpt lat="50.6092800" lon="16.1191700">
     <name>Šavlička</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz
@@ -2887,7 +2913,7 @@ URL: https://www.piskari.cz/cs/skala/zarostla-1015/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6059910" lon="16.1187560">
+  <wpt lat="50.6058900" lon="16.1188600">
     <name>Zarytý nepřítel</name>
     <desc>OBLAST: Adršpach / Jezerka
 ZDROJ: piskari.cz

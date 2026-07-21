@@ -166,8 +166,8 @@
     "name": "Boubel",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612117,
-    "lon": 16.119116,
+    "lat": 50.61208,
+    "lon": 16.11914,
     "url": "https://www.piskari.cz/cs/skala/boubel-1623/",
     "routes": [
       {
@@ -186,8 +186,8 @@
     "name": "Boubelka",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612017,
-    "lon": 16.11918,
+    "lat": 50.61197,
+    "lon": 16.11923,
     "url": "https://www.piskari.cz/cs/skala/boubelka-1624/",
     "routes": [
       {
@@ -270,8 +270,8 @@
     "name": "Brejlovec",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610604,
-    "lon": 16.117961,
+    "lat": 50.61061,
+    "lon": 16.11796,
     "url": "https://www.piskari.cz/cs/skala/brejlovec-1697/",
     "routes": [
       {
@@ -419,8 +419,8 @@
     "name": "Bulisák",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.61048,
-    "lon": 16.118606,
+    "lat": 50.61047,
+    "lon": 16.11858,
     "url": "https://www.piskari.cz/cs/skala/bulisak-1703/",
     "routes": [
       {
@@ -528,8 +528,8 @@
     "name": "Cirkusácká stěna",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612006,
-    "lon": 16.118477,
+    "lat": 50.61195,
+    "lon": 16.11846,
     "url": "https://www.piskari.cz/cs/skala/cirkusacka-stena-1632/",
     "routes": [
       {
@@ -548,8 +548,8 @@
     "name": "Čučátko",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612626,
-    "lon": 16.119527,
+    "lat": 50.61257,
+    "lon": 16.11954,
     "url": "https://www.piskari.cz/cs/skala/cucatko-1612/",
     "routes": [
       {
@@ -568,8 +568,8 @@
     "name": "Dábelský červ",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.61165,
-    "lon": 16.117159,
+    "lat": 50.61164,
+    "lon": 16.11717,
     "url": "https://www.piskari.cz/cs/skala/dabelsky-cerv-1644/",
     "routes": [
       {
@@ -959,8 +959,8 @@
     "name": "Francouzské jehly",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610529,
-    "lon": 16.117817,
+    "lat": 50.61055,
+    "lon": 16.11779,
     "url": "https://www.piskari.cz/cs/skala/francouzske-jehly-1696/",
     "routes": [
       {
@@ -1248,8 +1248,8 @@
     "name": "Harfeník",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611186,
-    "lon": 16.118115,
+    "lat": 50.61117,
+    "lon": 16.11823,
     "url": "https://www.piskari.cz/cs/skala/harfenik-1657/",
     "routes": [
       {
@@ -1309,8 +1309,8 @@
     "name": "Hladová zeď",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611748,
-    "lon": 16.118936,
+    "lat": 50.61179,
+    "lon": 16.11909,
     "url": "https://www.piskari.cz/cs/skala/hladova-zed-1626/",
     "routes": [
       {
@@ -1344,8 +1344,8 @@
     "name": "Hronovské věže",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610223,
-    "lon": 16.117485,
+    "lat": 50.61017,
+    "lon": 16.11751,
     "url": "https://www.piskari.cz/cs/skala/hronovske-veze-1690/",
     "routes": [
       {
@@ -1399,8 +1399,8 @@
     "name": "Hurdiska",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612264,
-    "lon": 16.118791,
+    "lat": 50.61219,
+    "lon": 16.11878,
     "url": "https://www.piskari.cz/cs/skala/hurdiska-1628/",
     "routes": [
       {
@@ -1870,8 +1870,8 @@
     "name": "Konzument",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.61049,
-    "lon": 16.119022,
+    "lat": 50.6105,
+    "lon": 16.11903,
     "url": "https://www.piskari.cz/cs/skala/konzument-1709/",
     "routes": [
       {
@@ -2256,8 +2256,8 @@
     "name": "Lotrando",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610228,
-    "lon": 16.118294,
+    "lat": 50.61011,
+    "lon": 16.11831,
     "url": "https://www.piskari.cz/cs/skala/lotrando-1705/",
     "routes": [
       {
@@ -2638,8 +2638,8 @@
     "name": "Midži",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610781,
-    "lon": 16.117235,
+    "lat": 50.61075,
+    "lon": 16.1173,
     "url": "https://www.piskari.cz/cs/skala/midzi-1686/",
     "routes": [
       {
@@ -2691,7 +2691,7 @@
     "area": "Adršpach",
     "sector": "Panoptikum",
     "lat": 50.61114,
-    "lon": 16.117404,
+    "lon": 16.11747,
     "url": "https://www.piskari.cz/cs/skala/nedelni-1659/",
     "routes": [
       {
@@ -2749,8 +2749,8 @@
     "name": "Ohyzda",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611006,
-    "lon": 16.117654,
+    "lat": 50.61086,
+    "lon": 16.11761,
     "url": "https://www.piskari.cz/cs/skala/ohyzda-1658/",
     "routes": [
       {
@@ -2849,8 +2849,8 @@
     "name": "Papouščí brána",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612341,
-    "lon": 16.118571,
+    "lat": 50.61217,
+    "lon": 16.11859,
     "url": "https://www.piskari.cz/cs/skala/papousci-brana-1629/",
     "routes": [
       {
@@ -3023,8 +3023,8 @@
     "name": "Pěvci",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611392,
-    "lon": 16.118364,
+    "lat": 50.6114,
+    "lon": 16.1184,
     "url": "https://www.piskari.cz/cs/skala/pevci-1654/",
     "routes": [
       {
@@ -3160,8 +3160,8 @@
     "name": "Pohrobek",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.609988,
-    "lon": 16.117192,
+    "lat": 50.60998,
+    "lon": 16.11723,
     "url": "https://www.piskari.cz/cs/skala/pohrobek-1682/",
     "routes": [
       {
@@ -3339,8 +3339,8 @@
     "name": "Ratejna",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611957,
-    "lon": 16.117241,
+    "lat": 50.61178,
+    "lon": 16.11728,
     "url": "https://www.piskari.cz/cs/skala/ratejna-3/",
     "routes": [
       {
@@ -3476,8 +3476,8 @@
     "name": "Revírník",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610133,
-    "lon": 16.116278,
+    "lat": 50.61008,
+    "lon": 16.11631,
     "url": "https://www.piskari.cz/cs/skala/revirnik-1675/",
     "routes": [
       {
@@ -3518,8 +3518,8 @@
     "name": "Rosinanta",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610196,
-    "lon": 16.117822,
+    "lat": 50.59349,
+    "lon": 16.12878,
     "url": "https://www.piskari.cz/cs/skala/rosinanta-1695/",
     "routes": [
       {
@@ -3638,8 +3638,8 @@
     "name": "Rudá kápě",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612446,
-    "lon": 16.118856,
+    "lat": 50.61235,
+    "lon": 16.11881,
     "url": "https://www.piskari.cz/cs/skala/ruda-kape-1620/",
     "routes": [
       {
@@ -3932,8 +3932,8 @@
     "name": "Saská věž",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.61088,
-    "lon": 16.116857,
+    "lat": 50.61022,
+    "lon": 16.1145,
     "url": "https://www.piskari.cz/cs/skala/saska-vez-1666/",
     "routes": [
       {
@@ -4046,8 +4046,8 @@
     "name": "Skarabeus",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611923,
-    "lon": 16.119529,
+    "lat": 50.61194,
+    "lon": 16.11955,
     "url": "https://www.piskari.cz/cs/skala/skarabeus-1617/",
     "routes": [
       {
@@ -4320,8 +4320,8 @@
     "name": "Sojčí kámen",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610211,
-    "lon": 16.116152,
+    "lat": 50.61021,
+    "lon": 16.11614,
     "url": "https://www.piskari.cz/cs/skala/sojci-kamen-1674/",
     "routes": [
       {
@@ -4421,8 +4421,8 @@
     "name": "Střídavě oblačno",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611683,
-    "lon": 16.117753,
+    "lat": 50.61162,
+    "lon": 16.11785,
     "url": "https://www.piskari.cz/cs/skala/stridave-oblacno-1650/",
     "routes": [
       {
@@ -4718,8 +4718,8 @@
     "name": "Tajtrdlík",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611604,
-    "lon": 16.117203,
+    "lat": 50.61161,
+    "lon": 16.11722,
     "url": "https://www.piskari.cz/cs/skala/tajtrdlik-1645/",
     "routes": [
       {
@@ -4751,8 +4751,8 @@
     "name": "Teoretik",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610544,
-    "lon": 16.118202,
+    "lat": 50.61053,
+    "lon": 16.11817,
     "url": "https://www.piskari.cz/cs/skala/teoretik-1702/",
     "routes": [
       {
@@ -4808,8 +4808,8 @@
     "name": "Trosky",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612545,
-    "lon": 16.119029,
+    "lat": 50.58672,
+    "lon": 16.12111,
     "url": "https://www.piskari.cz/cs/skala/trosky-1618/",
     "routes": [
       {
@@ -4857,8 +4857,8 @@
     "name": "Ťuhýk",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610356,
-    "lon": 16.117501,
+    "lat": 50.61033,
+    "lon": 16.1176,
     "url": "https://www.piskari.cz/cs/skala/tuhyk-1689/",
     "routes": [
       {
@@ -4892,8 +4892,8 @@
     "name": "Učedník",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611891,
-    "lon": 16.117699,
+    "lat": 50.61189,
+    "lon": 16.11758,
     "url": "https://www.piskari.cz/cs/skala/ucednik-1640/",
     "routes": [
       {
@@ -4938,8 +4938,8 @@
     "name": "Uprchlík",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.612459,
-    "lon": 16.118531,
+    "lat": 50.61233,
+    "lon": 16.11852,
     "url": "https://www.piskari.cz/cs/skala/uprchlik-1627/",
     "routes": [
       {
@@ -5090,8 +5090,8 @@
     "name": "Velebníček",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.611881,
-    "lon": 16.116899,
+    "lat": 50.61183,
+    "lon": 16.11692,
     "url": "https://www.piskari.cz/cs/skala/velebnicek-1642/",
     "routes": [
       {
@@ -5140,8 +5140,8 @@
     "name": "Velký bratr",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610495,
-    "lon": 16.1165,
+    "lat": 50.61042,
+    "lon": 16.11656,
     "url": "https://www.piskari.cz/cs/skala/velky-bratr-1668/",
     "routes": [
       {
@@ -5172,8 +5172,8 @@
     "name": "Věž Jardy Krecbacha",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610955,
-    "lon": 16.117281,
+    "lat": 50.61097,
+    "lon": 16.11725,
     "url": "https://www.piskari.cz/cs/skala/vez-jardy-krecbacha-1660/",
     "routes": [
       {
@@ -5194,8 +5194,8 @@
     "name": "Věž Jeana Franka",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.61032,
-    "lon": 16.117766,
+    "lat": 50.61021,
+    "lon": 16.11786,
     "url": "https://www.piskari.cz/cs/skala/vez-jeana-franka-1694/",
     "routes": [
       {
@@ -5422,8 +5422,8 @@
     "name": "Záhořovo lože",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.610546,
-    "lon": 16.116476,
+    "lat": 50.61047,
+    "lon": 16.11653,
     "url": "https://www.piskari.cz/cs/skala/zahorovo-loze-1667/",
     "routes": [
       {
@@ -5444,8 +5444,8 @@
     "name": "Zamilovaná stěna",
     "area": "Adršpach",
     "sector": "Panoptikum",
-    "lat": 50.61029,
-    "lon": 16.118227,
+    "lat": 50.61019,
+    "lon": 16.11828,
     "url": "https://www.piskari.cz/cs/skala/zamilovana-stena-1704/",
     "routes": [
       {

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Zdonovsky Oblouk</name>
-    <desc>Climbing towers from piskari.cz — Zdonovsky Oblouk. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Zdonovsky Oblouk. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
-  <wpt lat="50.6235830" lon="16.1284720">
+  <wpt lat="50.6235800" lon="16.1284700">
     <name>Alenčina věž</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -106,7 +106,7 @@ URL: https://www.piskari.cz/cs/skala/basta-2897/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6235830" lon="16.1264720">
+  <wpt lat="50.6236400" lon="16.1264700">
     <name>Bezzubá</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -251,7 +251,7 @@ URL: https://www.piskari.cz/cs/skala/carodejnice-2925/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6233610" lon="16.1278610">
+  <wpt lat="50.6233100" lon="16.1278600">
     <name>Dělová roura</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -279,7 +279,7 @@ URL: https://www.piskari.cz/cs/skala/delova-roura-2910/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6234720" lon="16.1276380">
+  <wpt lat="50.6234700" lon="16.1276400">
     <name>Eskymáček</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -309,7 +309,7 @@ URL: https://www.piskari.cz/cs/skala/eskymacek-2905/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6231380" lon="16.1277500">
+  <wpt lat="50.6234700" lon="16.1276400">
     <name>Eskymačka</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -357,7 +357,7 @@ URL: https://www.piskari.cz/cs/skala/eskymacka-2912/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6232770" lon="16.1276380">
+  <wpt lat="50.6232800" lon="16.1276400">
     <name>Eskymák</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -434,7 +434,7 @@ URL: https://www.piskari.cz/cs/skala/chasnicka-2903/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6233330" lon="16.1283330">
+  <wpt lat="50.6233300" lon="16.1283300">
     <name>Jidoda</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -589,7 +589,7 @@ URL: https://www.piskari.cz/cs/skala/kopec-2933/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6234720" lon="16.1283330">
+  <wpt lat="50.6234700" lon="16.1283300">
     <name>Kostlivec</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -605,7 +605,7 @@ URL: https://www.piskari.cz/cs/skala/kralik-2898/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6238050" lon="16.1264160">
+  <wpt lat="50.6238100" lon="16.1264200">
     <name>Lehkotěžká stěnka</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -1070,7 +1070,7 @@ URL: https://www.piskari.cz/cs/skala/penzion-2919/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6232770" lon="16.1286660">
+  <wpt lat="50.6233900" lon="16.1286100">
     <name>Piškot</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -1184,7 +1184,7 @@ URL: https://www.piskari.cz/cs/skala/putifar-2939/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6235550" lon="16.1272220">
+  <wpt lat="50.6128900" lon="16.1020500">
     <name>Rypouš sloní</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz
@@ -1192,7 +1192,7 @@ URL: https://www.piskari.cz/cs/skala/rypous-sloni-2900/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6229440" lon="16.1278050">
+  <wpt lat="50.6229400" lon="16.1278100">
     <name>Sněžný muž</name>
     <desc>OBLAST: Křížový vrch / Zdoňovský oblouk
 ZDROJ: piskari.cz

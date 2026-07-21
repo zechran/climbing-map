@@ -88,8 +88,8 @@
     "name": "Beranovy věže",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621888,
-    "lon": 16.126694,
+    "lat": 50.62189,
+    "lon": 16.12675,
     "url": "https://www.piskari.cz/cs/skala/beranovy-veze-2820/",
     "routes": [
       {
@@ -200,8 +200,8 @@
     "name": "Bonbonek",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621888,
-    "lon": 16.127,
+    "lat": 50.614,
+    "lon": 16.1201,
     "url": "https://www.piskari.cz/cs/skala/bonbonek-2823/",
     "routes": [
       {
@@ -404,7 +404,7 @@
     "name": "Desátá",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.622111,
+    "lat": 50.62217,
     "lon": 16.12675,
     "url": "https://www.piskari.cz/cs/skala/desata-2814/",
     "routes": [
@@ -632,8 +632,8 @@
     "name": "Festivalová",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.622416,
-    "lon": 16.126611,
+    "lat": 50.62242,
+    "lon": 16.12658,
     "url": "https://www.piskari.cz/cs/skala/festivalova-2811/",
     "routes": [
       {
@@ -914,8 +914,8 @@
     "name": "Chlapíček",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621694,
-    "lon": 16.126916,
+    "lat": 50.62169,
+    "lon": 16.12692,
     "url": "https://www.piskari.cz/cs/skala/chlapicek-2831/",
     "routes": [
       {
@@ -1017,8 +1017,8 @@
     "name": "Jižák",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.620361,
-    "lon": 16.129861,
+    "lat": 50.62036,
+    "lon": 16.12986,
     "url": "https://www.piskari.cz/cs/skala/jizak-2869/",
     "routes": [
       {
@@ -1450,8 +1450,8 @@
     "name": "Křížákový Pete",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621305,
-    "lon": 16.127361,
+    "lat": 50.62131,
+    "lon": 16.12736,
     "url": "https://www.piskari.cz/cs/skala/krizakovy-pete-3665/",
     "routes": [
       {
@@ -1505,8 +1505,8 @@
     "name": "Křížová jehla",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.620805,
-    "lon": 16.127722,
+    "lat": 50.62081,
+    "lon": 16.12778,
     "url": "https://www.piskari.cz/cs/skala/krizova-jehla-2856/",
     "routes": [
       {
@@ -2172,8 +2172,8 @@
     "name": "Leopoldova věž",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621416,
-    "lon": 16.127194,
+    "lat": 50.62142,
+    "lon": 16.12725,
     "url": "https://www.piskari.cz/cs/skala/leopoldova-vez-2834/",
     "routes": [
       {
@@ -2314,8 +2314,8 @@
     "name": "Ludánek",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.620027,
-    "lon": 16.130555,
+    "lat": 50.62003,
+    "lon": 16.13056,
     "url": "https://www.piskari.cz/cs/skala/ludanek-2872/",
     "routes": [
       {
@@ -2511,8 +2511,8 @@
     "name": "Mušketýr",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621277,
-    "lon": 16.127944,
+    "lat": 50.62128,
+    "lon": 16.12794,
     "url": "https://www.piskari.cz/cs/skala/musketyr-2844/",
     "routes": [
       {
@@ -3336,8 +3336,8 @@
     "name": "Pačmákovy věže",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621777,
-    "lon": 16.126666,
+    "lat": 50.62178,
+    "lon": 16.12667,
     "url": "https://www.piskari.cz/cs/skala/pacmakovy-veze-2819/",
     "routes": [
       {
@@ -3695,8 +3695,8 @@
     "name": "Podsvětí",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621027,
-    "lon": 16.127722,
+    "lat": 50.62103,
+    "lon": 16.12778,
     "url": "https://www.piskari.cz/cs/skala/podsveti-2758/",
     "routes": [
       {
@@ -4490,8 +4490,8 @@
     "name": "Slavníkovská stěna",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.620611,
-    "lon": 16.127722,
+    "lat": 50.62061,
+    "lon": 16.12772,
     "url": "https://www.piskari.cz/cs/skala/slavnikovska-stena-2857/",
     "routes": [
       {
@@ -4599,7 +4599,7 @@
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
     "lat": 50.62125,
-    "lon": 16.128472,
+    "lon": 16.12847,
     "url": "https://www.piskari.cz/cs/skala/srazova-2848/",
     "routes": [
       {
@@ -4901,8 +4901,8 @@
     "name": "Trosečník",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.620722,
-    "lon": 16.1285,
+    "lat": 50.61139,
+    "lon": 16.11494,
     "url": "https://www.piskari.cz/cs/skala/trosecnik-2861/",
     "routes": [
       {
@@ -5227,8 +5227,8 @@
     "name": "Vyhlídková placka",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.620611,
-    "lon": 16.127361,
+    "lat": 50.62067,
+    "lon": 16.12736,
     "url": "https://www.piskari.cz/cs/skala/vyhlidkova-placka-2852/",
     "routes": [
       {
@@ -5359,8 +5359,8 @@
     "name": "Závěrečná",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.620194,
-    "lon": 16.130361,
+    "lat": 50.62019,
+    "lon": 16.13036,
     "url": "https://www.piskari.cz/cs/skala/zaverecna-2870/",
     "routes": [
       {
@@ -5432,8 +5432,8 @@
     "name": "Zrádce",
     "area": "Křížový vrch",
     "sector": "Křížový hřeben",
-    "lat": 50.621416,
-    "lon": 16.127722,
+    "lat": 50.62142,
+    "lon": 16.12772,
     "url": "https://www.piskari.cz/cs/skala/zradce-2843/",
     "routes": [
       {

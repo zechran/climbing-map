@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Kralovstvi</name>
-    <desc>Climbing towers from piskari.cz — Kralovstvi. Generated 2026-07-22.</desc>
+    <desc>Climbing towers from piskari.cz — Kralovstvi. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6156030" lon="16.1054850">
     <name>Alchymista</name>
@@ -96,7 +96,7 @@ URL: https://www.piskari.cz/cs/skala/archa-1028/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6154310" lon="16.1070290">
+  <wpt lat="50.6152500" lon="16.1071100">
     <name>Audienční</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -187,7 +187,7 @@ URL: https://www.piskari.cz/cs/skala/bob-1134/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6152930" lon="16.1093040">
+  <wpt lat="50.6152200" lon="16.1092800">
     <name>Bohatýr</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -284,7 +284,7 @@ URL: https://www.piskari.cz/cs/skala/bratislavska-1087/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6157440" lon="16.1061710">
+  <wpt lat="50.6154700" lon="16.1062800">
     <name>Bratranecká</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -372,7 +372,7 @@ URL: https://www.piskari.cz/cs/skala/brucknerkvak-1133/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6156540" lon="16.1078180">
+  <wpt lat="50.6156100" lon="16.1078900">
     <name>Cibulová věž</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -567,7 +567,7 @@ URL: https://www.piskari.cz/cs/skala/capka-1073/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151520" lon="16.1100850">
+  <wpt lat="50.6150000" lon="16.1099400">
     <name>Čaroděj</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -622,7 +622,7 @@ URL: https://www.piskari.cz/cs/skala/carodejka-1100/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6164490" lon="16.1057550">
+  <wpt lat="50.6163600" lon="16.1058300">
     <name>Čarodějná hůlka</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -639,7 +639,7 @@ URL: https://www.piskari.cz/cs/skala/carodejna-hulka-5/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6150750" lon="16.1096500">
+  <wpt lat="50.6238100" lon="16.1288600">
     <name>Čarodejnice Adršpašská</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -677,7 +677,7 @@ URL: https://www.piskari.cz/cs/skala/carodejnice-adrspasska-3607/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6152610" lon="16.1081590">
+  <wpt lat="50.6151700" lon="16.1083100">
     <name>Čarostřelec</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -749,7 +749,7 @@ URL: https://www.piskari.cz/cs/skala/cepicka-1072/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151400" lon="16.1102110">
+  <wpt lat="50.6150300" lon="16.1101100">
     <name>Černokněžník</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -790,7 +790,7 @@ URL: https://www.piskari.cz/cs/skala/cernokneznik-1049/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6162850" lon="16.1058870">
+  <wpt lat="50.6162200" lon="16.1059200">
     <name>Černý cikán</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -844,7 +844,7 @@ URL: https://www.piskari.cz/cs/skala/cesnek-1079/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6148250" lon="16.1052780">
+  <wpt lat="50.6147800" lon="16.1053500">
     <name>Čtyři gardisti</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -932,7 +932,7 @@ URL: https://www.piskari.cz/cs/skala/ctyri-gardisti-1140/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6144510" lon="16.1109480">
+  <wpt lat="50.6143600" lon="16.1109700">
     <name>Dagovy uši</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1126,7 +1126,7 @@ URL: https://www.piskari.cz/cs/skala/faust-1159/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6144710" lon="16.1088510">
+  <wpt lat="50.6147800" lon="16.1086700">
     <name>Filuta</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1159,7 +1159,7 @@ URL: https://www.piskari.cz/cs/skala/flaska-1154/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6145900" lon="16.1104680">
+  <wpt lat="50.6144400" lon="16.1104700">
     <name>Gejši</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1274,7 +1274,7 @@ URL: https://www.piskari.cz/cs/skala/hotel-eldorado-3704/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6162850" lon="16.1054980">
+  <wpt lat="50.6161100" lon="16.1056100">
     <name>Houslařská</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1389,7 +1389,7 @@ vrchol.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6154330" lon="16.1090250">
+  <wpt lat="50.6153200" lon="16.1090300">
     <name>Hroche</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1441,7 +1441,7 @@ URL: https://www.piskari.cz/cs/skala/hroche-1055/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6156350" lon="16.1062270">
+  <wpt lat="50.6153900" lon="16.1063600">
     <name>Hurajda</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1484,7 +1484,7 @@ URL: https://www.piskari.cz/cs/skala/hurajda-1104/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6144320" lon="16.1103530">
+  <wpt lat="50.6144200" lon="16.1102800">
     <name>Chachoňka</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1503,7 +1503,7 @@ URL: https://www.piskari.cz/cs/skala/chachonka-1045/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6154210" lon="16.1060400">
+  <wpt lat="50.6151400" lon="16.1062500">
     <name>Chrobáč</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1527,7 +1527,7 @@ URL: https://www.piskari.cz/cs/skala/chrobac-1143/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6153700" lon="16.1092050">
+  <wpt lat="50.6152500" lon="16.1092200">
     <name>Chuďas</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1577,7 +1577,7 @@ URL: https://www.piskari.cz/cs/skala/irena-1119/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6153540" lon="16.1061010">
+  <wpt lat="50.6151100" lon="16.1062800">
     <name>Járková</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1718,7 +1718,7 @@ URL: https://www.piskari.cz/cs/skala/jecminek-1094/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6139950" lon="16.1076790">
+  <wpt lat="50.6139400" lon="16.1076900">
     <name>Jelčina</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1857,7 +1857,7 @@ URL: https://www.piskari.cz/cs/skala/karlik-1021/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6161290" lon="16.1047930">
+  <wpt lat="50.6160000" lon="16.1047500">
     <name>Kašparidis</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1932,7 +1932,7 @@ URL: https://www.piskari.cz/cs/skala/king-kong-1086/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6155500" lon="16.1075900">
+  <wpt lat="50.6154400" lon="16.1076700">
     <name>Klekánice</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -1993,7 +1993,7 @@ URL: https://www.piskari.cz/cs/skala/kobyli-hlava-1051/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6160390" lon="16.1061680">
+  <wpt lat="50.6159900" lon="16.1061900">
     <name>Kojná</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2070,7 +2070,7 @@ URL: https://www.piskari.cz/cs/skala/koko-1064/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6141020" lon="16.1114930">
+  <wpt lat="50.6138300" lon="16.1115300">
     <name>Kokšova</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2130,7 +2130,7 @@ URL: https://www.piskari.cz/cs/skala/koksova-1027/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6153650" lon="16.1067670">
+  <wpt lat="50.6151900" lon="16.1068300">
     <name>Kolovrátek</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2152,7 +2152,7 @@ URL: https://www.piskari.cz/cs/skala/kolovratek-1092/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6155260" lon="16.1061180">
+  <wpt lat="50.6153300" lon="16.1061900">
     <name>Komrda</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2255,7 +2255,7 @@ URL: https://www.piskari.cz/cs/skala/kostka-cukru-1144/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6141260" lon="16.1122110">
+  <wpt lat="50.6140000" lon="16.1121400">
     <name>Kozlíci z Roháčku</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2442,7 +2442,7 @@ URL: https://www.piskari.cz/cs/skala/kralovna-1099/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6145870" lon="16.1104220">
+  <wpt lat="50.6193300" lon="16.1164300">
     <name>Krecbachov</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2482,7 +2482,7 @@ URL: https://www.piskari.cz/cs/skala/krkavec-1039/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6140880" lon="16.1110660">
+  <wpt lat="50.6139700" lon="16.1111100">
     <name>Krysař</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2558,7 +2558,7 @@ URL: https://www.piskari.cz/cs/skala/kresadlo-1070/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6156200" lon="16.1070190">
+  <wpt lat="50.6155300" lon="16.1070600">
     <name>Kurtizána</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2609,7 +2609,7 @@ URL: https://www.piskari.cz/cs/skala/lodicka-1149/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6157530" lon="16.1066670">
+  <wpt lat="50.6156900" lon="16.1066900">
     <name>Loskoták jeskynní</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2642,7 +2642,7 @@ URL: https://www.piskari.cz/cs/skala/loskotak-jeskynni-1108/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6141720" lon="16.1107660">
+  <wpt lat="50.6101100" lon="16.1183100">
     <name>Lotrando</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2747,7 +2747,7 @@ URL: https://www.piskari.cz/cs/skala/mala-jehla-1147/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6150310" lon="16.1102940">
+  <wpt lat="50.6147700" lon="16.1103500">
     <name>Malý bivoň</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2844,7 +2844,7 @@ URL: https://www.piskari.cz/cs/skala/marketa-1161/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6154220" lon="16.1080510">
+  <wpt lat="50.6152800" lon="16.1081400">
     <name>Martinská koruna</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2900,7 +2900,7 @@ URL: https://www.piskari.cz/cs/skala/martinska-koruna-1075/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6153170" lon="16.1079580">
+  <wpt lat="50.6152200" lon="16.1080300">
     <name>Martinský roh</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -2997,7 +2997,7 @@ URL: https://www.piskari.cz/cs/skala/mechova-1101/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6146480" lon="16.1054630">
+  <wpt lat="50.6145700" lon="16.1054500">
     <name>Mezní branka</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3047,7 +3047,7 @@ URL: https://www.piskari.cz/cs/skala/mezni-branka-1142/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6145070" lon="16.1107390">
+  <wpt lat="50.6143600" lon="16.1107500">
     <name>Migdalka</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3077,7 +3077,7 @@ URL: https://www.piskari.cz/cs/skala/migdalka-1041/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6146750" lon="16.1105890">
+  <wpt lat="50.6145300" lon="16.1105800">
     <name>Misantrop</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3102,7 +3102,7 @@ URL: https://www.piskari.cz/cs/skala/misantrop-1042/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6158260" lon="16.1058200">
+  <wpt lat="50.6156400" lon="16.1059200">
     <name>Místokrálík</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3315,7 +3315,7 @@ URL: https://www.piskari.cz/cs/skala/myvalovec-kuni-1052/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6161750" lon="16.1049940">
+  <wpt lat="50.6160300" lon="16.1050800">
     <name>Nepojmenovaná</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3529,7 +3529,7 @@ URL: https://www.piskari.cz/cs/skala/pan-vajda-1177/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6144390" lon="16.1090810">
+  <wpt lat="50.6146700" lon="16.1088600">
     <name>Panský kočí</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3542,7 +3542,7 @@ URL: https://www.piskari.cz/cs/skala/pansky-koci-1068/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6149830" lon="16.1048220">
+  <wpt lat="50.6084400" lon="16.1172800">
     <name>Pastička</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3550,7 +3550,7 @@ URL: https://www.piskari.cz/cs/skala/pasticka-1138/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6155540" lon="16.1094700">
+  <wpt lat="50.6154200" lon="16.1094700">
     <name>Pážátko</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3639,7 +3639,7 @@ hraně přes kruh do Barokní varianty a tou na vrchol.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6159770" lon="16.1050070">
+  <wpt lat="50.6158600" lon="16.1050800">
     <name>Pidivajzlík</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3692,7 +3692,7 @@ URL: https://www.piskari.cz/cs/skala/pidivajzlik-1127/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6134120" lon="16.1094520">
+  <wpt lat="50.6134200" lon="16.1095300">
     <name>Pletichář</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3710,7 +3710,7 @@ URL: https://www.piskari.cz/cs/skala/pletichar-1171/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6153370" lon="16.1065010">
+  <wpt lat="50.6151700" lon="16.1066100">
     <name>Pokladnice</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3806,7 +3806,7 @@ URL: https://www.piskari.cz/cs/skala/princ-1111/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6157000" lon="16.1059670">
+  <wpt lat="50.6154700" lon="16.1060300">
     <name>Princátko</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3875,7 +3875,7 @@ URL: https://www.piskari.cz/cs/skala/premysl-otakar-ii-1120/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6142870" lon="16.1118710">
+  <wpt lat="50.6140300" lon="16.1119400">
     <name>Přísaha</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -3923,7 +3923,7 @@ URL: https://www.piskari.cz/cs/skala/prisaha-1035/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6157920" lon="16.1058200">
+  <wpt lat="50.6155800" lon="16.1059200">
     <name>Pumprdlík</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4020,7 +4020,7 @@ URL: https://www.piskari.cz/cs/skala/ruzicka-1168/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6156100" lon="16.1081290">
+  <wpt lat="50.6154700" lon="16.1081900">
     <name>Saská hlava</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4087,7 +4087,7 @@ URL: https://www.piskari.cz/cs/skala/saska-hlava-1076/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6143550" lon="16.1093980">
+  <wpt lat="50.6142500" lon="16.1094200">
     <name>Seraky - JV věž</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4117,7 +4117,7 @@ URL: https://www.piskari.cz/cs/skala/seraky-jv-vez-1062/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6143710" lon="16.1094190">
+  <wpt lat="50.6143300" lon="16.1093900">
     <name>Seraky - SZ věž</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4399,7 +4399,7 @@ URL: https://www.piskari.cz/cs/skala/strilna-1125/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6152540" lon="16.1049800">
+  <wpt lat="50.6150300" lon="16.1050600">
     <name>Sud burgundského</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4500,7 +4500,7 @@ URL: https://www.piskari.cz/cs/skala/sipek-1167/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151720" lon="16.1077560">
+  <wpt lat="50.6150400" lon="16.1077400">
     <name>Šmytec</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4649,7 +4649,7 @@ URL: https://www.piskari.cz/cs/skala/titanic-1162/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151640" lon="16.1047170">
+  <wpt lat="50.6150600" lon="16.1047800">
     <name>Tlustopleška</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4677,7 +4677,7 @@ URL: https://www.piskari.cz/cs/skala/tlustopleska-1137/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6152250" lon="16.1104650">
+  <wpt lat="50.6150000" lon="16.1105000">
     <name>Tři obři</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4833,7 +4833,7 @@ URL: https://www.piskari.cz/cs/skala/urologicka-zahrada-3631/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6145950" lon="16.1102430">
+  <wpt lat="50.6145800" lon="16.1102800">
     <name>Věž Lucie Rakoncajové</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4877,7 +4877,7 @@ URL: https://www.piskari.cz/cs/skala/vez-pratelstvi-1032/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6160110" lon="16.1052000">
+  <wpt lat="50.6158900" lon="16.1052700">
     <name>Věž tří Meltů</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -4991,7 +4991,7 @@ URL: https://www.piskari.cz/cs/skala/vosa-1107/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147740" lon="16.1114630">
+  <wpt lat="50.6146400" lon="16.1114400">
     <name>Vraní oko</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -5026,7 +5026,7 @@ URL: https://www.piskari.cz/cs/skala/vrani-oko-1038/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147450" lon="16.1115280">
+  <wpt lat="50.6144700" lon="16.1115000">
     <name>Vraní věže</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -5100,7 +5100,7 @@ URL: https://www.piskari.cz/cs/skala/vrani-veze-1037/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6155350" lon="16.1089930">
+  <wpt lat="50.6154500" lon="16.1090600">
     <name>Vztyčená věž</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -5167,7 +5167,7 @@ URL: https://www.piskari.cz/cs/skala/vztycena-vez-1059/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6154920" lon="16.1091730">
+  <wpt lat="50.6155600" lon="16.1092200">
     <name>Weikiki</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -5355,7 +5355,7 @@ URL: https://www.piskari.cz/cs/skala/zlosyn-1164/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6157200" lon="16.1075740">
+  <wpt lat="50.6156400" lon="16.1076400">
     <name>Ztracenec</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -5368,7 +5368,7 @@ URL: https://www.piskari.cz/cs/skala/ztracenec-1081/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138750" lon="16.1107820">
+  <wpt lat="50.6136700" lon="16.1107800">
     <name>Zubejda</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz
@@ -5406,7 +5406,7 @@ URL: https://www.piskari.cz/cs/skala/zubejda-1022/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6142360" lon="16.1100580">
+  <wpt lat="50.6141300" lon="16.1100600">
     <name>Žlábková</name>
     <desc>OBLAST: Adršpach / Království
 ZDROJ: piskari.cz

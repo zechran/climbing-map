@@ -140,8 +140,8 @@
     "name": "Banga-Chang",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.612778,
-    "lon": 16.106836,
+    "lat": 50.61279,
+    "lon": 16.10686,
     "url": "https://www.piskari.cz/cs/skala/banga-chang-757/",
     "routes": [
       {
@@ -160,8 +160,8 @@
     "name": "Baruntce",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614413,
-    "lon": 16.103537,
+    "lat": 50.61429,
+    "lon": 16.10361,
     "url": "https://www.piskari.cz/cs/skala/baruntce-803/",
     "routes": [
       {
@@ -452,8 +452,8 @@
     "name": "Čhangabang",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.615109,
-    "lon": 16.104176,
+    "lat": 50.61504,
+    "lon": 16.1042,
     "url": "https://www.piskari.cz/cs/skala/changabang-793/",
     "routes": [
       {
@@ -581,8 +581,8 @@
     "name": "Čhogolisa",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.615123,
-    "lon": 16.10405,
+    "lat": 50.61508,
+    "lon": 16.10406,
     "url": "https://www.piskari.cz/cs/skala/chogolisa-794/",
     "routes": [
       {
@@ -698,8 +698,8 @@
     "name": "Čhomolhari",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.615341,
-    "lon": 16.103473,
+    "lat": 50.61525,
+    "lon": 16.10358,
     "url": "https://www.piskari.cz/cs/skala/chomolhari-810/",
     "routes": [
       {
@@ -1002,8 +1002,8 @@
     "name": "Dudh kosí",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613595,
-    "lon": 16.105136,
+    "lat": 50.61353,
+    "lon": 16.10517,
     "url": "https://www.piskari.cz/cs/skala/dudh-kosi-778/",
     "routes": [
       {
@@ -1278,8 +1278,8 @@
     "name": "Gašerbrum",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613743,
-    "lon": 16.104253,
+    "lat": 50.61376,
+    "lon": 16.10415,
     "url": "https://www.piskari.cz/cs/skala/gaserbrum-795/",
     "routes": [
       {
@@ -1332,8 +1332,8 @@
     "name": "Harry peak",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613501,
-    "lon": 16.10487,
+    "lat": 50.61344,
+    "lon": 16.10483,
     "url": "https://www.piskari.cz/cs/skala/harry-peak-784/",
     "routes": [
       {
@@ -1478,8 +1478,8 @@
     "name": "Himálajská",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.612568,
-    "lon": 16.107587,
+    "lat": 50.61344,
+    "lon": 16.10475,
     "url": "https://www.piskari.cz/cs/skala/himalajska-753/",
     "routes": [
       {
@@ -1525,8 +1525,8 @@
     "name": "Himálajská vyhlídka",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.61385,
-    "lon": 16.103162,
+    "lat": 50.61382,
+    "lon": 16.10317,
     "url": "https://www.piskari.cz/cs/skala/himalajska-vyhlidka-820/",
     "routes": [
       {
@@ -1563,8 +1563,8 @@
     "name": "Himálajský hřeben",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614027,
-    "lon": 16.105546,
+    "lat": 50.61403,
+    "lon": 16.10556,
     "url": "https://www.piskari.cz/cs/skala/himalajsky-hreben-761/",
     "routes": [
       {
@@ -1609,8 +1609,8 @@
     "name": "Himálajský prcek",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.612422,
-    "lon": 16.106751,
+    "lat": 50.61243,
+    "lon": 16.10682,
     "url": "https://www.piskari.cz/cs/skala/himalajsky-prcek-764/",
     "routes": [
       {
@@ -1873,8 +1873,8 @@
     "name": "Jongsong",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.612344,
-    "lon": 16.10741,
+    "lat": 50.61227,
+    "lon": 16.10752,
     "url": "https://www.piskari.cz/cs/skala/jongsong-754/",
     "routes": [
       {
@@ -1937,7 +1937,7 @@
     "area": "Adršpach",
     "sector": "Himálaj",
     "lat": 50.61279,
-    "lon": 16.105935,
+    "lon": 16.10589,
     "url": "https://www.piskari.cz/cs/skala/kangchendzanga-771/",
     "routes": [
       {
@@ -2002,8 +2002,8 @@
     "name": "Kangdu",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.615116,
-    "lon": 16.103304,
+    "lat": 50.61506,
+    "lon": 16.10333,
     "url": "https://www.piskari.cz/cs/skala/kangdu-812/",
     "routes": [
       {
@@ -2069,8 +2069,8 @@
     "name": "Kharta Phu",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.6145,
-    "lon": 16.103207,
+    "lat": 50.61446,
+    "lon": 16.10326,
     "url": "https://www.piskari.cz/cs/skala/kharta-phu-804/",
     "routes": [
       {
@@ -2111,8 +2111,8 @@
     "name": "Khumbu Himal",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.61425,
-    "lon": 16.105195,
+    "lat": 50.61413,
+    "lon": 16.10517,
     "url": "https://www.piskari.cz/cs/skala/khumbu-himal-763/",
     "routes": [
       {
@@ -2195,8 +2195,8 @@
     "name": "Košíček",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.612978,
-    "lon": 16.106622,
+    "lat": 50.61296,
+    "lon": 16.10659,
     "url": "https://www.piskari.cz/cs/skala/kosicek-758/",
     "routes": [
       {
@@ -2322,8 +2322,8 @@
     "name": "Křemeňáci",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.6153,
-    "lon": 16.102604,
+    "lat": 50.6152,
+    "lon": 16.10268,
     "url": "https://www.piskari.cz/cs/skala/kremenaci-817/",
     "routes": [
       {
@@ -2345,8 +2345,8 @@
     "name": "Kulagangri",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.615131,
-    "lon": 16.103095,
+    "lat": 50.61506,
+    "lon": 16.10316,
     "url": "https://www.piskari.cz/cs/skala/kulagangri-813/",
     "routes": [
       {
@@ -2466,8 +2466,8 @@
     "name": "Ledopád Khumbu",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614718,
-    "lon": 16.103516,
+    "lat": 50.61468,
+    "lon": 16.10352,
     "url": "https://www.piskari.cz/cs/skala/ledopad-khumbu-809/",
     "routes": [
       {
@@ -2690,8 +2690,8 @@
     "name": "Malloryho věže",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613732,
-    "lon": 16.103113,
+    "lat": 50.61374,
+    "lon": 16.10315,
     "url": "https://www.piskari.cz/cs/skala/malloryho-veze-819/",
     "routes": [
       {
@@ -2872,8 +2872,8 @@
     "name": "Mustagh Tower",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613331,
-    "lon": 16.105404,
+    "lat": 50.61328,
+    "lon": 16.10542,
     "url": "https://www.piskari.cz/cs/skala/mustagh-tower-776/",
     "routes": [
       {
@@ -3152,8 +3152,8 @@
     "name": "Palácový pes",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613315,
-    "lon": 16.105887,
+    "lat": 50.61326,
+    "lon": 16.10587,
     "url": "https://www.piskari.cz/cs/skala/palacovy-pes-774/",
     "routes": [
       {
@@ -3182,8 +3182,8 @@
     "name": "Pasang Dava Láma",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.61464,
-    "lon": 16.103658,
+    "lat": 50.61461,
+    "lon": 16.10368,
     "url": "https://www.piskari.cz/cs/skala/pasang-dava-lama-808/",
     "routes": [
       {
@@ -3215,8 +3215,8 @@
     "name": "Pimpršluk",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614769,
-    "lon": 16.10464,
+    "lat": 50.61469,
+    "lon": 16.10461,
     "url": "https://www.piskari.cz/cs/skala/pimprsluk-791/",
     "routes": [
       {
@@ -3265,8 +3265,8 @@
     "name": "Pimpršlukova stěna",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614856,
-    "lon": 16.104527,
+    "lat": 50.61475,
+    "lon": 16.10456,
     "url": "https://www.piskari.cz/cs/skala/pimprslukova-stena-792/",
     "routes": [
       {
@@ -3529,8 +3529,8 @@
     "name": "Sinjolču",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613712,
-    "lon": 16.105206,
+    "lat": 50.61371,
+    "lon": 16.10524,
     "url": "https://www.piskari.cz/cs/skala/sinjolcu-780/",
     "routes": [
       {
@@ -3654,8 +3654,8 @@
     "name": "Šarpa",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613782,
-    "lon": 16.103894,
+    "lat": 50.6138,
+    "lon": 16.10395,
     "url": "https://www.piskari.cz/cs/skala/sarpa-798/",
     "routes": [
       {
@@ -3782,8 +3782,8 @@
     "name": "Tave Čhe",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614485,
-    "lon": 16.103754,
+    "lat": 50.6144,
+    "lon": 16.10388,
     "url": "https://www.piskari.cz/cs/skala/tave-che-805/",
     "routes": [
       {
@@ -3913,8 +3913,8 @@
     "name": "Věž Dr. Kounického",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.61417,
-    "lon": 16.104919,
+    "lat": 50.61416,
+    "lon": 16.10495,
     "url": "https://www.piskari.cz/cs/skala/vez-dr-kounickeho-788/",
     "routes": [
       {
@@ -3933,8 +3933,8 @@
     "name": "Věž Herberta Tichého",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613641,
-    "lon": 16.105297,
+    "lat": 50.61358,
+    "lon": 16.10533,
     "url": "https://www.piskari.cz/cs/skala/vez-herberta-ticheho-779/",
     "routes": [
       {
@@ -3986,8 +3986,8 @@
     "name": "Věž Karla Schuberta",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614219,
-    "lon": 16.104835,
+    "lat": 50.61423,
+    "lon": 16.10491,
     "url": "https://www.piskari.cz/cs/skala/vez-karla-schuberta-787/",
     "routes": [
       {
@@ -4038,8 +4038,8 @@
     "name": "Věž průzkumníků",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.614359,
-    "lon": 16.102639,
+    "lat": 50.61454,
+    "lon": 16.10281,
     "url": "https://www.piskari.cz/cs/skala/vez-pruzkumniku-822/",
     "routes": [
       {
@@ -4098,8 +4098,8 @@
     "name": "Věž Svena Hedina",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.61512,
-    "lon": 16.102703,
+    "lat": 50.61504,
+    "lon": 16.10275,
     "url": "https://www.piskari.cz/cs/skala/vez-svena-hedina-815/",
     "routes": [
       {
@@ -4192,8 +4192,8 @@
     "name": "Žebrácký velmož",
     "area": "Adršpach",
     "sector": "Himálaj",
-    "lat": 50.613642,
-    "lon": 16.105927,
+    "lat": 50.61361,
+    "lon": 16.10592,
     "url": "https://www.piskari.cz/cs/skala/zebracky-velmoz-759/",
     "routes": [
       {

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Podhradi</name>
-    <desc>Climbing towers from piskari.cz — Podhradi. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Podhradi. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6161870" lon="16.1009520">
     <name>Bakalář</name>
@@ -26,7 +26,7 @@ URL: https://www.piskari.cz/cs/skala/bakalar-1728/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6157170" lon="16.1016730">
+  <wpt lat="50.6156700" lon="16.1014400">
     <name>Bažík</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -64,7 +64,7 @@ URL: https://www.piskari.cz/cs/skala/bazik-1725/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6159870" lon="16.1012470">
+  <wpt lat="50.4041300" lon="16.5049100">
     <name>Bob</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -111,7 +111,7 @@ URL: https://www.piskari.cz/cs/skala/bobek-1721/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6158680" lon="16.1021850">
+  <wpt lat="50.6160100" lon="16.1019700">
     <name>Brucknerova věž</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -190,7 +190,7 @@ URL: https://www.piskari.cz/cs/skala/drevorubec-1738/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147370" lon="16.0999060">
+  <wpt lat="50.6142500" lon="16.0996700">
     <name>Hajný Habr se psem</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -215,7 +215,7 @@ URL: https://www.piskari.cz/cs/skala/hajny-habr-se-psem-1739/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6157760" lon="16.0997770">
+  <wpt lat="50.6159900" lon="16.0988700">
     <name>Halapartník</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -255,7 +255,7 @@ URL: https://www.piskari.cz/cs/skala/hejkal-1733/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6159140" lon="16.1007720">
+  <wpt lat="50.6162000" lon="16.1003800">
     <name>Hejkalka</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -469,7 +469,7 @@ URL: https://www.piskari.cz/cs/skala/kocicka-1734/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6155810" lon="16.1000720">
+  <wpt lat="50.6152500" lon="16.0993500">
     <name>Lesní hodinář</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -563,7 +563,7 @@ URL: https://www.piskari.cz/cs/skala/loupeznik-1745/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6163840" lon="16.1016140">
+  <wpt lat="50.6164000" lon="16.1016100">
     <name>Malý Ondra</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -581,7 +581,7 @@ URL: https://www.piskari.cz/cs/skala/maly-ondra-1714/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6161590" lon="16.1010960">
+  <wpt lat="50.6161900" lon="16.1011400">
     <name>Mikrob</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -600,7 +600,7 @@ URL: https://www.piskari.cz/cs/skala/mikrob-1727/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6144120" lon="16.0996290">
+  <wpt lat="50.6139600" lon="16.0994900">
     <name>Nadlesní</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -613,7 +613,7 @@ URL: https://www.piskari.cz/cs/skala/nadlesni-1741/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6158090" lon="16.1018390">
+  <wpt lat="50.6158100" lon="16.1017800">
     <name>Olympijská</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz
@@ -698,7 +698,7 @@ URL: https://www.piskari.cz/cs/skala/palcat-1712/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6156960" lon="16.1011290">
+  <wpt lat="50.6157700" lon="16.1006200">
     <name>Poustevníček</name>
     <desc>OBLAST: Adršpach / Podhradí
 ZDROJ: piskari.cz

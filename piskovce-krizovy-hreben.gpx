@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Krizovy Hreben</name>
-    <desc>Climbing towers from piskari.cz — Krizovy Hreben. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Krizovy Hreben. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6206380" lon="16.1289440">
     <name>Apollo</name>
@@ -59,7 +59,7 @@ URL: https://www.piskari.cz/cs/skala/azazelo-2868/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6218880" lon="16.1266940">
+  <wpt lat="50.6218900" lon="16.1267500">
     <name>Beranovy věže</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -122,7 +122,7 @@ URL: https://www.piskari.cz/cs/skala/beranovy-veze-2820/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6218880" lon="16.1270000">
+  <wpt lat="50.6140000" lon="16.1201000">
     <name>Bonbonek</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -226,7 +226,7 @@ URL: https://www.piskari.cz/cs/skala/dentista-3923/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6221110" lon="16.1267500">
+  <wpt lat="50.6221700" lon="16.1267500">
     <name>Desátá</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -365,7 +365,7 @@ URL: https://www.piskari.cz/cs/skala/ecce-homo-3922/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6224160" lon="16.1266110">
+  <wpt lat="50.6224200" lon="16.1265800">
     <name>Festivalová</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -509,7 +509,7 @@ URL: https://www.piskari.cz/cs/skala/hanicka-2854/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6216940" lon="16.1269160">
+  <wpt lat="50.6216900" lon="16.1269200">
     <name>Chlapíček</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -548,7 +548,7 @@ URL: https://www.piskari.cz/cs/skala/chlapicek-2831/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6203610" lon="16.1298610">
+  <wpt lat="50.6203600" lon="16.1298600">
     <name>Jižák</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -784,7 +784,7 @@ URL: https://www.piskari.cz/cs/skala/kreslo-2815/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6213050" lon="16.1273610">
+  <wpt lat="50.6213100" lon="16.1273600">
     <name>Křížákový Pete</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -821,7 +821,7 @@ URL: https://www.piskari.cz/cs/skala/krizakovy-pete-3665/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6208050" lon="16.1277220">
+  <wpt lat="50.6208100" lon="16.1277800">
     <name>Křížová jehla</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -1206,7 +1206,7 @@ URL: https://www.piskari.cz/cs/skala/kvetnova-2849/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6214160" lon="16.1271940">
+  <wpt lat="50.6214200" lon="16.1272500">
     <name>Leopoldova věž</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -1267,7 +1267,7 @@ URL: https://www.piskari.cz/cs/skala/leopoldova-vez-2834/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6200270" lon="16.1305550">
+  <wpt lat="50.6200300" lon="16.1305600">
     <name>Ludánek</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -1332,7 +1332,7 @@ URL: https://www.piskari.cz/cs/skala/mrazik-2824/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6212770" lon="16.1279440">
+  <wpt lat="50.6212800" lon="16.1279400">
     <name>Mušketýr</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -1804,7 +1804,7 @@ URL: https://www.piskari.cz/cs/skala/ovecka-2816/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6217770" lon="16.1266660">
+  <wpt lat="50.6217800" lon="16.1266700">
     <name>Pačmákovy věže</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -2022,7 +2022,7 @@ URL: https://www.piskari.cz/cs/skala/pevnost-2855/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6210270" lon="16.1277220">
+  <wpt lat="50.6210300" lon="16.1277800">
     <name>Podsvětí</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -2418,7 +2418,7 @@ URL: https://www.piskari.cz/cs/skala/skluzavka-2845/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6206110" lon="16.1277220">
+  <wpt lat="50.6206100" lon="16.1277200">
     <name>Slavníkovská stěna</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -2467,7 +2467,7 @@ URL: https://www.piskari.cz/cs/skala/slavnikovska-stena-2857/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6212500" lon="16.1284720">
+  <wpt lat="50.6212500" lon="16.1284700">
     <name>Srazová</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -2593,7 +2593,7 @@ URL: https://www.piskari.cz/cs/skala/telatko-3924/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6207220" lon="16.1285000">
+  <wpt lat="50.6113900" lon="16.1149400">
     <name>Trosečník</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -2776,7 +2776,7 @@ URL: https://www.piskari.cz/cs/skala/vresova-2838/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6206110" lon="16.1273610">
+  <wpt lat="50.6206700" lon="16.1273600">
     <name>Vyhlídková placka</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -2848,7 +2848,7 @@ URL: https://www.piskari.cz/cs/skala/vyhlidkova-placka-2852/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6201940" lon="16.1303610">
+  <wpt lat="50.6201900" lon="16.1303600">
     <name>Závěrečná</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz
@@ -2887,7 +2887,7 @@ URL: https://www.piskari.cz/cs/skala/zmrzlina-2825/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6214160" lon="16.1277220">
+  <wpt lat="50.6214200" lon="16.1277200">
     <name>Zrádce</name>
     <desc>OBLAST: Křížový vrch / Křížový hřeben
 ZDROJ: piskari.cz

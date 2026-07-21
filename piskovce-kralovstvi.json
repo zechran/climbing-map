@@ -174,8 +174,8 @@
     "name": "Audienční",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615431,
-    "lon": 16.107029,
+    "lat": 50.61525,
+    "lon": 16.10711,
     "url": "https://www.piskari.cz/cs/skala/audiencni-1090/",
     "routes": [
       {
@@ -341,8 +341,8 @@
     "name": "Bohatýr",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615293,
-    "lon": 16.109304,
+    "lat": 50.61522,
+    "lon": 16.10928,
     "url": "https://www.piskari.cz/cs/skala/bohatyr-1053/",
     "routes": [
       {
@@ -515,8 +515,8 @@
     "name": "Bratranecká",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615744,
-    "lon": 16.106171,
+    "lat": 50.61547,
+    "lon": 16.10628,
     "url": "https://www.piskari.cz/cs/skala/bratranecka-1105/",
     "routes": [
       {
@@ -680,8 +680,8 @@
     "name": "Cibulová věž",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615654,
-    "lon": 16.107818,
+    "lat": 50.61561,
+    "lon": 16.10789,
     "url": "https://www.piskari.cz/cs/skala/cibulova-vez-1080/",
     "routes": [
       {
@@ -1069,8 +1069,8 @@
     "name": "Čaroděj",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615152,
-    "lon": 16.110085,
+    "lat": 50.615,
+    "lon": 16.10994,
     "url": "https://www.piskari.cz/cs/skala/carodej-1050/",
     "routes": [
       {
@@ -1164,8 +1164,8 @@
     "name": "Čarodějná hůlka",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.616449,
-    "lon": 16.105755,
+    "lat": 50.61636,
+    "lon": 16.10583,
     "url": "https://www.piskari.cz/cs/skala/carodejna-hulka-5/",
     "routes": [
       {
@@ -1187,8 +1187,8 @@
     "name": "Čarodejnice Adršpašská",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615075,
-    "lon": 16.10965,
+    "lat": 50.62381,
+    "lon": 16.12886,
     "url": "https://www.piskari.cz/cs/skala/carodejnice-adrspasska-3607/",
     "routes": [
       {
@@ -1243,8 +1243,8 @@
     "name": "Čarostřelec",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615261,
-    "lon": 16.108159,
+    "lat": 50.61517,
+    "lon": 16.10831,
     "url": "https://www.piskari.cz/cs/skala/carostrelec-1071/",
     "routes": [
       {
@@ -1381,8 +1381,8 @@
     "name": "Černokněžník",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.61514,
-    "lon": 16.110211,
+    "lat": 50.61503,
+    "lon": 16.11011,
     "url": "https://www.piskari.cz/cs/skala/cernokneznik-1049/",
     "routes": [
       {
@@ -1448,8 +1448,8 @@
     "name": "Černý cikán",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.616285,
-    "lon": 16.105887,
+    "lat": 50.61622,
+    "lon": 16.10592,
     "url": "https://www.piskari.cz/cs/skala/cerny-cikan-1098/",
     "routes": [
       {
@@ -1539,8 +1539,8 @@
     "name": "Čtyři gardisti",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614825,
-    "lon": 16.105278,
+    "lat": 50.61478,
+    "lon": 16.10535,
     "url": "https://www.piskari.cz/cs/skala/ctyri-gardisti-1140/",
     "routes": [
       {
@@ -1711,8 +1711,8 @@
     "name": "Dagovy uši",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614451,
-    "lon": 16.110948,
+    "lat": 50.61436,
+    "lon": 16.11097,
     "url": "https://www.piskari.cz/cs/skala/dagovy-usi-1040/",
     "routes": [
       {
@@ -2045,8 +2045,8 @@
     "name": "Filuta",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614471,
-    "lon": 16.108851,
+    "lat": 50.61478,
+    "lon": 16.10867,
     "url": "https://www.piskari.cz/cs/skala/filuta-1069/",
     "routes": [
       {
@@ -2105,8 +2105,8 @@
     "name": "Gejši",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.61459,
-    "lon": 16.110468,
+    "lat": 50.61444,
+    "lon": 16.11047,
     "url": "https://www.piskari.cz/cs/skala/gejsi-1043/",
     "routes": [
       {
@@ -2317,8 +2317,8 @@
     "name": "Houslařská",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.616285,
-    "lon": 16.105498,
+    "lat": 50.61611,
+    "lon": 16.10561,
     "url": "https://www.piskari.cz/cs/skala/houslarska-1102/",
     "routes": [
       {
@@ -2529,8 +2529,8 @@
     "name": "Hroche",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615433,
-    "lon": 16.109025,
+    "lat": 50.61532,
+    "lon": 16.10903,
     "url": "https://www.piskari.cz/cs/skala/hroche-1055/",
     "routes": [
       {
@@ -2619,8 +2619,8 @@
     "name": "Hurajda",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615635,
-    "lon": 16.106227,
+    "lat": 50.61539,
+    "lon": 16.10636,
     "url": "https://www.piskari.cz/cs/skala/hurajda-1104/",
     "routes": [
       {
@@ -2694,8 +2694,8 @@
     "name": "Chachoňka",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614432,
-    "lon": 16.110353,
+    "lat": 50.61442,
+    "lon": 16.11028,
     "url": "https://www.piskari.cz/cs/skala/chachonka-1045/",
     "routes": [
       {
@@ -2734,8 +2734,8 @@
     "name": "Chrobáč",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615421,
-    "lon": 16.10604,
+    "lat": 50.61514,
+    "lon": 16.10625,
     "url": "https://www.piskari.cz/cs/skala/chrobac-1143/",
     "routes": [
       {
@@ -2770,8 +2770,8 @@
     "name": "Chuďas",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.61537,
-    "lon": 16.109205,
+    "lat": 50.61525,
+    "lon": 16.10922,
     "url": "https://www.piskari.cz/cs/skala/chudas-1054/",
     "routes": [
       {
@@ -2860,8 +2860,8 @@
     "name": "Járková",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615354,
-    "lon": 16.106101,
+    "lat": 50.61511,
+    "lon": 16.10628,
     "url": "https://www.piskari.cz/cs/skala/jarkova-1146/",
     "routes": [
       {
@@ -3110,8 +3110,8 @@
     "name": "Jelčina",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.613995,
-    "lon": 16.107679,
+    "lat": 50.61394,
+    "lon": 16.10769,
     "url": "https://www.piskari.cz/cs/skala/jelcina-1158/",
     "routes": [
       {
@@ -3352,8 +3352,8 @@
     "name": "Kašparidis",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.616129,
-    "lon": 16.104793,
+    "lat": 50.616,
+    "lon": 16.10475,
     "url": "https://www.piskari.cz/cs/skala/kasparidis-1131/",
     "routes": [
       {
@@ -3478,8 +3478,8 @@
     "name": "Klekánice",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.61555,
-    "lon": 16.10759,
+    "lat": 50.61544,
+    "lon": 16.10767,
     "url": "https://www.piskari.cz/cs/skala/klekanice-1078/",
     "routes": [
       {
@@ -3577,8 +3577,8 @@
     "name": "Kojná",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.616039,
-    "lon": 16.106168,
+    "lat": 50.61599,
+    "lon": 16.10619,
     "url": "https://www.piskari.cz/cs/skala/kojna-1110/",
     "routes": [
       {
@@ -3696,8 +3696,8 @@
     "name": "Kokšova",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614102,
-    "lon": 16.111493,
+    "lat": 50.61383,
+    "lon": 16.11153,
     "url": "https://www.piskari.cz/cs/skala/koksova-1027/",
     "routes": [
       {
@@ -3799,8 +3799,8 @@
     "name": "Kolovrátek",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615365,
-    "lon": 16.106767,
+    "lat": 50.61519,
+    "lon": 16.10683,
     "url": "https://www.piskari.cz/cs/skala/kolovratek-1092/",
     "routes": [
       {
@@ -3851,8 +3851,8 @@
     "name": "Komrda",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615526,
-    "lon": 16.106118,
+    "lat": 50.61533,
+    "lon": 16.10619,
     "url": "https://www.piskari.cz/cs/skala/komrda-1103/",
     "routes": [
       {
@@ -4032,8 +4032,8 @@
     "name": "Kozlíci z Roháčku",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614126,
-    "lon": 16.112211,
+    "lat": 50.614,
+    "lon": 16.11214,
     "url": "https://www.piskari.cz/cs/skala/kozlici-z-rohacku-1033/",
     "routes": [
       {
@@ -4340,8 +4340,8 @@
     "name": "Krecbachov",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614587,
-    "lon": 16.110422,
+    "lat": 50.61933,
+    "lon": 16.11643,
     "url": "https://www.piskari.cz/cs/skala/krecbachov-1044/",
     "routes": [
       {
@@ -4407,8 +4407,8 @@
     "name": "Krysař",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614088,
-    "lon": 16.111066,
+    "lat": 50.61397,
+    "lon": 16.11111,
     "url": "https://www.piskari.cz/cs/skala/krysar-1026/",
     "routes": [
       {
@@ -4541,8 +4541,8 @@
     "name": "Kurtizána",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.61562,
-    "lon": 16.107019,
+    "lat": 50.61553,
+    "lon": 16.10706,
     "url": "https://www.piskari.cz/cs/skala/kurtizana-1093/",
     "routes": [
       {
@@ -4632,8 +4632,8 @@
     "name": "Loskoták jeskynní",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615753,
-    "lon": 16.106667,
+    "lat": 50.61569,
+    "lon": 16.10669,
     "url": "https://www.piskari.cz/cs/skala/loskotak-jeskynni-1108/",
     "routes": [
       {
@@ -4698,8 +4698,8 @@
     "name": "Lotrando",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614172,
-    "lon": 16.110766,
+    "lat": 50.61011,
+    "lon": 16.11831,
     "url": "https://www.piskari.cz/cs/skala/lotrando-1024/",
     "routes": [
       {
@@ -4904,8 +4904,8 @@
     "name": "Malý bivoň",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615031,
-    "lon": 16.110294,
+    "lat": 50.61477,
+    "lon": 16.11035,
     "url": "https://www.piskari.cz/cs/skala/maly-bivon-1047/",
     "routes": [
       {
@@ -5089,8 +5089,8 @@
     "name": "Martinská koruna",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615422,
-    "lon": 16.108051,
+    "lat": 50.61528,
+    "lon": 16.10814,
     "url": "https://www.piskari.cz/cs/skala/martinska-koruna-1075/",
     "routes": [
       {
@@ -5182,8 +5182,8 @@
     "name": "Martinský roh",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615317,
-    "lon": 16.107958,
+    "lat": 50.61522,
+    "lon": 16.10803,
     "url": "https://www.piskari.cz/cs/skala/martinsky-roh-1074/",
     "routes": [
       {
@@ -5356,8 +5356,8 @@
     "name": "Mezní branka",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614648,
-    "lon": 16.105463,
+    "lat": 50.61457,
+    "lon": 16.10545,
     "url": "https://www.piskari.cz/cs/skala/mezni-branka-1142/",
     "routes": [
       {
@@ -5467,8 +5467,8 @@
     "name": "Migdalka",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614507,
-    "lon": 16.110739,
+    "lat": 50.61436,
+    "lon": 16.11075,
     "url": "https://www.piskari.cz/cs/skala/migdalka-1041/",
     "routes": [
       {
@@ -5515,8 +5515,8 @@
     "name": "Misantrop",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614675,
-    "lon": 16.110589,
+    "lat": 50.61453,
+    "lon": 16.11058,
     "url": "https://www.piskari.cz/cs/skala/misantrop-1042/",
     "routes": [
       {
@@ -5560,8 +5560,8 @@
     "name": "Místokrálík",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615826,
-    "lon": 16.10582,
+    "lat": 50.61564,
+    "lon": 16.10592,
     "url": "https://www.piskari.cz/cs/skala/mistokralik-1114/",
     "routes": [
       {
@@ -5916,8 +5916,8 @@
     "name": "Nepojmenovaná",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.616175,
-    "lon": 16.104994,
+    "lat": 50.61603,
+    "lon": 16.10508,
     "url": "https://www.piskari.cz/cs/skala/nepojmenovana-1128/",
     "routes": [
       {
@@ -6332,8 +6332,8 @@
     "name": "Panský kočí",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614439,
-    "lon": 16.109081,
+    "lat": 50.61467,
+    "lon": 16.10886,
     "url": "https://www.piskari.cz/cs/skala/pansky-koci-1068/",
     "routes": [
       {
@@ -6352,8 +6352,8 @@
     "name": "Pastička",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614983,
-    "lon": 16.104822,
+    "lat": 50.60844,
+    "lon": 16.11728,
     "url": "https://www.piskari.cz/cs/skala/pasticka-1138/",
     "routes": []
   },
@@ -6361,7 +6361,7 @@
     "name": "Pážátko",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615554,
+    "lat": 50.61542,
     "lon": 16.10947,
     "url": "https://www.piskari.cz/cs/skala/pazatko-1057/",
     "routes": [
@@ -6506,8 +6506,8 @@
     "name": "Pidivajzlík",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615977,
-    "lon": 16.105007,
+    "lat": 50.61586,
+    "lon": 16.10508,
     "url": "https://www.piskari.cz/cs/skala/pidivajzlik-1127/",
     "routes": [
       {
@@ -6627,8 +6627,8 @@
     "name": "Pletichář",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.613412,
-    "lon": 16.109452,
+    "lat": 50.61342,
+    "lon": 16.10953,
     "url": "https://www.piskari.cz/cs/skala/pletichar-1171/",
     "routes": [
       {
@@ -6651,8 +6651,8 @@
     "name": "Pokladnice",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615337,
-    "lon": 16.106501,
+    "lat": 50.61517,
+    "lon": 16.10661,
     "url": "https://www.piskari.cz/cs/skala/pokladnice-1148/",
     "routes": [
       {
@@ -6818,8 +6818,8 @@
     "name": "Princátko",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.6157,
-    "lon": 16.105967,
+    "lat": 50.61547,
+    "lon": 16.10603,
     "url": "https://www.piskari.cz/cs/skala/princatko-1116/",
     "routes": [
       {
@@ -6955,8 +6955,8 @@
     "name": "Přísaha",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614287,
-    "lon": 16.111871,
+    "lat": 50.61403,
+    "lon": 16.11194,
     "url": "https://www.piskari.cz/cs/skala/prisaha-1035/",
     "routes": [
       {
@@ -7034,8 +7034,8 @@
     "name": "Pumprdlík",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615792,
-    "lon": 16.10582,
+    "lat": 50.61558,
+    "lon": 16.10592,
     "url": "https://www.piskari.cz/cs/skala/pumprdlik-1115/",
     "routes": [
       {
@@ -7193,8 +7193,8 @@
     "name": "Saská hlava",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.61561,
-    "lon": 16.108129,
+    "lat": 50.61547,
+    "lon": 16.10819,
     "url": "https://www.piskari.cz/cs/skala/saska-hlava-1076/",
     "routes": [
       {
@@ -7310,8 +7310,8 @@
     "name": "Seraky - JV věž",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614355,
-    "lon": 16.109398,
+    "lat": 50.61425,
+    "lon": 16.10942,
     "url": "https://www.piskari.cz/cs/skala/seraky-jv-vez-1062/",
     "routes": [
       {
@@ -7368,8 +7368,8 @@
     "name": "Seraky - SZ věž",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614371,
-    "lon": 16.109419,
+    "lat": 50.61433,
+    "lon": 16.10939,
     "url": "https://www.piskari.cz/cs/skala/seraky-sz-vez-1063/",
     "routes": [
       {
@@ -7888,8 +7888,8 @@
     "name": "Sud burgundského",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615254,
-    "lon": 16.10498,
+    "lat": 50.61503,
+    "lon": 16.10506,
     "url": "https://www.piskari.cz/cs/skala/sud-burgundskeho-1139/",
     "routes": [
       {
@@ -8091,8 +8091,8 @@
     "name": "Šmytec",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615172,
-    "lon": 16.107756,
+    "lat": 50.61504,
+    "lon": 16.10774,
     "url": "https://www.piskari.cz/cs/skala/smytec-1083/",
     "routes": [
       {
@@ -8346,8 +8346,8 @@
     "name": "Tlustopleška",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615164,
-    "lon": 16.104717,
+    "lat": 50.61506,
+    "lon": 16.10478,
     "url": "https://www.piskari.cz/cs/skala/tlustopleska-1137/",
     "routes": [
       {
@@ -8408,8 +8408,8 @@
     "name": "Tři obři",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615225,
-    "lon": 16.110465,
+    "lat": 50.615,
+    "lon": 16.1105,
     "url": "https://www.piskari.cz/cs/skala/tri-obri-1048/",
     "routes": [
       {
@@ -8673,8 +8673,8 @@
     "name": "Věž Lucie Rakoncajové",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614595,
-    "lon": 16.110243,
+    "lat": 50.61458,
+    "lon": 16.11028,
     "url": "https://www.piskari.cz/cs/skala/vez-lucie-rakoncajove-1046/",
     "routes": [
       {
@@ -8751,8 +8751,8 @@
     "name": "Věž tří Meltů",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.616011,
-    "lon": 16.1052,
+    "lat": 50.61589,
+    "lon": 16.10527,
     "url": "https://www.piskari.cz/cs/skala/vez-tri-meltu-1126/",
     "routes": [
       {
@@ -8985,8 +8985,8 @@
     "name": "Vraní oko",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614774,
-    "lon": 16.111463,
+    "lat": 50.61464,
+    "lon": 16.11144,
     "url": "https://www.piskari.cz/cs/skala/vrani-oko-1038/",
     "routes": [
       {
@@ -9053,8 +9053,8 @@
     "name": "Vraní věže",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614745,
-    "lon": 16.111528,
+    "lat": 50.61447,
+    "lon": 16.1115,
     "url": "https://www.piskari.cz/cs/skala/vrani-veze-1037/",
     "routes": [
       {
@@ -9183,8 +9183,8 @@
     "name": "Vztyčená věž",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615535,
-    "lon": 16.108993,
+    "lat": 50.61545,
+    "lon": 16.10906,
     "url": "https://www.piskari.cz/cs/skala/vztycena-vez-1059/",
     "routes": [
       {
@@ -9299,8 +9299,8 @@
     "name": "Weikiki",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.615492,
-    "lon": 16.109173,
+    "lat": 50.61556,
+    "lon": 16.10922,
     "url": "https://www.piskari.cz/cs/skala/weikiki-1058/",
     "routes": [
       {
@@ -9703,8 +9703,8 @@
     "name": "Ztracenec",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.61572,
-    "lon": 16.107574,
+    "lat": 50.61564,
+    "lon": 16.10764,
     "url": "https://www.piskari.cz/cs/skala/ztracenec-1081/",
     "routes": [
       {
@@ -9723,8 +9723,8 @@
     "name": "Zubejda",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.613875,
-    "lon": 16.110782,
+    "lat": 50.61367,
+    "lon": 16.11078,
     "url": "https://www.piskari.cz/cs/skala/zubejda-1022/",
     "routes": [
       {
@@ -9787,8 +9787,8 @@
     "name": "Žlábková",
     "area": "Adršpach",
     "sector": "Království",
-    "lat": 50.614236,
-    "lon": 16.110058,
+    "lat": 50.61413,
+    "lon": 16.11006,
     "url": "https://www.piskari.cz/cs/skala/zlabkova-1061/",
     "routes": [
       {

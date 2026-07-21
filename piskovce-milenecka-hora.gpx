@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Milenecka Hora</name>
-    <desc>Climbing towers from piskari.cz — Milenecka Hora. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Milenecka Hora. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6084390" lon="16.1159560">
     <name>Adam a Eva</name>
@@ -211,7 +211,7 @@ URL: https://www.piskari.cz/cs/skala/amorek-3614/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6101290" lon="16.1141480">
+  <wpt lat="50.6100700" lon="16.1141900">
     <name>Amorův šíp</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -375,7 +375,7 @@ URL: https://www.piskari.cz/cs/skala/bedynka-1490/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6104660" lon="16.1130940">
+  <wpt lat="50.6104200" lon="16.1131800">
     <name>Bragliho věž</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -421,7 +421,7 @@ URL: https://www.piskari.cz/cs/skala/bragliho-vez-1429/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6095280" lon="16.1112570">
+  <wpt lat="50.6095300" lon="16.1114200">
     <name>Brundibár</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -507,7 +507,7 @@ URL: https://www.piskari.cz/cs/skala/citadela-1401/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6092410" lon="16.1127750">
+  <wpt lat="50.6092200" lon="16.1127800">
     <name>Citronová</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -575,7 +575,7 @@ URL: https://www.piskari.cz/cs/skala/culik-1419/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6105380" lon="16.1120880">
+  <wpt lat="50.6103600" lon="16.1122800">
     <name>Čtyři apoštolové</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -627,7 +627,7 @@ URL: https://www.piskari.cz/cs/skala/ctyri-apostolove-1458/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6081500" lon="16.1154440">
+  <wpt lat="50.6080800" lon="16.1154700">
     <name>Čtyři panny</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -651,7 +651,7 @@ URL: https://www.piskari.cz/cs/skala/ctyri-panny-1374/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6094470" lon="16.1120340">
+  <wpt lat="50.6094200" lon="16.1120300">
     <name>Dálkový student</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -784,7 +784,7 @@ URL: https://www.piskari.cz/cs/skala/eros-1408/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6095390" lon="16.1149180">
+  <wpt lat="50.6095300" lon="16.1149200">
     <name>Fachman Lorenc</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -817,7 +817,7 @@ URL: https://www.piskari.cz/cs/skala/ferda-1487/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6087030" lon="16.1161680">
+  <wpt lat="50.6086400" lon="16.1162500">
     <name>Gigolo</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1085,7 +1085,7 @@ URL: https://www.piskari.cz/cs/skala/husopaska-1392/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6102870" lon="16.1123990">
+  <wpt lat="50.6102200" lon="16.1125000">
     <name>Hvízdavý Dan</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1208,7 +1208,7 @@ URL: https://www.piskari.cz/cs/skala/jara-cimrman-1479/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6105360" lon="16.1130080">
+  <wpt lat="50.6105100" lon="16.1130300">
     <name>Jebáček</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1283,7 +1283,7 @@ URL: https://www.piskari.cz/cs/skala/kapoun-1482/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6096020" lon="16.1127940">
+  <wpt lat="50.6095800" lon="16.1127800">
     <name>Klakvakrakve</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1334,7 +1334,7 @@ URL: https://www.piskari.cz/cs/skala/kodl-1398/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6104167" lon="16.1129722">
+  <wpt lat="50.6104200" lon="16.1129700">
     <name>Konipas</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1350,7 +1350,7 @@ URL: https://www.piskari.cz/cs/skala/konipas-3662/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6093020" lon="16.1157390">
+  <wpt lat="50.6093300" lon="16.1157200">
     <name>Kozlíček Dazule</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1376,7 +1376,7 @@ URL: https://www.piskari.cz/cs/skala/krakonos-1457/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6096560" lon="16.1134180">
+  <wpt lat="50.6097200" lon="16.1134200">
     <name>Krávoš</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1529,7 +1529,7 @@ URL: https://www.piskari.cz/cs/skala/kridlo-1438/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6106770" lon="16.1129600">
+  <wpt lat="50.6106700" lon="16.1129400">
     <name>Lalubi</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1542,7 +1542,7 @@ URL: https://www.piskari.cz/cs/skala/lalubi-1425/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6105700" lon="16.1130670">
+  <wpt lat="50.6105300" lon="16.1131500">
     <name>Lesáček</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1643,7 +1643,7 @@ URL: https://www.piskari.cz/cs/skala/lesnik-1454/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6094180" lon="16.1152800">
+  <wpt lat="50.6093900" lon="16.1151400">
     <name>Lidoop</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1656,7 +1656,7 @@ URL: https://www.piskari.cz/cs/skala/lidoop-1399/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6107080" lon="16.1131990">
+  <wpt lat="50.6107400" lon="16.1132300">
     <name>Lidový vypravěč</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1744,7 +1744,7 @@ URL: https://www.piskari.cz/cs/skala/majka-1380/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6098310" lon="16.1118440">
+  <wpt lat="50.6098600" lon="16.1118300">
     <name>Malá starostová</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -1955,7 +1955,7 @@ URL: https://www.piskari.cz/cs/skala/mladata-1387/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6086420" lon="16.1153660">
+  <wpt lat="50.6086400" lon="16.1153600">
     <name>Moceček</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2079,7 +2079,7 @@ URL: https://www.piskari.cz/cs/skala/nuncius-1370/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6092870" lon="16.1099830">
+  <wpt lat="50.6092800" lon="16.1101300">
     <name>Outloň váhavý</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2095,7 +2095,7 @@ URL: https://www.piskari.cz/cs/skala/outlon-vahavy-1486/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6103450" lon="16.1121100">
+  <wpt lat="50.6102800" lon="16.1121400">
     <name>Pacínek</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2150,7 +2150,7 @@ URL: https://www.piskari.cz/cs/skala/pasovec-1389/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6090300" lon="16.1156820">
+  <wpt lat="50.6090000" lon="16.1157200">
     <name>Páteční</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2166,7 +2166,7 @@ URL: https://www.piskari.cz/cs/skala/patecni-1391/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6100030" lon="16.1112430">
+  <wpt lat="50.6100000" lon="16.1111400">
     <name>Pidikřístek</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2200,7 +2200,7 @@ URL: https://www.piskari.cz/cs/skala/pidikristek-1477/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6108190" lon="16.1137320">
+  <wpt lat="50.5929400" lon="16.1274700">
     <name>Pilíř</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2261,7 +2261,7 @@ URL: https://www.piskari.cz/cs/skala/placka-1489/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6097040" lon="16.1119750">
+  <wpt lat="50.6096900" lon="16.1120000">
     <name>Podhoubí</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2289,7 +2289,7 @@ URL: https://www.piskari.cz/cs/skala/podhoubi-1453/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6096530" lon="16.1136920">
+  <wpt lat="50.6096500" lon="16.1137900">
     <name>Pometlo</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2312,7 +2312,7 @@ URL: https://www.piskari.cz/cs/skala/pometlo-1410/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6093560" lon="16.1156290">
+  <wpt lat="50.6093300" lon="16.1155800">
     <name>Prduch</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2390,7 +2390,7 @@ URL: https://www.piskari.cz/cs/skala/prilba-1443/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6102760" lon="16.1122650">
+  <wpt lat="50.6102200" lon="16.1123600">
     <name>Psance</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2407,7 +2407,7 @@ URL: https://www.piskari.cz/cs/skala/psance-1460/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6104750" lon="16.1119140">
+  <wpt lat="50.6103900" lon="16.1120300">
     <name>Rádža</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2520,7 +2520,7 @@ URL: https://www.piskari.cz/cs/skala/rosignano-1484/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6100120" lon="16.1111140">
+  <wpt lat="50.6099400" lon="16.1110300">
     <name>Rytíř Žumbera</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2609,7 +2609,7 @@ URL: https://www.piskari.cz/cs/skala/serafino-1434/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6098380" lon="16.1119330">
+  <wpt lat="50.6098600" lon="16.1119400">
     <name>Setmělík</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2622,7 +2622,7 @@ URL: https://www.piskari.cz/cs/skala/setmelik-1451/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6097070" lon="16.1136410">
+  <wpt lat="50.6096700" lon="16.1136900">
     <name>Sfingička</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2635,7 +2635,7 @@ URL: https://www.piskari.cz/cs/skala/sfingicka-1411/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6089460" lon="16.1096150">
+  <wpt lat="50.5876100" lon="16.1214200">
     <name>Sklerotik</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2664,7 +2664,7 @@ URL: https://www.piskari.cz/cs/skala/skorepka-1483/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6100190" lon="16.1112970">
+  <wpt lat="50.6100300" lon="16.1113100">
     <name>Spací strýc</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2677,7 +2677,7 @@ URL: https://www.piskari.cz/cs/skala/spaci-stryc-1476/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6105770" lon="16.1126760">
+  <wpt lat="50.6105800" lon="16.1126900">
     <name>Strážce Smaragdové rokle</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2733,7 +2733,7 @@ URL: https://www.piskari.cz/cs/skala/svist-1445/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6089000" lon="16.1089870">
+  <wpt lat="50.6088700" lon="16.1088300">
     <name>Syneček</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2746,7 +2746,7 @@ URL: https://www.piskari.cz/cs/skala/synecek-1493/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6104190" lon="16.1127940">
+  <wpt lat="50.6102800" lon="16.1130300">
     <name>Šefildská věž</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2783,7 +2783,7 @@ URL: https://www.piskari.cz/cs/skala/stene-1376/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6086240" lon="16.1162370">
+  <wpt lat="50.6085000" lon="16.1162500">
     <name>Tadyk</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2799,7 +2799,7 @@ URL: https://www.piskari.cz/cs/skala/tadyk-1385/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6103280" lon="16.1107600">
+  <wpt lat="50.6102800" lon="16.1107800">
     <name>Tampon</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2812,7 +2812,7 @@ URL: https://www.piskari.cz/cs/skala/tampon-1470/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6103030" lon="16.1109480">
+  <wpt lat="50.6102200" lon="16.1109700">
     <name>Trioleta</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -2828,7 +2828,7 @@ URL: https://www.piskari.cz/cs/skala/trioleta-1471/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6101270" lon="16.1131800">
+  <wpt lat="50.6100400" lon="16.1132700">
     <name>Trojník</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -3065,7 +3065,7 @@ URL: https://www.piskari.cz/cs/skala/vikyrnik-1372/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6081670" lon="16.1155670">
+  <wpt lat="50.6082200" lon="16.1155300">
     <name>Vintentou</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -3104,7 +3104,7 @@ URL: https://www.piskari.cz/cs/skala/violeta-1472/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6095220" lon="16.1126380">
+  <wpt lat="50.6095000" lon="16.1126600">
     <name>Vosí věž</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -3173,7 +3173,7 @@ URL: https://www.piskari.cz/cs/skala/vresova-1388/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6102770" lon="16.1140460">
+  <wpt lat="50.6103100" lon="16.1140000">
     <name>Zamazaná</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -3208,7 +3208,7 @@ URL: https://www.piskari.cz/cs/skala/zapadla-1390/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6101670" lon="16.1111330">
+  <wpt lat="50.6101400" lon="16.1112500">
     <name>Zářijová</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -3230,7 +3230,7 @@ URL: https://www.piskari.cz/cs/skala/zarijova-1474/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6092340" lon="16.1157650">
+  <wpt lat="50.6092500" lon="16.1157500">
     <name>Zloduch</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz
@@ -3259,7 +3259,7 @@ URL: https://www.piskari.cz/cs/skala/zoologicka-zahrada-1397/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6097790" lon="16.1145930">
+  <wpt lat="50.6098100" lon="16.1145800">
     <name>Žižiho věž</name>
     <desc>OBLAST: Adršpach / Milenecká hora
 ZDROJ: piskari.cz

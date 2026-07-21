@@ -266,8 +266,8 @@
     "name": "Čtyřhran",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.618166,
-    "lon": 16.129666,
+    "lat": 50.61817,
+    "lon": 16.12967,
     "url": "https://www.piskari.cz/cs/skala/ctyrhran-2789/",
     "routes": [
       {
@@ -367,7 +367,7 @@
     "name": "Deštivá",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.618388,
+    "lat": 50.61839,
     "lon": 16.12925,
     "url": "https://www.piskari.cz/cs/skala/destiva-2787/",
     "routes": [
@@ -670,8 +670,8 @@
     "name": "Hronovské věže",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.618833,
-    "lon": 16.12925,
+    "lat": 50.61017,
+    "lon": 16.11751,
     "url": "https://www.piskari.cz/cs/skala/hronovske-veze-2793/",
     "routes": [
       {
@@ -852,8 +852,8 @@
     "name": "Křižácká stěna",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.6181944,
-    "lon": 16.1298611,
+    "lat": 50.61819,
+    "lon": 16.12986,
     "url": "https://www.piskari.cz/cs/skala/krizacka-stena-2790/",
     "routes": [
       {
@@ -915,7 +915,7 @@
     "area": "Křížový vrch",
     "sector": "Jižní věže",
     "lat": 50.619,
-    "lon": 16.129694,
+    "lon": 16.12969,
     "url": "https://www.piskari.cz/cs/skala/mala-milenecka-2797/",
     "routes": [
       {
@@ -995,8 +995,8 @@
     "name": "Milenecká",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.619222,
-    "lon": 16.129472,
+    "lat": 50.619,
+    "lon": 16.12969,
     "url": "https://www.piskari.cz/cs/skala/milenecka-2798/",
     "routes": [
       {
@@ -1329,8 +1329,8 @@
     "name": "Paroháč užalovanej",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.618805,
-    "lon": 16.129722,
+    "lat": 50.61881,
+    "lon": 16.12972,
     "url": "https://www.piskari.cz/cs/skala/parohac-uzalovanej-2795/",
     "routes": [
       {
@@ -1556,8 +1556,8 @@
     "name": "Sukničkář",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.618861,
-    "lon": 16.129833,
+    "lat": 50.61886,
+    "lon": 16.12983,
     "url": "https://www.piskari.cz/cs/skala/suknickar-2796/",
     "routes": [
       {
@@ -1636,8 +1636,8 @@
     "name": "Šmodrchal",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.619194,
-    "lon": 16.129194,
+    "lat": 50.61919,
+    "lon": 16.12928,
     "url": "https://www.piskari.cz/cs/skala/smodrchal-2800/",
     "routes": [
       {
@@ -1742,7 +1742,7 @@
     "area": "Křížový vrch",
     "sector": "Jižní věže",
     "lat": 50.6195,
-    "lon": 16.128805,
+    "lon": 16.12881,
     "url": "https://www.piskari.cz/cs/skala/textilacka-2805/",
     "routes": [
       {
@@ -2058,8 +2058,8 @@
     "name": "Unavené kameny",
     "area": "Křížový vrch",
     "sector": "Jižní věže",
-    "lat": 50.6195556,
-    "lon": 16.1281389,
+    "lat": 50.61956,
+    "lon": 16.12814,
     "url": "https://www.piskari.cz/cs/skala/unavene-kameny-2783/",
     "routes": [
       {

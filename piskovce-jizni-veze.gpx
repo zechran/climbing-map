@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Jizni Veze</name>
-    <desc>Climbing towers from piskari.cz — Jizni Veze. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Jizni Veze. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
   <wpt lat="50.6188610" lon="16.1287220">
     <name>Amálka</name>
@@ -156,7 +156,7 @@ URL: https://www.piskari.cz/cs/skala/certova-stena-2782/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6181660" lon="16.1296660">
+  <wpt lat="50.6181700" lon="16.1296700">
     <name>Čtyřhran</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -221,7 +221,7 @@ URL: https://www.piskari.cz/cs/skala/ctyrhran-2789/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6183880" lon="16.1292500">
+  <wpt lat="50.6183900" lon="16.1292500">
     <name>Deštivá</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -422,7 +422,7 @@ URL: https://www.piskari.cz/cs/skala/hodinar-2788/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6188330" lon="16.1292500">
+  <wpt lat="50.6101700" lon="16.1175100">
     <name>Hronovské věže</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -531,7 +531,7 @@ URL: https://www.piskari.cz/cs/skala/kocour-2766/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6181944" lon="16.1298611">
+  <wpt lat="50.6181900" lon="16.1298600">
     <name>Křižácká stěna</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -569,7 +569,7 @@ URL: https://www.piskari.cz/cs/skala/krizacka-stena-2790/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6190000" lon="16.1296940">
+  <wpt lat="50.6190000" lon="16.1296900">
     <name>Malá milenecká</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -620,7 +620,7 @@ URL: https://www.piskari.cz/cs/skala/mala-milenecka-2797/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6192220" lon="16.1294720">
+  <wpt lat="50.6190000" lon="16.1296900">
     <name>Milenecká</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -786,7 +786,7 @@ URL: https://www.piskari.cz/cs/skala/papala-2785/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6188050" lon="16.1297220">
+  <wpt lat="50.6188100" lon="16.1297200">
     <name>Paroháč užalovanej</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -914,7 +914,7 @@ URL: https://www.piskari.cz/cs/skala/prvni-2780/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6188610" lon="16.1298330">
+  <wpt lat="50.6188600" lon="16.1298300">
     <name>Sukničkář</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -964,7 +964,7 @@ URL: https://www.piskari.cz/cs/skala/smejd-2802/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6191940" lon="16.1291940">
+  <wpt lat="50.6191900" lon="16.1292800">
     <name>Šmodrchal</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -1021,7 +1021,7 @@ URL: https://www.piskari.cz/cs/skala/smodrchal-2800/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6195000" lon="16.1288050">
+  <wpt lat="50.6195000" lon="16.1288100">
     <name>Textilácká</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz
@@ -1211,7 +1211,7 @@ URL: https://www.piskari.cz/cs/skala/tvrz-2765/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6195556" lon="16.1281389">
+  <wpt lat="50.6195600" lon="16.1281400">
     <name>Unavené kameny</name>
     <desc>OBLAST: Křížový vrch / Jižní věže
 ZDROJ: piskari.cz

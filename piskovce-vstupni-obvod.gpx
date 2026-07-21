@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py + mapycz-gps.py">
   <metadata>
     <name>Piskovce — Vstupni Obvod</name>
-    <desc>Climbing towers from piskari.cz — Vstupni Obvod. Generated 2026-07-21.</desc>
+    <desc>Climbing towers from piskari.cz — Vstupni Obvod. GPS from mapy.com API. Generated 2026-07-22.</desc>
   </metadata>
-  <wpt lat="50.6138750" lon="16.1172380">
+  <wpt lat="50.6138000" lon="16.1172900">
     <name>Babiččina lenoška</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -91,7 +91,7 @@ URL: https://www.piskari.cz/cs/skala/bludny-holandan-1922/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6129460" lon="16.1177450">
+  <wpt lat="50.6126100" lon="16.1177500">
     <name>Bojler pana Smaika</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -119,7 +119,7 @@ URL: https://www.piskari.cz/cs/skala/bojler-pana-smaika-1985/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6140950" lon="16.1200090">
+  <wpt lat="50.6140000" lon="16.1201000">
     <name>Bonbonek</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -322,7 +322,7 @@ URL: https://www.piskari.cz/cs/skala/capka-1971/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138890" lon="16.1177150">
+  <wpt lat="50.6138300" lon="16.1177800">
     <name>Dcerka</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -337,7 +337,7 @@ URL: https://www.piskari.cz/cs/skala/dcerka-1949/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138820" lon="16.1174260">
+  <wpt lat="50.6138400" lon="16.1175100">
     <name>Dědečkova předkožka</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -558,7 +558,7 @@ URL: https://www.piskari.cz/cs/skala/fretka-1918/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6141390" lon="16.1175380">
+  <wpt lat="50.6140700" lon="16.1175900">
     <name>Harry holič</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -615,7 +615,7 @@ URL: https://www.piskari.cz/cs/skala/herecka-1973/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6137630" lon="16.1173130">
+  <wpt lat="50.6135500" lon="16.1173500">
     <name>Houbová</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -888,7 +888,7 @@ URL: https://www.piskari.cz/cs/skala/klaster-1916/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6142700" lon="16.1184020">
+  <wpt lat="50.6141900" lon="16.1185600">
     <name>Klekátko</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -938,7 +938,7 @@ URL: https://www.piskari.cz/cs/skala/kokos-1977/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6139930" lon="16.1201590">
+  <wpt lat="50.6139100" lon="16.1201600">
     <name>Kozák dubový</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1026,7 +1026,7 @@ URL: https://www.piskari.cz/cs/skala/krajni-1935/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6139600" lon="16.1183000">
+  <wpt lat="50.6138100" lon="16.1184000">
     <name>Krakonošovo sedátko</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1167,7 +1167,7 @@ URL: https://www.piskari.cz/cs/skala/leontynka-3612/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147690" lon="16.1198020">
+  <wpt lat="50.6152100" lon="16.1197900">
     <name>Lesní zátiší</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1183,7 +1183,7 @@ URL: https://www.piskari.cz/cs/skala/lesni-zatisi-1910/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6135490" lon="16.1188290">
+  <wpt lat="50.6136300" lon="16.1189300">
     <name>Lisá eminence</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1207,7 +1207,7 @@ URL: https://www.piskari.cz/cs/skala/lisa-eminence-1974/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6149280" lon="16.1225250">
+  <wpt lat="50.6150600" lon="16.1225300">
     <name>Ludva</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1229,7 +1229,7 @@ URL: https://www.piskari.cz/cs/skala/ludva-1899/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6140120" lon="16.1177370">
+  <wpt lat="50.6140200" lon="16.1178800">
     <name>Luňákovo hnízdo</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1281,7 +1281,7 @@ URL: https://www.piskari.cz/cs/skala/lunakovo-hnizdo-1946/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6134980" lon="16.1179110">
+  <wpt lat="50.6133900" lon="16.1178300">
     <name>Matakyt</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1335,7 +1335,7 @@ URL: https://www.piskari.cz/cs/skala/melichar-1982/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6141750" lon="16.1172160">
+  <wpt lat="50.6140700" lon="16.1172700">
     <name>Mezáč</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1442,7 +1442,7 @@ URL: https://www.piskari.cz/cs/skala/naves-1948/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6143740" lon="16.1209050">
+  <wpt lat="50.6143300" lon="16.1209700">
     <name>Nudistka</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1463,7 +1463,7 @@ URL: https://www.piskari.cz/cs/skala/nudistka-1953/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138790" lon="16.1204750">
+  <wpt lat="50.6137800" lon="16.1205200">
     <name>Old Shaterhand</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1579,7 +1579,7 @@ URL: https://www.piskari.cz/cs/skala/palice-1979/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6136650" lon="16.1187900">
+  <wpt lat="50.6090000" lon="16.1157200">
     <name>Páteční</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1630,7 +1630,7 @@ URL: https://www.piskari.cz/cs/skala/pazourek-1956/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147330" lon="16.1198720">
+  <wpt lat="50.6146800" lon="16.1200800">
     <name>Pedofil</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1651,7 +1651,7 @@ URL: https://www.piskari.cz/cs/skala/pedofil-1911/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6139700" lon="16.1187010">
+  <wpt lat="50.6139000" lon="16.1187500">
     <name>Pes prašivej</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1676,7 +1676,7 @@ URL: https://www.piskari.cz/cs/skala/pes-prasivej-1929/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138910" lon="16.1179190">
+  <wpt lat="50.6138200" lon="16.1179800">
     <name>Petřina věž</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1760,7 +1760,7 @@ URL: https://www.piskari.cz/cs/skala/planetarium-1891/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6123730" lon="16.1169790">
+  <wpt lat="50.6122100" lon="16.1169700">
     <name>Polednice</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1773,7 +1773,7 @@ URL: https://www.piskari.cz/cs/skala/polednice-1992/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6126380" lon="16.1160650">
+  <wpt lat="50.6125800" lon="16.1161000">
     <name>Pomník padlých pstruhů</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1807,7 +1807,7 @@ URL: https://www.piskari.cz/cs/skala/pomnik-padlych-pstruhu-1991/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6152350" lon="16.1210950">
+  <wpt lat="50.6039400" lon="16.1101700">
     <name>Porybný</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1826,7 +1826,7 @@ URL: https://www.piskari.cz/cs/skala/porybny-1903/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6131440" lon="16.1196490">
+  <wpt lat="50.6130300" lon="16.1197500">
     <name>Prdítko</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1839,7 +1839,7 @@ URL: https://www.piskari.cz/cs/skala/prditko-1972/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6150960" lon="16.1197590">
+  <wpt lat="50.6061900" lon="16.1173900">
     <name>Převozník</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1863,7 +1863,7 @@ URL: https://www.piskari.cz/cs/skala/prevoznik-1915/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6140320" lon="16.1202310">
+  <wpt lat="50.6139400" lon="16.1202600">
     <name>Ptákojeb lesní</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1885,7 +1885,7 @@ URL: https://www.piskari.cz/cs/skala/ptakojeb-lesni-1962/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6134740" lon="16.1182950">
+  <wpt lat="50.6135700" lon="16.1181500">
     <name>Půllitr</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1919,7 +1919,7 @@ URL: https://www.piskari.cz/cs/skala/rakosnicek-1937/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6147500" lon="16.1179780">
+  <wpt lat="50.6148400" lon="16.1180600">
     <name>Rezekvítek</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -1995,7 +1995,7 @@ URL: https://www.piskari.cz/cs/skala/rohlik-1902/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6142410" lon="16.1208370">
+  <wpt lat="50.6142200" lon="16.1209000">
     <name>Rybana</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2197,7 +2197,7 @@ URL: https://www.piskari.cz/cs/skala/squaw-1894/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138000" lon="16.1199070">
+  <wpt lat="50.6137100" lon="16.1200000">
     <name>Standokan</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2210,7 +2210,7 @@ URL: https://www.piskari.cz/cs/skala/standokan-1964/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6131300" lon="16.1172430">
+  <wpt lat="50.6129100" lon="16.1171400">
     <name>Stanislav devátý</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2223,7 +2223,7 @@ URL: https://www.piskari.cz/cs/skala/stanislav-devaty-1987/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138360" lon="16.1204530">
+  <wpt lat="50.6136600" lon="16.1204500">
     <name>Stoprocentní věž</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2238,7 +2238,7 @@ URL: https://www.piskari.cz/cs/skala/stoprocentni-vez-1959/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6151820" lon="16.1204140">
+  <wpt lat="50.6151100" lon="16.1203500">
     <name>Stožárová</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2339,7 +2339,7 @@ URL: https://www.piskari.cz/cs/skala/strazce-1913/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6148700" lon="16.1222230">
+  <wpt lat="50.6113100" lon="16.1236400">
     <name>Střelmistr</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2510,7 +2510,7 @@ URL: https://www.piskari.cz/cs/skala/senkyrka-1967/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6152270" lon="16.1209640">
+  <wpt lat="50.6152100" lon="16.1215200">
     <name>Škrovádský pytlák</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2635,7 +2635,7 @@ URL: https://www.piskari.cz/cs/skala/spanelska-stena-1897/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6130280" lon="16.1185840">
+  <wpt lat="50.6130000" lon="16.1185400">
     <name>Tmáček</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2676,7 +2676,7 @@ URL: https://www.piskari.cz/cs/skala/tovarys-1960/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6154860" lon="16.1214890">
+  <wpt lat="50.6153500" lon="16.1215000">
     <name>Traťmistr</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2784,7 +2784,7 @@ URL: https://www.piskari.cz/cs/skala/tribuna-1940/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6138800" lon="16.1187160">
+  <wpt lat="50.6138000" lon="16.1186800">
     <name>Ty-tydýt</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2871,7 +2871,7 @@ URL: https://www.piskari.cz/cs/skala/valoun-1907/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6143690" lon="16.1199930">
+  <wpt lat="50.6142900" lon="16.1200400">
     <name>Varle</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -2980,7 +2980,7 @@ URL: https://www.piskari.cz/cs/skala/velbloud-1908/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6141370" lon="16.1206930">
+  <wpt lat="50.6140400" lon="16.1207900">
     <name>Vinnetou</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -3051,7 +3051,7 @@ URL: https://www.piskari.cz/cs/skala/vinnetou-1955/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6143400" lon="16.1172890">
+  <wpt lat="50.6141000" lon="16.1171900">
     <name>Vlk samotář</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -3098,7 +3098,7 @@ URL: https://www.piskari.cz/cs/skala/vodak-1919/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6128220" lon="16.1178820">
+  <wpt lat="50.6125200" lon="16.1178400">
     <name>Vrahovo hledí</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -3169,7 +3169,7 @@ URL: https://www.piskari.cz/cs/skala/vratny-1912/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6149030" lon="16.1226370">
+  <wpt lat="50.6148800" lon="16.1227200">
     <name>Wihanova věž</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
@@ -3245,7 +3245,7 @@ URL: https://www.piskari.cz/cs/skala/yamaha-1945/
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
-  <wpt lat="50.6132860" lon="16.1168600">
+  <wpt lat="50.6131600" lon="16.1167400">
     <name>Zilvar z chudobince</name>
     <desc>OBLAST: Adršpach / Vstupní obvod
 ZDROJ: piskari.cz
