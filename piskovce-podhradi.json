@@ -12,9 +12,9 @@
         "grade": "III",
         "date": "9.7.1997",
         "url": "/cs/cesta/severni-hrana-2880/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Od nástupu Údolní cesty, severní hranou na vrchol.",
+        "charakter": "stěna",
+        "autor": "Jan Adamec, M. Adamcová",
         "comments": [
           "[19.6.2011 18:51:14 Hofmič] Lehká cesta pro začátečníky, jištění přes hodiny..."
         ]
@@ -24,9 +24,9 @@
         "grade": "IV",
         "date": "9.7.1997",
         "url": "/cs/cesta/severozapadni-stena-5633/",
-        "popis": "",
+        "popis": "Vpravo od severní hrany stěnou přes převis na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Jan Adamec, M. Adamcová",
         "comments": []
       },
       {
@@ -34,9 +34,9 @@
         "grade": "V",
         "date": "13.7.1996",
         "url": "/cs/cesta/udolni-6433/",
-        "popis": "",
+        "popis": "Ze svahu od severní hrany traverz stěnou doleva do středu údolní stěny a tou přes převis na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Jan Adamec, M. Josefi, P. Stuchlík",
         "comments": []
       }
     ]
@@ -54,9 +54,9 @@
         "grade": "V",
         "date": "23.5.1966",
         "url": "/cs/cesta/bazikova-3974/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Vlevo od Staré cesty komínem a po hraně na vrchol.",
+        "charakter": "stěna | komín",
+        "autor": "Jiří Štosek, V. Fichtner",
         "comments": [
           "[10.9.2013 21:54:55 felis] K převisu krásně zajištěný, ale solí to. Nad ním už nic tutového nebylo."
         ]
@@ -66,9 +66,9 @@
         "grade": "III",
         "date": "26.7.1971",
         "url": "/cs/cesta/cesta-invalidu-4951/",
-        "popis": "",
+        "popis": "Na JZ straně věže spárou do vhloubení, traverz do údolní stěny a tou pod hlavu. Traverz do SV stěny a tou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Jan Farkaš, L. Návesník",
         "comments": []
       },
       {
@@ -76,9 +76,9 @@
         "grade": "IV",
         "date": "13.6.1987",
         "url": "/cs/cesta/novotatinkovska-5635/",
-        "popis": "",
+        "popis": "Ze SZ předskalí stěnou do vhloubení a vpravo stěnou k hodinám. Doleva stěnou na západní hranu a tou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Rudolf Exner, Z. Čeněk, L. Dörr",
         "comments": []
       },
       {
@@ -86,9 +86,9 @@
         "grade": "IV",
         "date": "27.6.1981",
         "url": "/cs/cesta/soljanka-5634/",
-        "popis": "",
+        "popis": "Stěnou přes převis a po jižní hraně na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Tomáš Čada",
         "comments": []
       },
       {
@@ -96,9 +96,9 @@
         "grade": "III",
         "date": "23.5.1966",
         "url": "/cs/cesta/stara-cesta-2934/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "SV komínem na pilíř a stěnou na vrchol.",
+        "charakter": "stěna | komín",
+        "autor": "Jiří Štosek, V. Fichtner",
         "comments": [
           "[27.7.2011 19:54:57 Hofmič] Pohodový komínek, ale trochu zelený..."
         ]
@@ -108,9 +108,9 @@
         "grade": "VI",
         "date": "1.8.1980",
         "url": "/cs/cesta/udolni-stena-7029/",
-        "popis": "",
+        "popis": "Středem údolní (JV) stěny na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Stanislav Lukavský, P. Mocek, M. Baldrych",
         "comments": [
           "[11.7.2015 0:22:17 felis] Hezky odjištěná hodinami. Škoda lišejníku v rajbasové stěnce pod vrcholovou hlavou, kde je díky tomu nejtěžší místo, ale nic hrozného.",
           "[23.8.2016 20:21:25 Martin] Pěkná stěnovka s jedním, jištěno hodinami.",
@@ -132,9 +132,9 @@
         "grade": "V",
         "date": "17.5.1993",
         "url": "/cs/cesta/kralici-6190/",
-        "popis": "",
+        "popis": "Pravou náhorní hranou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Miroslav Josefi, J. Adamec",
         "comments": []
       },
       {
@@ -142,9 +142,9 @@
         "grade": "III",
         "date": "15.8.1980",
         "url": "/cs/cesta/maxova-4690/",
-        "popis": "",
+        "popis": "Středem náhorní stěny na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       },
       {
@@ -152,9 +152,9 @@
         "grade": "IV",
         "date": "17.5.1993",
         "url": "/cs/cesta/prolejzacka-5385/",
-        "popis": "",
+        "popis": "SZ komíny na blok. Vlevo stěnou do žlabu v údolní stěně a jím na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Miroslav Josefi a Jan Adamec",
         "comments": []
       },
       {
@@ -162,9 +162,9 @@
         "grade": "II",
         "date": "15.8.1980",
         "url": "/cs/cesta/sestupova-4283/",
-        "popis": "",
+        "popis": "Po levé náhorní (jižní) hraně na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": [
           "[5.9.2017 17:48:10 Páša] Solidní zelenina, tak jako na celý věži."
         ]
@@ -174,9 +174,9 @@
         "grade": "II",
         "date": "15.8.1980",
         "url": "/cs/cesta/stromova-4284/",
-        "popis": "",
+        "popis": "V pravé části náhorní stěny komínem na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       },
       {
@@ -184,9 +184,9 @@
         "grade": "V",
         "date": "17.5.1993",
         "url": "/cs/cesta/udolni-6189/",
-        "popis": "",
+        "popis": "Na SV straně věže z porostlého bloku stěnou a vpravo podél žlábku na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Jan Adamec, M. Josefi",
         "comments": []
       },
       {
@@ -194,9 +194,9 @@
         "grade": "IV",
         "date": "21.9.1993",
         "url": "/cs/cesta/zajeci-5386/",
-        "popis": "",
+        "popis": "Vlevo od Králičí cesty stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Jan Adamec, M. Josefi",
         "comments": []
       }
     ]
@@ -214,9 +214,9 @@
         "grade": "IV",
         "date": "1.8.1980",
         "url": "/cs/cesta/letni-prochazka-2841/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Od pravé náhorní hrany stěnou doprava k levé údolní hraně a po ní na vrchol.",
+        "charakter": "stěna",
+        "autor": "Josef Hataš, V. Bruckner",
         "comments": []
       }
     ]
@@ -234,9 +234,9 @@
         "grade": "III",
         "date": "30.7.1980",
         "url": "/cs/cesta/matcina-4956/",
-        "popis": "",
+        "popis": "Vpravo na náhorní straně věže z bloku (stavěním) stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, M. Rousek, J. Hataš",
         "comments": []
       },
       {
@@ -244,9 +244,9 @@
         "grade": "IV",
         "date": "30.7.1980",
         "url": "/cs/cesta/otcova-5641/",
-        "popis": "",
+        "popis": "Po levé náhorní hraně na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, M. Rousek, J. Hataš",
         "comments": [
           "[23.8.2016 20:09:24 Martin] Moc často se neleze a dle toho je i zamechovaná...presto pěkná kratší stenovka na rozlez, případný pád do hlubin údolí zajistí smrček u nástupu a výše uzlík."
         ]
@@ -266,9 +266,9 @@
         "grade": "III",
         "date": "7.8.1980",
         "url": "/cs/cesta/souteska-4945/",
-        "popis": "",
+        "popis": "Z náhorní soutěsky stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       }
     ]
@@ -286,9 +286,9 @@
         "grade": "VIIc",
         "date": "21.9.1980",
         "url": "/cs/cesta/krizacka-8228/",
-        "popis": "",
+        "popis": "Od JZ z bloku vydatným stavěním (1. kruh), stěnou na lávku, po ní doleva a po hraně ke 2. kruhu. Stěnou vlevo a výše vpravo na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Jiří Rymeš a Stanislav Lukavský",
         "comments": []
       },
       {
@@ -296,9 +296,9 @@
         "grade": "VIIIa",
         "date": "10.5.1986",
         "url": "/cs/cesta/radioaktivni-8455/",
-        "popis": "",
+        "popis": "Od SV spárkou na balkon ke kruhu. Převislou stěnou vpravo na konec odštěpu a Starou cestou bez stavění na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Tomáš Myslivec, L. Páleníček",
         "comments": []
       },
       {
@@ -306,9 +306,9 @@
         "grade": "VIIIb",
         "date": "29.5.1975",
         "url": "/cs/cesta/spanila-jizda-8634/",
-        "popis": "",
+        "popis": "Nástup je na předskalí mezi Drážďanskou věží a Palcátem. Z přepadu (stavěním) východní hranou do římsy a vlevo stěnou podél hrany na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Stanislav Lukavský, J. Polák",
         "comments": []
       },
       {
@@ -316,9 +316,9 @@
         "grade": "VIIb",
         "date": "25.5.1960",
         "url": "/cs/cesta/stara-cesta-2489/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "SZ stěnou ke spáře, tou přes převisy na odštěp (stavěním) a stěnou na vrchol.",
+        "charakter": "stěna | ruční spára",
+        "autor": "Horst Böhm a Fritz Eske, W. Böhm, G. Grünberg",
         "comments": [
           "[3.8.2016 23:23:19 michal] Parádní, celkem dlouhá cesta. Dobře zajistitelná (bambule, větší uzly a pak plno hodin). Spára není těžká a okolo jsou chyty. Stavění není vůbec potřeba řešit. Celkově spíš VIIa.",
           "[1.8.2018 9:28:52 Pavlík] Podle mého klasa sedí. Klidně bych řekl, že tam sasíci původně nestavěli, páč tam je to už opravdu lehké (tak za V). Ale je to pouze můj osobní soukromý osobní názor."
@@ -329,9 +329,9 @@
         "grade": "VI",
         "date": "27.10.1963",
         "url": "/cs/cesta/studena-7032/",
-        "popis": "",
+        "popis": "Mezi Drážďanskou věží a předskalím Palcátu rozporem, překrokem a vlevo stěnou na balkon. Stěnou (stavěním) ke kruhu a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, A. Umlauf",
         "comments": []
       }
     ]
@@ -349,9 +349,9 @@
         "grade": "V",
         "date": "7.6.1980",
         "url": "/cs/cesta/cesta-anity-6428/",
-        "popis": "",
+        "popis": "Na SZ straně věže rozporem o pilíř. Překrokem na lávku, po ní doprava ke kruhu Chlapské cesty a tou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, R. Balogh",
         "comments": []
       },
       {
@@ -359,9 +359,9 @@
         "grade": "VI",
         "date": "7.6.1980",
         "url": "/cs/cesta/chlapska-7027/",
-        "popis": "",
+        "popis": "Náhorní dvojspárou na římsu a doleva ke kruhu. Stavěním a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, R. Balogh, J. Hataš",
         "comments": []
       },
       {
@@ -369,9 +369,9 @@
         "grade": "IV",
         "date": "19.7.1980",
         "url": "/cs/cesta/udolni-4111/",
-        "popis": "",
+        "popis": "Údolní (SV) spárou na pilíř. Přeskokem na lávku a Cestou Anity na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Zdeněk Strnad, J. Hataš",
         "comments": []
       }
     ]
@@ -389,9 +389,9 @@
         "grade": "III",
         "date": "18.7.1980",
         "url": "/cs/cesta/bratrska-4943/",
-        "popis": "",
+        "popis": "U východní hrany vlevo, výše vpravo přes převis stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Josef Hataš, J. Hataš",
         "comments": []
       },
       {
@@ -399,9 +399,9 @@
         "grade": "IV",
         "date": "18.7.1980",
         "url": "/cs/cesta/helenina-5632/",
-        "popis": "",
+        "popis": "Pravou částí SV stěny na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Josef Hataš, J. Hataš",
         "comments": []
       },
       {
@@ -409,9 +409,9 @@
         "grade": "V",
         "date": "6.7.1980",
         "url": "/cs/cesta/hloubetinska-6427/",
-        "popis": "",
+        "popis": "JV spárou ke kruhu a vpravo stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Zdeněk Strnad, J. Hataš",
         "comments": []
       },
       {
@@ -419,9 +419,9 @@
         "grade": "VI",
         "date": "11.6.1980",
         "url": "/cs/cesta/pres-brisko-hajnyho-7026/",
-        "popis": "",
+        "popis": "Pravou částí JZ stěny přes převis na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, Z. Strnad",
         "comments": []
       },
       {
@@ -429,9 +429,9 @@
         "grade": "III",
         "date": "11.6.1980",
         "url": "/cs/cesta/pres-celist-4942/",
-        "popis": "",
+        "popis": "Po severní hraně a vpravo stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       }
     ]
@@ -449,9 +449,9 @@
         "grade": "VIIa",
         "date": "",
         "url": "/cs/cesta/climblink-3550/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "SZ stěnou k díře (kruh), traverz doleva na římsu, po ní na hranu a touto na vrchol.",
+        "charakter": "stěna",
+        "autor": "Ivo Wondráček",
         "comments": [
           "[27.9.2012 12:04:15 Iwoš] Obtíže se ukrývají v prvních čtyřech metrech.",
           "[6.7.2015 21:29:54 Šáfa] Dole VIIIa krok, horní polovina za IV, sakumprdum zprůměrováno na VIIa, které stojí za návštěvu. I když je to kvak."
@@ -462,9 +462,9 @@
         "grade": "III",
         "date": "30.7.1976",
         "url": "/cs/cesta/pohodlna-3548/",
-        "popis": "",
+        "popis": "Od východní hrany traverz v římse doprava do spáry.",
         "charakter": "",
-        "autor": "",
+        "autor": "Miroslav Burian, P.Burian",
         "comments": []
       },
       {
@@ -472,9 +472,9 @@
         "grade": "III",
         "date": "13.10.1974",
         "url": "/cs/cesta/stara-cesta-3547/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Uprostřed SV stěny spárou a žlabem na vrchol.",
+        "charakter": "širočina",
+        "autor": "Jiří Jarý, V. Bruckner",
         "comments": []
       },
       {
@@ -482,9 +482,9 @@
         "grade": "IV",
         "date": "13.10.1974",
         "url": "/cs/cesta/veteranska-3549/",
-        "popis": "",
+        "popis": "Severní hranou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, J.Jarý",
         "comments": []
       }
     ]
@@ -502,9 +502,9 @@
         "grade": "III",
         "date": "4.6.1966",
         "url": "/cs/cesta/zvoniva-8857/",
-        "popis": "",
+        "popis": "Z mezivěží komínem mezi hranami, překrokem a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Aleš Havlíček, V. Arnošt, M. Opočenská, E. Vidlicová",
         "comments": []
       }
     ]
@@ -522,9 +522,9 @@
         "grade": "V",
         "date": "12.6.1980",
         "url": "/cs/cesta/bu-bu-bu-6430/",
-        "popis": "",
+        "popis": "Od JV údolní stěnou a spárou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, R. Balogh",
         "comments": []
       },
       {
@@ -532,9 +532,9 @@
         "grade": "III",
         "date": "12.6.1980",
         "url": "/cs/cesta/bu-bu-bu-varianta-4947/",
-        "popis": "",
+        "popis": "Zleva traverz stěnou do spáry.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, R. Balogh",
         "comments": []
       },
       {
@@ -542,9 +542,9 @@
         "grade": "III",
         "date": "26.6.1999",
         "url": "/cs/cesta/komin-4946/",
-        "popis": "",
+        "popis": "Komínem mezi Hejkalkou a okrajovkou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       },
       {
@@ -552,9 +552,9 @@
         "grade": "",
         "date": "12.6.1980",
         "url": "/cs/cesta/preskok-4055/",
-        "popis": "",
+        "popis": "Z náhorní okrajovky přeskokem na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, R. Balogh",
         "comments": []
       }
     ]
@@ -572,9 +572,9 @@
         "grade": "VIIb",
         "date": "",
         "url": "/cs/cesta/hradni-stras-2908/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Z balvanu u západní hrany (2 kruhy) na vrchol.",
+        "charakter": "stěna",
+        "autor": "Stanislav Lukavský, Petr Mocek, Helenka Hausmannová, Josef Hausmann",
         "comments": [
           "[13.7.2011 10:39:49 shama] Až nad druhý kruh pěkné lezení po kyzech, nejtěžší asi nástup. Vršek je solidně zališejníkovaný, zato je už výrazně lehčí a najde se i pár hodin k provázání. Něco mezi průměrem a jednou hvězdou.",
           "[6.7.2015 21:47:49 Šáfa] Těžké jen pod prvním. Ani by už nemusely být kruhy a přesto by to bylo (na Ádr) bezpečné s obhozy kyzů a hodinami."
@@ -585,9 +585,9 @@
         "grade": "VIIa",
         "date": "30.10.1983",
         "url": "/cs/cesta/hraskovacka-7450/",
-        "popis": "",
+        "popis": "Z turistické cesty stěnou podél východní hrany (kruh) na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Vladimír Horák a Karel Šimek, M. Matějka",
         "comments": [
           "[19.9.2014 9:16:03 Šáfa] Další kyzová stěna. Ke kruhu to jde, tam (už s cvaklým kruhem) srovnat nohy a dál už to zase jde. Metr nad Q hodiny a vylézá se u slaňáku, takže opravdu bezpečná cesta.",
           "[18.8.2025 7:58:37 HoPe] Pěkné kyzy pod kruhem a poté vyladit pár kroků u kruhu. Vršek špinavý, mechový, ale nevadí to, klíčové stupy se dají v klidu vyčistít. Opatrně na začátku, leze se nad zábradlím."
@@ -598,9 +598,9 @@
         "grade": "VI",
         "date": "23.3.1984",
         "url": "/cs/cesta/hraskovacka-parade-varianta-6936/",
-        "popis": "",
+        "popis": "Vpravo od východní hrany stěnou k dírám a traverz vlevo ke kruhu.",
         "charakter": "",
-        "autor": "",
+        "autor": "Karel Šimek",
         "comments": []
       },
       {
@@ -608,9 +608,9 @@
         "grade": "VI",
         "date": "16.9.1960",
         "url": "/cs/cesta/kyzova-spara-3603/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "JZ spárou na vrchol.",
+        "charakter": "stěna | ruční spára",
+        "autor": "Werner Rump, V. Bruckner",
         "comments": [
           "[26.10.2012 7:33:15 Hathori] 27.10. Hore Zdar 2012, předchozí zápis Hore Zdar 2011. Pěkná, krátká, žábovačka se zpoustou kyzů okolo a dvěma tutovejma bambulema.",
           "[19.9.2014 9:13:33 Šáfa] žába, kde se dá odšlápnout na kyzy okolo.",
@@ -623,9 +623,9 @@
         "grade": "VIIc",
         "date": "24.3.1984",
         "url": "/cs/cesta/padaci-most-8186/",
-        "popis": "",
+        "popis": "Údolní (SZ) stěnou šikmo doleva k 1. a 2. kruhu. Stavěním ze sedačky, stěnou doleva do cesty Údolní spára a tou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Karel Šimek a Miloslav Matějka",
         "comments": []
       },
       {
@@ -633,9 +633,9 @@
         "grade": "VIIb",
         "date": "19.8.1973",
         "url": "/cs/cesta/udolni-spara-7858/",
-        "popis": "",
+        "popis": "U levého rohu údolní (SV) stěny spárou pod převis a po římse doprava ke kruhu. Stavěním ze sedačky a spárou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Jaroslav Přibyl a Jan Farkaš, J. Jüptner",
         "comments": []
       },
       {
@@ -643,9 +643,9 @@
         "grade": "VIIb",
         "date": "11.8.1985",
         "url": "/cs/cesta/udolni-spara-varianta-7859/",
-        "popis": "",
+        "popis": "Ze soutěsky traverz stěnou vpravo do spáry.",
         "charakter": "",
-        "autor": "",
+        "autor": "František Jaroš, R. Volhejn, J. Bučák, P. Kovář",
         "comments": []
       }
     ]
@@ -663,9 +663,9 @@
         "grade": "VIIc",
         "date": "13.8.1977",
         "url": "/cs/cesta/okem-bojovnika-8227/",
-        "popis": "",
+        "popis": "Od JZ šikmou spárkou do okna. Průlezem a stěnou traverz doprava za severní hranu ke kruhu. Stavěním ze sedačky a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner a Miloš Rain",
         "comments": [
           "[3.8.2016 23:37:07 michal] Před vlezem do okna jde v podstatě jedno jištění ( s ním ** bez něj !) a je dobrý si to nakoukat z předskalí, pač tam už není moc času, celkem to tahá. Nástup je lehčí než se tváří, ale pak je tam takový né úplně zadarmo skoro bouldřík do okna a tam to chce zajistit. Průlez a dál to už je ok. Moc se to neleze a když už, tak podle zářezů od lana bych řekl, že se to ojebavá prohozením přes okno."
         ]
@@ -687,7 +687,7 @@
         "url": "/cs/cesta/nahorni-hrana-4944/",
         "popis": "",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       }
     ]
@@ -705,9 +705,9 @@
         "grade": "V",
         "date": "6.8.1960",
         "url": "/cs/cesta/fikana-2926/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Stěnou zleva na oblou hranu a tou na vrchol.",
+        "charakter": "stěna | rajbas",
+        "autor": "Karel Hauschke, V. Bruckner",
         "comments": [
           "[26.7.2011 23:00:23 Iwoš] V pruvodci je popsaná jako \"Horolezecká maturita\", ale ta by měla podle knížky vést vlevo od téhle cesty. Jinak spíš sedí originální název. Svižná pětka.",
           "[18.9.2016 9:15:10 cervo] Kokšove veldielo :) v podstate sa jedná o jeden z prvých adršpašských bouldrov. V sprievodcovi od Cikána je názov Horolezecká maturita, vo vrcholovke Fikaná. Oba názvy sedia dokonale"
@@ -718,9 +718,9 @@
         "grade": "VI",
         "date": "27.6.1981",
         "url": "/cs/cesta/fura-starosti-7028/",
-        "popis": "",
+        "popis": "Levou částí údolní (SV) stěny na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Tomáš Čada",
         "comments": [
           "[18.9.2016 9:16:00 cervo] tu už Čada celkom pritvrdil, i keď klasifikácia je len o stupienok vyššie."
         ]
@@ -730,9 +730,9 @@
         "grade": "V",
         "date": "6.8.1960",
         "url": "/cs/cesta/maturita-horolezce-6431/",
-        "popis": "",
+        "popis": "Stěnou zleva na severní oblou hranu a tou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Karel Hauschke, V. Bruckner",
         "comments": []
       }
     ]
@@ -750,9 +750,9 @@
         "grade": "IV",
         "date": "4.7.1982",
         "url": "/cs/cesta/grogova-5636/",
-        "popis": "",
+        "popis": "Po pravé údolní hraně a vlevo stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Petr Blahna, K. Joová",
         "comments": [
           "[23.8.2016 20:18:37 Martin] Začátek trochu zelenější, potom lze pokračovat pořád po hraně (Q), obtížnost tak V-VI. Chybí knížka i slaňák (ale je statný strom)."
         ]
@@ -772,9 +772,9 @@
         "grade": "V",
         "date": "4.7.1985",
         "url": "/cs/cesta/konsky-zadek-6438/",
-        "popis": "",
+        "popis": "Na jižní straně věže traverz vpravo a stěnou (kruh) na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Antonín Umlauf a Vladimír Arnošt",
         "comments": []
       },
       {
@@ -782,9 +782,9 @@
         "grade": "II",
         "date": "26.5.1985",
         "url": "/cs/cesta/nahorni-prochazka-3967/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Z plošiny na náhorní (JZ) straně stěnkou na vrchol.",
+        "charakter": "stěna | rajbas",
+        "autor": "Antonín Umlauf, V. Arnošt, J. Tuček",
         "comments": [
           "[10.9.2013 10:45:52 Špásik] Takový krátký kvak, jsou tam jedny hodiny vhodné na solo. Zajímavější je Údolní štreka!"
         ]
@@ -794,9 +794,9 @@
         "grade": "II",
         "date": "26.5.1985",
         "url": "/cs/cesta/nahorni-prochazka-4379/",
-        "popis": "",
+        "popis": "Z plošiny na náhorní (JZ) straně stěnkou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Antonín Umlauf, V. Arnošt, J. Tuček",
         "comments": []
       },
       {
@@ -804,9 +804,9 @@
         "grade": "VIIb",
         "date": "",
         "url": "/cs/cesta/stribrny-rouno-10694/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Z terasy středem J stěny přes 2. Q na plošinu, Náhorní cestou na vrchol.",
+        "charakter": "stěna",
+        "autor": "J. Nešpor a P. Mocek, St. Čejp, M+S. Braun, A. Stephan, St. Lukavský",
         "comments": [
           "[29.8.2017 21:54:55 Páša] Krátký, lehký VIIb v krapet špinavý stěně.",
           "[19.9.2018 17:59:57 potys] Krátké,leč hezké a perfektně odjištěné,stupy chyty co používáš jsou ok čisté.... když už jsem člověk zajde polézt vyplatí se na této stěnce dát všechny tři cestičky vzhůru....já doporučuji"
@@ -817,9 +817,9 @@
         "grade": "VIIIb",
         "date": "0.5.2005",
         "url": "/cs/cesta/tasemnice-konska-10696/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "SV stěnou přímo ke kruhu. Pod převis, převisem vlevo na hranu, dále ke kruhu c .“Koňský zadek“ a tou n.v.",
+        "charakter": "stěna",
+        "autor": "Jiří Šrůtek",
         "comments": [
           "[31.8.2017 11:53:08 Šáfa] Takovéhle převisy v Ádru spočítáš pomalu na prstech jedné ruky"
         ]
@@ -829,9 +829,9 @@
         "grade": "VI",
         "date": "26.5.1985",
         "url": "/cs/cesta/udolni-streka-2838/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Údolní (JV) stěnou podél hrany (kruh) a komínkem na polici. Stěnou podél široké spáry a vpravo stěnou na vrchol.",
+        "charakter": "stěna | komín",
+        "autor": "Antonín Umlauf a Vladimír Arnošt, J. Tuček",
         "comments": [
           "[1.6.2011 7:29:10 Hofmič] Pohodová cesta bez větších záludností.",
           "[1.6.2011 9:23:59 nosicek] Pohodovka a nakonec se i nějaký to lano vymotá. S sebou hodně smyček do hodin.",
@@ -848,9 +848,9 @@
         "grade": "VI",
         "date": "25.4.1992",
         "url": "/cs/cesta/udolni-streka-varianta-7030/",
-        "popis": "",
+        "popis": "Od kruhu traverz vlevo nad převisem ke kruhu cesty Koňský zadek.",
         "charakter": "",
-        "autor": "",
+        "autor": "Rudolf Exner, D. Kvasnica, L. Erber",
         "comments": [
           "[29.8.2017 21:46:40 Páša] Člověk si řekne, že jde o pěknou a asi ne moc lezenou variantu Štreky, než doleze ke kruhu Koňskýho zadku (doufám, že to byl on, je to první starej zrezlej kruh co se v traverzu zjeví). Tam jsem celkem koukal, nakonec jsem to vytrápil čistě, ale za V mi to přišlo leda se stavěním. Snad jsem tam něco nepřehlíd.",
           "[30.8.2017 10:27:45 Šáfa] podle popisu by to mohla být Tasemnice koňská VIIIb od Jirky Šrůtka",
@@ -862,9 +862,9 @@
         "grade": "VIIa",
         "date": "13.9.1987",
         "url": "/cs/cesta/ulomeny-kopyto-7524/",
-        "popis": "",
+        "popis": "Od SZ z plata stěnou přes vhloubení ke kruhu. Stěnou na hranu a tou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Petr Blahna, J. Semerád, L. Mucha, P. Šanda",
         "comments": []
       },
       {
@@ -872,9 +872,9 @@
         "grade": "VI",
         "date": "",
         "url": "/cs/cesta/zlate-hovno-10695/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "V levé části z terasy J. stěny spárou a stěnou přes Q na plošinu, Náhorní cestou na vrchol.",
+        "charakter": "stěna | ruční spára",
+        "autor": "Stanislav Lukavský, St. Čejp, M+S. Braun, A. Stephan, J. Nešpor",
         "comments": [
           "[29.8.2017 22:00:17 Páša] Krátká trochu špinavější stěnko spára.",
           "[19.9.2018 18:01:20 potys] krátké,ale hezké a odjištěné perfektně.....vyplatí se dát si potom všechny tři cestičky v této stěnce....doporučuji za sebe"
@@ -895,9 +895,9 @@
         "grade": "IV",
         "date": "27.7.1980",
         "url": "/cs/cesta/klouzava-5295/",
-        "popis": "",
+        "popis": "Po východní hraně na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Josef Hataš",
         "comments": []
       },
       {
@@ -905,9 +905,9 @@
         "grade": "IV",
         "date": "26.7.1980",
         "url": "/cs/cesta/mroucek-5294/",
-        "popis": "",
+        "popis": "Od západu z bloku vpravo stěnou pod hlavu a vlevo stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, M. Rousek",
         "comments": []
       }
     ]
@@ -925,9 +925,9 @@
         "grade": "V",
         "date": "29.4.1990",
         "url": "/cs/cesta/ptaci-krik-6429/",
-        "popis": "",
+        "popis": "JV stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Zdeněk Brabec, H. Brabec",
         "comments": []
       }
     ]
@@ -945,9 +945,9 @@
         "grade": "III",
         "date": "1.8.1980",
         "url": "/cs/cesta/hrana-2848/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Po severní hraně na vrchol.",
+        "charakter": "stěna",
+        "autor": "Václav Bruckner",
         "comments": [
           "[2.6.2011 21:03:00 Hofmič] Vhodná skalka na učení...",
           "[5.9.2017 18:23:24 Páša] Asi si to vzalo hodně lidí k srdci, jelikož začíná bejt docela ošlapaná."
@@ -958,9 +958,9 @@
         "grade": "III",
         "date": "14.6.1981",
         "url": "/cs/cesta/kvakova-2849/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Středem SV stěny na vrchol.",
+        "charakter": "stěna",
+        "autor": "Tomáš Čada",
         "comments": [
           "[2.6.2011 21:06:18 Hofmič] Pěkná skalka na učení, velké množství chytů."
         ]
@@ -970,9 +970,9 @@
         "grade": "II",
         "date": "1.8.1980",
         "url": "/cs/cesta/stara-cesta-2575/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "V levé části SV stěny spárou na pilíř a stěnou na vrchol.",
+        "charakter": "stěna | ruční spára",
+        "autor": "Václav Bruckner",
         "comments": []
       },
       {
@@ -980,9 +980,9 @@
         "grade": "V",
         "date": "27.6.1981",
         "url": "/cs/cesta/zelene-stiny-6435/",
-        "popis": "",
+        "popis": "Středem SZ stěny na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Tomáš Čada",
         "comments": [
           "[23.8.2016 20:25:14 Martin] Čistá stěna s dobrými chyty, problémové místo až nahoře, ale nic, co by překračovalo danou obtížnost."
         ]
@@ -1002,9 +1002,9 @@
         "grade": "V",
         "date": "7.8.1980",
         "url": "/cs/cesta/plotnou-6100/",
-        "popis": "",
+        "popis": "Z náhorní strany sokolíky doprava na hranu a po ní na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       },
       {
@@ -1012,9 +1012,9 @@
         "grade": "VI",
         "date": "8.8.1980",
         "url": "/cs/cesta/udolni-hrana-6743/",
-        "popis": "",
+        "popis": "Po levé údolní hraně na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Josef Hataš, V. Bruckner",
         "comments": []
       }
     ]
@@ -1032,9 +1032,9 @@
         "grade": "VI",
         "date": "16.9.1960",
         "url": "/cs/cesta/jihozapadni-spara-7025/",
-        "popis": "",
+        "popis": "Jihozápadní spárou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Werner Rump, V. Bruckner",
         "comments": [
           "[3.8.2016 23:42:59 michal] Zajistit moc nejde, ale lízt jde dobře, občas chyt. Není knížka, ale jelikož je hned vedle chodníku na hrad je tam spousta jiných věcí :)"
         ]
@@ -1044,9 +1044,9 @@
         "grade": "VIIb",
         "date": "15.8.2008",
         "url": "/cs/cesta/loupeznicka-zkouska-odvahy-10790/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Kyzovou jihozápadní stěnou (kruh) na vrchol.",
+        "charakter": "stěna | rajbas",
+        "autor": "Stanislav Lukavský a Tomáš Kubias",
         "comments": [
           "[6.9.2024 15:02:41 Vondra] Hezké lezení po kyzech v ne úplně čistém materiálu."
         ]
@@ -1056,9 +1056,9 @@
         "grade": "VI",
         "date": "27.10.1963",
         "url": "/cs/cesta/novosvetska-7024/",
-        "popis": "",
+        "popis": "V levé části náhorní stěny koutovou spárou přes převis na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Vladislav Arnošt, A. Havlíček",
         "comments": []
       },
       {
@@ -1066,9 +1066,9 @@
         "grade": "IV",
         "date": "21.8.1960",
         "url": "/cs/cesta/stara-cesta-5631/",
-        "popis": "",
+        "popis": "Z náhorní (severní) strany šikmou spárou na balkónek a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       },
       {
@@ -1076,9 +1076,9 @@
         "grade": "III",
         "date": "21.8.1986",
         "url": "/cs/cesta/stara-cesta-varianta-4941/",
-        "popis": "",
+        "popis": "Vpravo od nástupu Staré cesty stavěním a hranou na balkónek.",
         "charakter": "",
-        "autor": "",
+        "autor": "Bernd Müller, M. Kühn, H. Nicklisch, H. Müller",
         "comments": []
       },
       {
@@ -1086,9 +1086,9 @@
         "grade": "VIIa",
         "date": "2.10.1983",
         "url": "/cs/cesta/vetsi-pulka-7523/",
-        "popis": "",
+        "popis": "SV hranou ke kruhu, stavěním ze sedačky a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Petr Blahna, L. Kaňa, J. Poul",
         "comments": []
       }
     ]
@@ -1106,9 +1106,9 @@
         "grade": "V",
         "date": "25.9.1983",
         "url": "/cs/cesta/projekce-6443/",
-        "popis": "",
+        "popis": "JV stěnou a sokolíkem do díry k hodinám. Stavěním a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Leoš Kaňa a Petr Blahna",
         "comments": []
       },
       {
@@ -1116,9 +1116,9 @@
         "grade": "V",
         "date": "25.9.1983",
         "url": "/cs/cesta/za-skolou-6442/",
-        "popis": "",
+        "popis": "Stěnou podél pravé údolní (severní) hrany ke kruhu. Stavěním a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Petr Blahna, L. Kaňa",
         "comments": [
           "[3.8.2016 23:48:09 michal] Ke Q pěkný stěnový lezení po dírách, trochu do kopce-hodiny. Stavění u kruhu už se leze dle zápisů čistě, ale nepodařilo se nám to. Výlez určitě není za V a je trošec o držku, dolézá se přes bříško do mechů, dost odjížděj."
         ]
@@ -1138,9 +1138,9 @@
         "grade": "III",
         "date": "27.10.1963",
         "url": "/cs/cesta/kominicka-4950/",
-        "popis": "",
+        "popis": "Z terasy SZ stěnou podél spáry na předvrchol a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Petr Crha, J. Schmidt, T. Jirásek, J. Koše",
         "comments": []
       },
       {
@@ -1148,9 +1148,9 @@
         "grade": "III",
         "date": "2.8.1980",
         "url": "/cs/cesta/slunecni-hrana-2881/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "V JV stěně (vlevo od spáry) po hraně na vrchol.",
+        "charakter": "stěna",
+        "autor": "Václav Bruckner, J. Hataš, M. Rousek",
         "comments": [
           "[19.6.2011 18:59:26 Hofmič] Lehká cesta, jištění přes hodiny, není slaňák..."
         ]
@@ -1170,9 +1170,9 @@
         "grade": "V",
         "date": "5.8.1980",
         "url": "/cs/cesta/cesta-beaty-6426/",
-        "popis": "",
+        "popis": "Náhorní spárou na pilíř (kruh). Traverz vpravo do komína, rozporem k díře, překrokem a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner",
         "comments": []
       }
     ]
@@ -1190,9 +1190,9 @@
         "grade": "VIIa",
         "date": "29.5.1988",
         "url": "/cs/cesta/bramborova-medaile-2573/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Vpravo od cesty Křehké vztahy stěnou (kruh) na vrchol.",
+        "charakter": "stěna",
+        "autor": "Petr Mocek, Z. Zilvar",
         "comments": [
           "[7.9.2010 21:57:02 pavel] Hezká cesta. pod kruhem a kolem kruhu celkem vyrovnaná cesta, nahoře to není tak horký. Nad kruhem hodiny. V průvodci je cesta je v popisu chyba, cesta vede vlevo od cesty Křehké vztahy.",
           "[6.7.2015 21:50:35 Šáfa] Pod kruhem jsem nic založit nedokázal, nad kruhem jsem nic založit nepotřeboval.",
@@ -1200,7 +1200,8 @@
           "[23.8.2016 20:12:22 Martin] Pěkná cesta, ke kruhu po madlech.",
           "[12.9.2016 8:48:22 Hlaďas] Pod kruhem horší matroš jinak pěkné, kratší.",
           "[9.7.2017 17:38:11 potyssnowby@gmail.com] hezká bezpečná sedma.......",
-          "[5.9.2017 17:42:54 Páša] Matroš teda nic moc, chce to s citem."
+          "[5.9.2017 17:42:54 Páša] Matroš teda nic moc, chce to s citem.",
+          "[9.7.2026 17:30:19 štiki] Pěkné lezení, pod kruhem špatný matroš, už hodně rozsypané."
         ]
       },
       {
@@ -1208,9 +1209,9 @@
         "grade": "V",
         "date": "26.6.1981",
         "url": "/cs/cesta/krehke-vztahy-2839/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Pravou údolní hranou na vrchol.",
+        "charakter": "stěna",
+        "autor": "Tomáš Čada",
         "comments": [
           "[1.6.2011 7:35:50 Hofmič] Celkem jednoduchá cesta pro začátečníky...",
           "[5.9.2017 17:44:22 Páša] Kratší a lehká cesta. Dolez se dá řešit více způsoby.",
@@ -1222,9 +1223,9 @@
         "grade": "III",
         "date": "1.8.1980",
         "url": "/cs/cesta/pepkova-4955/",
-        "popis": "",
+        "popis": "Od JZ komínem, stěnou doprava na údolní stranu a stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Josef Hataš",
         "comments": []
       },
       {
@@ -1232,9 +1233,9 @@
         "grade": "",
         "date": "7.8.1985",
         "url": "/cs/cesta/preskok-4066/",
-        "popis": "",
+        "popis": "Z Věže Tondy Rouska přeskokem na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Petr Mocek",
         "comments": []
       },
       {
@@ -1242,9 +1243,9 @@
         "grade": "II",
         "date": "1.8.1980",
         "url": "/cs/cesta/stara-cesta-4378/",
-        "popis": "",
+        "popis": "Od JZ z mezivěží stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Milan Rousek",
         "comments": [
           "[5.9.2017 18:20:02 Páša] Po cestě je hodně nepříjemně dunící blok."
         ]
@@ -1254,9 +1255,9 @@
         "grade": "IV",
         "date": "1.8.1980",
         "url": "/cs/cesta/volna-5640/",
-        "popis": "",
+        "popis": "Po severní hraně na lávku, po ní doleva a středem SV stěny na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, M. Rousek, J. Hataš",
         "comments": []
       }
     ]
@@ -1274,9 +1275,9 @@
         "grade": "VIIb",
         "date": "20.6.1974",
         "url": "/cs/cesta/bozich-bojovniku-2393/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "Z předskalí mezi Palcátem a Drážďanskou věží stavěním ke kruhu. Ve stěně traverz doprava a středem stěny na vrchol.",
+        "charakter": "stěna",
+        "autor": "Jaroslav Poul, P.Blahna",
         "comments": [
           "[13.7.2010 19:29:31 lezecc] Při pohledu z vrcholu Dráždanské, parádní kyzovytá stěna která láká.Ale asi ne nadarmo jsme tenkrát když jsme to lezli měli jeden z prvních přelezů,alespon podle zápisů ve vrcholovce.Vykřičník je zcela oprávněný, jištění jsem objevil až pod vrškem kde je lepší udělat už krok na horu,ale hlavně opatrně!!! Krásná linie, jen obtížnost VIIb....no ne nadarmo se v průvodci 500 výstupů v adršpachu píše VIIIa.",
           "[19.7.2019 14:55:42 kopcolezec] jak píše lezecc, když k tomu přistoupíte, že lezete VIIIa a navíc jako my si spletete strany věže a od Q nelezete do \"lehkýho\" ve středu stěny, ale valíte si to po hraně (bo si myslíte, že lezete Studničkovu), tak narazíte na hraně na slušné hodiny, co dost pomůžou a pak je to lezení teda krásný, to jó!"
@@ -1287,9 +1288,9 @@
         "grade": "VI",
         "date": "20.6.1974",
         "url": "/cs/cesta/bozich-bojovniku-kombinace-7033/",
-        "popis": "",
+        "popis": "Od kruhu traverz v římse doleva přes severní hranu až na východní hranu do Studničkovy cesty.",
         "charakter": "",
-        "autor": "",
+        "autor": "Petr Blahna, J. Poul",
         "comments": []
       },
       {
@@ -1297,9 +1298,9 @@
         "grade": "VIIIa",
         "date": "27.9.1980",
         "url": "/cs/cesta/husitsky-choral-2394/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "JZ komínem na balkon. Vlevo po hraně (1. kruh), stěnou přes převis ke 2. kruhu (stavěním ze sedačky) a stěnou na vrchol.",
+        "charakter": "stěna",
+        "autor": "Jiří Rymeš a Petr Mocek a Stanislav Lukavský",
         "comments": [
           "[13.7.2010 22:14:50 lezecc] Krásná cesta, pod kruhem kyzová stěnka nad kruhem balancování a kroucení na ostré hraně, pak nátah přes převis, druhý kruh,bez stavění přichází vysoký nášlap vyvážení a už jen běžet na vrchol.",
           "[12.9.2012 0:46:58 Alešák] Nádherná stěna, pod kruhem jemné, nad ním velkolepé, čistý přelez stavění je jemně velkolepý.",
@@ -1311,9 +1312,9 @@
         "grade": "VIIIa",
         "date": "13.10.1966",
         "url": "/cs/cesta/studnickova-583/",
-        "popis": "",
-        "charakter": "",
-        "autor": "",
+        "popis": "V soutěsce mezi Palcátem a Větrnou spárou pod JV stěnu na balkon. Stěnou pod převis (hodiny) a doprava za východní hranu. Stěnou přes převis ke kruhu a po hraně na vrchol.",
+        "charakter": "stěna",
+        "autor": "Karel Hauschke, J. Farkaš",
         "comments": [
           "[23.6.2009 12:08:20 Alešák] Trochu zavádějící popis. Cesta vede 2 spárami kousek vedle sebe (mezi nimi myslím hodiny) na balkon, z něj doleva za hranu, stěnkou (klíč. místo) přes hodinky a smyčku pod převis, tam zpět doprava na hranu a po madlech ke Q. U něj štand (lano dře skálu a nad Q to je už zadarmo). Dobře odjištěná cesta.",
           "[14.9.2009 17:46:13 dusa] Spodek je hodně osolený a trochu silový, ale jde výborně odjistit (skoro v každý smyčce sem seděl:) )",
@@ -1326,9 +1327,9 @@
         "grade": "IXa",
         "date": "7.7.1991",
         "url": "/cs/cesta/vozova-hradba-5874/",
-        "popis": "",
+        "popis": "Vlevo od severní hrany stěnou podél trhlin (kruh) přes římsu varianty Kombinace a vlevo stěnou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Matěj Pohorský, P. Balcar, E. Petr",
         "comments": []
       }
     ]
@@ -1346,9 +1347,9 @@
         "grade": "II",
         "date": "18.6.1960",
         "url": "/cs/cesta/komin-4375/",
-        "popis": "",
+        "popis": "Od východního rohu komÍnem a hranou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, J. Žid",
         "comments": []
       },
       {
@@ -1356,9 +1357,9 @@
         "grade": "III",
         "date": "18.6.1960",
         "url": "/cs/cesta/stena-4948/",
-        "popis": "",
+        "popis": "Středem JV stěny na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, J. Žid",
         "comments": []
       }
     ]
@@ -1376,9 +1377,9 @@
         "grade": "V",
         "date": "19.10.1974",
         "url": "/cs/cesta/severozapadni-hrana-6432/",
-        "popis": "",
+        "popis": "Z podstavy přímo přes převis hranou na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Miloš Rain",
         "comments": []
       },
       {
@@ -1386,9 +1387,9 @@
         "grade": "III",
         "date": "19.10.1974",
         "url": "/cs/cesta/traverzova-4949/",
-        "popis": "",
+        "popis": "Nástup je na podstavě pod severní stěnou. Stěnou šikmo doleva na vrchol.",
         "charakter": "",
-        "autor": "",
+        "autor": "Václav Bruckner, J. Jarý",
         "comments": []
       }
     ]

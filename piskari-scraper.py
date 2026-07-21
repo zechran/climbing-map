@@ -227,18 +227,26 @@ async def get_route_details(page, route_url: str, max_comments: int = 8) -> dict
         await page.goto(url, wait_until="domcontentloaded", timeout=20000)
 
         # ── route metadata: popis, charakter, autor ──
-        # All live in a single table cell whose text contains "popis:"
-        meta_el = await page.query_selector('td:has-text("popis:")')
-        if meta_el:
-            meta_text = await meta_el.inner_text()
-            for line in meta_text.splitlines():
-                line = line.strip()
-                if line.startswith("popis:"):
-                    result["popis"] = line.replace("popis:", "").strip()
-                elif line.startswith("charakter:"):
-                    result["charakter"] = line.replace("charakter:", "").strip()
-                elif line.startswith("autor:"):
-                    result["autor"] = line.replace("autor:", "").strip()
+        # Appear on the page as: <strong>popis</strong>: value<br>
+        # NOT inside a <td> — use JS to walk <strong> siblings.
+        meta = await page.evaluate("""
+            () => {
+                const out = {popis: '', charakter: '', autor: ''};
+                for (const s of document.querySelectorAll('strong')) {
+                    const key = s.textContent.trim().toLowerCase();
+                    if (key in out) {
+                        const node = s.nextSibling;
+                        if (node && node.nodeType === 3) {
+                            out[key] = node.textContent.replace(/^[:\\s]+/, '').trim();
+                        }
+                    }
+                }
+                return out;
+            }
+        """)
+        result["popis"]     = meta.get("popis", "")
+        result["charakter"] = meta.get("charakter", "")
+        result["autor"]     = meta.get("autor", "")
 
         # ── comments from table.komentare ──
         # Rows alternate: [date + username] [comment text] [date + username] [comment text] ...
@@ -433,7 +441,7 @@ async def main():
             route_urls = [(t, r) for t in towers for r in t.get("routes", []) if r.get("url")]
             print(f"Fetching details for {len(route_urls)} routes across {len(towers)} towers...")
             for idx, (t, r) in enumerate(route_urls):
-                already_done = r.get("popis") or r.get("comments")
+                already_done = bool(r.get("popis"))  # re-scrape if popis is still empty
                 if already_done:
                     continue
                 print(f"  [{idx+1}/{len(route_urls)}] {t['name']} — {r['name']}", end="  ", flush=True)

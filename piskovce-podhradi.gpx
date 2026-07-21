@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
   <metadata>
     <name>Piskovce — Podhradi</name>
-    <desc>Climbing towers from piskari.cz — Podhradi. Generated 2026-05-26.</desc>
+    <desc>Climbing towers from piskari.cz — Podhradi. Generated 2026-07-21.</desc>
   </metadata>
   <wpt lat="50.6161870" lon="16.1009520">
     <name>Bakalář</name>
@@ -12,10 +12,17 @@ URL: https://www.piskari.cz/cs/skala/bakalar-1728/
 
 --- CESTY ---
 1. Severní hrana | III (9.7.1997)
+   Charakter: stěna
+   Popis: Od nástupu Údolní cesty, severní hranou na vrchol.
+   Autor: Jan Adamec, M. Adamcová
    Komentáře:
    &gt; [19.6.2011 18:51:14 Hofmič] Lehká cesta pro začátečníky, jištění přes hodiny...
 2. Severozápadní stěna | IV (9.7.1997)
+   Popis: Vpravo od severní hrany stěnou přes převis na vrchol.
+   Autor: Jan Adamec, M. Adamcová
 3. Údolní | V (13.7.1996)
+   Popis: Ze svahu od severní hrany traverz stěnou doleva do středu údolní stěny a tou přes převis na vrchol.
+   Autor: Jan Adamec, M. Josefi, P. Stuchlík
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -27,15 +34,29 @@ URL: https://www.piskari.cz/cs/skala/bazik-1725/
 
 --- CESTY ---
 1. Bažíkova | V (23.5.1966)
+   Charakter: stěna | komín
+   Popis: Vlevo od Staré cesty komínem a po hraně na vrchol.
+   Autor: Jiří Štosek, V. Fichtner
    Komentáře:
    &gt; [10.9.2013 21:54:55 felis] K převisu krásně zajištěný, ale solí to. Nad ním už nic tutového nebylo.
 2. Cesta invalidů | III (26.7.1971)
+   Popis: Na JZ straně věže spárou do vhloubení, traverz do údolní stěny a tou pod hlavu. Traverz do SV stěny a tou na vrchol.
+   Autor: Jan Farkaš, L. Návesník
 3. Novotatínkovská | IV (13.6.1987)
+   Popis: Ze SZ předskalí stěnou do vhloubení a vpravo stěnou k hodinám. Doleva stěnou na západní hranu a tou na vrchol.
+   Autor: Rudolf Exner, Z. Čeněk, L. Dörr
 4. Soljanka | IV (27.6.1981)
+   Popis: Stěnou přes převis a po jižní hraně na vrchol.
+   Autor: Tomáš Čada
 5. Stará cesta | III (23.5.1966)
+   Charakter: stěna | komín
+   Popis: SV komínem na pilíř a stěnou na vrchol.
+   Autor: Jiří Štosek, V. Fichtner
    Komentáře:
    &gt; [27.7.2011 19:54:57 Hofmič] Pohodový komínek, ale trochu zelený...
 6. Údolní stěna | VI (1.8.1980)
+   Popis: Středem údolní (JV) stěny na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek, M. Baldrych
    Komentáře:
    &gt; [11.7.2015 0:22:17 felis] Hezky odjištěná hodinami. Škoda lišejníku v rajbasové stěnce pod vrcholovou hlavou, kde je díky tomu nejtěžší místo, ale nic hrozného.
    &gt; [23.8.2016 20:21:25 Martin] Pěkná stěnovka s jedním, jištěno hodinami.
@@ -51,14 +72,28 @@ URL: https://www.piskari.cz/cs/skala/bob-1726/
 
 --- CESTY ---
 1. Králičí | V (17.5.1993)
+   Popis: Pravou náhorní hranou na vrchol.
+   Autor: Miroslav Josefi, J. Adamec
 2. Maxova | III (15.8.1980)
+   Popis: Středem náhorní stěny na vrchol.
+   Autor: Václav Bruckner
 3. Prolejzačka | IV (17.5.1993)
+   Popis: SZ komíny na blok. Vlevo stěnou do žlabu v údolní stěně a jím na vrchol.
+   Autor: Miroslav Josefi a Jan Adamec
 4. Sestupová | II (15.8.1980)
+   Popis: Po levé náhorní (jižní) hraně na vrchol.
+   Autor: Václav Bruckner
    Komentáře:
    &gt; [5.9.2017 17:48:10 Páša] Solidní zelenina, tak jako na celý věži.
 5. Stromová | II (15.8.1980)
+   Popis: V pravé části náhorní stěny komínem na vrchol.
+   Autor: Václav Bruckner
 6. Údolní | V (17.5.1993)
+   Popis: Na SV straně věže z porostlého bloku stěnou a vpravo podél žlábku na vrchol.
+   Autor: Jan Adamec, M. Josefi
 7. zaječí | IV (21.9.1993)
+   Popis: Vlevo od Králičí cesty stěnou na vrchol.
+   Autor: Jan Adamec, M. Josefi
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -70,6 +105,9 @@ URL: https://www.piskari.cz/cs/skala/bobek-1721/
 
 --- CESTY ---
 1. Letní procházka | IV (1.8.1980)
+   Charakter: stěna
+   Popis: Od pravé náhorní hrany stěnou doprava k levé údolní hraně a po ní na vrchol.
+   Autor: Josef Hataš, V. Bruckner
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -81,7 +119,11 @@ URL: https://www.piskari.cz/cs/skala/brucknerova-vez-1718/
 
 --- CESTY ---
 1. Matčina | III (30.7.1980)
+   Popis: Vpravo na náhorní straně věže z bloku (stavěním) stěnou na vrchol.
+   Autor: Václav Bruckner, M. Rousek, J. Hataš
 2. Otcova | IV (30.7.1980)
+   Popis: Po levé náhorní hraně na vrchol.
+   Autor: Václav Bruckner, M. Rousek, J. Hataš
    Komentáře:
    &gt; [23.8.2016 20:09:24 Martin] Moc často se neleze a dle toho je i zamechovaná...presto pěkná kratší stenovka na rozlez, případný pád do hlubin údolí zajistí smrček u nástupu a výše uzlík.
 </desc>
@@ -95,6 +137,8 @@ URL: https://www.piskari.cz/cs/skala/divocak-1735/
 
 --- CESTY ---
 1. Soutěska | III (7.8.1980)
+   Popis: Z náhorní soutěsky stěnou na vrchol.
+   Autor: Václav Bruckner
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -106,13 +150,24 @@ URL: https://www.piskari.cz/cs/skala/drazdanska-1713/
 
 --- CESTY ---
 1. Křižácká | VIIc (21.9.1980)
+   Popis: Od JZ z bloku vydatným stavěním (1. kruh), stěnou na lávku, po ní doleva a po hraně ke 2. kruhu. Stěnou vlevo a výše vpravo na vrchol.
+   Autor: Jiří Rymeš a Stanislav Lukavský
 2. Radioaktivní | VIIIa (10.5.1986)
+   Popis: Od SV spárkou na balkon ke kruhu. Převislou stěnou vpravo na konec odštěpu a Starou cestou bez stavění na vrchol.
+   Autor: Tomáš Myslivec, L. Páleníček
 3. Spanilá jízda | VIIIb (29.5.1975)
+   Popis: Nástup je na předskalí mezi Drážďanskou věží a Palcátem. Z přepadu (stavěním) východní hranou do římsy a vlevo stěnou podél hrany na vrchol.
+   Autor: Stanislav Lukavský, J. Polák
 4. Stará cesta | VIIb (25.5.1960)
+   Charakter: stěna | ruční spára
+   Popis: SZ stěnou ke spáře, tou přes převisy na odštěp (stavěním) a stěnou na vrchol.
+   Autor: Horst Böhm a Fritz Eske, W. Böhm, G. Grünberg
    Komentáře:
    &gt; [3.8.2016 23:23:19 michal] Parádní, celkem dlouhá cesta. Dobře zajistitelná (bambule, větší uzly a pak plno hodin). Spára není těžká a okolo jsou chyty. Stavění není vůbec potřeba řešit. Celkově spíš VIIa.
    &gt; [1.8.2018 9:28:52 Pavlík] Podle mého klasa sedí. Klidně bych řekl, že tam sasíci původně nestavěli, páč tam je to už opravdu lehké (tak za V). Ale je to pouze můj osobní soukromý osobní názor.
 5. Studená | VI (27.10.1963)
+   Popis: Mezi Drážďanskou věží a předskalím Palcátu rozporem, překrokem a vlevo stěnou na balkon. Stěnou (stavěním) ke kruhu a stěnou na vrchol.
+   Autor: Václav Bruckner, A. Umlauf
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -124,8 +179,14 @@ URL: https://www.piskari.cz/cs/skala/drevorubec-1738/
 
 --- CESTY ---
 1. Cesta Anity | V (7.6.1980)
+   Popis: Na SZ straně věže rozporem o pilíř. Překrokem na lávku, po ní doprava ke kruhu Chlapské cesty a tou na vrchol.
+   Autor: Václav Bruckner, R. Balogh
 2. Chlapská | VI (7.6.1980)
+   Popis: Náhorní dvojspárou na římsu a doleva ke kruhu. Stavěním a stěnou na vrchol.
+   Autor: Václav Bruckner, R. Balogh, J. Hataš
 3. Údolní | IV (19.7.1980)
+   Popis: Údolní (SV) spárou na pilíř. Přeskokem na lávku a Cestou Anity na vrchol.
+   Autor: Zdeněk Strnad, J. Hataš
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -137,10 +198,20 @@ URL: https://www.piskari.cz/cs/skala/hajny-habr-se-psem-1739/
 
 --- CESTY ---
 1. Bratrská | III (18.7.1980)
+   Popis: U východní hrany vlevo, výše vpravo přes převis stěnou na vrchol.
+   Autor: Josef Hataš, J. Hataš
 2. Helenina | IV (18.7.1980)
+   Popis: Pravou částí SV stěny na vrchol.
+   Autor: Josef Hataš, J. Hataš
 3. Hloubětínská | V (6.7.1980)
+   Popis: JV spárou ke kruhu a vpravo stěnou na vrchol.
+   Autor: Zdeněk Strnad, J. Hataš
 4. Přes bříško hajnýho | VI (11.6.1980)
+   Popis: Pravou částí JZ stěny přes převis na vrchol.
+   Autor: Václav Bruckner, Z. Strnad
 5. Přes čelist | III (11.6.1980)
+   Popis: Po severní hraně a vpravo stěnou na vrchol.
+   Autor: Václav Bruckner
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -152,12 +223,22 @@ URL: https://www.piskari.cz/cs/skala/halapartnik-1742/
 
 --- CESTY ---
 1. Climblink | VIIa
+   Charakter: stěna
+   Popis: SZ stěnou k díře (kruh), traverz doleva na římsu, po ní na hranu a touto na vrchol.
+   Autor: Ivo Wondráček
    Komentáře:
    &gt; [27.9.2012 12:04:15 Iwoš] Obtíže se ukrývají v prvních čtyřech metrech.
    &gt; [6.7.2015 21:29:54 Šáfa] Dole VIIIa krok, horní polovina za IV, sakumprdum zprůměrováno na VIIa, které stojí za návštěvu. I když je to kvak.
 2. Pohodlná | III (30.7.1976)
+   Popis: Od východní hrany traverz v římse doprava do spáry.
+   Autor: Miroslav Burian, P.Burian
 3. Stará cesta | III (13.10.1974)
+   Charakter: širočina
+   Popis: Uprostřed SV stěny spárou a žlabem na vrchol.
+   Autor: Jiří Jarý, V. Bruckner
 4. Veteránská | IV (13.10.1974)
+   Popis: Severní hranou na vrchol.
+   Autor: Václav Bruckner, J.Jarý
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -169,6 +250,8 @@ URL: https://www.piskari.cz/cs/skala/hejkal-1733/
 
 --- CESTY ---
 1. Zvonivá | III (4.6.1966)
+   Popis: Z mezivěží komínem mezi hranami, překrokem a stěnou na vrchol.
+   Autor: Aleš Havlíček, V. Arnošt, M. Opočenská, E. Vidlicová
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -180,9 +263,17 @@ URL: https://www.piskari.cz/cs/skala/hejkalka-1732/
 
 --- CESTY ---
 1. Bu bu bu | V (12.6.1980)
+   Popis: Od JV údolní stěnou a spárou na vrchol.
+   Autor: Václav Bruckner, R. Balogh
 2. Bu bu bu – Varianta | III (12.6.1980)
+   Popis: Zleva traverz stěnou do spáry.
+   Autor: Václav Bruckner, R. Balogh
 3. Komín | III (26.6.1999)
+   Popis: Komínem mezi Hejkalkou a okrajovkou na vrchol.
+   Autor: Václav Bruckner
 4. Přeskok (12.6.1980)
+   Popis: Z náhorní okrajovky přeskokem na vrchol.
+   Autor: Václav Bruckner, R. Balogh
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -194,23 +285,39 @@ URL: https://www.piskari.cz/cs/skala/hradni-1743/
 
 --- CESTY ---
 1. Hradní straš! | VIIb
+   Charakter: stěna
+   Popis: Z balvanu u západní hrany (2 kruhy) na vrchol.
+   Autor: Stanislav Lukavský, Petr Mocek, Helenka Hausmannová, Josef Hausmann
    Komentáře:
    &gt; [13.7.2011 10:39:49 shama] Až nad druhý kruh pěkné lezení po kyzech, nejtěžší asi nástup. Vršek je solidně zališejníkovaný, zato je už výrazně lehčí a najde se i pár hodin k provázání. Něco mezi průměrem a jednou hvězdou.
    &gt; [6.7.2015 21:47:49 Šáfa] Těžké jen pod prvním. Ani by už nemusely být kruhy a přesto by to bylo (na Ádr) bezpečné s obhozy kyzů a hodinami.
 2. Hráškovačka | VIIa (30.10.1983)
+   Popis: Z turistické cesty stěnou podél východní hrany (kruh) na vrchol.
+   Autor: Vladimír Horák a Karel Šimek, M. Matějka
    Komentáře:
    &gt; [19.9.2014 9:16:03 Šáfa] Další kyzová stěna. Ke kruhu to jde, tam (už s cvaklým kruhem) srovnat nohy a dál už to zase jde. Metr nad Q hodiny a vylézá se u slaňáku, takže opravdu bezpečná cesta.
    &gt; [18.8.2025 7:58:37 HoPe] Pěkné kyzy pod kruhem a poté vyladit pár kroků u kruhu. Vršek špinavý, mechový, ale nevadí to, klíčové stupy se dají v klidu vyčistít. Opatrně na začátku, leze se nad zábradlím.
 3. Hráškovačka – Paráde varianta | VI (23.3.1984)
+   Popis: Vpravo od východní hrany stěnou k dírám a traverz vlevo ke kruhu.
+   Autor: Karel Šimek
 4. Kyzová spára | VI (16.9.1960)
+   Charakter: stěna | ruční spára
+   Popis: JZ spárou na vrchol.
+   Autor: Werner Rump, V. Bruckner
    Komentáře:
    &gt; [26.10.2012 7:33:15 Hathori] 27.10. Hore Zdar 2012, předchozí zápis Hore Zdar 2011. Pěkná, krátká, žábovačka se zpoustou kyzů okolo a dvěma tutovejma bambulema.
    &gt; [19.9.2014 9:13:33 Šáfa] žába, kde se dá odšlápnout na kyzy okolo.
    &gt; [18.9.2016 9:18:14 cervo] ideálna prvá spárová šestka, dá sa myslím odistiť bambulou a pekne odstúpať po kyzoch
    &gt; [6.9.2024 15:04:23 Vondra] V knížce za V. což si myslím že na těch pár metrů sedí.
 5. Padací most | VIIc (24.3.1984)
+   Popis: Údolní (SZ) stěnou šikmo doleva k 1. a 2. kruhu. Stavěním ze sedačky, stěnou doleva do cesty Údolní spára a tou na vrchol.
+   Autor: Karel Šimek a Miloslav Matějka
 6. Údolní spára | VIIb (19.8.1973)
+   Popis: U levého rohu údolní (SV) stěny spárou pod převis a po římse doprava ke kruhu. Stavěním ze sedačky a spárou na vrchol.
+   Autor: Jaroslav Přibyl a Jan Farkaš, J. Jüptner
 7. Údolní spára – Varianta | VIIb (11.8.1985)
+   Popis: Ze soutěsky traverz stěnou vpravo do spáry.
+   Autor: František Jaroš, R. Volhejn, J. Bučák, P. Kovář
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -222,6 +329,8 @@ URL: https://www.piskari.cz/cs/skala/husita-1744/
 
 --- CESTY ---
 1. Okem bojovníka | VIIc (13.8.1977)
+   Popis: Od JZ šikmou spárkou do okna. Průlezem a stěnou traverz doprava za severní hranu ke kruhu. Stavěním ze sedačky a stěnou na vrchol.
+   Autor: Václav Bruckner a Miloš Rain
    Komentáře:
    &gt; [3.8.2016 23:37:07 michal] Před vlezem do okna jde v podstatě jedno jištění ( s ním ** bez něj !) a je dobrý si to nakoukat z předskalí, pač tam už není moc času, celkem to tahá. Nástup je lehčí než se tváří, ale pak je tam takový né úplně zadarmo skoro bouldřík do okna a tam to chce zajistit. Průlez a dál to už je ok. Moc se to neleze a když už, tak podle zářezů od lana bych řekl, že se to ojebavá prohozením přes okno.
 </desc>
@@ -235,6 +344,7 @@ URL: https://www.piskari.cz/cs/skala/jezevcik-1737/
 
 --- CESTY ---
 1. Náhorní hrana | III (10.6.1980)
+   Autor: Václav Bruckner
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -246,13 +356,20 @@ URL: https://www.piskari.cz/cs/skala/jodl-modl-1731/
 
 --- CESTY ---
 1. Fikaná | V (6.8.1960)
+   Charakter: stěna | rajbas
+   Popis: Stěnou zleva na oblou hranu a tou na vrchol.
+   Autor: Karel Hauschke, V. Bruckner
    Komentáře:
    &gt; [26.7.2011 23:00:23 Iwoš] V pruvodci je popsaná jako &quot;Horolezecká maturita&quot;, ale ta by měla podle knížky vést vlevo od téhle cesty. Jinak spíš sedí originální název. Svižná pětka.
    &gt; [18.9.2016 9:15:10 cervo] Kokšove veldielo :) v podstate sa jedná o jeden z prvých adršpašských bouldrov. V sprievodcovi od Cikána je názov Horolezecká maturita, vo vrcholovke Fikaná. Oba názvy sedia dokonale
 2. Fůra starostí | VI (27.6.1981)
+   Popis: Levou částí údolní (SV) stěny na vrchol.
+   Autor: Tomáš Čada
    Komentáře:
    &gt; [18.9.2016 9:16:00 cervo] tu už Čada celkom pritvrdil, i keď klasifikácia je len o stupienok vyššie.
 3. Maturita horolezce | V (6.8.1960)
+   Popis: Stěnou zleva na severní oblou hranu a tou na vrchol.
+   Autor: Karel Hauschke, V. Bruckner
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -264,6 +381,8 @@ URL: https://www.piskari.cz/cs/skala/joo-1724/
 
 --- CESTY ---
 1. Grogová | IV (4.7.1982)
+   Popis: Po pravé údolní hraně a vlevo stěnou na vrchol.
+   Autor: Petr Blahna, K. Joová
    Komentáře:
    &gt; [23.8.2016 20:18:37 Martin] Začátek trochu zelenější, potom lze pokračovat pořád po hraně (Q), obtížnost tak V-VI. Chybí knížka i slaňák (ale je statný strom).
 </desc>
@@ -277,18 +396,34 @@ URL: https://www.piskari.cz/cs/skala/kentaur-1717/
 
 --- CESTY ---
 1. Koňský zadek | V (4.7.1985)
+   Popis: Na jižní straně věže traverz vpravo a stěnou (kruh) na vrchol.
+   Autor: Antonín Umlauf a Vladimír Arnošt
 2. Náhorní procházka | II (26.5.1985)
+   Charakter: stěna | rajbas
+   Popis: Z plošiny na náhorní (JZ) straně stěnkou na vrchol.
+   Autor: Antonín Umlauf, V. Arnošt, J. Tuček
    Komentáře:
    &gt; [10.9.2013 10:45:52 Špásik] Takový krátký kvak, jsou tam jedny hodiny vhodné na solo. Zajímavější je Údolní štreka!
 3. Náhorní procházka | II (26.5.1985)
+   Popis: Z plošiny na náhorní (JZ) straně stěnkou na vrchol.
+   Autor: Antonín Umlauf, V. Arnošt, J. Tuček
 4. Stříbrný rouno | VIIb
+   Charakter: stěna
+   Popis: Z terasy středem J stěny přes 2. Q na plošinu, Náhorní cestou na vrchol.
+   Autor: J. Nešpor a P. Mocek, St. Čejp, M+S. Braun, A. Stephan, St. Lukavský
    Komentáře:
    &gt; [29.8.2017 21:54:55 Páša] Krátký, lehký VIIb v krapet špinavý stěně.
    &gt; [19.9.2018 17:59:57 potys] Krátké,leč hezké a perfektně odjištěné,stupy chyty co používáš jsou ok čisté.... když už jsem člověk zajde polézt vyplatí se na této stěnce dát všechny tři cestičky vzhůru....já doporučuji
 5. Tasemnice koňská | VIIIb (0.5.2005)
+   Charakter: stěna
+   Popis: SV stěnou přímo ke kruhu. Pod převis, převisem vlevo na hranu, dále ke kruhu c .“Koňský zadek“ a tou n.v.
+   Autor: Jiří Šrůtek
    Komentáře:
    &gt; [31.8.2017 11:53:08 Šáfa] Takovéhle převisy v Ádru spočítáš pomalu na prstech jedné ruky
 6. Údolní štreka | VI (26.5.1985)
+   Charakter: stěna | komín
+   Popis: Údolní (JV) stěnou podél hrany (kruh) a komínkem na polici. Stěnou podél široké spáry a vpravo stěnou na vrchol.
+   Autor: Antonín Umlauf a Vladimír Arnošt, J. Tuček
    Komentáře:
    &gt; [1.6.2011 7:29:10 Hofmič] Pohodová cesta bez větších záludností.
    &gt; [1.6.2011 9:23:59 nosicek] Pohodovka a nakonec se i nějaký to lano vymotá. S sebou hodně smyček do hodin.
@@ -299,12 +434,19 @@ URL: https://www.piskari.cz/cs/skala/kentaur-1717/
    &gt; [22.7.2015 19:51:14 Pajzl] Nádherná cesta, překvapila mě, že je i docela dlouhá. Nejtěžší asi pod kruhem (pro vyšší lidi pohodový - jde cvaknout kruh a až pak to řešit). A celkově luxusně jištěná - kdyby měl člověk zakládat jištění všude, kde to jde, tak by na tom strávil věčnost.
    &gt; [23.8.2016 20:34:20 Martin] Dlouhá pěkná cesta, jedinou vadou na kráse jsou již vyšmatlané stupy.
 7. Údolní štreka – Varianta | VI (25.4.1992)
+   Popis: Od kruhu traverz vlevo nad převisem ke kruhu cesty Koňský zadek.
+   Autor: Rudolf Exner, D. Kvasnica, L. Erber
    Komentáře:
    &gt; [29.8.2017 21:46:40 Páša] Člověk si řekne, že jde o pěknou a asi ne moc lezenou variantu Štreky, než doleze ke kruhu Koňskýho zadku (doufám, že to byl on, je to první starej zrezlej kruh co se v traverzu zjeví). Tam jsem celkem koukal, nakonec jsem to vytrápil čistě, ale za V mi to přišlo leda se stavěním. Snad jsem tam něco nepřehlíd.
    &gt; [30.8.2017 10:27:45 Šáfa] podle popisu by to mohla být Tasemnice koňská VIIIb od Jirky Šrůtka
    &gt; [5.9.2017 18:14:20 Páša] Podle popisu to sedí, ale já přitraverzoval až k dolezu Konškým zadkem, kterým Tasemnice taky končí. Tam už by to podle průvodce za VIIIb bejt nemělo.
 8. Ulomený kopyto | VIIa (13.9.1987)
+   Popis: Od SZ z plata stěnou přes vhloubení ke kruhu. Stěnou na hranu a tou na vrchol.
+   Autor: Petr Blahna, J. Semerád, L. Mucha, P. Šanda
 9. Zlaté hovno | VI
+   Charakter: stěna | ruční spára
+   Popis: V levé části z terasy J. stěny spárou a stěnou přes Q na plošinu, Náhorní cestou na vrchol.
+   Autor: Stanislav Lukavský, St. Čejp, M+S. Braun, A. Stephan, J. Nešpor
    Komentáře:
    &gt; [29.8.2017 22:00:17 Páša] Krátká trochu špinavější stěnko spára.
    &gt; [19.9.2018 18:01:20 potys] krátké,ale hezké a odjištěné perfektně.....vyplatí se dát si potom všechny tři cestičky v této stěnce....doporučuji za sebe
@@ -319,7 +461,11 @@ URL: https://www.piskari.cz/cs/skala/kocicka-1734/
 
 --- CESTY ---
 1. Klouzavá | IV (27.7.1980)
+   Popis: Po východní hraně na vrchol.
+   Autor: Josef Hataš
 2. Mroucek | IV (26.7.1980)
+   Popis: Od západu z bloku vpravo stěnou pod hlavu a vlevo stěnou na vrchol.
+   Autor: Václav Bruckner, M. Rousek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -331,6 +477,8 @@ URL: https://www.piskari.cz/cs/skala/lesni-hodinar-1736/
 
 --- CESTY ---
 1. Ptačí křik | V (29.4.1990)
+   Popis: JV stěnou na vrchol.
+   Autor: Zdeněk Brabec, H. Brabec
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -342,14 +490,25 @@ URL: https://www.piskari.cz/cs/skala/lichvar-1723/
 
 --- CESTY ---
 1. Hrana | III (1.8.1980)
+   Charakter: stěna
+   Popis: Po severní hraně na vrchol.
+   Autor: Václav Bruckner
    Komentáře:
    &gt; [2.6.2011 21:03:00 Hofmič] Vhodná skalka na učení...
    &gt; [5.9.2017 18:23:24 Páša] Asi si to vzalo hodně lidí k srdci, jelikož začíná bejt docela ošlapaná.
 2. Kvakova | III (14.6.1981)
+   Charakter: stěna
+   Popis: Středem SV stěny na vrchol.
+   Autor: Tomáš Čada
    Komentáře:
    &gt; [2.6.2011 21:06:18 Hofmič] Pěkná skalka na učení, velké množství chytů.
 3. Stará cesta | II (1.8.1980)
+   Charakter: stěna | ruční spára
+   Popis: V levé části SV stěny spárou na pilíř a stěnou na vrchol.
+   Autor: Václav Bruckner
 4. Zelené stíny | V (27.6.1981)
+   Popis: Středem SZ stěny na vrchol.
+   Autor: Tomáš Čada
    Komentáře:
    &gt; [23.8.2016 20:25:14 Martin] Čistá stěna s dobrými chyty, problémové místo až nahoře, ale nic, co by překračovalo danou obtížnost.
 </desc>
@@ -363,7 +522,11 @@ URL: https://www.piskari.cz/cs/skala/lisak-1740/
 
 --- CESTY ---
 1. Plotnou | V (7.8.1980)
+   Popis: Z náhorní strany sokolíky doprava na hranu a po ní na vrchol.
+   Autor: Václav Bruckner
 2. Údolní hrana | VI (8.8.1980)
+   Popis: Po levé údolní hraně na vrchol.
+   Autor: Josef Hataš, V. Bruckner
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -375,15 +538,28 @@ URL: https://www.piskari.cz/cs/skala/loupeznik-1745/
 
 --- CESTY ---
 1. Jihozápadní spára | VI (16.9.1960)
+   Popis: Jihozápadní spárou na vrchol.
+   Autor: Werner Rump, V. Bruckner
    Komentáře:
    &gt; [3.8.2016 23:42:59 michal] Zajistit moc nejde, ale lízt jde dobře, občas chyt. Není knížka, ale jelikož je hned vedle chodníku na hrad je tam spousta jiných věcí :)
 2. Loupežnická zkouška odvahy | VIIb (15.8.2008)
+   Charakter: stěna | rajbas
+   Popis: Kyzovou jihozápadní stěnou (kruh) na vrchol.
+   Autor: Stanislav Lukavský a Tomáš Kubias
    Komentáře:
    &gt; [6.9.2024 15:02:41 Vondra] Hezké lezení po kyzech v ne úplně čistém materiálu.
 3. Novosvětská | VI (27.10.1963)
+   Popis: V levé části náhorní stěny koutovou spárou přes převis na vrchol.
+   Autor: Vladislav Arnošt, A. Havlíček
 4. Stará cesta | IV (21.8.1960)
+   Popis: Z náhorní (severní) strany šikmou spárou na balkónek a stěnou na vrchol.
+   Autor: Václav Bruckner
 5. Stará cesta – Varianta | III (21.8.1986)
+   Popis: Vpravo od nástupu Staré cesty stavěním a hranou na balkónek.
+   Autor: Bernd Müller, M. Kühn, H. Nicklisch, H. Müller
 6. Větší půlka | VIIa (2.10.1983)
+   Popis: SV hranou ke kruhu, stavěním ze sedačky a stěnou na vrchol.
+   Autor: Petr Blahna, L. Kaňa, J. Poul
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -395,7 +571,11 @@ URL: https://www.piskari.cz/cs/skala/maly-ondra-1714/
 
 --- CESTY ---
 1. Projekce | V (25.9.1983)
+   Popis: JV stěnou a sokolíkem do díry k hodinám. Stavěním a stěnou na vrchol.
+   Autor: Leoš Kaňa a Petr Blahna
 2. Za školou | V (25.9.1983)
+   Popis: Stěnou podél pravé údolní (severní) hrany ke kruhu. Stavěním a stěnou na vrchol.
+   Autor: Petr Blahna, L. Kaňa
    Komentáře:
    &gt; [3.8.2016 23:48:09 michal] Ke Q pěkný stěnový lezení po dírách, trochu do kopce-hodiny. Stavění u kruhu už se leze dle zápisů čistě, ale nepodařilo se nám to. Výlez určitě není za V a je trošec o držku, dolézá se přes bříško do mechů, dost odjížděj.
 </desc>
@@ -409,7 +589,12 @@ URL: https://www.piskari.cz/cs/skala/mikrob-1727/
 
 --- CESTY ---
 1. Kominická | III (27.10.1963)
+   Popis: Z terasy SZ stěnou podél spáry na předvrchol a stěnou na vrchol.
+   Autor: Petr Crha, J. Schmidt, T. Jirásek, J. Koše
 2. Sluneční hrana | III (2.8.1980)
+   Charakter: stěna
+   Popis: V JV stěně (vlevo od spáry) po hraně na vrchol.
+   Autor: Václav Bruckner, J. Hataš, M. Rousek
    Komentáře:
    &gt; [19.6.2011 18:59:26 Hofmič] Lehká cesta, jištění přes hodiny, není slaňák...
 </desc>
@@ -423,6 +608,8 @@ URL: https://www.piskari.cz/cs/skala/nadlesni-1741/
 
 --- CESTY ---
 1. Cesta Beaty | V (5.8.1980)
+   Popis: Náhorní spárou na pilíř (kruh). Traverz vpravo do komína, rozporem k díře, překrokem a stěnou na vrchol.
+   Autor: Václav Bruckner
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -434,6 +621,9 @@ URL: https://www.piskari.cz/cs/skala/olympijska-1719/
 
 --- CESTY ---
 1. Bramborová medaile | VIIa (29.5.1988)
+   Charakter: stěna
+   Popis: Vpravo od cesty Křehké vztahy stěnou (kruh) na vrchol.
+   Autor: Petr Mocek, Z. Zilvar
    Komentáře:
    &gt; [7.9.2010 21:57:02 pavel] Hezká cesta. pod kruhem a kolem kruhu celkem vyrovnaná cesta, nahoře to není tak horký. Nad kruhem hodiny. V průvodci je cesta je v popisu chyba, cesta vede vlevo od cesty Křehké vztahy.
    &gt; [6.7.2015 21:50:35 Šáfa] Pod kruhem jsem nic založit nedokázal, nad kruhem jsem nic založit nepotřeboval.
@@ -442,17 +632,29 @@ URL: https://www.piskari.cz/cs/skala/olympijska-1719/
    &gt; [12.9.2016 8:48:22 Hlaďas] Pod kruhem horší matroš jinak pěkné, kratší.
    &gt; [9.7.2017 17:38:11 potyssnowby@gmail.com] hezká bezpečná sedma.......
    &gt; [5.9.2017 17:42:54 Páša] Matroš teda nic moc, chce to s citem.
+   &gt; [9.7.2026 17:30:19 štiki] Pěkné lezení, pod kruhem špatný matroš, už hodně rozsypané.
 2. Křehké vztahy | V (26.6.1981)
+   Charakter: stěna
+   Popis: Pravou údolní hranou na vrchol.
+   Autor: Tomáš Čada
    Komentáře:
    &gt; [1.6.2011 7:35:50 Hofmič] Celkem jednoduchá cesta pro začátečníky...
    &gt; [5.9.2017 17:44:22 Páša] Kratší a lehká cesta. Dolez se dá řešit více způsoby.
    &gt; [30.9.2018 10:17:09 Pajzl] Pěkná, kratší cesta, závěrečný výšvih lze buďto vzít zleva, nebo rovně (neptarně těžší)
 3. Pepkova | III (1.8.1980)
+   Popis: Od JZ komínem, stěnou doprava na údolní stranu a stěnou na vrchol.
+   Autor: Josef Hataš
 4. Přeskok (7.8.1985)
+   Popis: Z Věže Tondy Rouska přeskokem na vrchol.
+   Autor: Petr Mocek
 5. Stará cesta | II (1.8.1980)
+   Popis: Od JZ z mezivěží stěnou na vrchol.
+   Autor: Milan Rousek
    Komentáře:
    &gt; [5.9.2017 18:20:02 Páša] Po cestě je hodně nepříjemně dunící blok.
 6. Volná | IV (1.8.1980)
+   Popis: Po severní hraně na lávku, po ní doleva a středem SV stěny na vrchol.
+   Autor: Václav Bruckner, M. Rousek, J. Hataš
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -464,22 +666,35 @@ URL: https://www.piskari.cz/cs/skala/palcat-1712/
 
 --- CESTY ---
 1. Božích Bojovníků | VIIb (20.6.1974)
+   Charakter: stěna
+   Popis: Z předskalí mezi Palcátem a Drážďanskou věží stavěním ke kruhu. Ve stěně traverz doprava a středem stěny na vrchol.
+   Autor: Jaroslav Poul, P.Blahna
    Komentáře:
    &gt; [13.7.2010 19:29:31 lezecc] Při pohledu z vrcholu Dráždanské, parádní kyzovytá stěna která láká.Ale asi ne nadarmo jsme tenkrát když jsme to lezli měli jeden z prvních přelezů,alespon podle zápisů ve vrcholovce.Vykřičník je zcela oprávněný, jištění jsem objevil až pod vrškem kde je lepší udělat už krok na horu,ale hlavně opatrně!!! Krásná linie, jen obtížnost VIIb....no ne nadarmo se v průvodci 500 výstupů v adršpachu píše VIIIa.
    &gt; [19.7.2019 14:55:42 kopcolezec] jak píše lezecc, když k tomu přistoupíte, že lezete VIIIa a navíc jako my si spletete strany věže a od Q nelezete do &quot;lehkýho&quot; ve středu stěny, ale valíte si to po hraně (bo si myslíte, že lezete Studničkovu), tak narazíte na hraně na slušné hodiny, co dost pomůžou a pak je to lezení teda krásný, to jó!
 2. Božích bojovníků – Kombinace | VI (20.6.1974)
+   Popis: Od kruhu traverz v římse doleva přes severní hranu až na východní hranu do Studničkovy cesty.
+   Autor: Petr Blahna, J. Poul
 3. Husitský chorál | VIIIa (27.9.1980)
+   Charakter: stěna
+   Popis: JZ komínem na balkon. Vlevo po hraně (1. kruh), stěnou přes převis ke 2. kruhu (stavěním ze sedačky) a stěnou na vrchol.
+   Autor: Jiří Rymeš a Petr Mocek a Stanislav Lukavský
    Komentáře:
    &gt; [13.7.2010 22:14:50 lezecc] Krásná cesta, pod kruhem kyzová stěnka nad kruhem balancování a kroucení na ostré hraně, pak nátah přes převis, druhý kruh,bez stavění přichází vysoký nášlap vyvážení a už jen běžet na vrchol.
    &gt; [12.9.2012 0:46:58 Alešák] Nádherná stěna, pod kruhem jemné, nad ním velkolepé, čistý přelez stavění je jemně velkolepý.
    &gt; [9.7.2018 22:39:46 Staník] Lezení je pěkné, i matroš pevný ale... Krux dostat se k levé díře je teda dost daleko od 1. Q. Nevím jestli by to vyšlo nad předskalí když by se smeklo... Dále se zdá, že ne moc košer cvakání kruhu je tu zhusta užíváno (hódně dlouhé bidlo za předskalím aj. indicie) Přiznávám, že i já cvakl kruh o něco dříve ... Následuje podrobnější popis, protože mi cesta nepřipadá moc bezpečná a čitelná. Onsajtéři nečtou. Ad popis: z předskalí se začíná se na pravé hraně (stojím-li pod stěnkou s 1.Q kruhem). Po hraně, 2× hodiny, pak do kyzů pod kruhem. Od něj zpět na hranu, za ní a vzhůru až pod převis. Zde nepříjemné překulit se zpět do stěny nad kruhem, do levé díry pod převisem. Z ní se dá bezpečně dosáhnout doprava do cvakací (dobré) díry vpravo v převisu (bočák), k tomu celkem dobré stupy. Bez stavění za VIIIb - scifi, spíš těžší. Ve vrcholovce varianta traverz na pravou hranu do Kokšovy a n.v. (vyhnutí se stavění).
 4. Studničkova | VIIIa (13.10.1966)
+   Charakter: stěna
+   Popis: V soutěsce mezi Palcátem a Větrnou spárou pod JV stěnu na balkon. Stěnou pod převis (hodiny) a doprava za východní hranu. Stěnou přes převis ke kruhu a po hraně na vrchol.
+   Autor: Karel Hauschke, J. Farkaš
    Komentáře:
    &gt; [23.6.2009 12:08:20 Alešák] Trochu zavádějící popis. Cesta vede 2 spárami kousek vedle sebe (mezi nimi myslím hodiny) na balkon, z něj doleva za hranu, stěnkou (klíč. místo) přes hodinky a smyčku pod převis, tam zpět doprava na hranu a po madlech ke Q. U něj štand (lano dře skálu a nad Q to je už zadarmo). Dobře odjištěná cesta.
    &gt; [14.9.2009 17:46:13 dusa] Spodek je hodně osolený a trochu silový, ale jde výborně odjistit (skoro v každý smyčce sem seděl:) )
    &gt; [26.8.2013 7:33:26 myš] Snažili jsme se cestu lézt dle popisu v průvodci. Nástup je celkem jasný, levá širočina od Větrné 2x hodiny, pak na balkóně úplně vlevo na hraně k hodinám a dále nahoru kde cesta míjí kruh od Husitského chorálu (v době prvovýstupu tam nebyl a pokud ho cvaknete tak je nutné zaštandovat). Od kruhu cca 2metry nahoru po hraně a traverz do středu stěny k velkým hodinám, od nich (technicky nejtěžší místo) traverz k dalším hodinám pod převisem na hraně. Silový výlez za velké chyty ke kruhu a pak už jen buldřík kolem kruhu a mazat na vrchol. Velkolepá cesta na málo lezenou věž.
    &gt; [22.10.2017 17:39:00 cervo] Parádna, dobre odistená cesta s luxusnými lezeckými pohybmi. Človeka drží celý čas v strehu (na prvý pohľad) nejasnosť línie, no vždy je to nakoniec ľahšie ako to vypadá. A to je na tom to krásne!
 5. Vozová hradba | IXa (7.7.1991)
+   Popis: Vlevo od severní hrany stěnou podél trhlin (kruh) přes římsu varianty Kombinace a vlevo stěnou na vrchol.
+   Autor: Matěj Pohorský, P. Balcar, E. Petr
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -491,7 +706,11 @@ URL: https://www.piskari.cz/cs/skala/poustevnicek-1730/
 
 --- CESTY ---
 1. Komín | II (18.6.1960)
+   Popis: Od východního rohu komÍnem a hranou na vrchol.
+   Autor: Václav Bruckner, J. Žid
 2. Stěna | III (18.6.1960)
+   Popis: Středem JV stěny na vrchol.
+   Autor: Václav Bruckner, J. Žid
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -503,7 +722,11 @@ URL: https://www.piskari.cz/cs/skala/radek-1729/
 
 --- CESTY ---
 1. Severozápadní hrana | V (19.10.1974)
+   Popis: Z podstavy přímo přes převis hranou na vrchol.
+   Autor: Miloš Rain
 2. Traverzová | III (19.10.1974)
+   Popis: Nástup je na podstavě pod severní stěnou. Stěnou šikmo doleva na vrchol.
+   Autor: Václav Bruckner, J. Jarý
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>

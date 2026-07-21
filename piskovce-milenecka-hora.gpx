@@ -2,7 +2,7 @@
 <gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="piskari-scraper.py">
   <metadata>
     <name>Piskovce — Milenecka Hora</name>
-    <desc>Climbing towers from piskari.cz — Milenecka Hora. Generated 2026-05-23.</desc>
+    <desc>Climbing towers from piskari.cz — Milenecka Hora. Generated 2026-07-21.</desc>
   </metadata>
   <wpt lat="50.6084390" lon="16.1159560">
     <name>Adam a Eva</name>
@@ -12,12 +12,22 @@ URL: https://www.piskari.cz/cs/skala/adam-a-eva-1378/
 
 --- CESTY ---
 1. Jižní | V (21.6.1961)
+   Charakter: širočina | komín
+   Popis: Od JZ komínem do vnitřního prostoru. Vpravo spárou a komínem na vrchol.
+   Autor: Fritz Flötgen a Herbert Richter
    Komentáře:
    &gt; [19.8.2015 14:00:09 Standa] Dole zajistit jde. Horní dvě třetiny bez jištění, ale vypadnout z komína by chtělo hodně snahy. Pro milovníky úzkých komínů doporučeníhodné, ale já jsem tam hvězdičku nenašel.
    &gt; [22.9.2016 20:04:12 half] Kdo se rád plazí hvězdička, měl jsem jednu bambuli ve spáře na konci komína. Zde se dá i zaštandovat, expedici ve 4 s jedním lanem jen tak nezapomenem.
    &gt; [28.6.2017 13:05:44 cervo] Zrejme najľahšia cesta od Richtera v Ádru. Dole kúsok položenej, špinavej špáry, hore klasický úzky komín. Istiť sa moc nedá, ale asi ani nie je potreba. Na hviezdu to nie.
+   &gt; [29.6.2026 22:40:32 DavidH] Kluci to dost vystihli. Je tam jedno užší místo, kde už člověk cejtí nádech hrudníku, ale nijak to nevyhazuje. Měl jsem v cestě jen jednu bambuli moc víc není kam.
 2. Senzační prázdniny | VIIc (28.6.1971)
+   Charakter: komín
+   Popis: Vpravo od Severní cesty sokolíkem a komínem ke kruhu. Rozporem na vrchol.
+   Autor: Karel Bělina, V.Vilím, J.Houser, P.Toman
 3. Severní | VIIIb (28.6.1961)
+   Charakter: stěna | ruční spára | komín
+   Popis: Od SV komínem pod převis a stěnou doleva k 1. kruhu. Vlevo stěnou, spárou (2. kruh) a komínem na vrchol.
+   Autor: Herbert Richter a Fritz Flötgen
    Komentáře:
    &gt; [13.7.2010 8:12:33 Jony] Nejtěžší nám tehdy přišlo dostat se ke 2. kruhu, to jsme kvůli průtrži museli absolvovat druhý den znovu :). Pak se nasadí pěkná žába ... jen ten dlouhý úzký komín ji brzdí. Mám pocit, že na konci spáry šla nějaká dobrá smyčka. No a pak třeba z vršku přeskočit na Cherubína a pokračovat ve stopách saských lezců ještě výš.
    &gt; [18.6.2011 20:28:56 Alešák] Kdyby cesta končila na konci dvojspáry, tak dám klidně hvězdy dvě, ale dolezový úzký komín je za trest. Moc pěkná cesta, mezi kruhy spíše stěnový charakter s nějakou smyčkou, dále pěkná spára. Na konci dvojspáry dobrá smyčka. Ze země ten žlutý písek vypadá jako ukrutný sypák, ale překvapivě to celkem drží pohromadě. A z vršku tradá další hvězdičkou na Cherubína.
@@ -33,6 +43,9 @@ URL: https://www.piskari.cz/cs/skala/alpska-1431/
 
 --- CESTY ---
 1. Alpská protěž | VIIb
+   Charakter: rajbas
+   Popis: Od západního rohu komínem na pilířek a stěnou (3 kruhy) na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek, P. Skalka
    Komentáře:
    &gt; [11.9.2011 19:37:09 nosicek] Datum si z knížky přesně nepamatuju. Tak od oka mi to přišlo jako peprný VIIb, ale říkám, od oka ;-)
    &gt; [26.9.2011 9:42:23 Šáfa] V kontextu adršpašské klasifikace je 7b hodně nadsazené. No ale aspoň naskakují body do deníčku :-)
@@ -43,26 +56,48 @@ URL: https://www.piskari.cz/cs/skala/alpska-1431/
    &gt; [30.9.2013 11:23:13 birkof] Pěkně odjištěnej rajbas.
    &gt; [6.10.2015 15:29:18 Staník] Doporučeníhodná zajištěná cesta. Výše uvedené pochybnosti o klasifikaci - být kruhy dál od sebe mohlo by to být i VIIIa :-). Takhle je VIIb přiměřené :-) Pochvala Mocanovi a spol že občas udělají i cestu pro obyčejný lid a konzumenty ádrového lezení. Kolik jim to trvalo ale let :-P
 2. Cesta spárových turistů | VIIb (0.0.0000)
+   Charakter: stěna | ruční spára
+   Popis: Vpravo od S rohu stěnou do koutové spáry tou (kruh) na vrchol.
+   Autor: Stanislav Lukavský a Stanislav Čejp, V. Adam, A. Stephan, S. Braun
 3. Cesta vysokohorských turistů | VIIb (8.5.1977)
+   Popis: Údolní cestou na blok. Přepadem do díry, vlevo stěnou ke spáře a tou na vrchol.
+   Autor: Stanislav Lukavský, J. Čejka, A. Stehlíková
    Komentáře:
    &gt; [2.8.2024 17:30:58 Pajas] Hezká cesta, napřímení nástupovou žábou cesty Encián (její druhý kruh ve stěně mezi spárami originální cestu celkem zbytečně dojišťuje) vytvoří krásnou logickou údolní linku. Stěnu i nález do vrchní spáry jistí hodiny, výše v trochu širším ale radši už nepadat. Obtížnostně mi to přišlo dohromady s dolní spárou asi za VIIc.
 4. Fijalová kráva | VIIIc
+   Charakter: stěna
+   Popis: Od kruhu cesty Cesta spárových turistů vlevo na severní hranu a tou (2 kruhy) na vrchol.
+   Autor: Miroslav Mach, S. Čejp, S. Lukavský
    Komentáře:
    &gt; [29.5.2018 9:40:35 Hlaďas] Spára k 1.Q, která je zaVIIb je kotel a to jak fyzicky tak psychicky!smycky jdou jen ve spodni části a kdyz nasledoval odlet do udoli ze spary, tak me obe smycky nasledovaly, opatrně a proto ten vykricnik. Jinak hrana od 1.Q je fantastická fackovaná:)i obtíže jsou vyšší, ale nechám to na dalších prelezcich:)
 5. Koutová | V (5.9.1962)
+   Charakter: komín
+   Popis: Vpravo od západního rohu spárou do díry a pravou spárou na vrchol.
+   Autor: Klaus Helmig, K.Fels
    Komentáře:
    &gt; [18.6.2012 11:08:21 Šáfa] To, co jsem lezl podle popisu v průvodci, byly jen nezajistitelné úzké komíny. Spíš by vlastně asi seděl vykřičník.
 6. Koutová spára | V (5.9.1962)
+   Popis: Vpravo od západního rohu spárou do díry a pravou spárou na vrchol.
+   Autor: Klaus Helmig, K. Fels
 7. Nová cesta | IV (5.9.1962)
+   Popis: Vlevo od Staré cesty koutovou spárou na vrchol.
+   Autor: Klaus Helmig, K. Fels
    Komentáře:
    &gt; [30.6.2025 15:18:15 ondramrkef] Nastoupil jsem Starou a pak překročil doleva a chtělo to trochu poladit. Možná by šlo nastoupit i rovnou zleva, ale takhle to bylo delší. Těžší a hůř jištěná než Stará, ale taky pěkná
 8. Stará cesta | IV (20.7.1940)
+   Charakter: ruční spára | širočina | komín
+   Popis: V pravém jižním koutě soustavou spár na vrchol.
+   Autor: Helmut Wünsch, R. Grajiz, M. Martinetz
    Komentáře:
    &gt; [11.9.2011 19:41:01 nosicek] Hezká cesta, smyšky jdou, je tam od každýho trochu. Poctivá to čtyřka ;-)
    &gt; [18.9.2016 9:54:13 cervo] Smyčky dobré, lezenie asi odporučenia hodné aj menej skúseným lezcom
    &gt; [31.8.2020 11:30:23 MichalF] Hezka, zajistitelna cesta, ctyrka podle meho gusta.
 9. Údolní | VI (5.9.1962)
+   Popis: Z údolní strany komínem na blok a (stavěním) do vhloubení. Pravou spárou na vrchol.
+   Autor: Heinz Seidel, H. Kusche
 10. Západní | IV (5.9.1962)
+   Popis: Od JZ komínem na pilíř a žlábkem na vrchol.
+   Autor: Klaus Helmig
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -74,9 +109,14 @@ URL: https://www.piskari.cz/cs/skala/amazonka-1466/
 
 --- CESTY ---
 1. Divých žen | III (29.5.1983)
+   Popis: Od JZ spárou na pilíř a spárou na předvrchol. Stěnou na vrchol.
+   Autor: Milena Geregová a Alena Špinková, F. Ostradický
    Komentáře:
    &gt; [10.6.2021 9:47:15 Pavlík] Opravdu za 3. A dá se to i dojistit.
 2. Gynophobie | IV
+   Charakter: širočina | komín
+   Popis: Východním koutem a spárou (strom) na pilíř. Cestou Divých žen na vrchol.
+   Autor: Jörg Brutscher, S. Harpain, S. Junge
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -88,9 +128,14 @@ URL: https://www.piskari.cz/cs/skala/amok-1423/
 
 --- CESTY ---
 1. Spára diletantů | VIIa (19.10.1969)
+   Popis: Od JV spárou na vrchol.
+   Autor: Petr Mocek, K. Živný
    Komentáře:
    &gt; [1.7.2019 15:19:36 VojtaP] Špinavý a bez jištění. Na nástupu to vypadalo, že se v polovině cesty zaleze do komína, kde obtíže pominou. Realita byla trochu jiná. V šedivým průvodci psáno za IV :)
 2. Stará cesta | VI (23.7.1963)
+   Charakter: širočina
+   Popis: SZ spárou (kruh) na vrchol.
+   Autor: Dieter Fahr a Manfred Kuhn
    Komentáře:
    &gt; [6.6.2011 10:17:48 cervo] Nepríjemná širočina,ale aspoň že je tam kruh.Ja som to mal riadne zelené a teda aj dosť ťažké možno suché je to v pohode...cesta je hneď naľavo keď zlaníte z Křenu
    &gt; [1.7.2019 15:06:29 VojtaP] Škoda, že je spára tak zarostlá. Kdyby byla čistá, jednalo by se o hvězdičkovou širočinu. Stačí 1 karabina do kruhu.
@@ -105,19 +150,31 @@ URL: https://www.piskari.cz/cs/skala/amor-1407/
 
 --- CESTY ---
 1. Náhorní | VI (28.5.1964)
+   Charakter: širočina
+   Popis: Z náhorní strany soustavou spár na vrchol.
+   Autor: Milan Rusý a Ilja Špitálský
    Komentáře:
    &gt; [26.5.2009 7:45:55 Jony] V přechodu do širočiny jsou velké hodiny v římse, které posychrují namontování se do širočiny.
    &gt; [23.7.2010 13:26:32 Alešák] Dole pěkná žába, nad hodinama položená širočina. Vršek bývá trochu do zelena.
    &gt; [21.5.2018 8:32:11 nosicek] Zmiňované hodiny jsou v cestě asi jediným jištěním, když nepočítám plošárnu v římse 20cm nad nimi. Lezení hezké, ale chce to na jistotu. Celkové se, hlavně prní půlka, lezla hůř než jsem ze země očekával. Širočina dobrý, jenom nejhorší její část, kde zmizí odlšapy už je dost vysoko, takže bez jištění. Na VI trochu svižnější, řekl bych...
 2. Neznámá cesta | VIIIc (0.0.0000)
+   Charakter: stěna | rajbas | ruční spára
+   Popis: Náhorní cestou pod převis, vlevo stěnou (1. kruh) a spárou na její konec (2. kruh). Stěnou přímo na vrchol.
+   Autor: neznámý
    Komentáře:
    &gt; [9.7.2013 9:54:54 Jony] Cesta by měla být původně z dílny Jiřího Čejky a ... (snad se nepletu) byly tam nějaký neduhy, které zapříčinily neuznání cesty, nicméně kruhy zůstaly. Pěkná linka, ale materiál ve spodní pasáži nicmoc, nepříjemné cvakání 1. kruhu (ale jde posichrovat ve spáře). Mrsknout pumpu z podvršku mi nepřišel jako problém.
    &gt; [1.8.2025 20:21:46 VojtaP] Cesta má název &quot;Bylo nebylo&quot;. Autoři - Jaroslav Poul a Václav Černý a Jiří Čejka; 2.6.1979. Prvovýstupci od druhého kruhu vydatně stavěli.
 3. Neznámá cesta - varianta | VIIIb (0.0.0000)
+   Charakter: rajbas
+   Popis: Od 2. kruhu stěnou vlevo na vrchol.
+   Autor: neznámý
    Komentáře:
    &gt; [8.6.2010 21:35:37 lezecc] Neví někdo něco o této cestě?Viděli jsme kruhy šli jsme to zkusit a nikde o tom žádná zmínka.Vykřičník dávám za cvakání prvního kruhu v solivým materiálu a dost nepříjemně vytaženýho do strany.Spára výše žádná hitparáda ale dá se zvládnout.Stěnový dolez paráda.
    &gt; [9.7.2013 10:00:32 Jony] První pokus před lety nevyšel, právě cvaknout 1. kruh, podruhé jsem našel možnost se zajistit ve spáře.
 4. Údolní | VIIa (20.6.1961)
+   Charakter: ruční spára
+   Popis: Z údolní (SV) strany komínem pod převis a vlevo spárou (kruh) na vrchol.
+   Autor: Fritz Flotgen a Herbert Richter
    Komentáře:
    &gt; [23.7.2009 8:35:02 Hans] Další super linie od Herberta. Nejtěžší mi přišlo dole, překulit se z komína doleva do spáry. Teď je tam ale stálice. Pak následuje ke kruhu luxusná žába (kruh je relativně vysoko), která se teda místama rozšíří, ale zase jsou tam hnízda. Nad kruhem se trošku rozšíří, ale dá se to. Doporučuju :)
    &gt; [15.6.2010 10:31:35 Alešák] Těžší přelez z komínu do spáry (erárka nevypadá stoprocentně), pak luxusní žába ke kruhu a nad ním se to trochu rozšíří. Super cesta.
@@ -128,6 +185,9 @@ URL: https://www.piskari.cz/cs/skala/amor-1407/
    &gt; [26.7.2017 15:50:11 Klarucha] Erárka byla...strach taky. Styl svého přelezu bych raději nerozebírala, ale cesta je to pěkná. Pár bambulí a lanovice se hodí.
    &gt; [25.8.2017 10:44:44 Jaryn] Fajne. Ale dala mi zabrat víc než jsem čekal. Hlavně ten spodek a pak trochu i závěr rozšiřující se spáry. Žába pod kruhem nádherná, přes dvě bambule z toho ta nižší v ideálním hnízdě. Pod kruhem jsem cpal další bambuli, ale už bych znovu nedával, zbytečně vyšťaví, kruh jde zapnout v pohodě.
 5. Údolní – Modré prstíky | VIIc (30.6.1991)
+   Charakter: trhlina
+   Popis: Vlevo od komína Údolní cesty trhlinou přímo do spáry.
+   Autor: Marek Volhejn
    Komentáře:
    &gt; [26.5.2009 7:40:31 Jony] Pěkně napřimuje Údolku.
    &gt; [27.6.2013 21:24:38 Alešák] Pěkné prodloužení Údolní cesty. Místo komína nabízí těžší kroky v trhlině s dobrým jištěním.
@@ -142,6 +202,9 @@ URL: https://www.piskari.cz/cs/skala/amorek-3614/
 
 --- CESTY ---
 1. Přistřižená křídla | III (0.0.2007)
+   Charakter: stěna | komín
+   Popis: Od jihu komínem a hranou n.v.
+   Autor: Pet Mocek
    Komentáře:
    &gt; [23.7.2010 13:30:38 Alešák] Kváček pár metrů vlevo vedle Gondoly (při pohledu na náhorku).
    &gt; [1.9.2014 12:04:01 milan] kavak, ale peknej vyhled
@@ -156,6 +219,9 @@ URL: https://www.piskari.cz/cs/skala/amoruv-sip-1404/
 
 --- CESTY ---
 1. Železné pondělí | VIIb (16.9.1961)
+   Charakter: ruční spára | komín
+   Popis: Mezi Amorovým šípem a masivem (od SZ) levou částí komína k 1. kruhu. Traverz v římse doleva a spárou na balkon. Vlevo soustavou spár (2 kruhy) až do sedla mezi vrcholy. (Stavěním) a stěnou podél sokolíkové spárky ke 4. kruhu. (Stavěním ze sedačky) a stěnou na vrchol.
+   Autor: Günter Lorenz, R. Heinrich, K. Krebs
    Komentáře:
    &gt; [18.7.2010 16:45:46 Jony] Zajímavá cesta.
    &gt; [22.7.2010 21:10:18 Tatuš] Mě se to dost líbilo, pěkná cesta na krásnou věž, moc se to neleze, nevím ani proč. Obojí stavění se dají přelézt.
@@ -175,9 +241,19 @@ URL: https://www.piskari.cz/cs/skala/baba-jaga-1381/
 
 --- CESTY ---
 1. Pan Magor | VIIIb (4.8.1995)
+   Popis: V levé části údolní (JV) stěny komínem, výše vpravo spárou na římsu a stěnou ke kruhu. Stavěním ze sedačky a šikmo vpravo stěnou na vrchol.
+   Autor: Jiří Prokop a Stanislav Lukavský
 2. Podzim mého mládí | VIIb (11.6.1983)
+   Popis: Vpravo od severního rohu kónickým komínem na konec, spárou a stěnou vpravo k 1. kruhu. Stěnou a spárou ke 2. a 3. kruhu. Stavěním ze sedačky a stěnou na vrchol.
+   Autor: Stanislav Lukavský, P. Zeiska, Jos. Houser, J. Stach
 3. Stará cesta | II (22.4.1974)
+   Popis: Z náhorní strany komínem a vlevo stěnou na vrchol.
+   Autor: Stanislav Lukavský
 4. Starý rámotí | VIIc (28.5.1983)
+   Popis: Z rozporu o blok u severního rohu věže vlevo stěnou a spárou ke kruhu. Spárou a komínem na vrchol.
+   Autor: Stanislav Lukavský, Jos. Houser, A. Špinková
+   Komentáře:
+   &gt; [25.5.2026 21:40:35 AdamSK] Myslím, že si cesta zaslúži hviezdičku za prvú polovicu, aj napriek kusu špinavej hlemzačky, ktorá stojí v ceste na vrchol.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -189,17 +265,32 @@ URL: https://www.piskari.cz/cs/skala/baloun-1480/
 
 --- CESTY ---
 1. Cukačka | VIIIa
+   Charakter: stěna
+   Popis: Z bloku na S straně stěnou, vlevo Q na hranu a tou n.v.
+   Autor: Stanislav Lukavský, P. Mocek
 2. Čtyřka | IV (0.0.1984)
+   Popis: Od JZ šikmou spárou na konec a vlevo komínem na vrchol.
+   Autor: Milan Rusý, A. Špinková
    Komentáře:
    &gt; [3.1.2016 11:55:11 michal] Samotná spára by byla na *, je položená a je v klidu, &quot;problém&quot; je ten přelez doleva. Pokud se vám nepodaří něco přijistit v jeskyňce pod převisem (což si teď nemůžu vybavit) tak raději zvažte. Přelézá se do vysutého hliněného žlábku po špinavých stupech bez valného chytátka.
    &gt; [19.11.2016 17:52:44 michal] Tak beru zpět - takhle s lanem je to OK. Jde velká bambule + hodiny. Elegantnější je to lézt z jeskyňky přímo nahoru.
    &gt; [26.8.2023 9:15:38 DavidH] Tak mne ta širočinka docela potrápila, cítil jsem se jak v šestce. Překulení taky, ale jde to zajistit v místech pod převisem.
 3. Čtyřka, var. rovně | IV
+   Charakter: širočina
+   Popis: Cestou &quot;Čtyřka&quot; do jeskyňky a přes převísek rovně n.v.
+   Autor: Michal Heliks, David Ševčík
    Komentáře:
    &gt; [19.11.2016 18:06:33 michal] Ideální pro začátečníky soukače. Možná už to lezl někdo dřív, tak nechte opravit zápis.
 4. Nenažranost | III (30.7.1983)
+   Popis: Vpravo od severní hrany stěnou na vrchol.
+   Autor: Petr Mocek, S. Lukavský, M. Rusý, J. Mocková
 5. Pětka | V (30.7.1983)
+   Popis: Středem SZ stěny na vrchol.
+   Autor: Petr Mocek, M. Rusý, J. Mocková, S. Lukavský
 6. Věčnej hlad | VI
+   Charakter: ruční spára
+   Popis: Z údolí od SZ spárou a komínem na balkón, spárou přes převísek n.v.
+   Autor: Stanislav Lukavský, Z.Zilvar, P.Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -211,14 +302,26 @@ URL: https://www.piskari.cz/cs/skala/baronesa-1441/
 
 --- CESTY ---
 1. Cikáni jdou do nebe | VIIb (8.5.1977)
+   Popis: Z údolní strany vydatným stavěním ke kruhu. Spárou na konec, stěnou podél trhlin k římsám, v nich doleva a spárou na vrchol.
+   Autor: Stanislav Lukavský, J. Čejka, A. Stehlíková
 2. Cikáni jdou do nebe – Grófova varianta | VIIc (8.7.1977)
+   Popis: Z konce spáry traverz stěnou doleva, sokolíkem přes převis a spárou na vrchol.
+   Autor: Stanislav Lukavský, O. Brož
 3. Náhorní | V (30.7.1963)
+   Charakter: komín | přeskok
+   Popis: Z okrajovky přeskokem na balkon a vlevo komínem na vrchol.
+   Autor: Gunter Schmiede, R. Weigand
 4. Stará cesta | VIIa (6.9.1962)
+   Charakter: ruční spára | širočina | komín
+   Popis: Z náhorní strany (vydatným stavěním) spárou a komínem na vrchol.
+   Autor: Klaus Helmig,H.Siedel,H.Kusche,K.Fels
    Komentáře:
    &gt; [18.9.2011 15:03:36 Iwoš] Moc nevím jak to komentovat. Vypadá to hrozně, mokrý a zelený (adept na hnusáka), ale mě se to líbilo. Je to zkrátka klasika. To těžký odjistit nejde, ale je to ještě relativně blízko na zem.
    &gt; [7.8.2013 12:10:03 aleš69] Cesta je lepší než vypadá.
    &gt; [17.6.2025 20:11:14 AdamSK] Mám z toho podobné pocity ako Iwoš, Cesta, ktorá neočarí, ale ani neurazí.
 5. Údolní | VI (30.7.1963)
+   Popis: Vúdolní stěně pravou spárou (kruh) na plošinu, stavěním a stěnou na vrchol.
+   Autor: Klaus Helmig, K. Fels
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -230,7 +333,11 @@ URL: https://www.piskari.cz/cs/skala/batyskaf-1442/
 
 --- CESTY ---
 1. Piccardova | VIIa (29.6.1997)
+   Popis: Komínem cesty Svět ticha (u východní hrany věže) asi osm metrů. Z rozporu přechodem vpravo do SV stěny k sokolíku, jím a spárou na pilířek. Stěnou na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek, M. Volhejn, Š. Gereg
 2. Svět ticha | IV (28.6.1997)
+   Popis: Mezi Batyskafem a Přílbou komínem, výše rozporem na pilířek. Stěnou na vrchol.
+   Autor: Petr Mocek, Š. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -242,6 +349,8 @@ URL: https://www.piskari.cz/cs/skala/bedrich-1485/
 
 --- CESTY ---
 1. Sólo pro Bédu | VIIb (6.3.1999)
+   Popis: Z širokého náhorního komína (od SV) spárou na vrchol.
+   Autor: Stanislav Lukavský
    Komentáře:
    &gt; [4.5.2024 12:42:31 Pajas] Když člověk vezme v potaz název cesty, tak to za ty pohyby na hvězdu je. Zdaleka nejtěžší mně přišlo věž najít, doteď si nejsem stoprocentně jistý, že jsem byl správně, vrcholovku ani slaňák jsem nenašel. Na opačné straně věže se nachází taky hezká spára, tentokrát i s kruhem.
    &gt; [8.8.2025 22:59:43 Špásik] Z údolí by měla být Královská Postupka VIIa - Stanislav Lukavský, J.Žwak, M.Kaněra, R.Müller, 12.6.2010
@@ -256,7 +365,13 @@ URL: https://www.piskari.cz/cs/skala/bedynka-1490/
 
 --- CESTY ---
 1. Náhorní spárka | IV (30.7.1983)
+   Charakter: širočina
+   Popis: Náhorní spárou na vrchol.
+   Autor: Stanislav Lukavský
 2. Udolní | VIIc
+   Charakter: trhlina | širočina
+   Popis: In der Talseite Spreize, Rissspur (Ring) und Riss z.G.
+   Autor: MJ, Stefani Kraft, Jacob Trültzsch
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -268,18 +383,32 @@ URL: https://www.piskari.cz/cs/skala/bragliho-vez-1429/
 
 --- CESTY ---
 1. Bumerang | VIIa (21.9.1969)
+   Popis: Od JZ spárou na balkon. Stavěním doprava na hranu, po ní a komínem na vrchol.
+   Autor: Petr Mocek a Leopold Páleníček
    Komentáře:
    &gt; [2.6.2025 17:08:57 Pajas] Lze postavit ze štandu v dobrých smyčkách nebo přelézt čistě (vrcholovka udává jeden čistý přelez za VIIc). Na balkon to nějak úžasný nebylo, ale těch pár kroků v odlezu od stavění bylo na malou hvězdičku.
 2. Exodus | VI (19.10.1969)
+   Charakter: ruční spára | komín
+   Popis: V levé části náhorní stěny rozporem nebo po hraně na JV pilířek. Z přepadu stavěním, spárou a komínem na vrchol.
+   Autor: Karel Živný a Petr Mocek
    Komentáře:
    &gt; [18.5.2011 13:38:14 michal] My to lezli spárou hned z nástupu ochuzeni o dobrodružství přepadu a stavění.
    &gt; [17.5.2022 8:01:22 Pavlík] Ve vrcholovce se o stavění nezmiňují a při průměrné výšce lezce není ani potřeba. Jištění dobré.
 3. Chápeš, víš jak | VIIIa (0.0.0000)
+   Charakter: stěna | rajbas | ruční spára
+   Popis: Koutovou cestou ke kruhu, traverz doleva na hranu a po ní (3kruhy) na vrchol.
+   Autor: Stanislav Čejp a Miroslav Mach
    Komentáře:
    &gt; [12.5.2026 11:04:06 AdamSK] Horsí matroš okolo 1.Q, ďalej parádne lezenie po hrane s vypečeným výlezom na vrchol.
    &gt; [15.5.2026 19:38:15 Staník] Subjektivně - výrazně těžší, nebál bych se dát i VIIIc. Matroš se trochu smekal, moc mi to tam nestálo... Ale jinak super lajna. Je vidět na některých fotkách týkajících se Koutové (hrana vlevo od koutu).
 4. Jidášovo ucho | VIIIc (11.4.1981)
+   Charakter: stěna | ruční spára | sokolík
+   Popis: V pravé části SZ stěny převislým sokolíkem a vpravo spárou na balkon. Vpravo po hraně a vlevo stěnou ke kruhu. Vpravo po hraně na pilíř a komínem na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek, J. Rymeš
 5. Koutová | VI (2.10.1960)
+   Charakter: ruční spára
+   Popis: Od SZ koutovou spárou (kruh) a komínem na vrchol.
+   Autor: Petr Bohadlo, Z. Klikar
    Komentáře:
    &gt; [27.5.2009 13:42:57 G] Poctivá šestková spára s komínovým výlezem. Nejtěžší místo se mi zdálo nad kruhem.
    &gt; [4.9.2009 17:06:30 cervo] Veľmi pekná a fakt dosť poctivá cesta.Dosť náročný záverečný krok v komíne poriadne ďaleko od kruhu.
@@ -300,7 +429,11 @@ URL: https://www.piskari.cz/cs/skala/brundibar-1455/
 
 --- CESTY ---
 1. Stará cesta | II (26.7.1973)
+   Popis: Z JV strany podstavce stěnou a komínem na vrchol.
+   Autor: Jaroslav Houser, Z. Hubka
 2. Veselka | V (19.10.1974)
+   Popis: Z náhorní (JZ) strany stěnou doleva za hranu a komínem na vrchol.
+   Autor: Miloš Pražák, Z. Hubka, F. Jaroš, J. Houser
    Komentáře:
    &gt; [14.12.2015 20:47:49 michal] Traverz po dírkách (dobrý nohy) až ke komínu (hodiny) a pak trochu úzký komínek.
 </desc>
@@ -314,6 +447,9 @@ URL: https://www.piskari.cz/cs/skala/bruno-1467/
 
 --- CESTY ---
 1. Nástěnné radovánky | VIIa (25.7.1969)
+   Charakter: rajbas
+   Popis: Od JV spárou a komínem na pilíř. Vydatným stavěním ke kruhu a vpravo stěnou na vrchol.
+   Autor: Jaroslav Houser, M.Rusý
    Komentáře:
    &gt; [14.9.2010 8:39:35 Iwoš] Na pilíř je i varianta sokolíkem z náhorní strany, ale &quot;chleba se láme&quot; až v rajbasu nad kruhem. Těžší než běžné VIIa.
 </desc>
@@ -327,13 +463,19 @@ URL: https://www.piskari.cz/cs/skala/caparti-1420/
 
 --- CESTY ---
 1. Cesta robátek | VIIc (3.7.1977)
+   Popis: Od JV (mezi Caparty a blokem) z rozporu sokolíkem a vpravo spárami (kruh) na vrchol.
+   Autor: Stanislav Lukavský, J. Čáp
 2. Ze soutěsky | IV (2.7.1964)
+   Charakter: stěna | komín
+   Popis: Rozporem o Culíka, spárou a stěnou na vrchol.
+   Autor: Jaroslav Krecbach, K. Krecbach
    Komentáře:
    &gt; [6.6.2011 10:51:40 cervo] Spodok treba vymyslieť,skušal som to prebiť prstovou špárkou no nešlo...na rozpor je to v pohode
    &gt; [25.8.2013 18:59:15 nosicek] Na čtyřku si člověk docela zaleze, myslím, že stojí za vylezení. Na vrcholu původní knížka z roku 1964. Z širočinky radši nepadat.
    &gt; [12.6.2018 15:21:16 Martin] Tohle se mi moc líbilo...komínem k prstové spárce (plocháč na jednoducho), překrok zpět do komína, rozpor a přepad k širočině. Pár metrů hlemzu a pak už jen vrcholová stěnka.
    &gt; [31.8.2020 11:27:45 MichalF] Cesta mi prisla na IV tezka, vystridali jsme se v ni ve vice lidech, kazdy dobyl dalsi postupove jisteni. Z sirociny lepe nepadat.
    &gt; [27.8.2025 15:05:36 Koplajz] Já to po dlouhým zvažování zapytlil. Prstová spárka by i šla, ale ukrutně osolený a ošlapaný nohy mi k vrcholu moc nepomohly. Do rozporu se mi nechtělo a tak vzhůru zpátky dolů. Ale nad tím to vypadalo pěkně a třeba se tam někdy vrátím :-D
+   &gt; [7.7.2026 13:10:22 Andre5inner] Cestu jsem si vyhlidnul od oka, a trochu me ta zdanliva pohodovost odspodu zaskocila. Nicmene nad prstovkou jde zalozit pomerne tutovy uzel z tenci lanovice. Pak jsem sel zvednutim z prave nohy (je tam viditelny stup) &quot;na sokola&quot;. no a pak par temp v sirocince (pod sirocinou jde zalozit dalsi tutovy uzel do sparky vpravo dole. Pokud clovek nastupuje levym bokem dovnitr, tak na prave srtrane jde nahmatat pomerne vhodna startovaci lista na pravou vnejsi ruku. Jak se zde pise, tak na IVku docela dobrodruzne .)
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -345,15 +487,23 @@ URL: https://www.piskari.cz/cs/skala/citadela-1401/
 
 --- CESTY ---
 1. Dentální zrnkobraní | VIIb
+   Charakter: širočina
+   Popis: Uprostřed údolní stěny komínem pod převis a spárou (2 kruhy), výše komínem a stěnou na vrchol.
+   Autor: Jan Žwak a Adam Hron, Z. Bílková, J. Matuszek
    Komentáře:
    &gt; [5.8.2012 16:49:19 Tatuš] Pěkná širočina na koleno, člověk se až diví, že se do ní doposud nikdo nepustil.
    &gt; [17.10.2012 19:55:24 Skobič] Dobré kolínko, místy i hluboko žába, chce to jen hubenější předloktí. U prvního opatrně brát velký solivý chyt po levé straně.
    &gt; [7.7.2015 8:48:49 Šáfa] Bezpečná širočina, mám jen slova chvály k umístění kruhů. V každém ze dvou obtížnějších míst je jeden. Po spolulezkyni už je místo se zmiňovaným madlem nad komínem prázdné :-(
 2. Řád Maltézských rytířů | VIIb (9.8.1997)
+   Charakter: rajbas | ruční spára | komín
+   Popis: Uprostřed údolní stěny spárou, koutem (1.kruh) a komínem na pilíř. Stěnou vlevo traverz (2.kruh) do žlabu, jím a stěnou na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek, Z. Zilvar, P. Homolka
    Komentáře:
    &gt; [2.7.2012 10:12:50 haryhary@centrum.cz] Super linka-koutek, spára, komín, rajbák, žlábek-paradní kroky na dvě hvězdy jenom kvůli zarostlosti dám jednu. Spodek je potřeba trochu protrhat :o)
    &gt; [26.10.2012 18:38:35 Staník] Linka dobrý, zajímavá spára k 1. Q, v koutě je potřeba zabrat, ale smyčky nějaké byly. Traverz a žlábek třešinka na dortu (měli jsme toho už dost :-) no zhruba opakuji co napsal Hary. Cca před 10-ti lety jsme měli asi 2. přelez, z toho vyplývá i mocnost vegetace.
 3. Zednářská lóže | VIIIa (7.8.1997)
+   Popis: V levé části údolní (SV) stěny spárou v mezivěží na pilíř. Překrokem a stěnou pod převis. Komínem na podvrcholové plató, vpravo přepadem a stěnou na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -365,10 +515,17 @@ URL: https://www.piskari.cz/cs/skala/citronova-1449/
 
 --- CESTY ---
 1. Limetka | VIIa
+   Charakter: stěna
+   Popis: Středem náhorní stěny přes 2Q n.v.
+   Autor: Andreas Stephan x Stanislav Lukavský
    Komentáře:
    &gt; [17.6.2024 10:35:38 michal] Opatrně mezi policemi, je to víceméně po starých kořenech. Zatím drží.
 2. Náhorní | V (30.7.1963)
+   Popis: Z náhorní strany stavěním na lávku, po ní šikmo doprava a stěnou na vrchol.
+   Autor: Rolf Weigand, G. Schmiede, H. Möbius
 3. Zaplouvačka | V (8.5.1978)
+   Popis: Pravou částí náhorní stěny a zprava podél bloku na plošinku. Po hraně na vrchol.
+   Autor: Zdeněk Zilvar, P. Mocek
    Komentáře:
    &gt; [5.7.2014 20:28:54 myš] Po kyzech k sokolíku, jištění velký uzel v sokolu a dále ke stromu a na vrchol.
 </desc>
@@ -382,6 +539,9 @@ URL: https://www.piskari.cz/cs/skala/culik-1419/
 
 --- CESTY ---
 1. Hranou | V (23.6.1963)
+   Charakter: stěna | širočina | komín
+   Popis: Z náhorní strany komínem ke kruhu a po západní hraně na vrchol.
+   Autor: Jan Záleský, K.Krecbach
    Komentáře:
    &gt; [2.6.2010 23:49:38 birkof] Pěkná, hezky odjištěná cesta na rozlez.
    &gt; [5.6.2011 9:08:27 nosicek] Nástupová širočinka prověří, jak moc se chcete k vrcholu dostat, jak pustí, už je to v poho a moc hezký a dokonce i sem tam nějaká smyčka jde. Od spoda se ani nezdá, kolik se toho od kruhu nahoru ještě naleze ;-)
@@ -392,9 +552,14 @@ URL: https://www.piskari.cz/cs/skala/culik-1419/
    &gt; [23.6.2017 21:52:22 Páša] Pěkná, rozmanitá a bezpečná cesta.
    &gt; [23.5.2018 9:46:13 Hlaďas] Krásná adršpašská šoukačka pak komín a rozpor s epesní hranou na záver.
 2. Nová cesta | VIIa (20.5.1964)
+   Charakter: stěna | ruční spára
+   Popis: Z komína cesty Hranou traverz stěnou doprava a spárou na balkon. Stěnou (hodiny) na římsu, po ní doprava a žlábkem.
+   Autor: Jiří Ducháč a Václav Hornych
    Komentáře:
    &gt; [8.8.2014 11:40:02 nosicek] Lezení to je vcelku hezký, ale..... spodní spára bez kloudného jištění a už celkem vysoko (nějaký smyčky jdou pod ní, ale žádná spása), horní stěna v horším matroši, ale už dobré smyčky
 3. Špatná práce | VIIa (0.0.2003)
+   Charakter: stěna | trhlina | komín
+   Popis: Cesta vede přímo pod slaněním z Culíka přes dva kruhy
    Komentáře:
    &gt; [8.6.2015 8:14:34 Peky] Hezky zajištěná cesta, pod i nad kruhy jistitelné smyčkama, u výlezu jsou slušné hodiny. Mam pocit že se to moc neleze. Autoři se ve vrcholovce omlouvají za druhý kruh, ale nepochopil jsem proč.
    &gt; [8.7.2015 11:01:48 Hlaďas] K 1.Q rozporem ale jde tam smyčka, pak se to chce dostat do stěny, ke 2.Q pohoda a od něj začne výživná spára, na konci jde ovázat bříza a pak trhlinkama do římsy kde jsou asi dvě kolečka písku ale tutové hodiny a pak žlabem n.v. Jinak mám dojem že cesta je někde z 80. let a o tom kruhu psal někdo v roce 2003. Tak nevím co je pravda?!Jinak krásnej výhled na milence poskytuje vrchol:-)
@@ -403,6 +568,8 @@ URL: https://www.piskari.cz/cs/skala/culik-1419/
    &gt; [13.10.2017 20:48:48 Páša] Odlepení se do stěny u prvního neni zrovna pro krátký. Pak ještě trhlinky potrápěj a pískoviště překvapí.
    &gt; [28.5.2018 19:01:36 Kuzma] Od 1.K ležák a pak už to jde, smyce dobré, jen ten 2.K krapet blbě čumí. Celkově i pěkné. Malá hvězdička.
 4. Ztráty a nálezy | VIIc (15.9.1990)
+   Popis: Vlevo od cesty Hranou spárou a trhlinou na konec. Traverz stěnou vpravo do mezivěží na balkon. Spárkou (kruh) a stěnou na vrchol.
+   Autor: Petr Balcar a Matěj Pohorský a Petr Mocek, A. Páleníček
    Komentáře:
    &gt; [2.7.2019 9:04:34 Jony] Cesta opět trochu zkulturněna. Kruh, který nešel cvaknout pro zarezlost, rozhýbán. Stejné trio prvovýstupců se o měsíc později zapsalo na nedalekém Pilíři prvovýstupem Erotický sen, tolik asi k obtížím.
 </desc>
@@ -416,26 +583,47 @@ URL: https://www.piskari.cz/cs/skala/ctyri-apostolove-1458/
 
 --- CESTY ---
 1. Ave Maria | VIIIa (16.8.1983)
+   Charakter: stěna | trhlina | ruční spára
+   Popis: Vlevo od Jihozápadní cesty komínem na blok. Stěnou vlevo (kruh) ke spárce a tou ke 2. kruhu. Stěnou podél trhlin na balkon. Komínem na předvrchol. Starou cestou na vrchol.
+   Autor: Stanislav Lukavský, J. Stach
    Komentáře:
    &gt; [18.7.2010 16:38:38 Jony] Bývá trochu zelené, vlhké ve spáře. Stěnový začátek je pěkný, pak to jde, nějaký smyčky jdou utrousit, lezení zaručeno :). Byť nepatří k vyhledávaným, stojí zato jí pohledat.
 2. Evangelium | VIIa (0.0.2004)
+   Charakter: ruční spára
+   Popis: Údolní cestou k římse, traverz vlevo a spárou (kruh) na předvrchol. Starou cestou na vrchol.
+   Autor: S. Lukavský, P. Mocek
 3. Jihozápadní | V (25.5.1963)
+   Popis: Vlevo od Staré cesty spárkou a komínem na plošinu. Starou cestou na vrchol.
+   Autor: Ilja Špitálský, M. Rusý
 4. Klepetice | VIIc (11.6.1978)
+   Charakter: širočina
+   Popis: Vlevo na SV straně věže spárou a komínem na blok. Spárou (kruh) na pilíř. Stěnou na další pilíř a vlevo komínem na JV vrchol. Vnitřní cestou na vrchol.
+   Autor: Stanislav Lukavský, J. Houser
    Komentáře:
    &gt; [10.4.2009 6:58:12 Jony] Pasaz z balkonu pod kruh je asi klicova, jsou tam 2 vlny, ktery jsou trochu neprijemne, zajistit by to asi +- slo nejakyma kinderkopfama, ale je asi lepsi v tomto pripade spolehat spise na sebe nez na jisteni. Stand nahore je klasickeho charakteru, ke slanaku vede jeste hrebenovka.
    &gt; [27.3.2010 10:14:31 Hans] Stand klasickeho charakteru znamena sezeni v komine, pripadne v nejaky prohlubni :). Jinak i nad kruhem je jeste par poctivych proletarskych temp v sirocine.
    &gt; [3.6.2018 18:52:16 cervo] Tu naopak zase vidím aj menší výkričníček, ale hviezda celkom určite. Už len za tú líniu a fajnové širočinové pohyby. Spodok sa dá pekne odšlapať vľavo do komína, nebyť ho je to poriadne nepríjemný kus špáry. Pod blokom dobré smyčky, s ktorými sa oplatí pohrať lebo zdvih cez previštej je nepríjemný. Z bloku celkom dobrý rozmer, iba v jednom mieste sa musí vybrať von koleno a zhybnúť, ale je to len jeden krok... Kruh sa cvaká (ako inak) dosť zle. Okolo neho jednoznačne najťažšie miesto cesty. Nad ním mi ten rozmer opäť celkom sadol a tuším občas poteších aj nejaký chytík. Každopádne cesta na vrchol je ešte poriadne dlhá...
    &gt; [12.6.2024 9:57:23 EMBER] Štand nahoře obvazanim levého zahroceného pilíře lanem (tutový, pohodlný) Od police jsem to zajistit nedokázal, pád ve zmiňovaných ťežších místech by byl nedobrý až fatální. Kdo dolezl ke kruhu (a dokázal ho cvaknout) tak nad ním už nespadne.
 5. Přes jeskyňku | VIIa (20.6.1979)
+   Charakter: ruční spára | širočina
+   Popis: V pravé části SZ stěny komínem, spárou přes převis a vlevo podél spárek do jeskyňky. Dvojspárou na balkon. Komínem na předvrchol a Starou cestou na vrchol.
+   Autor: S. Lukavský, P. Blahna
    Komentáře:
    &gt; [18.7.2010 16:31:04 Jony] Relativně pěkný, absolutně dlouhý.
    &gt; [24.6.2025 22:17:41 AdamSK] Monumentálna línia. Matroš miestami nieje najlepší, inač by som to videl na dve hviezdy. Klúčové mi prišlo previsnuté zúženie predtým ako sa špára začína lámať doľava. Istí to dobrý kevlar a kto je pozorný tak pod ním nájde aj hodiny.
 6. Stará cesta | V (25.5.1963)
+   Popis: Od JZ komínem tři metry, překrokem doleva na plošinku a spárou na plošinu. Komínem na předvrchol a stěnou na vrchol.
+   Autor: Ilja Špitálský, M. Rusý
 7. Údolní | V (11.10.1964)
+   Charakter: komín
+   Popis: V pravé části SV stěny komínem na předvrchol. Starou cestou na vrchol.
+   Autor: Milan Rusý, B. Sixta
    Komentáře:
    &gt; [17.6.2025 20:48:17 AdamSK] Od pohľadu vyzývavý, málo lezený, ale pekný a nezáľudný komín. Po cca 10 metroch sa zalezie do vnútra a vypľuje vás to pri strome kde je dobré dobrať. Celkom sa mi do podobalo na lezení &quot;Přes Fichtli&quot;. Zaujímavý je ešte prepad n.v., ktorý sa dá zaistiť veľkým obhozom prostredného apoštola.
    &gt; [17.6.2025 20:48:50 AdamSK] Od pohľadu vyzývavý, málo lezený, ale pekný a nezáľudný komín. Po cca 10 metroch sa zalezie do vnútra a vypľuje vás to pri strome kde je dobré dobrať. Celkom sa mi do podobalo na lezení &quot;Přes Fichtli&quot;. Zaujímavý je ešte prepad n.v., ktorý sa dá zaistiť veľkým obhozom prostredného apoštola.
 8. Vnitřní | IV (19.10.1974)
+   Popis: Od nástupu Staré cesty průchod v komíně doprava do vnitřního prostoru. Soustavou komínů na JV vrchol. Sestup na předvrchol a Starou cestou na vrchol.
+   Autor: Miloš Pražák a František Jaroš, Z. Hubka
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -447,9 +635,19 @@ URL: https://www.piskari.cz/cs/skala/ctyri-panny-1374/
 
 --- CESTY ---
 1. Janina | IV (2.8.1979)
+   Popis: Levou JZ koutovou spárou na „list&quot; a podél úzké spáry na vrchol.
+   Autor: Jindřich Vlček, P. Mocek, M. Vlčková, K. Kmoníček
 2. Mařena | IV (2.8.1979)
+   Popis: Prostřední JZ spárou přes převis a komínem na vrchol.
+   Autor: Petr Mocek, K. Kmoníček, J. Vlček, L. Martinec
 3. Střední spára | V (2.8.1979)
+   Popis: Prostřední SV spárou na vrchol.
+   Autor: Petr Mocek, K. Kmoníček
 4. Svíravá | VIIa (7.5.1980)
+   Popis: Pravou SV spárou na vrchol.
+   Autor: Stanislav Lukavský, M. Kaněra, P. Blahna
+   Komentáře:
+   &gt; [25.5.2026 10:51:52 Nečo] Pekná krátka užšia špára bez možnosti zaistenia a s veľmi nízkym počtom opakovaní. Videl by som to na veľmi malý vykričníček.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -461,8 +659,15 @@ URL: https://www.piskari.cz/cs/skala/dalkovy-student-1456/
 
 --- CESTY ---
 1. Stará cesta | V (9.8.1967)
+   Popis: Z údolní strany soustavou komínů na plošinu, (stavěním) a stěnou ke kruhu. (Stavěním) na vrchol.
+   Autor: Heinz Seidel, H. Kubisch, A. Rothe, I. Seidel
 2. Vepřové hody | VI (19.10.1974)
+   Popis: Pravou SZ spárou (kruh) a komínem na předvrchol. Cestou Ze soutěsky na vrchol.
+   Autor: Jaroslav Houser, Z. Hubka
 3. Ze soutěsky | V (9.8.1967)
+   Charakter: stěna | komín
+   Popis: Z náhorní strany komínem na plošinu a vlevo komínem na předvrchol. Zleva stěnou na vrchol.
+   Autor: Werner Meitzner
    Komentáře:
    &gt; [24.7.2012 9:54:39 shama] Zelené komíny a jeden lezecký krok pod slaňákem.Veskrze průměrná cesta na polozapomenutou věž. V původní knížce sotva dvě strany zápisů, přičemž polovina patří přelezům sportovky z posledních let. Oproti popisu je dolez vlevo až za hranou.
 </desc>
@@ -476,7 +681,13 @@ URL: https://www.piskari.cz/cs/skala/diva-bara-1424/
 
 --- CESTY ---
 1. Dítě pod splavem | VIIa (3.9.2008)
+   Charakter: stěna | komín
+   Popis: Od SV do sedla. Rozporem na pilířek, přepadem a stěnou (kruh) na vrchol.
+   Autor: Petr Mocek, M. Svěcená, A. Rosenberg
 2. Velké trápení | VIIa (3.8.1992)
+   Charakter: rajbas
+   Popis: Z pilíře na náhorní  (JV) straně překrokem a stěnou (2 kruhy) na vrchol.
+   Autor: Petr Mocek jun. a Petr Balcar a Petr Mocek, L. Bárová
    Komentáře:
    &gt; [11.7.2010 17:31:12 Hans] Byva casto vlhke. Prvni K jde cvaknout v poho z prekroku. Odlez nad 1. kruhem je klicem k vrcholu.
    &gt; [15.6.2011 20:27:49 cervo] pekný rajbas,kruhy idú trochu horšie cvakať
@@ -484,6 +695,9 @@ URL: https://www.piskari.cz/cs/skala/diva-bara-1424/
    &gt; [21.7.2014 9:26:34 Šáfa] V Sasku jsem lezl dost lehčích VIIIa. Oba kruhy jdou cvakat v pohodě, první z překroku, jak psáno výše. Doporučuju k lezení až odpoledne, kdy se do toho celý den opíralo slunce, ráno vlhké.
    &gt; [28.5.2017 21:36:32 Kuzma] Cvakání 1.K pro menší nic moc, jinak bez problémů. Rajbuňk krátký, ale moc pěkný. Ve vrcholovce jako Rajbuňkové trápení.
 3. Veselý rozkrok | VIIc (8.9.2008)
+   Charakter: rajbas | komín
+   Popis: Rozporem k 1. kruhu a stěnou (2. kruh) na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -495,8 +709,14 @@ URL: https://www.piskari.cz/cs/skala/doskociste-1369/
 
 --- CESTY ---
 1. Hrabej | III (13.9.1987)
+   Popis: Od JV žlabem a komínem na pilíř. Cestou Z kopce do kopce na vrchol.
+   Autor: Milan Rousek a Jana Kollertová
 2. Sestupovka | II (13.9.1987)
+   Popis: Z náhorní strany pravým komínem a stěnou na vrchol.
+   Autor: Milan Rousek a Jana Kollertová
 3. Z kopce do kopce | II (13.9.1987)
+   Popis: Levým náhorním komínem na pilíř. Přeskokem na druhý pilíř a stěnou na vrchol.
+   Autor: Milan Rousek a Jana Kollertová
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -508,6 +728,8 @@ URL: https://www.piskari.cz/cs/skala/duch-1395/
 
 --- CESTY ---
 1. Komíny | VI (5.6.1981)
+   Popis: Od SV (z turistické cesty) komíny na pilíř. Stavěním ke kruhu a stěnou doleva na vrchol.
+   Autor: Manfred Grosser, M. Rusý
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -519,6 +741,9 @@ URL: https://www.piskari.cz/cs/skala/dvojhlava-1448/
 
 --- CESTY ---
 1. Stará cesta | VI (30.7.1963)
+   Charakter: širočina | komín
+   Popis: Levou náhorní (SV) spárou k díře. Spárou (stavěním) a komínem na vrchol.
+   Autor: Klaus Helmig, K. Fels, G. Schmiede, R. Weigand
    Komentáře:
    &gt; [2.7.2012 11:22:23 michal] Širočinka (4m) prověří. Čisté přelezení převísku je trošec nepříjemné. Užší komín nahoru už je ok.
    &gt; [10.9.2017 21:44:58 Kuzma] Nástupová širočina dobrá (hluboká žába a pěst). Stavění příjemné a komínek za odměnu. Jen absence vrcholovky lehce kazí radost.
@@ -526,6 +751,9 @@ URL: https://www.piskari.cz/cs/skala/dvojhlava-1448/
    &gt; [9.9.2024 23:02:38 DavidH] Spodní širočina mě potrápila. Stavění ok.
    &gt; [5.5.2026 21:01:14 Pavlík] Čistý přelez stavění je tak za VIIb.
 2. Traverz | V (21.8.1966)
+   Charakter: komín
+   Popis: Pravou SV spárou a komínem na pilíř, traverz po lávce doprava do údolní jeskyně a komínem na vrchol.
+   Autor: Heinz Seidel, K. Helmig, K. Fels
    Komentáře:
    &gt; [5.7.2014 20:13:49 myš] Užijí si milovníci úzkých nezajištěných komínů a traverz dost solí. Jinak na vrchol vede....
    &gt; [25.10.2015 16:12:20 Špajda] .... a tam kde zrovna nesolí je to proto, že je zarostlý vřesem :-) Na to, že jde o nevysokou věž, tak si člověk na 3 délky poměrně zaleze (zafuní). Odměnou na vrcholu je původní knížka - bohužel v salátovém vydání. Zajímavostí je, že stará cesta se stále čísluje (tuším, že letos měla asi 46. přelez). Pro úchylné komínaře klidně za *
@@ -540,10 +768,17 @@ URL: https://www.piskari.cz/cs/skala/eros-1408/
 
 --- CESTY ---
 1. Nejlehčí možnost | III (27.10.1974)
+   Popis: Vpravo od nástupu Náhorní cesty na Amora spárou do sedla. Komínem na předvrchol a stěnou na vrchol.
+   Autor: Jaroslav Houser, S. Lukavský
    Komentáře:
    &gt; [23.1.2016 1:11:18 Pavlík] dva metry pětkové širočiny a pak nuda
 2. Odpolední koutek | VIIb (18.5.1986)
+   Popis: Vpravo od jižního rohu trhlinou a spárou v koutě (1. kruh) na balkon. Vpravo stěnou (2. kruh) na hranu a tou na vrchol.
+   Autor: Stanislav Lukavský, A. Skalák
 3. Štěrbina lásky | VIIc (2.9.1991)
+   Charakter: trhlina | sokolík
+   Popis: Z náhorní strany stěnou zleva a sokolíkem k 1. kruhu. Trhlinou (2. kruh) do římsy, tou vlevo a stěnou na vrchol.
+   Autor: Stanislav Lukavský
    Komentáře:
    &gt; [12.3.2010 8:38:13 Hans] Relativně krátká sokolíková trhlina.
 </desc>
@@ -557,6 +792,9 @@ URL: https://www.piskari.cz/cs/skala/fachman-lorenc-1400/
 
 --- CESTY ---
 1. Pane Lorenc, vylezu to ? | VIIa (11.7.1997)
+   Charakter: stěna | ruční spára
+   Popis: Údolní spárou k 1.kruhu. Stěnou a sokolíkem (2.kruh) na vrchol.
+   Autor: Petr Mocek, V. Meier, J.Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -568,8 +806,14 @@ URL: https://www.piskari.cz/cs/skala/ferda-1487/
 
 --- CESTY ---
 1. Kepe bubák | IV (10.9.1999)
+   Popis: Pravou částí JV stěny na balkon a spárou na předvrchol. Cestou Madlenka na vrchol.
+   Autor: Pavel Lisák, K. Joová, J. Prokop, J. Maňák
 2. Madlenka | IV (10.9.1999)
+   Popis: Vpravo od náhorní (jižní) hrany spárou na předvrchol. Stěnou na vrchol.
+   Autor: Jan Maňák, J. Prokop, K. Joová, P. Lisák
 3. Pedochín | IV (10.9.1999)
+   Popis: Vlevo od západní hrany spárou na předvrchol a cestou Madlenka na vrchol.
+   Autor: Jan Maňák, J. Prokop, K. Joová, P. Lisák
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -581,12 +825,20 @@ URL: https://www.piskari.cz/cs/skala/gigolo-1386/
 
 --- CESTY ---
 1. Kout kocoura Mikeše | VIIa (9.5.1980)
+   Charakter: rajbas | ruční spára | vydatné stavění
+   Popis: Vpravo od údolní hrany koutovou spárou na balkonek a spárou ke kruhu. Stavěním ze sedačky a stěnou na vrchol.
+   Autor: Petr Mocek a Karel Živný, S. Lukavský, M. Havalová, F. Půlpán
    Komentáře:
    &gt; [23.3.2009 16:59:51 Hans] Hodně poctivý VIIa. Kruh je hodne vyhnanej nahoru nad konec spárky a stavění z.s. je hodně poctivý. V odlezu ze stavění je pár poctivějších rajbasových kroků.
 2. Pětiletá | VIIa (6.8.1967)
+   Popis: Od severu stěnou, výše spárou ke kruhu, (stavěním ze sedačky) traverz stěnou vpravo ke spáře a tou na vrchol.
+   Autor: Bruno Flegel a Milan Fenik, M. Rusý, B. Holomíček
    Komentáře:
    &gt; [3.7.2025 0:08:11 AdamSK] Pod kruhom nie najlepší matroš, všade idú síce dobré žaby, ale treba si postrážiť kde ich človek dá aby nevydrbal celý kus skaly. Ťažkosti okolo kruhu som so 185cm žiadne nepostrehol, pre krátkych to môže byť iné. Od Q už iba mierne špinavá žabka n.v.
 3. Pětiletá - Pamlsek | VIIb (4.8.1981)
+   Charakter: ruční spára | sokolík
+   Popis: Od kruhu vlevo koutovou spárou, vlevo komínem a po hraně na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek, Z. Drbohlav
    Komentáře:
    &gt; [6.8.2012 8:23:21 Jony] V knížce původně pojmenované jako Laskomina. Pěkný, exponovaný, místy horší písek.
 </desc>
@@ -600,6 +852,9 @@ URL: https://www.piskari.cz/cs/skala/gondola-1406/
 
 --- CESTY ---
 1. Benátská | VIIb (22.9.1972)
+   Charakter: rajbas
+   Popis: Krátkou cestou na dolní balkon, traverz stěnou doleva ke kruhu a vlevo po západní hraně na vrchol.
+   Autor: Jiří Čejka, P. Hauck, J. Hauck
    Komentáře:
    &gt; [22.6.2009 20:19:01 Alešák] Když se blbě podíváte do průvodce, tak to první stavění třeba taky přelezete čistě (se smyčkou za borovici vpravo). Ale je to teda těžké.
    &gt; [23.7.2010 16:38:32 Jony] Přelez 1. stavění v Krátké se povedlo Alešákovi (červen 2009), ohodnoceno na VIIc.
@@ -607,10 +862,16 @@ URL: https://www.piskari.cz/cs/skala/gondola-1406/
    &gt; [28.1.2016 15:27:33 Alešák] Lezl jsem to v roce 2009. V pruvodci bylo zminene staveni v ceste Kratka, kterou to nastupuje, nez to uhne doleva. Tohoto detailu jsme si v pruvodci nevsimli a zmineny usek, lezeny volne, nam tehda prisel tezsi, konkretne cca VIIc. Samozrejme je mozne, ze realne obtize neprekracuji obtiznost VIIb, treba nam jen nesedlo, tezko rict. Vsak je to take jen rozdil jednoho pismenka... Ostatni pasaze cesty jsou adrovsky VIIb, snad jen odlez podel hrany od kruhu byl v jednom miste trochu neprijemny.
    &gt; [4.2.2016 23:31:08 Pavlík] Jak tak na to teď koukám, tak se musím omluvit, jsem si popletl cesty. Benátská má opravdu těžký přelez stavění. Zaměnil jsem to za jinou, kde je přelez stavění v pohodě, proto jsem se podivoval, že tu tak řešíte právě to stavění. jinak cesta je to pěkná, dokonce i bez spáry.
 2. Benátská - Deja-vu | VIIc (25.5.2009)
+   Charakter: stěna
+   Popis: V levé části náhorní stěny stavěním do římsy a vlevo sokolíky ke kruhu Benátské a tou na vrchol.
+   Autor: P. John, J. Rutar
    Komentáře:
    &gt; [26.5.2009 7:54:48 Jony] Varianta napřimuje odspoda Benátskou. V sokolíku jdou 3 dobrý tenký uzlíky.
    &gt; [23.7.2010 13:25:10 Alešák] Ze stavění těžší krok do oblé římsy a těžší krok (smyčky) z ní. 1. opakování.
 3. Krátká | VI (25.5.1964)
+   Charakter: rajbas
+   Popis: Z náhorní strany komínem na blok, (stavěním) a stěnou na balkon. Stavěním na horní balkon (slaňovací kruh) a vlevo stěnou na vrchol.
+   Autor: Milan Rusý, J. Poul, A. Srb
    Komentáře:
    &gt; [26.5.2009 7:49:19 Jony] Dobrý cvičení na volný stavění, tady je celkem &quot;pohodový&quot;.
    &gt; [23.7.2010 13:23:04 Alešák] Mně se to docela líbilo, taková sranda cesta, kde se skoro víc staví než leze. 1. stavění jde čistě (VIIc) se smycí vpravo kolem borovice.
@@ -625,13 +886,22 @@ URL: https://www.piskari.cz/cs/skala/hadi-1383/
 
 --- CESTY ---
 1. Antabus | VIIIb (3.10.1987)
+   Charakter: rajbas
+   Popis: Z balkonu v levé části SV stěny vlevo stěnou k trhlině (1. kruh), tou a vlevo stěnou ke 2. kruhu. Stěnou přímo nebo vlevo po hraně ke kruhu cesty &quot;Žlutý závoj&quot; a tou na vrchol.
+   Autor: Aleš Obršál a Jiří Wiesner,P. Wágner
    Komentáře:
    &gt; [20.6.2009 17:56:56 Skobič] Rajbas jak cip. Občas se tam škaredě padá. Viz youtube-tlama na hadí.
    &gt; [26.4.2013 11:30:37 Staník] Rajbas je to solidní, crux pro mne je cca 2m nad 2. Q, kde je potřeba nějak divně zabrat... Ještě jsem to nedoladil ale cesta stojí i za porušení zásady 3× a dost :-). V popisu zmíněná možnost po hraně se mi zdála jako velký omyl, rád se nechám názorně přesvědčit o opaku. Drobná muška na cestě je dolez závěrečnou spárou (Žlutý závoj) která bývá plná zeleniska.
 2. Antabus - Annakunda | VIIb (21.7.1991)
+   Charakter: stěna | trhlina
+   Popis: Od 1. kruhu cesty Antabus trhlinou a stěnou (kruh) přímo ke kruhu cesty Žlutý závoj.
+   Autor: Stanislav Lukavský, J. Voves, A. Skalák, E. Skaláková, L. Imlauf
    Komentáře:
    &gt; [28.7.2010 13:17:33 Hans] Pekny lezeni ve variante, ale Zluty zavoj znacne mokry a slizky.
 3. Dubčekova spára | VIIa (11.8.1968)
+   Charakter: ruční spára
+   Popis: V pravé části SV stěny spárou (kruh) do sedla a stěnou na vrchol.
+   Autor: Jan Farkaš, Jaroslav Přibyl, J. Juptner
    Komentáře:
    &gt; [24.5.2009 21:08:57 lezecc] Prostě spára jak z učebnice.
    &gt; [12.10.2010 19:07:52 cervo] Pekné lezenie len trochu moralové.Pod kruhom som nezaložil nič,ale na druhej strane sú tam tutové žaby,nad kruhom tesne pred koncom ide zopár pekných smyčiek....
@@ -641,11 +911,17 @@ URL: https://www.piskari.cz/cs/skala/hadi-1383/
    &gt; [7.8.2017 15:12:41 Klarucha] Pro někoho procházka - pro mne celkem trnitá... krásná je, o tom žádná. Prvních pár metrů, než to kvákne, je rozhodujících. Odspoda jasně položená - krapet překvapila, že to výš nebylo tak úplně zadarmo (bylo to místy na motyčku).
    &gt; [28.7.2022 11:54:23 MichalF] Krasna zalezitost. Prvni tri metry jsou sirsi, tam to chce zabrat a valit. Pak prijdou zaby, ktere pokracuji az ke kruhu (vysoko!) a chce to vydrz. V polovine spary by slo zalozit dobre ufo, nad sparou je pak tutove hnizdo na bambulak. Neni to buhvijak tezke, spis namahave a dlouhe.
 4. Halířová spára | VIIa (14.10.1972)
+   Charakter: ruční spára
+   Popis: Vpravo od Rejnočí cesty spárou do sedla a stěnou na vrchol.
+   Autor: Stanislav Lukavský, J. Voděracký
    Komentáře:
    &gt; [26.7.2010 15:19:18 Jony] Bývá vlhčí, spodek i zelený, jinak ale pěkný lezení, spíše ručního charakteru.
    &gt; [12.6.2011 7:28:18 Hans] Spodek bývá vlhčí. poslední slušná smyčka jde na konci pilířku vlevo, pak kousek žába, ropucha a výlez je spíš širočinka. Pěkný, ale na VIIa dost poctivý a v horních pasážích není radno chybovat.
    &gt; [26.8.2019 9:15:38 Paďas] krásná spára. Ale vršek mi dal za uši, se smyčkou hluboko dole jsem rozhodně převahu neměl. Dle knížky málo lezené, o to cennější.
 5. Hra o jablko | VIIc (14.9.1985)
+   Charakter: stěna | trhlina | ruční spára
+   Popis: Uprostřed SV stěny spárou přes převis a esovitou spárou ke kruhu. Stěnou a vpravo spárou do sedla. Stěnou na vrchol.
+   Autor: Stanislav Lukavský, M.Matějka, J.Polák
    Komentáře:
    &gt; [19.7.2010 21:03:39 lezecc] Spárová lahůdka, druhá hvězdička nebude jen za občasnou zeleninu na dně spár(alespoň to tak moc netlačilo do rukou:))
    &gt; [19.7.2010 21:35:09 Jony] Tuhle linii si řadím mezi topstern spárové záležitosti. Získala si mě svojí variabilitou. Jen co člověk nakročí, už si s ním hraje všema možnými způsoby až na samotný vrchol.
@@ -654,23 +930,39 @@ URL: https://www.piskari.cz/cs/skala/hadi-1383/
    &gt; [23.7.2013 11:25:50 kopcolezec] Skvost mezi spárami, kde věru síly není moc potřeba :) jak psala Pavlína. Techniku a kupu lanovic 6-9 sebou. Aktuální podmínky: přímo vyprahlé.
    &gt; [13.6.2016 14:19:59 cervo] Aj napriek špine dve hviezdy. absolútna špárová lahôdka.
 6. Rejnočí | V (11.8.1969)
+   Popis: Od JZ (ve výklenku mezi pilíři) komínem a koutovou spárou na vyšší pilíř. Stavěním na plošinku a cestou Zábavný koutek na vrchol.
+   Autor: Jaroslav Bejček a Josef Balcar, J. Balcarová, F. Krásný
 7. Stará cesta | VIIa (29.6.1961)
+   Charakter: rajbas | ruční spára | komín | vydatné stavění
+   Popis: V levé části SV stěny úzkým komínem ke kruhu, (stavěním) žlábkem a spárou do sedla. Stěnou na vrchol.
+   Autor: Fritz Flötgen, F.Küttner
    Komentáře:
    &gt; [28.6.2010 9:53:04 Šáfa] Ke kruhu spousta dobrých smyc, od něj se musí umět dobře a vysoko stavět. Čistý přelez podobného, ale na pohled o něco příjemnějšího žlábku (byl hlubší) psali v Sasku VIIIb.
    &gt; [19.7.2010 12:43:22 Hans] Je to již delší dobu, co jsem to lezl, ale vzpomínám si, že přelez stavění byl těžký. Jinak pěkná linie.
    &gt; [10.7.2019 12:13:26 nosicek] Ke kruhu dobrý a hezký, ale jeho umístění je trochu na prd... Kdyby byl minimálně o metr výše, pořád by se cvakl uplně v poho, odstavělo by se mnohem líp a čistý přelez by byl hezky jištěný. Takhle je to stavění vydatné a při čistém přelezu radši nepadat...
 8. Stará cesta - Hadice | VIIIa (4.8.1981)
+   Charakter: stěna | trhlina | širočina
+   Popis: Od kruhu stěnou doleva, jemnou spárou a žlábkem na pilíř. Stěnou do sedla a stěnou na vrchol.
+   Autor: Petr Mocek, S. Lukavský, Z. Drbohlav
    Komentáře:
    &gt; [11.8.2009 9:33:16 Jony] Taky není oblíbená, ale je to pěkný. dole pod žlabem (otevřená širočina) jdou uzliky. Jsou tam pěkný technický kroky, výše spíše širočinové hýbaní v tupým kolmým žlabu.
    &gt; [2.8.2010 19:05:24 lezecc] Podle zápisů ve vrcholovce vážně oblíbenost pokulhává, měli jsme druhý zápis.Smyčky pod žlabem jdou,jen mě to dalo pěkně zabrat najít tu správnou a naštouchat ji tam kam jsem chtěl.Pokud jde o výlezovou rouru, tak tam jsem měl smíšený pocity, s vědomím jaký a kde mám pod sebou jištění, takže stažená prdel a mazat nahoru.Ale nakonech v trenkách bylo čisto a převládly kladný pocity.
    &gt; [20.6.2011 14:33:36 Alešák] Dost psycho anebo technická lahůdka? Každý nechť se rozhodne sám. Pokud se leze v kuse odspodu, lano luxusně táhne. 2 dobré smyčky založit jdou. Jsem rád, že jsem to dolezl s neobtíženými kalhoty.
 9. Zábavný koutek | III (9.7.1964)
+   Popis: Od SZ koutovou spárou na plošinku, spárou a stěnou na vrchol.
+   Autor: Jaroslav Krecbach, A. Rousek, K. Krecbach
 10. Zrození světa | VIIIb (15.5.1988)
+   Charakter: stěna | rajbas | trhlina
+   Popis: Z balkonu v levé SV stěny vpravo spárkou a trhlinou k 1. kruhu. Přímo stěnou k sokolíku (kříží cestu Žlutý závoj), jím a vpravo trhlinou přes převis ke 2. kruhu. Spárou na konec, vpravo stěnou ke kruhu Staré cesty a tou bez stavění na vrchol.
+   Autor: Stanislav Lukavský, J. Stach
    Komentáře:
    &gt; [11.8.2009 9:26:43 Jony] Nepatří k lezeným, ale dle mě pěkná cesta. Hlavní problém je, že je poněkud zakydaná. Dole pod kruhem to je +- teď čistý. V sokolíku jdou tutový smyčky, výš teda nebudí důveru moc, ale drží. Od 2. kruhu - zasraný, duležitý hnízda jsou +- čistý, ale chtělo by tam ještě trochu zaplevat.
    &gt; [2.8.2010 18:54:10 lezecc] Vážně se moc neleze, vrcholová kníška, jestli si vzpomínám od 94 roku a měli jsme v ní druhý zápis.Je pravda že hlaví problém je zelenina kam se podíváš.Těžký mi připadlo stěnový lezení od prvního kruhu pod převis pro mě stylem SP (stažená prdel)Přes převis paráda a nad ním zahrádka která je ted trošku zplanýrovaná ale případný další zájemce si taky svou část může vyhrabat.Jinak je potřeba nechat si ještě rezervu na čistý dolez starou cestou, ještě že nejsou takový všechny VIIc.Každopádně zážitek na dlouhou dobu
    &gt; [18.6.2011 20:38:54 Alešák] Velká paráda. Rozmanitá cesta, nejtěžší je asi zved u pvního kruhu, jde se to opravdu přímo, ač se zprvu zdá, že tam nic není. Překrok v sokolíku ke 2. kruhu je impozantní s dobrou smyčkou. Komu se cesta nevryje dostatečně do paměti, může od kruhu St.c. pokračovat vlevo psychózním žlábkem varianty Hadice.
 11. Žlutý závoj | VIIb (28.6.1971)
+   Charakter: stěna | ruční spára | sokolík
+   Popis: Vlevo od Staré cesty spárkou a stěnou k pravému okraji plotny. Sokolíkem pod převis a traverz stěnou doleva ke kruhu. Vlevo spárou do sedla a stěnou na vrchol.
+   Autor: Karel Bělina, J. Houser, V. Vilím, P. Toman
    Komentáře:
    &gt; [20.6.2011 11:57:05 Alešák] Nejprve krásné technické lezení v mírně křehčím matroši s dobrým jištěním. Pak lehký traverz plotnou po pěkných chytech. Ovšem od kruhu následuje tzv. evergreen, aneb stále zelená spára, letos se to sice dá dolézt, ale asi 7m nad kruhem je obrovský viklan, který tvoří levou část spáry. Pro představu se jedná asi o půltunový blok, který se pohou žábou rozkýve. Až to jednou někdo vyvalí, tak to udělá v lese průsek a dole zabije dav ukecaných turistů. Byla by to fakt škoda (těch stromů). Proto ten vykřičník. Od roku 1996 druhý přelez.
 </desc>
@@ -684,6 +976,8 @@ URL: https://www.piskari.cz/cs/skala/helma-1446/
 
 --- CESTY ---
 1. Obchvat | VIIa (28.5.1977)
+   Popis: U západní hrany spárkou na konec, stěnou doprava a podél sokolíku na jižní hranu. Stěnou v římse doprava a spárkou na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -695,9 +989,15 @@ URL: https://www.piskari.cz/cs/skala/hrad-1403/
 
 --- CESTY ---
 1. Boj s časem | IXa (30.9.1984)
+   Charakter: stěna | rajbas | sokolík
+   Popis: Polickou cestou k 1. kruhu. Traverz stěnou doleva ke spáře a tou k 2. kruhu. Stěnou doprava ke 3. kruhu a spárkou ke 4. kruhu. Stěnou šikmo doprava k 5. kruhu a vlevo stěnou na vrchol.
+   Autor: Tomáš Čada a Radek Myška a Bohumír Mach
    Komentáře:
    &gt; [20.6.2011 12:17:46 Alešák] Skvělá cesta. Traverz po malých chytech, rajbasové ladění po hrance, ostrý sokolík a nakonec parádní rajbas. Nejtěžší je přešah u 4.Q, ale dá se to poladit a přelézt i když nedosáhnete z levé trhliny do pravé.
 2. Jubilejní | VIIa (26.5.1963)
+   Charakter: stěna | komín
+   Popis: V pravé části SV stěny spárou k 1. kruhu (stavěním ze sedačky) a vlevo stěnou ke 2.kruhu. Sokolíkem, žlábkem (3. kruh), dvojspárou a komínem na vrchol.
+   Autor: Karel Hauschke, J.Poul
    Komentáře:
    &gt; [14.5.2009 11:59:01 Hans] Přelez stavění za VIIb mě teda přišel podstatně těžší. Dá se to zajistit smyčkama. V horním průlezu komínem jsem si musel sundat sedák, abych se tam prorval, takže nic pro pořádny chlapce :)
    &gt; [22.4.2010 22:28:54 Alešák] Jak píše Hans - bez stavění to se VIIb nemá nic společného. Jinak pěkná cesta, nějaké smyčky jdou..
@@ -705,15 +1005,24 @@ URL: https://www.piskari.cz/cs/skala/hrad-1403/
    &gt; [2.8.2015 20:54:51 nosicek] Krásné lezení v ne uplně super matroši, ale nic hroznýho. Překvapilo mě, že se leze od začátku pořád až do komína. Přelez stavění mi zas tolik mimo klasu nepřišel, ale je pravda, že zadarmo to není. Pozitivní je, že ten úzký průlez je až v po nalezení do komína a není kam padat ;-)
    &gt; [28.6.2017 13:15:01 cervo] Nádhera. Spodok dobre istený kruhmi, vršok zasa smyčkami (lanovice, bambule). Bez stavění to okolo VIIb nešlo ani zďaleka, ale v podstate stačí cvaknúť kruh, dobrať sa, nachytať špárku a odliezť. Okrem tejto drobnej &quot;kozmetickej&quot; vady, super línia!
 3. Módní vlna | IXb (5.7.1988)
+   Charakter: ruční spára
+   Popis: Vpravo od Jubilejní cesty spárou (1. kruh) a stěnou na předskalí. Údolní stěnou přes převis, spárami a sokolíky (6 kruhů) na vrchol.
+   Autor: Karel Šimek a Miloslav Matějka
    Komentáře:
    &gt; [26.5.2009 8:16:06 Jony] Těžký, dobře odjištěný průstup převislou stěnou, kde linie sleduje soustavu spár. Největší problém mi přišel v přechodu mezi spárami, co je na konci levé spáry stálice. Matroš nicmoc.
    &gt; [20.6.2011 12:23:31 Alešák] Tahle cesta si určitě zaslouží hvězdičku, nebýt trochu usolujícího matroše, dám s klidným svědomím hvězdy dvě. Impozantní linie, silově-technická lahůdka, super jištění. Z předskalí nabere cesta na následujících 40m asi 8-10m v převislosti. Samé sokolíky, trhlinky, spárky.
 4. Plíživý maturant | VIIa (11.6.1983)
+   Charakter: ruční spára | komín
+   Popis: Polickou cestou k 1. kruhu. Traverz v římse doprava (2. kruh) do komína a jím na vrchol.
+   Autor: Pavel Burian a Jaromír Jirásek, J. Chládek
    Komentáře:
    &gt; [9.10.2019 15:55:10 VojtaP] Vzhledem k tomu, že se jedná o poměrně dlouhý traverz tak si psychické obtíže cesty vychutná hlavně druholezec. Jinak cesta nabízí zajímavé lezení, dokonce i na to plížení došlo. Ve vrcholovce z roku 96 jsme žádný přelez této cesty nenašli.
    &gt; [2.8.2022 10:36:45 Pavlík] Morál druholezce lze pošetřit prodloužením kruhu dlouhou smyčkou. Ta jde při troše šikovnosti vybrat ze slanění. Tato oku lahodící linka se opravdu moc neleze.
    &gt; [10.7.2023 23:09:43 Pajas] Traverz po kyzech ke kruhu mi přišel opravdu hezký, pak už pohyby na kráse postupně ztrácely. S druholezcem jsme se shodli, že nám celkové obtíže přišli v rámci dané klasy v pohodě. Akorát pozor na podmínku, byla by velká škoda kyzy olámat.
 5. Polická | VIIa (15.9.1948)
+   Charakter: ruční spára
+   Popis: Od JZ soustavou spár (3 kruhy) a komínem na vrchol.
+   Autor: František Schejbal a Stanislav Čepelka
    Komentáře:
    &gt; [26.5.2009 8:06:19 Jony] Známá to klasika. Dobře zajištěné spárové (místy lze i stěnově) lezení. Asi nejproblémovější místo je od 3. kruhu do krátké širočinky přecházející v komín.
    &gt; [26.5.2009 8:54:54 Šáfa] K 1.kruhu spousta smyček, pak 3 kruhy docela nahusto. Širočina od 3. je skutečně klíčová. Znám víc lidí, co si o sobě myslí, že jim to na písku jde, ale když dolezli sem, byli v koncích.
@@ -724,15 +1033,24 @@ URL: https://www.piskari.cz/cs/skala/hrad-1403/
    &gt; [6.6.2011 10:13:28 cervo] Pekná klasická cesta akurát som nepochopil prečo sú tam tri kruhy (ale vďaka za ne) poteši takto odistená cesta...špárovo-kyzové lezenie pod prvým kopec smyčiek,potom tri kruhy a vrchná širočina mi prišla celkom na pohodu asi vďaka kruhu,ktorý je pod riťou (menší to majú asi ľahšie)...ale vo vrchnom prekroku majú zase nevýhodu,mne prišiel dosť nepríjemný
    &gt; [23.6.2013 15:00:33 Hlaďas] vše zmíněno výše...majestátní cesta
 6. Stavitelský zázrak | VIIc (22.7.1978)
+   Charakter: ruční spára
+   Popis: Jubilejní cestou k 1. kruhu a sokolíkovým zářezem vlevo ke 2. kruhu. Vlevo stavěním ze sedačky k trhlině, tou a spárou (3. kruh) na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek, K. Živný
    Komentáře:
    &gt; [12.5.2009 8:18:21 Jony] Spára je to pěkná. Dostat se ale k ní ...
    &gt; [14.5.2009 11:10:27 Hans] Staveni do strany dost dobry. Pak nasleduje super zaba, ktera teda trochu soli a vyse uz je to spis sirocinka. Moc prelezu to asi mit nebude.
    &gt; [13.6.2010 10:13:54 Pidi] Tak tak. Moc přelezů asi nebude. Lezl jsem to v roce 2008 a v knížce tuším nebyl ani jeden záznam této cesty. Horší než stavění a spára mi přišlo dostat se vůbec k tomu kruhu kde se staví.
 7. Via vitae | VIIb (3.7.1966)
+   Charakter: ruční spára | širočina
+   Popis: V pravé části JZ stěny spárou, výše komínem na protější stranu k 1. kruhu (stavěním ze sedačky) a soustavou spár (2. kruh) na plošinu. Komínem a stěnou na vrchol.
+   Autor: Aleš Havlíček, V. Arnošt
    Komentáře:
    &gt; [26.5.2009 8:24:30 Jony] Je to starý béčko, takže nic zadarmo. První problém je často již v nástupu, kde může být na překážku zelený sliz. Nejtěžší je podle mě převis (širočina) u 2.Q. Jenže tím to nekončí. Vrcholový krátký špinavý rajbas, který jde zajistit leda tak štandem na piliři, dokáže ještě trochu zahrát na nervy.
    &gt; [26.5.2009 18:46:31 Hans] Sakra poctivý VIIb. Vypadá to nevinně, ale odlézt od druhýho kruhu lehce převislou širočinkou je docela zabíračka.
 8. Vodní příkop | IXb
+   Charakter: stěna | ruční spára | sokolík
+   Popis: Koutem vlevo od nástupu cesty &quot;Polická&quot; a stěnou k 1. kruhu. Vlevo za hranu ke 2. kruhu. Stěnou ke 3. kruhu a stěnou vlevo do cesty &quot;Padací most&quot; a tou na vrchol.
+   Autor: Jan Novák a Jiří Šrůtek
    Komentáře:
    &gt; [17.8.2016 12:03:23 hans1996] Kruhy jsou trochu dál a blbě se cvakají. Old style.
 </desc>
@@ -746,6 +1064,8 @@ URL: https://www.piskari.cz/cs/skala/hranolek-1413/
 
 --- CESTY ---
 1. Náhorní | VIIa (14.7.1984)
+   Popis: Z náhorní strany komínem a překrokem na polici. Traverz stěnou doleva na západní hranu a po ní na vrchol.
+   Autor: Milan Rusý, J. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -757,7 +1077,11 @@ URL: https://www.piskari.cz/cs/skala/husopaska-1392/
 
 --- CESTY ---
 1. Stříbrná křídla | VI (16.5.1981)
+   Popis: Po východní hraně (kruh) na vrchol.
+   Autor: Miloš Rain a Václav Černý, M. Havalová, J. Gereg, F. Ostradický
 2. Terénní nerovnosti | II (16.5.1981)
+   Popis: JZ komínem na pilíř, stavěním a stěnou na vrchol.
+   Autor: Václav Černý a Miloš Rain, M. Havalová
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -769,8 +1093,13 @@ URL: https://www.piskari.cz/cs/skala/hvizdavy-dan-1459/
 
 --- CESTY ---
 1. Komín | IV (0.0.0000)
+   Popis: Vlevo od Staré cesty komínem na pilíř a stěnou na vrchol.
 2. Náhorní stěna | IV (0.0.0000)
+   Popis: Vpravo od Staré cesty spárou a stěnou na předvrchol. Starou cestou na vrchol.
 3. Pasiáns | VIIb (7.9.1969)
+   Charakter: širočina
+   Popis: Od severu komínem na blok. Vlevo spárou ke kruhu, (stavěním ze sedačky) spárou a komínem na pilíř. Cestou Komín na vrchol.
+   Autor: Leopold Páleníček a Jaroslav Houser
    Komentáře:
    &gt; [27.3.2010 10:17:52 Hans] Duo autoru mluvi za vse. Holt neni VIIb jako VIIIa a u tyhle cesty bych se nebal bod az dva obtiznosti pridat.
    &gt; [2.6.2010 23:54:55 birkof] Těžký a špatně jištěný odlez z bloku až v podstatě k prvnímu kruhu. Je to později převislá spára a dost to tahá. Od kruhu mi to přišlo už lepší. Ale každopádně je to cesta, kterou si budete pamatovat! Jak píše Hans, taky mi to přišlo těžší než VIIb. Myslím, že VIIc s vykřičníkem by tomu sedělo víc.
@@ -778,9 +1107,13 @@ URL: https://www.piskari.cz/cs/skala/hvizdavy-dan-1459/
    &gt; [8.8.2022 11:14:13 EMBER] Velká cesta ve které nenajdeš jediný nudný metr. Ke kruhu v pruměru idealní žába (střídavě široká pěst a úzká pulžába). S moderními pomuckami dobre odjištitelné. U Q sme dobírali, stavění není potřeba - kto k nemu doleze tak má taky na čistý oblez. Moc se mi líbilo, ale je pravda že tohle muže být za VIIb jedine v Ádru.
    &gt; [21.6.2025 20:48:20 AdamSK] Podla mňa to nieje vôbec na výkričník, pokial má človek ako-také znalosti smyčkovania, tak sa to dá slušne zaistiť. Nástup z pilieru do špáry istí tutová bambula, ďalej vo výklenku sa dajú taktiež utrúsiť dobré smyčky. Liezol som na kusovku hore, 50m. Na volný oblez kruhu je lepšie valiť rovno hore a nedoberať sa v kruhu. S trením som zásadnejší problém nemal. Klasa VIIb mi celkom sedela, super lajna.
 4. Skat | V (21.11.1982)
+   Popis: V pravé části JV stěny spárou a komínem na předvrchol. Starou cestou na vrchol.
+   Autor: Stanislav Lukavský, F. Jaroš, T. Čada
    Komentáře:
    &gt; [1.7.2019 15:29:49 VojtaP] Nezáludná ruční spára, která sice není nikterak dlouhá, ale člověk rychle nabere pěknou expozici nad údolím.
 5. Stará cesta | II (11.5.1965)
+   Popis: Z náhorní strany pravým komínem na předvrchol a stěnou na vrchol.
+   Autor: Milan Rusý, A. Kundrata
    Komentáře:
    &gt; [11.7.2018 21:34:26 wallda] Celkem pěkná, lehčí cesta, kde vás jméno autora nemusí odrazovat.Hezký výhled.
 </desc>
@@ -794,20 +1127,34 @@ URL: https://www.piskari.cz/cs/skala/cherubin-1379/
 
 --- CESTY ---
 1. Čardáš | VIIIb (4.7.1977)
+   Charakter: trhlina | ruční spára
+   Popis: Vpravo od cesty Dětský pláč úzkou spárou ke kruhu. Spárou a komínem na předvrchol. Stěnou na vrchol.
+   Autor: Stanislav Lukavský
    Komentáře:
    &gt; [31.12.2009 10:07:43 Jony] Parádní nelehká linie. Jsou jedinci kteří snad i hodili záda těsně z pod kruhu a odešli po svých. Terén dopadu tomu nahrává, ale .... Někdo říká, že kruh je blbě daný, prý ho snad Cikán dával z nadlezu (defakto ho tam asi původně nechtěl dát), je zkrátka danej až v místě, kde jsou hlavní obtíže cesty za námi (příliš brzká snaha o jeho cvaknutí se prý nemusí vyplatit). Žába, co následuje je exkluzivní, za odměnu.
    &gt; [22.7.2013 14:58:28 kopcolezec] Jako druholezec bych dal hvězdy i dvě :) ale všichni víme jak to na tom nesprávným konci je.. Krásný prstový lezení s největšími obtížemi pod kruhem. PS: pokud si člověk sedne v poslední smyčce dávané z žabky lze v klidu namontovat smyčku kruhovku..
    &gt; [12.7.2015 20:27:10 hans1996] Pokusy byli tři. V prvním jsem sletěl těsně pod kruhem, vyrval první smyčku a naštěstí mě chytla druhá, dva metry nad zemí. V druhém jsem vyhnil a ve třetím jsem to konečně dal čistě. Je lepší to lézt pod kruhem na sokola. Lézt to na finger-locky je mnohem těžší. Jinak vršek už byl spektakulární, terén tak za VIIa.
    &gt; [17.1.2022 10:16:45 Paďas] Nelehká linie hlaně hlavou. Smyčky nějaké jdou, ale žádné tuty hnízdo tam není..dvě jsem zatížil, do jedné zlehka odskočil...ale jak jsem se dostal do místa, kde se zleva připojuje malý balkonek, už jsem o odskoku v žádném případě nepřemýšlel a valil..Jak píše Jony, při brzkém cvakání hrozí průvan do vrat, zachovat klid a cvakat až z exkluzivní žáby se rozhodně vyplatí...pětihvězda s vykřičníkem :)
 2. Dětský pláč | VIIa (28.6.1971)
+   Charakter: širočina
+   Popis: Levou SV spárou a komínem na plošinu. Přechodovou cestou na vrchol.
+   Autor: Jaroslav Houser, P. Toman
    Komentáře:
    &gt; [31.12.2009 10:11:23 Jony] Ve starým to bylo dokonce za V. Úlet. Není to zrovna příjemná šířka a vypadnout by zas nebyl takový problém, ale jde jen o těch prvních několik metrů, pak už tam žádný zadrhel není.
    &gt; [23.6.2025 20:48:00 AdamSK] Najťažšie miesto istí veľká bambula, nad ním je nepríjemný prelez z ručnej špáry do klúča, koleno sa na chvíľu vleze, ale potom ho treba znova vybrať. To mi prišlo asi ako klúčové miesto. Vyššie už len dlllha sukačka a drina.
 3. Obkročák | VIIb (8.6.1985)
+   Charakter: ruční spára
+   Popis: Vlevo od cesty Viva Rita úzkou spárou do komína, jím a spárou k římse. Vpravo ke spáře, tou a stěnou shodně s cestou Viva Rita na vrchol.
+   Autor: Stanislav Lukavský, M. Matějka
    Komentáře:
    &gt; [31.12.2009 9:54:27 Jony] Smyčky jdou, nejmíň příjemný mi přišel asi kousek před přechodem doprava (pokud si dobře vzpomínám). Nahoře v knížce bylo napsáno, že dole bez odšlapu za sebe, tuto poznámku považuju za scestnou, bouldrovat (ve smyslu tenhle chyt jo tenhle ne) chodím jinam. Samozřejmě člověku dojde, že čím víc to poleze rozporem, tím míň si užije spárky, která ale v jednom místě dole bez odšlapu by byla dle mě krapet jinde než v VIIb.
 4. Průlezem | VI (4.9.1982)
+   Popis: Uprostřed JZ stěny soustavou spár do komína, průlezem na protější stranu a stěnou na vrchol.
+   Autor: Stanislav Lukavský, Jos. Houser
 5. Přechodová | VIIa (21.6.1961)
+   Charakter: rajbas | přeskok
+   Popis: Z vrcholu Adama a Evy přeskokem na balkon ke kruhu a stěnou na plošinu. Komínem a stěnou na vrchol.
+   Autor: Herbert Richter, F.Flötgen
    Komentáře:
    &gt; [14.6.2009 13:23:12 Hans] Přeskok mi přišel celkem nepříjemný. Trochu se na tom malým balkonku plete borovička. Pak pár zajímavých rajbasových kroků a člověk má dva vrcholy :)
    &gt; [18.6.2011 20:30:34 Alešák] Pěkné rajbasové lezení.
@@ -815,6 +1162,9 @@ URL: https://www.piskari.cz/cs/skala/cherubin-1379/
    &gt; [30.10.2017 15:52:03 Pavlík] přeskok v pohodě, ale rajbák takový nic moc solivý
    &gt; [5.12.2021 21:04:19 Špásik] Přeskok mi naopak na 2 příšel celkem příjemný. Oproti tomu rajbák dost šustí. Nejtěžší se odlepit z balkonu a oblézt kruh, jakmile je člověk nohama lehce nad kruhem obtíže poleví a utíká se k vrcholu.
 6. Sen čumilů | IXa (31.7.1982)
+   Charakter: ruční spára | sokolík
+   Popis: V pravé části JZ stěny v koutě sokolíkem a stěnou (kruh) pod převis, v něm spárou doleva, spárou a komínem na balokn. Stěnou na vrchol.
+   Autor: Stanislav Lukavský, J. Houser
    Komentáře:
    &gt; [31.12.2009 10:25:16 Jony] Před lety tam ještě stála bříza, která to má už za sebou. Díky tomu začala cesta trochu vysychat. Mechu, lišejníku se tam však pořád daří. Hvězdičku dávám za pěknou (byť možná nevábně vyhlížející) linii a pěkný (výše dost exponovaný) lezení v ALE nevábným terénu.
    &gt; [22.7.2010 13:07:22 štika] I bez břízy pořád se žluté houbě daří ,člověk musí mít hodně páry a morálu ,aby se dostal čistě nad převis .Šel sem na druhým ,ještě nenadešel můj čas vlítnout do takový cesty na prvním .Žába drží dobře .Cesta má 10 přelezů od roku 1982.
@@ -822,9 +1172,14 @@ URL: https://www.piskari.cz/cs/skala/cherubin-1379/
    &gt; [20.6.2011 12:07:46 Alešák] 11. přelez.
    &gt; [20.6.2011 13:53:32 lezecc] Cesta která hraje všemi barvami, od žlutého lišejníku až po brčálový žabinec. Kvalita materialu pokulhává tak že by si každý z přelezců mohl uloupnout kousek na památku, ale i přes to je to famozní linie kde se střídá technický ladění s hrubou silou a přelezení se určitě zaryje do paměti.
 7. Spárka | V (31.3.1990)
+   Popis: Vpravo od cesty Viva Rita spárou na pilíře a vlevo po hraně na vrchol.
+   Autor: Stanislav Lukavský, J. Bukvic
    Komentáře:
    &gt; [19.7.2019 14:29:47 VojtaP] Relativně pěkný, nejdřív žába a než se zaleze do komína je třeba zdolat kratší širočinku. Ve vrcholovce je uvedena jedna cesta co není v průvodci a má dost podobný popis jako Spárka, takže je možné, že se jedná o jednu a tutéž cestu.
 8. Viva Rita | VIIa (2.6.1974)
+   Charakter: stěna | ruční spára | širočina
+   Popis: V pravé části SV stěny (mezi Cherubínem a blokem) spárou přes rozšíření na balkon a stěnou na vrchol.
+   Autor: Miroslav Šmíd, J. Holý, A. Pohl
    Komentáře:
    &gt; [12.6.2011 7:25:26 Hans] Pěkná, trochu skrytá spára. Nejtězší je přelézt rozšíření hned na nástupu. Pak už víceméně žába. Smyčky nějaké jdou, ale spíše kindry a velký uzly. Vrcholovou stěnku jistí solidní borovice.
    &gt; [1.7.2011 9:17:07 Pavlína] Jištění je překvapivě dobré - kindr, lanovice. Trochu nepříjemný je zelený konec spáry, ale nic záludného tam nečeká. Solidní borovice se solidně kýve.
@@ -832,6 +1187,8 @@ URL: https://www.piskari.cz/cs/skala/cherubin-1379/
    &gt; [28.6.2017 13:09:06 cervo] Určite stojí za to! Ak by bola niekde pri vstupe, alebo za Stránskymi tak je to hitovka. Istenie dobré, žaba tutovka. Prelezov pomenej...
    &gt; [2.7.2025 18:45:12 DavidH] Obtíže zpočátku, pak jistota v žábě.
 9. Ze sedla | V (23.7.1971)
+   Popis: Od JZ komínem mezi Cherubínem a Majkou do sedla. Zleva stěnou ke spáře a tou na vrchol.
+   Autor: Jaroslav Houser, J. Zelenka
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -843,6 +1200,8 @@ URL: https://www.piskari.cz/cs/skala/jara-cimrman-1479/
 
 --- CESTY ---
 1. Dobytí severního pólu | VIIb (21.6.1997)
+   Popis: Náhorní stěnou ke kruhu, trhlinou a spárou na vrchol.
+   Autor: Petr Mocek, Š. Gereg
    Komentáře:
    &gt; [17.1.2016 21:27:20 michal] Sice krátká, ale pěkná ladička stěnkou, pak tempo spárkou.
    &gt; [4.5.2024 12:30:53 Pajas] Cvakání kruhu pro lezce měřící méně než 185 je nejspíš nepřijemný, smyčka pod ním jde.
@@ -857,16 +1216,25 @@ URL: https://www.piskari.cz/cs/skala/jebacek-1427/
 
 --- CESTY ---
 1. Jebačka u kruhu | VIIa
+   Charakter: rajbas
+   Popis: Starou cestou (spárkou) na pilíř a vlevo stěnou na vrchol.
+   Autor: Petr Mocek
    Komentáře:
    &gt; [6.6.2011 10:56:48 cervo] Nástup ako ´Včelí rojení,špárkou na policu ku kruhu a okolo neho doľava pekným rajbasom (na VIIa celkom ľahkým) na vrchol
    &gt; [7.6.2011 8:16:28 Hans] Přiznačný název :D. Kruh se cvakne v pohodě, pak je třeba se odlepit z pilířku a udělat ještě jeden krok v rajbase a už člověk plácá vrcholovou hranu. Nezáludná cesta.
    &gt; [21.8.2013 17:30:23 JH] Kvak s pěkným krokem ještě hvězdu nedělá.
    &gt; [30.6.2015 23:17:32 Páša] Pěkná cesta na jistotu, po cvaknutí kruhu to chce jen trochu naskočit do rajbasu :D
 2. Rozpor | III (9.8.1996)
+   Charakter: stěna
+   Popis: Starou cestou na Lesáčka do sedla. Rozporem a stěnou na vrchol.
+   Autor: Petr Mocek, Z. Zilvar
    Komentáře:
    &gt; [31.5.2012 11:12:08 Šáfa] Dodáním slaňáku jde o jednu z nejbezpečnějších cest pro začátečníky v Ádru. S kruhem od &quot;Jebačky&quot; u pasu se z madel vpravo za hranou už cvaká slaňák. Bez rozporu z těchto chytů cca za V.
    &gt; [31.8.2020 11:20:48 MichalF] Jednoduchy zacatek, vzdusny rozpor (ale kruh blizko). Vahal jsem, jestli je OK cvaknout si slanak a pak delat zaverecny krok, ale bez toho by to bylo daleko tezsi. Takze pred zaverecnym vylezem jde jeste dojistit pres slanak, pak je to za III.
 3. Včelí rojení | VI (9.8.1996)
+   Charakter: rajbas
+   Popis: Od JZ spárou na polici ke kruhu. Vlevo po hraně na vrchol.
+   Autor: Zdeněk Zilvar a Petr Mocek
    Komentáře:
    &gt; [6.7.2010 11:07:02 STUBA] Na věži chybí slaňák.
    &gt; [6.6.2011 10:54:28 cervo] Nepríjemný krok okolo kruhu a trošku moralovejšia hrana ale výkričník by som nedal...na veži pribudol zlaňák aj nová cesta vpravo od rojení
@@ -876,6 +1244,9 @@ URL: https://www.piskari.cz/cs/skala/jebacek-1427/
    &gt; [13.10.2015 15:48:39 Pavlík] mě se to i líbilo, ale šestka je to možná pro někoho, kdo má dva metry. výlezová hrana v pohodě, je tam stromek a dá se vyčarovat i kruh z vedlejší cesty
    &gt; [13.10.2015 16:14:51 Staník] No ehm šestka... S nadsázkou &quot;šestkový lezec se tu zabije&quot; :-) Bouldřík s příchutí morfa kolem kruhu, vč. nataženého cvakání... Pak se najednou octneš na hraně a mrká na tebe morálový lehce křupavý rajbáček-jebáček a dole otevřené náruče polic pod kruhem. No přicvakl jsem si Q z vedlejší cesty také (dlouhá prodlužka) Hezké lezení + adršpašský folklór. :-)
 4. Zumba kroky | VIIc
+   Charakter: stěna | rajbas | trhlina
+   Popis: V údolní (SZ) stěně z předskalí (stavěním) do spáry (1. kruh). Spárou na balkonek. Vpravo stěnou (2 kruhy) do římsy. Traverz stěnou vpravo (2 kruhy) k prstové spárce a tou na balkonek. Vlevo stěnou (kruh) na vrchol.
+   Autor: Bronislav Dlouhý, P.Bárta
    Komentáře:
    &gt; [18.7.2011 9:50:43 broněk] Je škoda, že se nepovedlo přelízt nástupový převislý sokolík, nějakej silák to dá. Tak to bylo nakonec sasky postaveno. B
    &gt; [18.9.2011 14:49:57 Iwoš] Jéžišmarjá, proto to bylo tak těžký! Já nevěděl, že je tam stavění, tak jsem se tam trápil, dokud jsem to nevytrápil:) Tak by to mohlo být VIIIa Jinak, až to pořádně oschne a trochu se to oleze, je to pěkná, odjištěná cesta. Tuším, že pod třetím je utržený chyt, ale i za ten zbytek se dá cvaknout (já to nebyl).
@@ -893,6 +1264,9 @@ URL: https://www.piskari.cz/cs/skala/jehlicka-1488/
 
 --- CESTY ---
 1. Severní | VIIa
+   Charakter: ruční spára
+   Popis: Gebrochenen Nordriss (Ring) z.G.
+   Autor: MJ, Jacob Trültzsch, Stefani Kraft
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -904,6 +1278,8 @@ URL: https://www.piskari.cz/cs/skala/kapoun-1482/
 
 --- CESTY ---
 1. Kohoutí kastrace | VIIa (18.5.1997)
+   Popis: Levou náhorní hranou (kruh) na vrchol.
+   Autor: Jan Jüptner a Petr Mocek, Š. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -915,11 +1291,20 @@ URL: https://www.piskari.cz/cs/skala/klakvakrakve-1440/
 
 --- CESTY ---
 1. Cesta ptáčka jarabáčka | VIIb (8.7.1978)
+   Popis: Vlevo na SZ straně věže sokolíkem, spárou přes převis na konec a stěnou na vrchol.
+   Autor: Petr Mocek, S. Lukavský
 2. Jednou nohou v rakvi | VI
+   Charakter: širočina | komín
+   Popis: Nástup jako Vnitřní. Přímo komínem a spárou na vrchol.
+   Autor: Vojtěch Přibyl
 3. Vnitřní | III (21.9.1974)
+   Popis: Z kouta na JV straně věže průlezem do komína a jím na vrchol.
+   Autor: František Jaroš, V. Pípal, A. Krčmářová
    Komentáře:
    &gt; [14.6.2020 22:27:42 VojtaP] Znalost lezení širočin výhodou.
 4. Vnitřní – Varianta | IV (24.8.1996)
+   Popis: Od JZ koutovou spárou do komína.
+   Autor: Bedřich Schejbal, M. Bahník
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -931,6 +1316,8 @@ URL: https://www.piskari.cz/cs/skala/kleofas-1468/
 
 --- CESTY ---
 1. Večeře páně | VIIa (28.6.1997)
+   Popis: Z údolní strany sokolíky a stěnou na vrchol.
+   Autor: Petr Mocek, Š. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -942,6 +1329,8 @@ URL: https://www.piskari.cz/cs/skala/kodl-1398/
 
 --- CESTY ---
 1. Za zelenou | IV (27.7.1985)
+   Popis: Z náhorní strany (od JV) komínem a spárou na pilíř ke kruhu. Stěnou na vrchol.
+   Autor: Milan Rusý, F. Jaroš, S. Mareček, Z. Sucháň
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -953,6 +1342,9 @@ URL: https://www.piskari.cz/cs/skala/konipas-3662/
 
 --- CESTY ---
 1. Trojskok | VIIb
+   Charakter: rajbas
+   Popis: V údolní stěně postavením přes 1. kruh ke 2. kruhu, stěnou ke kruhu cesty Skok.
+   Autor: Petr Mocek,
    Komentáře:
    &gt; [31.5.2012 23:19:22 paštik] Malá věžka mezi Krokodýlem a Jebáčkem.
 </desc>
@@ -966,6 +1358,8 @@ URL: https://www.piskari.cz/cs/skala/kozlicek-dazule-1394/
 
 --- CESTY ---
 1. Entomologický spor | IV (9.8.1997)
+   Popis: Z turistické cesty komíny na pilíř. Překrokem a po hraně na vrchol.
+   Autor: Zdeněk Zilvar a Petr Mocek, S. Lukavský
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -977,6 +1371,8 @@ URL: https://www.piskari.cz/cs/skala/krakonos-1457/
 
 --- CESTY ---
 1. Pohádková | IV (5.6.1977)
+   Popis: Od JZ komínem a spárou na pilíř. Stavěním, stěnou do římsy pod hlavu, v ní traverz doprava za hranu a stěnou na vrchol.
+   Autor: Stanislav Lukavský, Z. Zilvar
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -988,6 +1384,8 @@ URL: https://www.piskari.cz/cs/skala/kravos-1412/
 
 --- CESTY ---
 1. Náhorní | III (2.6.1984)
+   Popis: Náhorní stěnou na vrchol.
+   Autor: Ivo Sedláček, M. Rusý
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -999,7 +1397,12 @@ URL: https://www.piskari.cz/cs/skala/krokodyl-1428/
 
 --- CESTY ---
 1. Aligátor | VIIb (4.6.1983)
+   Popis: V levé části SV stěny šikmo vpravo pod převis ke kruhu. Stěnou přes převis a spárou čtyři metry. Stěnou vpravo a komínem na balkon. Smyčkovou cestou na vrchol.
+   Autor: Bohumír Mach a Pavel Hanuš
 2. Kolo nebo lezení | VIIIa (28.7.1996)
+   Charakter: stěna
+   Popis: Z plošinky cesty Sakrekér stěnou (3 kruhy) na pilíř. Vlevo komínem na pilířek a stěnou (4. kruh) na polici. Vlevo komínem na balkon a Smyčkovou cestou na vrchol.
+   Autor: Jan Vrbata a Petr Mocek
    Komentáře:
    &gt; [27.5.2009 13:37:54 G] Pěkné lezení. Nejtěžší místo mi přišlo nad druhým kruhem. Ke 4. kruhu je trochu nepříjemný zdvih a odlez od něj do komína za hranu není taky zadarmo.
    &gt; [2.6.2010 23:26:43 birkof] Pěkná cesta, po druhý kruh lehké lezení, pěkně odjištěné. Nejtěžší krok z celé cesty je odlez od druhého kruhu šikmo vlevo na hranu, což mi přijde i těžší než jaká je obtížnost cesty. Od třetího je to už zase lehčí, dá se.
@@ -1010,17 +1413,29 @@ URL: https://www.piskari.cz/cs/skala/krokodyl-1428/
    &gt; [17.6.2012 20:51:50 Skobič] Hezké po 4.Q. Ta překulovačka do zamešeného severu vzala jednu létavici. Kdybych to nelezl s Kamanem, který tu cestu znal, tak u 4. stavím.
    &gt; [13.6.2013 16:45:23 Šáfa] Alešákem zmiňovaná varianta po oblé hraně přes 2 kroužky by měla být &quot;Krokodýlí záda&quot; VIIIa, tím ovšem nezpochybňuju to VIIIb ve skutečnosti.
 3. Krokodýl Dunndee | VIIb (13.10.1990)
+   Charakter: stěna | ruční spára
+   Popis: V pravé části JV stěny mělkým komínem a spárou k 1. kruhu. Stěnou vlevo ke spáře, tou až na rampu a po ní vpravo ke 2. kruhu. Stěnou po jižní hraně na balkon a Smyčkovou cestou na vrchol.
+   Autor: Petr Mocek a Stanislav Lukavský
    Komentáře:
    &gt; [16.6.2009 12:44:04 Jony] Mělký komín představuje takovou soustavu spárek v koutě, nepříliš líbivé. Traverz ke kruhu, jde zajistit buď útěkěm do náhorky za štandem, nebo dobrýma smyčkama ve spáře Smyčkové cesty, ke kruhu se musí člověk trochu natáhnout. Traverz do spáry se zdá neuvěřitelným, ale možným a konečně do ústřední pěkný spáry, povětšinou s hravou žábou. Z rampy doprava na hranu je dle mě zbytečný útěk z linie, ale to je věc názoru.
 4. Krokodýlí hřbet | VIIIb (0.0.0000)
+   Charakter: stěna | rajbas
+   Popis: Cestou &quot;Kolo nebo lezení&quot; na pilíř a při pravé hraně pilířem přes 2 kruhy do sedla a cestou &quot;Kolo nebo lezení&quot; na vrchol.
+   Autor: Václav Líbal, Štěpán Omámik, Roman Plný
    Komentáře:
    &gt; [23.8.2016 9:08:16 Hlaďas] Parádní 50m dlouhá linie.
 5. Sakrekér | VIIa (21.9.1969)
+   Charakter: stěna | ruční spára
+   Popis: Od JZ spárou na plošinku a traverz stěnou doprava ke kruhu. (Stavěním ze sedačky), spárou na plošinu, po hraně a vpravo spárou na balkon. Smyčkovou cestou na vrchol.
+   Autor: Leopold Páleníček a Petr Mocek
    Komentáře:
    &gt; [16.6.2009 12:55:10 Jony] Přelez stavění je pěkná technická záležitost. Problémové místo mi přišlo z plošiny, z vrcholu pilířku se dostat na hranu (zwergtod), kde je pak možnost dobrých smyček a dál buď hned nebo ještě kousek po hraně ke kyzům a doprava do spáry.
    &gt; [16.6.2009 22:22:42 Staník] Ja dlouho, uz nemluvit meine sudetsiche Heimat Sprache, Ich sage co znamenat &quot;Zwergtod&quot; ? Znamenat &quot;zverg&quot; trpaslik a &quot;tod &quot; smrt? Danke fur deine Antwort. :-)
    &gt; [17.6.2009 21:23:58 Jony] :) přesně - trpaslíkova smrt, možná v daném případě až moc nadnesené, ale i když tam člověk obhodí pilíř, tak pokud člověk není dlouhej jak týden ... mně to aspoň krapet nepříjemný přišlo, defakto v VIIa by to mohlo trochu rozhodit.
 6. Smyčková | VIIb (3.10.1948)
+   Charakter: ruční spára
+   Popis: Z náhorního předskalí vlevo dvojspárou, spárou (kruh) a komínem na balkon. Stěnou na vrchol.
+   Autor: František Kutta, J. Prousek
    Komentáře:
    &gt; [27.5.2009 13:31:23 G] Nejtěžší místo je hned na začátku, zdvih za žábu a klem bez nohou do další žáby, potom už je cesta výrazně lehčí až na vrchol. Počáteční obtíže se dají zajistit dobrou smycí.
    &gt; [27.5.2009 17:49:34 Hans] Kdysi jsem to na nástupu upytlil, i když je tam tutová smyce. Nástup je fakt vypečenej a dle názvu a doby prvovýstupu se lze dohadovat, jak to možná lezli.....
@@ -1030,6 +1445,8 @@ URL: https://www.piskari.cz/cs/skala/krokodyl-1428/
    &gt; [28.6.2015 9:52:23 Staník] Klíč je nástup, výborně zajištěný - erárka + vlastní. je to spíše technický krok, nebát se postavit a stát :-) dále další smyčky. Docela fajn cesta.
    &gt; [8.7.2015 11:17:57 Hlaďas] Klíč je v nástupu a mě dal docela zabrat i s jedním poletem do erárky:-) ale super jištěné a hezké lezení.
 7. Smyčková – Szavolczova varianta | VIIb (13.6.1984)
+   Popis: Od SV komínem mezi Krokodýlem a pilířem, překrokem a vlevo traverz stěnou přes hranu ke kruhu.
+   Autor: Szendro Szabolcs, R. Zsolt
    Komentáře:
    &gt; [16.7.2017 20:49:00 Pavlík] Cesta očištěna, tak směle do ní.. Před traverzem je ještě jeden kruh.
 </desc>
@@ -1043,7 +1460,12 @@ URL: https://www.piskari.cz/cs/skala/kren-1421/
 
 --- CESTY ---
 1. Koutová | VIIa (11.6.1964)
+   Popis: Z náhorní strany traverz po římse doleva na údolní stranu, koutovou spárou na plošinu a vlevo komínem na vrchol.
+   Autor: Milan Rusý, B. Skála
 2. Koutová - Přímá varianta | VIIa (0.0.0000)
+   Charakter: ruční spára
+   Popis: Z údolní strany spárou přímo do koutové spáry.
+   Autor: neznámý
    Komentáře:
    &gt; [10.5.2010 15:04:22 Tatuš] Krásná cesta, spousta smyček. Nejtěžší je ten přímý nástup.
    &gt; [12.7.2010 9:28:23 Šáfa] Souhlas s Tatušem. Jen bych ještě dodal, že všechny smyce můžou kvalitou suplovat kruh.
@@ -1051,7 +1473,11 @@ URL: https://www.piskari.cz/cs/skala/kren-1421/
    &gt; [21.10.2010 17:22:15 kopcolezec] Parádní, jen dolejc trochu zamotané..
    &gt; [6.6.2011 10:14:58 cervo] ´Pekné,dole trochu nepríjemné,ale potom parádne sokolíky a kyzy,smyčky sú tam fakt tutové
    &gt; [9.9.2013 19:13:43 Cub] Nemůžu jinak, než dvě hvězdy. Spodní narovnání se sice tváří trochu solivé, ale je to téměř vše za parádní žáby; nohy doblé; myslím jsem tam měl min dvě smyce. Zbytek koutovky vychutnávka se spoustou smyc.
+   &gt; [11.6.2026 8:38:18 Pavlík] Narovnání mi moc hezký nepřišlo. Je to do kopce, smyčky zádná sláva. Docela to solí a je to tak za VIIb. Za to druhá půlka je paráda a mozná i lehčí, jak VIIa. Přístě raděj originál.
 3. Nezdoba | VIIc (4.5.1983)
+   Charakter: ruční spára | širočina
+   Popis: Ze středu traverzu Koutové cesty spárou v SZ stěně na vrchol.
+   Autor: Stanislav Lukavský, I. Kobr
    Komentáře:
    &gt; [13.7.2010 7:53:38 Jony] Už od pohledu se převislý rozšiřující začátek jeví jako klíč k cestě. Je jím.
    &gt; [5.5.2015 22:49:14 Alešák] Pěkná linka. Na balkonku člověk jasně vidí, co se od něj očekává.
@@ -1066,6 +1492,9 @@ URL: https://www.piskari.cz/cs/skala/kridlo-1438/
 
 --- CESTY ---
 1. Měsíční prach | VIIb (17.6.1981)
+   Charakter: rajbas
+   Popis: Vpravo od západní hrany komínem k římse, v ní doleva a stěnou podél hrany (3 kruhy) na vrchol.
+   Autor: Ivan Kobr a Stanislav Lukavský
    Komentáře:
    &gt; [27.5.2009 13:48:21 G] Nádherná cesta, vyrovnané obtížnosti. Nepříjemné je postavení na polici pod 1. kruhem. Jsou tam ale hodiny.
    &gt; [10.6.2009 16:02:03 Skobič] Moc pěkné, jeden pořádný shyb (myslím, že u převísku je schovaný vlevo nějaký chýtek)a pak jen dokráčet do nebe...
@@ -1073,9 +1502,15 @@ URL: https://www.piskari.cz/cs/skala/kridlo-1438/
    &gt; [8.7.2013 20:30:06 choutka.jan@gmail.com] Akorát bacha včera jsme to lezli a první kruh jde celej vyndat rukou. Jinak supr cesta.
    &gt; [9.9.2013 13:58:13 Alešák] 1.Q jsme s Jonym vymenili.
 2. Peruť 111 | VIIb (10.5.1985)
+   Charakter: stěna | ruční spára
+   Popis: V západní hraně spárou ke kruhu a v římse traverz doleva. Stěnou, vlevo šikmým zářezem ke spáře a tou na balkon. Vlevo z balkonu spárou k římse, v ní vlevo na balkon Ptačí cesty a tou bez stavění na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek
    Komentáře:
    &gt; [16.6.2009 7:22:53 Jony] Ta spára vpravo od Ptačí mě zajímala již dlouho. Dostat se k ní znamenalo projít poctivým a nepříjemným školením ve špinavé stěně. Hledání chytů pod mechem, kdy se nedá věřit nohám, bylo samozřejmostí. Na balkonu štand. Z něj slízt na levý nižší balkon a konečně do té spáry. Celkem pěkná žába a pak sokolíkové lezení, smyčky jdou, jen ten matroš opět dovede trochu místy zahrát na nervy. Zajimavá, ale asi ne moc lákavá, nejdelší cesta na Křídlo.
 3. Ptačí | VIIa (9.6.1963)
+   Charakter: ruční spára
+   Popis: Od SV po porostlých stupních do žlábku, z něho traverz stěnou doleva a spárou (1. kruh) na balkon. Spárkou (stavěním) ke 2. kruhu. Vpravo stěnou na vrchol.
+   Autor: Bruno Flegel a Ilja Špitálský, M. Rusý
    Komentáře:
    &gt; [27.5.2009 13:57:24 G] Pěkná dobře odjištěná cesta, nejtěžší je přelézt stavění pod druhým kruhem. Dá se tam založit tenká tutová smyčka.
    &gt; [10.6.2009 15:59:18 Skobič] Na ten zelený humus ve spodku hned tak nezapomenu (můj zedřený kotník asi taky), ale jinak pod prvním ringem hezký boldřík. Tenký tvrdý prusík jde na tutovku.
@@ -1086,7 +1521,11 @@ URL: https://www.piskari.cz/cs/skala/kridlo-1438/
    &gt; [14.9.2009 16:13:12 Gloska] Jsem si to myslela. Byl dost nizko. Ale na ten prvni kousek dobry. Vsak tuhle jsme jeden podobnej (zapchanej radne stouradlem) schvalne testovali co by vydrzel, no sezeni ok, pad uz trochu horsi :-). Ale treba tenhle by zrovna drzel...
    &gt; [6.6.2011 10:49:28 cervo] Parádna cesta.Spodok pekné lezenie odistitelné,potom fajn špára ku kruhu (ten je postarší) a peknou špárou po chytoch do previsu na policu,kde troba niečo pozakladať urobiť nepríjemné dva kroky cvaknúť druhý kruh a valiť krásnou stienkou na vrchol
 4. Ptačí – Varianta | VIIa (9.6.1963)
+   Popis: Z náhorní strany stěnou doprava ke spáře a tou na balkon.
+   Autor: Ilja Špitálský, B. Flegel, M. Rusý
 5. Ptačí – Varianta varianty | VIIb (14.10.1988)
+   Popis: Ze spáry varianty Ptačí cesty traverz stěnou (kruh) vpravo na hranu a tou na balkon.
+   Autor: ZbyšeK Česenek a Zdeněk Zilvar
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1098,6 +1537,8 @@ URL: https://www.piskari.cz/cs/skala/lalubi-1425/
 
 --- CESTY ---
 1. Cesta naruby | VI (21.7.1978)
+   Popis: Mezi Lalubim a Divou Bárou (od SZ) rozporem ke kruhu. Vlevo spárou na plošinku, stěnou a žlabem na předvrchol. Stěnou na vrchol.
+   Autor: Petr Mocek, K. Živný
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1109,9 +1550,15 @@ URL: https://www.piskari.cz/cs/skala/lesacek-1426/
 
 --- CESTY ---
 1. Poslední leč | VIIIb (16.7.1978)
+   Charakter: ruční spára | sokolík
+   Popis: Nástup je pod středem JV stěny. Vydatným stavěním k 1. kruhu. Sokolíkem a spárou ke 2. kruhu. Stěnou, sokolíkem a spárou na předvrchol.
+   Autor: Petr Mocek a Stanislav Lukavský, J. Polák
    Komentáře:
    &gt; [31.5.2012 23:40:21 paštik] Vzdušná linie. Stavění se dá oblízt ve spoďácích z komína.
 2. Stará cesta | III (2.10.1960)
+   Charakter: stěna | ruční spára
+   Popis: Z náhorní strany spárou do sedla a soustavou spár na vrchol.
+   Autor: Petr Bohadlo, Z. Klikar
    Komentáře:
    &gt; [12.6.2011 7:35:30 Hans] Navzdory popisu tam toho spárovýho lezení zase tolik není. Respektive, ze sedla je možných několik variant. Smyčky jdou.
    &gt; [1.2.2012 12:13:44 štika] sem nějakej natvrdlej z předchozího komentáře,vůbec nerozumím .Nejsem in stárnu .
@@ -1120,10 +1567,14 @@ URL: https://www.piskari.cz/cs/skala/lesacek-1426/
    &gt; [10.8.2014 23:29:07 felis] Krásná a odjištěná troječka s nádherným výhledem na Milence. Sestup do sedla byl trochu nepříjemný.
    &gt; [31.8.2020 11:22:30 MichalF] Krasna trojka pro zacatecniky. Vsude jde zajistit dobre, sparky je kousek, sestup do sedla jde zajistit, dale schody, jisteni za stromy. Slaneni ma presne na chlup 30m.
 3. Stará cesta – Varianta | III (0.0.0000)
+   Popis: Vpravo od nástupu komínem do sedla.
    Komentáře:
    &gt; [13.6.2015 22:41:55 kubA_hk] Komin je uzoucky, ale pekne lezeni:)
    &gt; [12.9.2016 11:44:03 Kuzma] Pěkný komín s dvojspárou a úzkým průlezem. Dolez taky parádní. Spousty smyc.
 4. Údolní | VIIb (14.7.1963)
+   Charakter: ruční spára | širočina
+   Popis: Ze svahu pod levou částí SV stěny spárou k 1. kruhu. Spárou do díry a přes převis ke 2. kruhu. Spárou na vrchol.
+   Autor: Bohumil Bohadlo a Vladimír Bohadlo
    Komentáře:
    &gt; [9.5.2011 20:31:07 lezecc] Pěkná a dlouhá spára, jedinou výhradu bych měl k osazení 2 kruhu, který se cvakáí dost na dlouho a je natlučenej v ne uplně nejlepším kusu skály.O půl metru níž a bylo by všechno ok.
    &gt; [9.5.2011 22:08:42 birkof] Pěkná cesta. Trochu horší začátek, ale pak slušná žába. Nejtěžší krok cesty mi přijde asi metr, pod druhým kruhem. A taky si myslím, že druhý kruh mohl být o trochu níž, protože nejtěžší místo cesty se musí přelízt a pak lezete nahoru a říkáte si, hele, oni sem dali kruh. Dost fyzicky náročná spára. Stojí za to.
@@ -1144,28 +1595,51 @@ URL: https://www.piskari.cz/cs/skala/lesnik-1454/
 
 --- CESTY ---
 1. Halali | VIIIa (17.7.1982)
+   Charakter: stěna | ruční spára
+   Popis: V pravé části údolní (SV) stěny spárami a v převislém koutě sokolíkem k 1. kruhu. Traverz v římse doprava a žlabem (2. kruh) na vrchol.
+   Autor: Stanislav Lukavský a Jaroslav Houser
    Komentáře:
    &gt; [30.1.2010 10:06:40 Jony] Druhá ze dvou významných (pro mě) cest na Lesníka. Týden po Lovech beze zbraní pánové nelenili a uskutečnili další počin, tentokrát více vpravo. Trochu přituhovat začne pod kruhem, ale jde to dobře zajistit. Pak to začne, aspoň nám to začalo. Nejdřív traverz, tam je dobrý si dát práci a na konci najít a provázat hodiny, jsou dobrý, kevlar se šikne. Dostat se správně do žlábku byl pro mě zprvu oříšek. Nakonec jsme se ke 2. kruhu dostali. Načež následuje lezení z &quot;vysoké zahradnické&quot;. Víra v chyty a stupy vyhrabané v lesním humusu, kterým je vrcholový žlábek vyplněn, byla bezmezná.
    &gt; [27.3.2010 10:11:39 Hans] Abych doplnil Jonyho komentar. Po celkem dlouhe a uporne snaze provazat hodinky na 1.Q se snazil nabouldrovat do zlabku. Kdyz to konecne vymyslel a dostal se do zlabku, tak zjistil, ze nevi co tam. Se slovy: &quot;Tak jsem ve zlabku a jsem v p..i!&quot; prubnul pracne provazane hodiny :). Ale nakonec to hoch vymyslel a vrcholu bylo dosazeno :)
    &gt; [23.6.2011 13:55:01 Alešák] Mně se to teda líbilo. Spára pod kruh jde dobře odjistit, stejně jako převislý koutek , na jehož konci je první kus železa. Traverz do žlábku je klíčový, hodiny se provazují docela špatně, dokonce jsem si musel z kalhot vytáhnout pásek (5mm smyce). Od 2.Q technický žlábek, na jehož dně jde občas zarýt prsty do mazlavé hlíny. VIIIb by tomu slušelo asi více.
 2. Hon na lišku | VI
+   Charakter: stěna
+   Popis: Z balkónu náhorní cesty vpravo stěnou podél trhlin na balkónek, stěnou Q n.v.
+   Autor: Stanislav Čejp x S. Lukavský
 3. Hubertova jízda | VIIb
+   Charakter: ruční spára
+   Popis: V JZ stěně spárou k 1Q traverz vpravo po rampě ke 2Q. Spárou a komínem n.v.
+   Autor: S. Lukavský x A. Stephan x S. Čejp
 4. Kamizolka zelená | VIIb
+   Charakter: stěna
+   Popis: Nástup Náhorní cestou a mírně vpravo k 1. kruhu. Stěnou (2. kruh) doleva a žlábkem do cesty Hon na lišku, kterou na  vrchol.
+   Autor: Stanislav Čejp a  Stanislav Lukavský, Marco, M. Braun, A. Stephan
    Komentáře:
    &gt; [18.12.2015 21:35:42 michal] Parádní polezeníčko po dírkách a miskách.
    &gt; [10.7.2018 15:50:00 nosicek] Rozhodně souhlas. Jen u cvakání obou kruhů to chce opatrně.
    &gt; [5.5.2026 21:03:45 Pavlík] Vyplatí se dojít až sem. Klasa sedí.
 5. Lovu zdar | VIIIa
+   Charakter: stěna
+   Popis: Z odštěpu cesty &quot;Halalí&quot; přímo spárou Q na balkón, stěnou 2 a 3 Q, vlevo stěnou 4Q a podél hrany 5Q n.v.
+   Autor: A. Stephan x S. Lukavký, M. Mach
 6. Lovy beze zbraní | VIIIb (10.7.1982)
+   Charakter: stěna | rajbas | trhlina | ruční spára | širočina
+   Popis: V koutě u východního rohu spárou přes převis k 1. kruhu. Dvojspárou ke 2. kruhu. Traverz stěnou (3. kruh) doleva za hranu a žlábky (2 kruhy) na vrchol.
+   Autor: Jaroslav Houser a Stanislav Lukavský
    Komentáře:
    &gt; [23.1.2010 13:03:48 lezecc] Cesta na kterou je potřeba velký odhodlání.Podl mě jedna z &quot;velkých&quot; cest která prověří člověka snad ve všem co zdejší lezení nabízí.Převisem kousek na zemí to začne, spárovým ůsekem pokračuje,travers pěkně zahřeje a vrcholový žlábky....tak při těch jsem se dával chvilkama na modlení a vůbec bych se nezlonil za kousek železa navíc.
    &gt; [30.1.2010 0:07:59 Jony] Mocná cesta. Prověří fakt snad po všech strankách, jak již bylo řečeno. Je pravdou, že v některých pasážích jsou odlezy dlouhé a případné pády ještě delší a možná ne úplně příjemné, přesto hodnotím, jak hodnotím, protože ve mě převažují spíše ** pocity z této cesty. Pro mě jedna z top cest v Ádru.
    &gt; [12.2.2010 17:16:22 magnusek] Ve mně teda vrcholový žlábek zcela zadusil jakékoliv další pocity ze zbytku cesty. Zato pak ta radost na vršku :-)
    &gt; [1.6.2012 14:50:45 Alešák] U me rozhodne dvouhvezdickova cesta, ktera proveri lezcovu mnohostrannost. Nastupovy previs, kde se musi trochu zabrat, ke 2.Q na Adr atypicka mirne previsla stenovka, traverz a dolez ke 4.Q, kde to chce pro zmenu klid a vrcholovy patnactimetrovy zlabek, kde se musi clovek spolehnout na to, ze nic nedrzi v ruce, ale obcas dobre stoji. Lovy beze zbrani nabizi tohle vsechno a i s tou troskou potrebneho moralu je to uzasna cesta.
 7. Náhorní | III (1.8.1963)
+   Popis: Z náhorní strany soustavou komínů na vrchol.
+   Autor: Rolf Weigand, G. Schmiede
    Komentáře:
    &gt; [5.5.2026 20:11:52 DavidH] Příjemná nezáludná cesta s pár širočinokomínovými zdvihy na krásnou věž.
 8. Pytlácká varianta | VIIb
+   Charakter: stěna
+   Popis: Z &quot;Náhorní cesty&quot; v římse vpravo k 1Q Hubertovy jízdy.
+   Autor: S. Lukavský x A. Stephan x S. Čejp
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1177,6 +1651,8 @@ URL: https://www.piskari.cz/cs/skala/lidoop-1399/
 
 --- CESTY ---
 1. Hodinka taktiky | VIIa (11.7.1997)
+   Popis: Údolní koutovou spárou (nebo komínem z náhorní strany) do sedla. Komínem do rozporu, přepadem a stěnou (2 kruhy) na vrchol.
+   Autor: Petr Mocek, V. Meier, J. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1188,15 +1664,26 @@ URL: https://www.piskari.cz/cs/skala/lidovy-vypravec-1418/
 
 --- CESTY ---
 1. Báchorka | VIIb (29.10.1980)
+   Popis: SV spárou a komínem do rozšíření. Vpravo žlábkem na balkon. Stavěním a stěnou podél levé hrany na vrchol.
+   Autor: Stanislav Lukavský a Ivan Kobr
 2. Sedmilhářská | VIIa (21.10.1978)
+   Popis: Vlevo na jižní straně věže spárou na bloky, po nich přechodem doleva a komínem na balkon. Podél pravé hrany stěnou na vrchol.
+   Autor: Petr Mocek a Stanislav Lukavský
 3. Sladké mámení | VIIb (26.8.1992)
+   Popis: Vpravo od Sedmilhářské cesty širokou spárou na pilíř Staré cesty. Traverz vlevo stěnou za jižní hranu ke kruhu a stěnou přímo na vrchol.
+   Autor: Stanislav Lukavský, S. Lukavská
    Komentáře:
    &gt; [6.10.2015 15:14:09 Staník] Zajímavé lezení, úvodní spáru jsme trochu &quot;variovali&quot; ale chleba se láme nad pilířem. Ke kruhu OK (smyčka v koutku) nad Q přímo stěnou mi to nešlo. Je to sice ošlapané ale spíš od slaňování. Mírný úkrok k nevýrazné hraně to vyřešil :-) Radost nahoře nesmírná. Inu sladké mámení :-) Klasa určitě vyšší. Při prolistování vrcholovky se zdálo, že jde o první přelez - pokud jsem něco nepřehlédl.
 4. Slibotechna | VIIc (19.8.1992)
+   Charakter: trhlina | širočina
+   Popis: Sedmilhářskou cestou na bloky a stěnou podél trhliny na balkon. Soustavou trhlin (kruh) a stěnou na vrchol.
+   Autor: Petr Mocek a Stanislav Lukavský
    Komentáře:
    &gt; [11.7.2010 17:35:34 Hans] Nastupova sirocinka je dost neprijemna. Meli jsme druhy prelez. Prvolezec to cely musel vyhrabat a vyplevat. Ke kruhu jsou dobry smycky - testovano :). Ale zved ke kruhu (dost neprijemny) a nasledne odlez od kruhu je klic k ceste.
    &gt; [15.7.2010 18:28:17 G] S rejžákem a šťouradlem na borůvčí, vřes a jiný kekel je to nakonec docela pěkná ale těžká cesta. Na konci počáteční spáry jsou velké hodiny. Snad jen, že kruh se cvaká poměrně špatně, ale dají se pod ním založit dobré uzle.
 5. Stará cesta | V (0.0.1976)
+   Popis: Vpravo na JZ straně věže komínem na pilíř. Stavěním (kruh) a stěnou na vrchol.
+   Autor: Vladimír Netresta, J. Jüptner, M. Fenik
    Komentáře:
    &gt; [13.6.2015 23:07:03 kubA_hk] Vypečený dolez.
 </desc>
@@ -1210,11 +1697,22 @@ URL: https://www.piskari.cz/cs/skala/lvice-1382/
 
 --- CESTY ---
 1. Drezura | VIIb (10.8.1985)
+   Charakter: stěna
+   Popis: U západní hrany (z bloku) stěnou ke kruhu. Traverz stěnou vpravo k zářezu a jím na balkon. Stěnou na vrchol.
+   Autor: Petr Mocek a Stanislav Lukavský, J. Stach
    Komentáře:
    &gt; [11.8.2009 9:38:26 Jony] Problém je v zelené pokrývce a v nástupu. Ten mi přišel výživný. Pak už má člověk furt kde stát, takže dost času na čištění potřebných chytů a stupů.
 2. Dvojspára | VI (23.9.1962)
+   Popis: Od JZ komínem a spárou na vrchol.
+   Autor: Ilja Špitálský, M. Rusý
 3. Nohy do O | V (14.10.1979)
+   Popis: Od SZ stěnou na blok. Vlevo vydatným stavěním a spárou na předvrchol. Stěnou na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek, J. Rymeš
 4. Savana | VI (14.4.1985)
+   Popis: Od SV rozporovým komínem ke kruhu. Vpravo přes převis do spáry a tou na vrchol.
+   Autor: Stanislav Lukavský a Jaroslav Ticháček
+   Komentáře:
+   &gt; [25.5.2026 21:34:48 AdamSK] Fajn cesta. Najzaujímavejšie je v ceste vygulenie z komína do špáry, ktoré nakoniec nebolo také zlé ako vyzeralo.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1226,14 +1724,23 @@ URL: https://www.piskari.cz/cs/skala/majka-1380/
 
 --- CESTY ---
 1. Hranou | VI (25.7.1964)
+   Popis: Od SV spárou na blok, komínem a koutovou spárou na pilíř. Stěnou na vrchol.
+   Autor: Antonín Rousek, L. Šimek
    Komentáře:
    &gt; [28.7.2022 12:07:37 MichalF] Takova spravne zapomenuta cesta, ve ktere je trochu od vseho: dole mokra a zelena zaba, nad tim uzky komin, pak krasne kyzove lezeni a rajbak. Nastup do rajbaku trochu lechta, necha se pomoci si stromkem na polici. Kdyz uz budete nekde okolo, je skoda si cestu nevylezt.
 2. Hranou - Prstová varianta | VIIa (21.4.1984)
+   Charakter: ruční spára
+   Popis: Z nejvyššího místa terénu na SV straně věže úzkou spárou (kruh) na pilíř.
+   Autor: Stanislav Lukavský, A. Skalák
    Komentáře:
    &gt; [12.3.2010 8:30:28 Hans] Hodně úzká žába. A hodně poctivý VIIa.
    &gt; [12.7.2015 20:28:52 hans1996] Pohodová rozlízačka na čardáš. Nechce to mít klobásojidní prsty.
 3. Kořalička | VIIa (25.9.1983)
+   Popis: V pravé části JZ stěny spárou na pilíř, po něm vlevo a stěnou na západní hranu. Stěnou (kruh) na vrchol.
+   Autor: Petr Zeiska a Stanislav Lukavský, P. Toman, F. Jaroš
 4. Kořalička – Varianta | VIIb (28.7.1990)
+   Popis: V levé části JZ stěny spárou na pilíř.
+   Autor: Vladimír Sojka, P. Hejtmánek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1245,9 +1752,14 @@ URL: https://www.piskari.cz/cs/skala/mala-starostova-1452/
 
 --- CESTY ---
 1. Ftip za ftipem | VI
+   Charakter: vydatné stavění
+   Popis: Nástup cestou &quot;Stavěcí- tzn. vydatným stavěním&quot; na polici. Traverz kolem hlavy zleva až na balkón k velkým hodinám a čistě n.v.
+   Autor: Stanislav Čejp, O. Uher, M. Heliks, D. Ševčík a další
    Komentáře:
    &gt; [17.1.2016 20:29:54 michal] Asi se moc nepoleze.
 2. Stavěcí | V (19.8.1981)
+   Popis: Od JZ komínem a přes bloky na pilíř. Vydatným stavěním a stěnou pod hlavu. Stěnou doprava za hranu, stavěním a stěnou na vrchol.
+   Autor: Milan Rusý a Jarmila Sysalová, Š. Kozlová, J. Řehna, V. Hess
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1259,6 +1771,8 @@ URL: https://www.piskari.cz/cs/skala/mamicka-1492/
 
 --- CESTY ---
 1. Misionářský styl | VIIc (15.7.1990)
+   Popis: Na náhorní (JV) straně věže sokolíky ke kruhu, stěnou vpravo na hranu a tou na předvrchol. Přechodem vlevo pod vrcholovou část věže a stěnou vpravo na vrchol.
+   Autor: Stanislav Lukavský
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1270,6 +1784,8 @@ URL: https://www.piskari.cz/cs/skala/mechacek-1450/
 
 --- CESTY ---
 1. Stoka | VI (17.7.1982)
+   Popis: Náhorní hranou na pilíř a z přepadu stavěním ke kruhu. Stavěním ze sedačky a vlevo spárou na balkon. Stěnou na vrchol.
+   Autor: Stanislav Lukavský a Jaroslav Houser
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1281,10 +1797,17 @@ URL: https://www.piskari.cz/cs/skala/milacek-1405/
 
 --- CESTY ---
 1. Sakramiláčku | VIIb
+   Charakter: trhlina | ruční spára | širočina
+   Popis: Cestou &quot;Železné Pondělí&quot; přes 1.Q na Amorův Šíp na pilíř. Komínem ke 2.Q, krátký sestup komínem a vpravo přes kyzy do spáry. Tou na vrchol pilíře a cestou Ze Sedla n.v.
+   Autor: Jan Žwak a Martin Kulajta
    Komentáře:
    &gt; [7.8.2018 21:56:27 Artie] Původní záměr byl přímo stěnou. 2.Q (štand) je tedy lepší prodloužit smycí.
 2. Šampioni postelí | IXa (30.5.1987)
+   Popis: V pravé části údolní stěny (z turistické cesty) spárkou a sokolíkem k 1. kruhu. Traverz stěnou vpravo (2. kruh) a spárou ke 2. kruhu cesty Železné pondělí na Amorův šíp. Touto cestou do sedla mezi vrcholy. Cestou Ze sedla na vrchol.
+   Autor: Olin Seifer a Jaroslav Končák, J. Kožík
 3. Ze sedla | VIIa (14.6.1964)
+   Popis: Cestou Železné pondělí na Amorův šíp do sedla mezi vrcholy. Vpravo spárou na balkon a stěnou podél levé hrany na vrchol.
+   Autor: Milan Rusý, J. Poul, S. Donát
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1296,7 +1819,12 @@ URL: https://www.piskari.cz/cs/skala/milenci-1416/
 
 --- CESTY ---
 1. Cesta slunečního svitu | VIIIb (16.4.1968)
+   Popis: Ze soutěsky mezi Culíkem a Caparty komínem ke spáře Pilířové cesty a tou na pilíř. Spárkou, stěnou a v zářezu šikmo doleva na balkon. Stěnou přes převis ke kruhu, stavěním ze sedačky a stěnou na vrchol Milence. Přeskokem na vrchol.
+   Autor: Jaroslav Krecbach, K. Krecbach, V. Meier, O. Blecha
 2. Dlouhý kout | VIIc (23.6.1963)
+   Charakter: ruční spára
+   Popis: Komínem varianty Přes fichtli kolem jejího kruhu, komínem dále pod převis a doleva ke 2. kruhu. Spárou a výše trhlinou až na její konec. Traverz stěnou doprava ke 3. kruhu. Traverz stěnou doprava, spárou na lávku, po ní doleva a spárou šikmo doprava pod převis. Spárou přes převis, žlábkem a stěnou na temeno velkého bloku. Sestup komínem k 1. kruhu Staré cesty a tou na vrchol.
+   Autor: Karel Hauschke, V. Hornych
    Komentáře:
    &gt; [25.3.2009 8:11:53 Jony] Hodně dlouhá cesta. Spodní partie je občas zelená. Krok z konce trhliny ke 3. kruhu není úplně lehký, je možná dobrý nezapomenout si dát níž nějakou smyčku. V dlouhé dýlce od 3. kruhu na blok jde zhruba uprostřed i štand (u druhého převisu, tuším hodiny a uzel a dá se tam dobře stát). Sestup se asi nejvíce řeší přes slanění z hodin (bývala tam fixní smyce různé kvality).
    &gt; [28.5.2009 21:31:48 lezecc] Stará klasická cesta se vším všudy co do Adru neodmyslitelně patří. Dlouý kout je krásná kyzovitá spára s užasnou ewpozicí a trošku vypečeným krokem na konci koutu.Ale jinak krásná dlouhá a pro pískaře dobře odjistitelná cesta kterou určitě stojí za to podniknout.
@@ -1307,11 +1835,20 @@ URL: https://www.piskari.cz/cs/skala/milenci-1416/
    &gt; [25.7.2013 15:23:19 cervo] Krásne klasické lezenie, kde sa vystriedajú asi všetky druhy adršpašských špecialít. Super odistené a bezpečné lezenie, len v tých kyzikoch pod kruhom bacha....
    &gt; [31.7.2013 18:58:11 smolo] krásna klasika...
 3. Erotická masáž | Xa (5.8.1992)
+   Popis: Naproti nástupu Staré cesty komínem, výše spárou (1. kruh) a po hraně na věžičku. Vlevo stěnou ke 2. kruhu a po hraně ke 3. a 4. kruhu. Stěnou doprava (5. kruh) na balkon. Stěnou pod hlavu, traverz vlevo v římse mezi vrcholy a Mileneckou cestou na vrchol.
+   Autor: Jaroslav Kožík a Jaroslav Hujíček a Petr Balcar, L. Jánský
 4. Hupky dupky | VIIc (14.8.1982)
+   Popis: Z vrcholu věže Pilíř přeskokem na lávku a po ní doleva na Písčitou terasu. Cestou Linka důvěry bez stavění na vrchol.
+   Autor: Tomáš Čada, J. Walzel
    Komentáře:
    &gt; [7.9.2022 20:44:42 Pavlík] Přeskok je na pohodu. Klasa sedí. Na vrchol jsme pak dolézali starou cestou. Takže k tomu už nemám co dodat..
 5. Jedním vrzem | VI (22.7.1978)
+   Popis: Cestou Přes věžičky na pilíř. Vpravo rozporem na další pilíř. Komínem a koutovou spárou na odštěp. Koutovou spárou na plošinu, překrokem a po hraně na plató. Starou cestou na vrchol.
+   Autor: Petr Mocek a Karel Živný
 6. Letecká | VIIIa (9.6.1963)
+   Charakter: rajbas
+   Popis: Komínem Milenecké cesty do místa kde je průlezný k JV stěně. Průlezem a vpravo spárou k 1. kruhu. Z rozporu vlevo spárou na plošinku, stěnou a spárou na římsu a traverz doprava ke 2 kruhu (od 1. kruhu též přímo spárou ke 2. kruhu). Traverz stěnou doprava k hodinám. Po římse doprava a komínem na balkon ke 3 kruhu. Stavěním (ze sedačky) a stěnou ke 4. kruhu. Vlevo stěnou k 5. kruhu, zleva stěnou k 6. kruhu a stěnou šikmo doprava na vrchol.
+   Autor: Karel Hauschke, R.Zeidler
    Komentáře:
    &gt; [21.5.2009 21:54:11 lezecc] Když se tam udrží sníh tak mi taky, věta o který Kokša ani netušil co způsobí, zapříčinila vznik jedné z opravdových dominant Adršpašského lezení.Uvodní komím a hlavně následný výlez vypadají daleko strašlivěji než ve skutečnosti jsou,a po přepadu už je cesta k 1 kruhu volná, následné lezení v ohromné Milenecké stěně je ůžasným zážitkem, a i dokladem toho že i veliké stěny se dají dělat s minimem železa. Cesta však začne nabírat na obrátkách na bolkoně u 3 kruhu. Postavení do rajbasu a několik kroků ke kruhu jsou jen předehrou toho co bude následovat dál. Serie pohybů po vlnkových stupech se zatajeným dechem je ohromující a člověk si opravdu chvilkama přeje být lehký jak sněhová vločka a vznášet se vzhůru jak pírko. Celé to však kazí odlezový balkon který je občas vidinou nepříjemného dopadiště.Když už se balkon vzdálí na bezpečnou vzdálenost přiblíží se traverz od posledního kruhu a sním i myšlenka pořádného zhoupnutí.Letecká cesta je impozantní linie od začátku až do úplného konce a myslím že rajbasová část v horní části stěny bude duševní očistou pro spoustu lezců.(a snad jen duševní)
    &gt; [20.7.2009 22:47:12 Staník] Čistě věcně - komín k prvnímu jde je potřeba nabrat správnou výšku a pak teprve traverzovat komínem do údolky (smyčky). Překrok k 1. Q je v pohodě (smyčka na kyzu). Ke 2. Q lehčí zleva pak traverz (var přímo se zdá být těžší). Trochu nepříjemný a těsný je komínek (s převislým nálezem) k polici. Nad ní je první opravdu kritické místo - odlez ze stavění jde, čím blíže 1. Q nad policí, tím horší - hrozí tlama do police. Cvakání je fakt pitomý ale jinak to udělat nešlo, je potřeba se zvednout za vlnku na bočák. Oblez je ještě těžkej ale Q. je cvaklý... Pod 2. Q (nad policí ) to je zase do police ale jde to. Ovšem posledních pár kroků na vrchol je poměrně intenzivní výlet do mentálních možností prvolezce - 6až7 metrů lana k poslednímu kruhu... Chce to důvěru v sebe sama a koncentraci. Lezl jsem Leteckou asi 3× (na obou koncích) a myslím že je dost hodně podhodnocená. Když to srovnám s Dlouhým koutem nebo Jitřenkou (VIIIa) nebo Kitzbuhlem (VIIIc !) tak je tento Hauškův skvost výrazně náročnější na vlastní lezení i morál.
@@ -1322,14 +1859,24 @@ URL: https://www.piskari.cz/cs/skala/milenci-1416/
    &gt; [30.8.2010 0:31:45 Čaj] První kruh jde oblézt, zkrokoval jsem to bez magnésia. Naneštěstí jsem si nevšiml posledního kruhu v cestě, tak jsem jej vynechal a pod vrcholem by asi pád nebyl úplně košér. Vrchní část rajbasu mi přišla celkem lehká.
    &gt; [9.5.2018 20:20:33 cervo] Čo som sa na ňu načakal... ale stálo to za to! Spodná polovica cesty je skôr zážitkové ako ťažké lezenie. Až po balkón jednoznačne dve hviezdičky. Komín, špára, stenový traverz, no proste luxus! Celé to zaklincuje zaujímavá plazenica komínom, z ktorého sa vynoríte rovno pod hladkou stenou a rázom vás prejde smiech... Všetko to začína stavaním z balkóna do beznávratového rajbasu. Akonáhle sa človek odlepí zo stavačových ramien, začínajú krušné chvíle a hypnotizovanie 4.kruhu, ktorý sa približuje fakt po milimetroch... Týchto 5 metrov by som jednoznačne videl na víkričník. Čistý prelez stavania mi príde ako z inej galaxie a o VIIIa hádam nemôže byť ani reč. Cvaknutím 4.kruhu opäť začína dvojhviezdičkové a podľa mňa aj celkom bezpečné lezenie, kde treba vedieť stúpať vlnky a veriť plytkým vaničkám. 5.kruh sa mi cvakal v pohode a v doleze od 6.kruhu na vršok stačí zachovať chladnú hlavu a čisté kecky... Veľkolepá cesta!
 7. Linka důvěry | VIIb (26.9.1970)
+   Charakter: stěna | ruční spára
+   Popis: V pravé části JV stěny soustavou spár do jeskyně, komínem na Písčitou terasu a komínem na plató. U levého rohu přepadem, spárou ke kruhu (stavěním ze sedačky) a stěnou na vrchol.
+   Autor: Leopold Páleníček a Jaroslav Houser
    Komentáře:
    &gt; [22.10.2012 19:26:42 Jony] Spodek byl dost špinavej tehdy, ale nabízí docela dobrý lezení, v jeskyni si to chce utáhnout opasek.
    &gt; [3.7.2025 18:47:54 Nečo] Lezenie pekné v relativne dobrej skale. Špinavé sa mi to ažtak nezdalo určite sú aj zelenšie cesty. Průlez úplne vpohode, kým ste bežného vzrastu nemali by ste mațť problém.
+   &gt; [8.6.2026 20:17:15 AdamSK] Prvá dĺžka sa dala celkom dobre odistiť, aj keď to tak na prvý pohľad zdola nevyzerá. Pasáž rozporovým kyzovatým kútom je obzvlášť parádna. Na stavění pod vrcholom sa netreba doberať. Kruh nebudí moc veľkú dôveru, stačí ho čapnúť, stúpiť a hurá na vrchol. Veľká, málo lezená cesta.
 8. Linka důvěry - Život v jeskyni | IXb
+   Charakter: širočina
+   Popis: Cestou Linka důvěry do jeskyně (bivak). Rozporem (1. kruh) a převislou spárou (2. kruh) do komína cesty Linka důvěry a tou bez stavění na vrchol.
+   Autor: Jan Leníček a Petr John
    Komentáře:
    &gt; [11.5.2017 11:06:23 Jony] Poznání neschopnosti dolézt ke svému 2. kruhu bylo silně demotivující, trochu to mírnila výmluva na hnusný vedro. Při třetí návštěvě na podzim mi konečně Lenin zmizel z očí...
    &gt; [18.5.2017 8:33:12 Lenin] ...také se snažím ty nevydařené pokusy vytěsnit z hlavy, ale Petře, život v jeskyni jsme si vyzkoušeli čtyřikrát...cestu je vhodné si ze zemně bystrozrace prohlédnout, poté vzít dlouhého a širočinového a půjde to jako v pohádce...
 9. Milenecká | VIIa (5.6.1960)
+   Charakter: širočina | komín
+   Popis: Z nejvyššího místa Milenecké chodby komínem přes výklenek do velkého okna. Koutovou spárou do horního okna, stěnou k díře a průlezem do jeskyňky. Vlevo spárou (kruh) mezi vrcholy. Stavěním, rozporem a stěnou na vrchol.
+   Autor: Zdeněk Studnička a Bruno Flegel, M. Staněk
    Komentáře:
    &gt; [25.3.2010 6:06:12 Hans] Pokud si dobře vzpomínám, tak ta širočina kolem kruhu je dost osolená.
    &gt; [2.6.2010 23:10:47 birkof] Pěkné, jen ten konec zřejmě již nikdo neleze a uhne do klasiky
@@ -1340,23 +1887,40 @@ URL: https://www.piskari.cz/cs/skala/milenci-1416/
    &gt; [21.11.2016 21:37:31 Alda] Krásný expediční lezeni ,štandovaní ve smyčkách v pohodě
    &gt; [28.6.2017 13:22:54 cervo] Akýmsi nedopatrením som túto peknú klasiku dlho obchádzal, no o to väčšie bolo prekvapenie z rozmanitosti, ktorú cesta ponúka. Príjemný úvodný komín so špárou (erárky), chytovatá kútová spára, štand na smyčkách, širočina, previs a rozpor. Asi najťažšie mi prišlo miesto kúsok pod 1.kruhom, vyliezť z previsu ku kruhu (erárky). Pod vrškom kde je písané stavění, sme našli ešte jeden kruh, nad ním v previse tutové hodiny. Dva-tri ťažšie kroky a rozpor riešia stavění, myslím že kroky nepresahujú VIIa.
 10. Milenecká – Doteky | VIIb (4.8.1982)
+   Popis: Z horního okna traverz stěnou doleva, spárou (kruh) přes převis a žlábkem mezi vrcholy.
+   Autor: Milan Baldrych a Tomáš Čada
    Komentáře:
    &gt; [9.5.2018 9:14:47 Jony] Celkově pěkná a v závěru vzdušná linie. Samotná varianta je spíš kolem VIIIa/b (VIIb je přepsaná stará Ádr JPK do saské, což je v tomto případě mimo mísu), kde je třeba se vyhýbat lámavým chytům a pádu.
 11. Od branky | VI (16.10.1949)
+   Charakter: komín
+   Popis: Nástup je v koutě na východní straně věže (tvořený Milenkou a věží Pilíř). Soustavou spár (kruh) na Písčitou terasu. Starou cestou na vrchol.
+   Autor: Karel Krombholz, R. Kotala
    Komentáře:
    &gt; [29.8.2011 18:28:08 Šáfa] &quot;Soustavou spár (kruh) na Písčitou ...&quot; nemá se spárami nic společného, celou dobu se komínaří. Ke kruhu jsem utrousil nízko bambuli, od kruhu dvacet metrů nula nula nic a přišel nejtěžší krok, přelézání mezi komíny. Nakonec se tohle místo dalo výborně zajistit - hluboko uvnitř Milenky komínem až ke stropu a ve stropové spáře umístit bambule. Přesto, kdo nemusí hodně vzduchu pod zadkem by měl asi zkusit něco jiného.
    &gt; [12.9.2012 18:32:20 Šáfa] Snad nevadí, že sem zkopíruju historii prvovýstupu, jak ho popsal K.Krombholz. &quot;V říjnu 1949 jsme se s Radkem konečně vypravili na plánovanou výpravu do Adršpachu. Jeli jsme vlakem. Já měl už konopné lano a nějaké hasičské karabiny. Přijeli jsme do Adršpachu a namířili si to rovnou pod největší věž celého Adršpachu. Na jejím vrcholu byla totiž československá vlajka a to nás lákalo. Říkal jsem: „Když je tam ta vlajka, tak jí tam taky nějak museli dát!“ Tak jsme po cestě došli pod Milence a já začal lézt přímo z té pěšiny, protože se nám to zdálo nejlepší. Ani jsme nevěděli, že někde uvnitř komínového systému už vede cesta. Dolezl jsem až na takové místo, kde byl nějaký malý zrezivělý kroužek. Někdo to tam už tenkrát asi zkoušel. Jenže byl hodně špatný, tak jsem se jenom zajistil, ale sednout jsem si do něj neodvážil. No ale teď jsem zjistil, že Radek je čtyřicet metrů pode mnou a neumí se navázat! Musel jsem se hodně vyklonil a křičel na něj dolů těch 40 metrů, jak se má navázat, ale nevěděl jsem, jestli se uvázal dobře. Naštěstí Radek dolezl v pořádku ke mně a já pokračoval dál. Dolezl jsem až pod hlavu a pak už Starou cestou nahoru. Ale to jsme nevěděli, že je to nějaká cesta. Na vrcholu jsme si podali ruce a napsali se do knihy. Moc lidí tam ještě nebylo. Měli jsme teprve 76. výstup od prvovýstupu z roku 1923. Teď ale jsme měli veliký strach, protože jsme nevěděli jak dolů. Žádný kruh tam nebyl a ten vrchol je úplně hladkej, není tam žádná puklinka ani škvírka, prostě nic a ten komín je nahoře strašně široký, takže se tam nedá dost dobře nalézt. Jedině ten prapor tam byl, ale ta tyčka se strašně hýbala, jak už to bylo vyviklaný od větru. Ten prapor byl dost velký a vítr s ním hodně mával. Tak jsem navrhl, že odjistím Radka a pak to holt přes tu tyč zkusím slanit za ním. No a vtom šel naštěstí kolem nějaký horolezec a křičel na nás, jestli víme, že jsme udělali prvovýstup! Jmenoval se Otta Beneš. Já mu řekl, že jsme to nevěděli a že teď nevíme, jak se dostat dolů. On nám poradil jak slanit, že tam jsou pod námi dokonce kruhy o kterých jsme nevěděli, jenom že se musí dát pozor u třetího, abychom ho nepřejeli. Já bych toho kluka v tu chvíli políbil, jak jsem byl rád! Řekl, že na nás počká dole a do slanění nás navede. Slanili jsme dolů a ten Otta Beneš povídá: „Chlapi, vždyť vy jste udělali prvovýstup!“ Sranda ale byla, že Radek měl z toho prvovýstupu úplně rozervané kalhoty, protože ještě neuměl tak dobře lézt v komínech. Koukaly mu skrz ně bílé spodky, a tak Otta Beneš řekl, že nás na nádraží doprovodí. Já pak šel před Radkem a Otta za ním, aby se nestyděl za ty děravé kalhoty. Došli jsme takhle až k vlaku. Tak to byl můj první prvovýstup, shodou okolností v Adršpachu. Cestu jsme později nazvali Od branky a oklasifikovali ji za VI. Bylo to 16.10.1949.&quot;
 12. Pilířová | VIIa (27.8.1962)
+   Charakter: stěna | širočina | komín | přeskok
+   Popis: V levé části JV stěny Milence komínem do sedla a spárou na pilíř. Sestup spárou do velkého okna a vpravo v masivu Milenky spárou na balkon. Traverz stěnou doleva do horního okna a Mileneckou cestou mezi vrcholy. Traverz v římse doprava a stěnou na vrchol Milence. Přeskokem na vrchol.
+   Autor: Manfred Meissner, G. Schwenke
    Komentáře:
    &gt; [25.12.2009 17:23:14 Tatuš] Dlouhá klasická dřina, různé komíny, průlezy a širočiny. Vrcholový přeskok je lehoučký, max. za 2, ale je to v luxusní výšce.
 13. Pilířová – Vyhnání z ráje | VIIb (9.8.1996)
+   Popis: Od JV vpravo od Pilířové cesty spárou (2 kruhy) na pilíř.
+   Autor: Zdeněk Zilvar a Marek Volhejn a Petr Mocek
 14. Přes věžičky | VI (16.6.1968)
+   Popis: Vpravo od věže Pilíř v koutě komínem na pilíř (sem též z protilehlé strany kónickým komínem). V pravé části stěny širokou spárou a komínem na pilíř. Překrokem na plošinku a spárou na plató. Starou cestou na vrchol.
+   Autor: Bohumil Sýkora, M. Doubek, H. Bauer, J. Hülle
 15. Stará cesta | VI (18.6.1923)
+   Charakter: širočina | komín
+   Popis: Z Milenecké chodby komínem v masivu Milenky do vnitřního prostoru. Vlevo spárou a komínem k 1. kruhu, spárou do výklenku a průlezem na Písčitou terasu. Průlezem do komína, v jeho skloněné stěně spárou k díře a průlezem na plató. Spárou (2 kruhy) a stěnou na vrchol.
+   Autor: Otto Dietrich a Wilhelm Fiehl a Otto Rülke
    Komentáře:
    &gt; [14.3.2010 14:46:13 Hans] Převažuje komínové lezení, ale ta širočinka pod 1.Q dovede překvapit... V horních patriích více možností, kudy lézt.
    &gt; [6.6.2011 10:46:42 cervo] Komíny,komíny a komíny.Nepríjemná širočina pod prvým kruhom neodistitelná.Potom plazenice a jaskyniarstvo až pod vršok,kde je pekná chytovatá špára s dvomi kruhmi.Fajn klasika...
    &gt; [19.6.2014 22:05:33 beny] Pod prvním kruhem lze vyslat spolulezce do jeskyňky pod spárou, který potom skrz spáru bezpečně odjistí spolulezce.
 16. Stará cesta – Přes fichtli | VI (1.1.1925)
+   Charakter: komín
+   Popis: Od SZ z předskalí komínem ke kruhu. Traverz stěnou doleva na balkon, spárou a komínem dovnitř k 1. kruhu.
    Komentáře:
    &gt; [7.6.2009 23:01:54 Tatuš] Asi nejlehčí cesta na Milence. Nejhorší je nástupový komínek, který bývá často plný zeleně. Kdysi to prý bývalo o dost těžší, když na nástupu nebyl ten dřevěný rošt. Jinak spíše je to taková jeskyňařina, ale za ten vrchol to rozhodně stojí :)
    &gt; [7.6.2009 23:05:06 Tatuš] Další tipnuté datum. A neznámí autoři.
@@ -1367,6 +1931,9 @@ URL: https://www.piskari.cz/cs/skala/milenci-1416/
    &gt; [17.6.2013 13:37:55 myš] Věž která stojí za vylezení. Od předposledního kruhu k poslednímu kruhu je vylomený klíčový chyt a je nutné nástup do spáry řešit klasicky tj. je to zase o trošíčku těžší. Stálice na ve spárce řeší morál, ale už to není na pohodu.
    &gt; [4.9.2013 12:37:21 krizemar] moje první velká cesta na místní velikány.. Ani mi tolik nedal zabrat zaslizenej nástupovej komín, jako pak úvod vrcholové spáry
 17. Vzpomínka na Jana Šimona | Xa (13.7.1985)
+   Charakter: stěna | rajbas | ruční spára
+   Popis: Vlevo od cesty Linka důvěry spárou na balkon. Traverz stěnou doleva (1. kruh) do spáry a tou ke 2. kruhu. Stěnou přímo (3. kruh) ke spárce, šikmo stěnou doleva (4. kruh) na balkon. Leteckou cestou na vrchol.
+   Autor: Jindřich Hudeček a Josef Rybička, S. Šilhán, J. Vodrážka
    Komentáře:
    &gt; [23.10.2012 11:31:05 Jony] Jedinou vadou na kráse je místo kolem 3. kruhu, kde už něco málo chybí, což mi bránilo v úplném narovnání se u kruhu, pak už to zase jde. Nicméně cvaknout tento kruh taky není žádný med. Super sledování slabin vytčeného směru. No a z balkonu druhá půlka Letecké. Pavlína mi řekla počet zbývajících kruhů, jeden zatajila, a já následně pochopil těch několik lidí, co se jim tam ztratil jeden kruh.
 </desc>
@@ -1380,7 +1947,11 @@ URL: https://www.piskari.cz/cs/skala/mladata-1387/
 
 --- CESTY ---
 1. Náhorní | IV (0.5.1962)
+   Popis: Z náhorní strany soustavou spár na vrchol.
+   Autor: Zdeněk Studnička, I. Špitálský
 2. Zrušené zrušení | VIIb (9.6.1979)
+   Popis: V údolní (JV) stěně pravou koutovou spárou, výše vpravo stěnou přes převis k 1. kruhu. Stěnou (stavěním ze sedačky) ke 2. kruhu. Vlevo stěnou na vrchol.
+   Autor: Miloš Rain a Miroslav Burian a Aleš Skalák
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1392,9 +1963,14 @@ URL: https://www.piskari.cz/cs/skala/mocecek-1377/
 
 --- CESTY ---
 1. Pevný úd | VIIIa
+   Charakter: stěna | rajbas
+   Popis: JV stěnou vpravo 1Q do koutka, jím 2Q a po hraně na vrchol
+   Autor: Stanislav Lukavský, Petr Mocek, M. Svěcená
    Komentáře:
    &gt; [31.7.2015 10:04:47 shama] Pěkný kroky kolem druhýho, mezi kruhy jde založit pár tutových smyc.
 2. Rozechvělé údy | VI (16.5.1981)
+   Popis: Náhorní (JZ) stěnou šikmo doprava přes balkónek (kruh) a po hraně na vrchol.
+   Autor: František Ostradický, J. Gereg, M. Rain, V. Černý
    Komentáře:
    &gt; [3.7.2019 12:24:11 Kuzma] Krátký rajbas. Pod a kolem kroužku mi to přišlo svižnější. Teď už čisté.
 </desc>
@@ -1408,27 +1984,46 @@ URL: https://www.piskari.cz/cs/skala/mosna-1465/
 
 --- CESTY ---
 1. Jennyho fošna | VIIIa (21.8.1992)
+   Charakter: širočina
+   Popis: V levé části údolní SZ stěny spárou (kruh) na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek
    Komentáře:
    &gt; [27.3.2010 10:30:28 Hans] Kruh je relativně vysoko, ale pěkná širočina, kde obtížnost sedí.
    &gt; [1.6.2012 14:56:10 Alešák] Kruh je spis relativne nizko, kdyz zohlednim, jake kroky se jak vysoko nad nim delaji. Z nastupu to vypada, ze par metru nad zelezem spara (na ruku) konci a neni to pravde vzdalene. Spara na ruku opravdu par metru nad kruhem konci, ovsem k vrcholove knize nasleduje jeste dlouha streka, kde vetsinou kvedla ruka a nejde koleno. Kazdopadne paradni linie, jen to chce lezt najisto. Cela cesta je krasne videt naproti ze svahu (z Pluta a dalsich planetarnich vezi).
 2. Komín | III (0.0.1977)
+   Popis: V pravé části JZ stěny komínem na vrchol.
+   Autor: Václav Tůma, O. Vysoký
 3. Kuřecí spárka | VIIb (12.7.1992)
+   Popis: Vlevo od Staré cesty stěnou ke spárce a tou na plošinu. Cestou Přeskok na vrchol.
+   Autor: Marek Volhejn
 4. Obušku, z mošny ven | VIIc (11.6.1978)
+   Charakter: širočina
+   Popis: SV spárou na vrchol.
+   Autor: Stanislav Lukavský, J. Houser
    Komentáře:
    &gt; [18.8.2009 23:17:01 Jony] Jedna ze spárových lahůdek, které Mošna nabízí.
    &gt; [19.8.2009 17:37:29 Lenin] Je to úžasná linie, která nekončí vlezem do komínka. Závěrečné partie je opět pěkná širočinka.
    &gt; [1.6.2012 14:59:45 Alešák] Pro mne vetsi zlo, nez Jennyho fosna. Namahavejsi a s vetsim vykricnikem. Ale zaroven uzasna linie. Dolez z vhloubeni (tedy nejakych 25m nad zemi bez jakehokoli jisteni) rozhodne neni zadarmo.
    &gt; [3.6.2018 19:38:18 cervo] Smyčky môže pokojne zostať v batohu. Pekná, poctivá, dlhá špára.
 5. Přeskok | IV (9.10.1982)
+   Charakter: přeskok
+   Popis: JZ spárou a komínem na blok v jižním sousedství věže.Přeskokem na plošinu a stěnou na vrchol.
+   Autor: Jiří Sedláček a Pavel Lisák, T. Jansa
    Komentáře:
    &gt; [16.5.2010 17:31:35 lezecc] Pro skokany rutina, pro neskokany stres:)
    &gt; [10.6.2021 9:45:04 Pavlík] Na dvojku to je docela daleko a hluboko. Odraz je pěkný. S dopadem to už to je horší. Vpravo skála, vlevo díra a římsa má nějakých 40 cm. Ještě pár přeskoků a zmizí těch 5 cm hrabanky, co je na dopadu a bude to určitě za tři. Blok v jižní sousedstvím věže je již věží.
 6. Stará cesta | VIIa (20.7.1968)
+   Charakter: ruční spára | širočina
+   Popis: V levé části náhorní (JZ) soutěsky koutovou spárou přes dva převisy na vrchol.
+   Autor: Jan Farkaš, J. Přibyl, K. Vozáb, L. Návesník
    Komentáře:
    &gt; [18.6.2012 17:27:23 Alešák] První převis je hvězdičková žába s vykřičníkem. Ten druhý je nelehký širočinový výhlemz s ucházejícím jištěním a vršek bývá zavlhlý. Moc se to neleze, za 15 let asi 3 přelezy a ono se ani není čemu divit. Prostě spára, která neudělá ostudu jménu věže.
    &gt; [3.6.2018 19:36:34 cervo] Nevidím tam ani hviezdičku, ani výkričník. Do cesty stačí jedna väčšia bambula, ale myslím, že je tutová. Kľúčové miesto je nad ňou...
    &gt; [4.5.2026 9:28:34 ondramrkef] cesta kratší, ale zase mi obtíže přišly koncentrovanější než v Údolní
 7. Údolní | VIIa (6.10.1973)
+   Charakter: ruční spára | širočina
+   Popis: Z vnitřního prostoru na údolní straně věže komínem a spárou na vrchol.
+   Autor: Jan Farkaš, J. Přibyl, L. Návesník, L. Přibyl
    Komentáře:
    &gt; [13.7.2010 23:21:57 Alešák] Pěkná línie, odjistit to lze slušně, ale chce to mít trochu výdrž v žábě, když si člověk hraje se smyčkama. Klíčové je rozšíření a hned pod něj jde tutová menší bambue hloubš do spáry. Delší pchátko povinně s sebou.
    &gt; [8.12.2014 10:30:53 nosicek] Krásná cesta, ale s tim jištěním bych to tak slavně neviděl. Je sice pravda, že velká smyce/malá bambule pod klíčovým rozšířením je jediná v cestě, která mi připadala slušná, ale jako tutovou bych ji asi nepopsal... Řekl bych, že to chce lézt na jistotu...
@@ -1436,6 +2031,9 @@ URL: https://www.piskari.cz/cs/skala/mosna-1465/
    &gt; [11.8.2018 19:03:45 Iwoš] Pěkná cesta, nahoře už se mi do spáry nechtělo, tak z pilířku stěnou.
    &gt; [5.5.2026 20:03:54 DavidH] Pod zmíněnou velkou smycí/malou bambulí se vešel ještě jeden bambulák, jedna slušně vypadající erárka a jeden pofiderní větší uzel. V cestě nečekala zrada, krásná od pohledu i od polezu. Nahoře mohou zájemci ještě mocným švihem nahodit velkou bambuli.
 8. Uzávěrka | VIIb (11.6.1978)
+   Charakter: ruční spára | širočina
+   Popis: V pravé části náhorní soutěsky spárou na vrchol.
+   Autor: Stanislav Lukavský, J. Houser
    Komentáře:
    &gt; [26.7.2010 15:35:43 Jony] Parádní střih. Železuprostý.
    &gt; [6.12.2014 22:27:33 Alešák] Koleno se dovnitř nevejde, ruka vaklá, je to mírně převislé (= parádní střih). Pokud to neklapne, posbírají tě na nástupových blocích (= železoprostý). Uzávěrka je ten velký vklíněný blok, který tam asi v deseti metrech vytváří poslední překážku na cestě k vrcholu. &quot;Spára na Mošnu&quot; mluví za vše.
@@ -1450,6 +2048,8 @@ URL: https://www.piskari.cz/cs/skala/nick-1444/
 
 --- CESTY ---
 1. Poslední trik | VI (1.9.1996)
+   Popis: Stěnou podél levé náhorní hrany (kruh) na vrchol.
+   Autor: Zdeněk Zilvar, R. Volhejn, M. Volhejn
    Komentáře:
    &gt; [5.7.2014 20:01:05 myš] Hezký buldřík, v současné době vyčištěno. Vypadá o něco snažší než je a klíčový je čistý oblez kruhu. Cesta je spíš VIIa-b. K jištění stačí 1x preso.
 </desc>
@@ -1463,13 +2063,19 @@ URL: https://www.piskari.cz/cs/skala/nuncius-1370/
 
 --- CESTY ---
 1. Johnie Walker | VIIIb (2.9.1997)
+   Popis: Vlevé části údolní stěny spárou, výše vlevo stěnou podél jižní hrany (2 kruhy) na vrchol.
+   Autor: Jiří Prokop a Stanislav Lukavský
 2. Victory Gin | VIIIa (4.10.1990)
+   Charakter: rajbas
+   Popis: Od JV pravou částí údolní stěny (4 kruhy) na vrchol.
+   Autor: Jiří Wiesner, L. Šulcová
    Komentáře:
    &gt; [20.6.2009 17:27:13 Skobič] Sem tam je diváků z řad turistů hafo, ale moc pěkné. Mezi 2. a 3. Q vlevo hledej řešení.
    &gt; [21.6.2009 20:15:33 Alešák] Krasna, dobre zajistena cesta. K 1.Q lehke + par smycek, celkove spise lehci VIIc.
    &gt; [12.7.2010 9:32:22 Šáfa] Lehké až ke 3. Klíč mezi 3. a 4. se dá zleva i při hraně.
    &gt; [15.7.2013 10:49:49 Hlaďas] Nádherný, bezpečný rajbas 25m dlouhý, jde dát i tutová smyčka mezi 1.Q a 2.Q. Pro mě to bylo nejhorší 2m nad 4.Q.
    &gt; [7.1.2014 21:47:03 nosicek] Příjemná vděčná cesta, kterou vyleze i sedmičkový lezec. Vzhledem k mechu pod prvním jsem si tam i namontoval nějakou tu smyčku. Kdyby takhle vypadalo VIIIa, to by se to lezlo ;-)
+   &gt; [25.5.2026 10:54:23 Nečo] Pekné v dnešnej dobe mierne zelené rajbasové lezenie, priślo mi že klasifikácia celkom sedí.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1481,7 +2087,11 @@ URL: https://www.piskari.cz/cs/skala/outlon-vahavy-1486/
 
 --- CESTY ---
 1. Cesta do Lochova | IV (27.3.1999)
+   Popis: Z pilířů na SV straně věže překrokem a spárou v koutě na předvrchol. Stěnou na vrchol.
+   Autor: Pavel Lisák, S. Lukavský
 2. Prachovský elegán | IV (27.3.1999)
+   Popis: Levou částí SV stěny na blok. Spárou na předvrchol a Cestoudo Lochova na vrchol.
+   Autor: Stanislav Lukavský
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1493,7 +2103,11 @@ URL: https://www.piskari.cz/cs/skala/pacinek-1463/
 
 --- CESTY ---
 1. Hup do lihu | VIIb (30.6.1997)
+   Popis: Údolní spárou a soustavou trhlin na polici. Cestou Náhorní spára na vrchol.
+   Autor: Stanislav Lukavský, R. Volhejn
 2. Náhorní spára | III (21.5.1983)
+   Popis: Náhorní spárou na polici a stěnou na vrchol.
+   Autor: Petr Mocek, V. Homolka, A. Špinková
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1505,6 +2119,8 @@ URL: https://www.piskari.cz/cs/skala/padesata-prvni-hvezdicka-1371/
 
 --- CESTY ---
 1. Americké trenýrky | IV (17.8.1997)
+   Popis: Z náhorní strany komínem v koutě na pilíř. Rozporem a stěnkou na vrchol.
+   Autor: Petr Mocek, Z. Zilvar, J. Hlinák
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1516,6 +2132,8 @@ URL: https://www.piskari.cz/cs/skala/palivec-1481/
 
 --- CESTY ---
 1. Stojí to za hovno | VIIa (30.7.1983)
+   Popis: Mezi Palivcem a Balounem komínem, z rozporu stavěním na východní hranu a tou na vrchol.
+   Autor: Petr Mocek, M. Rusý, S. Lukavský
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1527,6 +2145,8 @@ URL: https://www.piskari.cz/cs/skala/pasovec-1389/
 
 --- CESTY ---
 1. Šupinatá spára | IV (14.8.1997)
+   Popis: Z náhorní soutěsky spárou do sedla a stěnou na pilířek. Přepadem a stěnou na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1538,7 +2158,11 @@ URL: https://www.piskari.cz/cs/skala/patecni-1391/
 
 --- CESTY ---
 1. Vaškovy šediny | V (8.9.1979)
+   Popis: Rozporem o SZ okrajovku ke kruhu. Z rozporu stavěním a stěnou na vrchol.
+   Autor: Miloš Kaněra a Miroslav Burian, M. Rain
 2. Vylomenina | IV (7.9.1979)
+   Popis: Od SZ z okrajovky přeskokem na plošinku (kruh) a vlevo stěnou na vrchol.
+   Autor: Miloš Rain a Miroslav Burian
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1550,15 +2174,27 @@ URL: https://www.piskari.cz/cs/skala/pidikristek-1477/
 
 --- CESTY ---
 1. Fígl | IV (27.5.1978)
+   Charakter: stěna | sokolík
+   Popis: Vlevo od Z hrany stěnou, vlevo sokolíkem a spárkou na balkon. Stěnou na vrchol.
+   Autor: Petr Mocek,S.Pospíchal,S.Lukavský,J.Trkal, J.Osif
    Komentáře:
    &gt; [5.6.2011 15:24:25 Iwoš] Svižná čtyřka
 2. Náhorní | III (22.5.1977)
+   Charakter: rajbas
+   Popis: JZ stěnou šikmo doprava a spárou na vrchol.
+   Autor: Petr Mocek
    Komentáře:
    &gt; [5.6.2011 15:19:17 Iwoš] Stěnka poněkud zamešená, ale když je sucho, tak to jde.
 3. Orosená touha | VIIIa
+   Charakter: stěna | ruční spára
+   Popis: Z údolní strany krátkou spárou a stěnou vpravo ke kruhu. Stěnou do spáry a tou na vrchol.
+   Autor: Ivo Wondráček s druhy
    Komentáře:
    &gt; [5.6.2011 15:34:43 Iwoš] Kolem kruhu boulder. Výška nad 175 bude zřejmě výhodou. Klasa neověřena.
 4. V duchu tradice | V (13.10.2005)
+   Charakter: trhlina | ruční spára
+   Popis: Od Spacího strýce spárou na vrchol.
+   Autor: Ivo Wondráček, J.Herbs, I.Šír
    Komentáře:
    &gt; [5.6.2011 15:28:32 Iwoš] Slušně odjištěná spára.
 </desc>
@@ -1572,10 +2208,16 @@ URL: https://www.piskari.cz/cs/skala/pilir-1415/
 
 --- CESTY ---
 1. Erotický sen | IXb (13.10.1990)
+   Charakter: rajbas
+   Popis: Spárou cesty Něžnost sedm metrů, vlevo traverz k 1. a 2. kruhu. Stěnou ke 3. kruhu. Stěnou šikmo vlevo na balkon cesty Od branky a vpravo stěnou ke 4. a 5. kruhu. Vlevo spárou k 6. kruhu. Stěnou (7. kruh) na polici ke 4. kruhu cesty Něžnost a tou na vrchol.
+   Autor: Petr Balcar a Matěj Pohorský a Petr Mocek
    Komentáře:
    &gt; [27.6.2012 11:18:17 Jony] Excelentní rajbas, taky špinavej, v jednom mistě útočí na šediny, taky pořád težkej a na konci to všechno vrcholí, když se zadaří.
    &gt; [27.6.2012 13:15:17 Staník] Zajímavá linie i lezení ale asi opomíjené. No kde najdete v Ádru stěnovku s 8 kruhy že? První klíč je cvaknou 2. Q (čím blíž, tím těžší) a třešnička na dortu je oblez posledního Q. přímo doprava. Jistič už neměl trpělivost tak jsem utřel osmého. Třeba tam ještě někdy dolezu :-)
 2. Něžnost | IXb (6.9.1979)
+   Charakter: rajbas | trhlina | ruční spára | širočina
+   Popis: Od SV spárou do jeskyňky, zářezem k 1. kruhu (stavěním) a zářezem se spárou ke 2. kruhu. Spárkou (3. kruh) na konec a vlevo stěnou traverz na polici ke 4. kruhu. Stěnou na vrchol.
+   Autor: Bernd Arnold, G. Lamm, G. Ludewig, J. Cruse
    Komentáře:
    &gt; [2.9.2011 23:25:05 Alešák] Charakter: sokolík, trhlina, ruční spára, rajbas. Velkolepá cesta, sranda začíná kousek pod prvním, čistý přelez stavění překvapivě jde. Pak dlouhý úsek za plytké žáby a pár metrů prstové spáry. Od 4.Q hlaďas jako hrom a nahoře překapení na konec.
 </desc>
@@ -1589,10 +2231,15 @@ URL: https://www.piskari.cz/cs/skala/pipp-1437/
 
 --- CESTY ---
 1. Náhorní | III (8.9.1974)
+   Charakter: ruční spára
+   Popis: Z náhorky rozporem a spárou na vrchol.
+   Autor: František Jaroš
    Komentáře:
    &gt; [22.6.2009 20:22:58 Alešák] Nádherná (asi osmimetrová) cesta. Ideální k sólu. Věžička je přilepená k Ptačí věži z údolí.
    &gt; [5.7.2014 19:52:37 myš] Nahoru to vede..... to je asi vše.
 2. V posledním tažení | V (10.5.1985)
+   Popis: Levou údolní spárou do mezivěží. Traverz vpravo stěnou a spárou na vrchol.
+   Autor: Petr Mocek, V. Homolka, L. Baborák
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1604,7 +2251,13 @@ URL: https://www.piskari.cz/cs/skala/placka-1489/
 
 --- CESTY ---
 1. Komínek | III (6.3.1983)
+   Charakter: komín
+   Popis: JZ komínem na vrchol.
+   Autor: Stanislav Lukavský
 2. SV Spára | IV
+   Charakter: širočina | komín
+   Popis: SV spárou na vrchol.
+   Autor: Mike Jäger, A. Jäger, A. Jäger, I. Jäger
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1616,11 +2269,21 @@ URL: https://www.piskari.cz/cs/skala/podhoubi-1453/
 
 --- CESTY ---
 1. Hra na schovku | V
+   Charakter: ruční spára
+   Popis: Z komínu mezi pilíři od Z (od Malé starostové) ruční spárou a trhlinou na pilíře. Přes ně doprava k J hraně a po ní n.v.
+   Autor: Heliks Michal, Daniela Botková
    Komentáře:
    &gt; [29.1.2016 23:58:23 michal] Kdo najde nástup má vyhráno. Cesta jde pěkně odjistit.
 2. Jižní | III (11.7.1975)
+   Popis: Od jihu komínem na pilíř a stěnou na vrchol.
+   Autor: Zdeněk Hubka a Jiří Šlégr, P. Blahna
 3. Náhorní | II (17.7.1982)
+   Popis: Náhorním (SZ) komínem na pilíře a stěnou na vrchol.
+   Autor: Jaroslav Houser, S. Lukavský
 4. Náhorní spára | V
+   Charakter: ruční spára
+   Popis: Náhorní (od J) rozšiřující se spárou přes převísek na pilíře a zprava stěnou n.v.
+   Autor: Heliks Michal
    Komentáře:
    &gt; [30.1.2016 0:10:02 michal] Nejde zajistit, ale není dlouhá. Kdo širší spáry moc nemusí ten si moc (ne)užije.
 </desc>
@@ -1634,8 +2297,15 @@ URL: https://www.piskari.cz/cs/skala/pometlo-1410/
 
 --- CESTY ---
 1. Metlička | IV (25.8.1985)
+   Popis: Z komína cesty Traverz vpravo po hraně na vrchol.
+   Autor: Petr Mocek
 2. Traverz | III (25.8.1985)
+   Popis: Z náhorní strany přechodem vpravo na ochoz údolní stěny a komínem na vrchol.
+   Autor: Jiří Ryšavý, M. Rusý, P. Mocek
 3. Ultrazvuk | VIIIa
+   Charakter: stěna | trhlina | ruční spára | komín
+   Popis: U pravé údolní hrany komínem 2 metry. Přechodem vlevo do kouta. Trhlinou v koutě ke kruhu. Spárou přes převis a stěnou na vrchol.
+   Autor: Petr John a Petr Novotný, Zuzka Votroubková
    Komentáře:
    &gt; [29.9.2013 20:40:35 lezecc] Pro toho kdo dobře založí smyčky a udýchá pár temp přes převis hezký a bezpečný lezení.
    &gt; [30.9.2013 11:18:18 birkof] Moc pěkná trhlinka. Převis prověří.
@@ -1650,6 +2320,8 @@ URL: https://www.piskari.cz/cs/skala/prduch-1396/
 
 --- CESTY ---
 1. Síň bojových tradic | IV (10.8.1997)
+   Popis: Z turistické cesty komíny na pilíř. Vlevo komínem na další pilíř a po hraně na vrchol.
+   Autor: Zdeněk Zilvar, P. Mocek, S. Lukavský, J. Prokop
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1661,6 +2333,8 @@ URL: https://www.piskari.cz/cs/skala/pryskyrnik-1373/
 
 --- CESTY ---
 1. Carpe diem | VI (14.8.1997)
+   Popis: V náhorní (SZ) stěně podél trhliny na vrchol.
+   Autor: Petr Mocek, S. Lukavský
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1672,26 +2346,44 @@ URL: https://www.piskari.cz/cs/skala/prilba-1443/
 
 --- CESTY ---
 1. Dlouhá | V (2.6.1963)
+   Charakter: rajbas | širočina | komín
+   Popis: Od SZ komínem na plošinu a spárou na předvrchol. Stavěním a stěnou na vrchol.
+   Autor: Milan Rusý, A. Böhm
    Komentáře:
    &gt; [1.12.2011 13:55:02 sejk] Úvodní komín odpovídá názvu cesty, ale je v pohodě...následuje nezáludná širočinka na předvrchol a závěrečné stavění lze vymyslet čistě. Hezká klasika na horké dny.
 2. Dlouhá – Varianta | V (1.8.1963)
+   Popis: Z náhorní strany (od Sviště) komínem na plošinu.
+   Autor: Peter Müller, R. Weigand, G. Schmiede, A. Rothe
    Komentáře:
    &gt; [5.7.2014 20:09:16 myš] Vynecháním komína se cesta stává poměrně příjemnou. Spárka na podvrcholový balkon prověří pětkového lezce a závěrečné lehké saské stavění je bonbónek na závěr.
    &gt; [1.9.2014 11:40:36 wallda] Až na předvrchol celkem pěkná klasička.Závěrečné ,,lehké saské stavění,, by měli ,,pětkoví lezci,, dobře zvážit, kor když tam dolezou jen ve dvou!!
 3. Jatagan | VIIIb (28.5.1977)
+   Charakter: ruční spára
+   Popis: V levé části SV stěny levou spárou na balkon. Cestou Lehčí práce na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek
    Komentáře:
    &gt; [25.3.2010 6:17:19 Hans] Pod převis to jde, tam jde dobrá smyčka uvnitř a ještě tuším jedna se dá nadloubat do převisu, ale chce to trpělivost a sílu, která se ale určitě vyplatí. Následuje pár temp za mělkou úzkou žábu v převise a ještě to bývá vlhký a nazelenalý. Když člověk čapne břízku, má víceméně vyhráno.
    &gt; [24.8.2015 15:16:44 Lenin] Pěkná žabí linie. Stálici se mi nepodařilo vyďoubat, snad bude někdo tpělivější. Jinak tam zahnije.
 4. Lehčí práce | VIIb (22.5.1977)
+   Popis: V levé části SV stěny pravou spárou přes převis, vpravo trhlinami ke spáře a tou (kruh) na balkon. Spárou a stěnou na předvrchol. Dlouhou cestou na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek, Z. Zilvar
    Komentáře:
    &gt; [2.2.2017 9:29:17 Alešák] Udělaná pár dní před vedlejším Jataganem, ale RealFeel je víceméně podobný. Trhliny pod kruhem nepatrně vybočují z místních VIIb standardů, ale když člověk svědomitě založí všechny potřebné smyčky, doleze k němu bez újmy na zdraví. Širočina nad ním vybočuje v podobném směru a je bez další možnosti jištění. Celkově ovšem velmi zajímavá a navzdory svému názvu překvapivě náročná &quot;práce&quot;.
 5. Spirála | VIIa (26.6.1977)
+   Popis: V pravé části SV stěny spárou a komínem ke kruhu. Traverz v římse doprava až na protější stranu věže do komína, přepadem ke spáře a tou na pilíř. Po pilířích přechodem doprava, přepadem a po hraně na předvrchol. Dlouhou cestou na vrchol.
+   Autor: Stanislav Lukavský, J. Seifert
 6. Zdvižené hledí | VIIIb (0.0.2005)
+   Charakter: rajbas
+   Popis: V pravé části SV stěny spárou na konec (1. kruh), vlevo spárou pod převis (2. kruh), vlevo komínem na konec (3. kruh), spárou přes převis a trhlinou ke 4. kruhu. Stěnou (5. kruh) na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek
    Komentáře:
    &gt; [4.5.2009 17:08:31 magnusek] Hlavní obtíže jsou nahoře v rajbasu. Prvovýstupce si tuhle cestu cení na VIIIb, realita bude asi o něco výš. Parádní linie.
    &gt; [23.1.2010 13:23:50 lezecc] Cesta která graduje od prvních metrů až k výlezu.4ím víš tím hůř...nebo spíš v většími obtížemy.Spárový useky parádní, lámání chleba nastává když spáry mizí a začíná stěna.Měl jsem tu problém s materialem který mě uplně šíleně klouzal pod nohana, takže kouskem od 4 k 5 kruhu jsem se doslova &quot;proskákal&quot; a ani výlez od 5 kruhu není z laciného kraje.Každopádně velkolepá linie, jen klasifikace VIIIb.Tady by se asi hodila taková ta historka o tom jak Mocek s Cikánm udělají cestu za VIIIa.Oba dva si jsou toho vedomí a jeden se zeptá druhýho&quot; tak za kolik to dáme?&quot; No a ten aby ho trošku poštouchnul tak řekne že to bylo tak za VIIb...a ten první se toho chytne a řekne že to nebylo o moc težší než VIIb a klasifikace je na světě:))
    &gt; [13.8.2024 22:58:41 Tomákk] Spárová část ke 4 kruhu je super zajistitelná a lezitelná, ovšem část rajbasová je trochu jinej oříšek (z pohledu na druhém). Hezká cesta, která není podle počtu přelezů moc navštěvovaná.
 7. Zlatá přílba | VIIa (8.4.2007)
+   Charakter: rajbas | komín
+   Popis: Z náhorní strany komínem na polici do vnitřního prostoru. Rozporem k 1. a 2. kruhu. Stěnou (3. kruh) na vrchol.
+   Autor: Stanislav Hušpauer a Stanislav Lukavský a Petr Mocek
    Komentáře:
    &gt; [21.5.2012 13:21:46 shama] Pěkný rajbas s těžším odlezem od druhého kruhu. Elegantní nezáludná cesta na dominantní věž.
    &gt; [21.7.2014 11:29:54 Hlaďas] k 1.Q to je komínem až 2.Q se cvaká z rozporu, jinak rajbas pěknej ale chce to kartáč...
@@ -1706,7 +2398,12 @@ URL: https://www.piskari.cz/cs/skala/psance-1460/
 
 --- CESTY ---
 1. Díravý mince | VI (21.11.1982)
+   Charakter: rajbas | ruční spára
+   Popis: Od JV rozporem (o pilíř Hvízdavého Dana) a spárou ke kruhu. Vpravo stěnou na balkon a vpravo stěnou na vrchol.
+   Autor: Stanislav Lukavský a Tomáš Čada, F. Jaroš
 2. Parádní kousek | VI (30.6.1997)
+   Popis: Ze sedla od západní hrany vlevo stěnou a zahnutou spárou do římsy. Vlevo severní hranou na vrchol.
+   Autor: Stanislav Lukavský, R. Volhejn
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1718,7 +2415,12 @@ URL: https://www.piskari.cz/cs/skala/radza-1462/
 
 --- CESTY ---
 1. Marné snažení | VIIb (12.6.1985)
+   Popis: V levé části SV stěny trhlinou a spárou ke kruhu. Vpravo stavěním ze sedačky do spáry, tou na vrchol.
+   Autor: Stanislav Lukavský a Miloslav Matějka
 2. Ruční klasička | VIIa (12.8.1983)
+   Charakter: ruční spára
+   Popis: V pravé části SV stěny spárou (kruh) na vrchol.
+   Autor: Stanislav Lukavský, J. Stach
    Komentáře:
    &gt; [15.6.2011 20:30:05 cervo] Parádna špára,jedna z najkrajších aké som v Ádry liezol...širočinka pod kruhom trochu nepríjemná
    &gt; [8.10.2011 20:38:46 Alešák] Parádní lezení. Pod kruhem trochu širší, přes kruh trochu užší a jinak skvělá žába.
@@ -1726,7 +2428,10 @@ URL: https://www.piskari.cz/cs/skala/radza-1462/
    &gt; [9.6.2016 15:33:25 wallda] Kruh je možná tam, kde se ,,dobře,, osazoval, ale né tam, kde by ho člověk nejvíc potřeboval.
    &gt; [9.9.2024 8:58:45 DavidH] Krásná spára od podlahy po vršek. Pod kruhem jsem trochu zápasil, ale uklidňoval mě bambulák pod patama. Nad kruhem se ještě leze. Přiřadil bych jí spíš k těžším VIIa spárám co jsem lezl.
 3. Stará cesta | III (0.0.1976)
+   Popis: U náhorní (jižní) hrany stěnou na pilíř, vlevo stěnou na vrchol.
+   Autor: Stanislav Lukavský
 4. Zarostlá | II (0.0.0000)
+   Popis: Vlevo od jižní hrany zarostlou stěnou na vrchol.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1738,6 +2443,8 @@ URL: https://www.piskari.cz/cs/skala/rasputin-1469/
 
 --- CESTY ---
 1. Věčná erekce | IV (17.5.1997)
+   Popis: Údolní (SZ) koutovou spárou a komínem na polici do mezivěží. Přechod vlevo po polici do údolní stěny. Sokolíkem do sedla a hranou na vrchol.
+   Autor: Jaroslav Gereg a Petr Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1749,10 +2456,15 @@ URL: https://www.piskari.cz/cs/skala/ringo-1439/
 
 --- CESTY ---
 1. Přátelská | VI (1.7.1967)
+   Charakter: stěna
+   Popis: Od JZ komínem k římse, v ní doleva ke kruhu a po hraně na vrchol.
+   Autor: Petr Obršál, V. Krtička
    Komentáře:
    &gt; [25.3.2010 6:10:02 Hans] Porostlá VI na menší věžičku, která prověří nejen šestkové lezce.
    &gt; [15.5.2023 12:01:20 Pavlík] V římse pod kruhem volnej lokr, tak opatrně. Ve komínové části je pěkný tak akorát jištění, zato druhá půlka je hezký lezení.
 2. Ringo Star | VI (4.9.1991)
+   Popis: Údolní spárou do římsy a Přátelskou cestou na vrchol.
+   Autor: Stanislav Lukavský, I. Kobr, M. Volhejn
    Komentáře:
    &gt; [17.6.2025 20:04:22 AdamSK] Myslím, že neprávom opomíjaná špárka. Na šestku celkom svižné. Ja som si ju veľmi užil. Za 22 rokov čo tam je knižka som narátal prelezy asi na jednej ruke. Ťažsích je prvých pár metrov a zaujímavý je aj dolez &quot;Přátelskou&quot; n.v.
 </desc>
@@ -1766,6 +2478,9 @@ URL: https://www.piskari.cz/cs/skala/rodinna-hrobka-1417/
 
 --- CESTY ---
 1. Epitaf | VI (17.7.1988)
+   Charakter: stěna | sokolík
+   Popis: Sokolíkem (od nástupu varianty Staré cesty - Přes fichtli na Milence) a stěnou na vrchol.
+   Autor: Petr Mocek, M. Myslivec, P. Mocek jun., H. Myslivcová
    Komentáře:
    &gt; [2.5.2014 10:56:30 Špásik] Pěkné cesta, která se vůbec neleze rozporem klasická stěnovka! Urtousíte určitě dvě tutové smyce. Opis vrcholovky: Epitaf za V - Petr Mocek, Martin Myslivec, Petr Mocek II, Hana Myslivcová 17.7.1988 - Sokolíkem od &quot;Dlouhého koutu&quot; na plošinku vpravo po hraně na vrchol. Horezdar po dvou letech - Spodek parádní sokolík dvě tuty smyce a rajbyk na vrchol. Pohodová cesta, kde netřeba se bát.
    &gt; [7.7.2015 11:21:53 Šáfa] Bezpečná cesta proti nástupu na Dlouhý kout. Klidně mohou lézt i pětkaři.
@@ -1783,6 +2498,9 @@ URL: https://www.piskari.cz/cs/skala/roraima-1464/
 
 --- CESTY ---
 1. Vakace | VIIIc (28.6.1986)
+   Charakter: stěna | rajbas | ruční spára | širočina | vydatné stavění
+   Popis: Z mezivěží na náhorní straně spárou na pilíř. Přepadem a stavěním (1. kruh) do římsy, v ní a stěnou traverz doprava za hranu ke 2. a 3. kruhu. Spárou (4. kruh) na předvrchol, stěnou na vrchol.
+   Autor: Petr Mocek, M. Rusý
    Komentáře:
    &gt; [13.7.2010 23:53:18 Alešák] Rozhodně velká cesta na těžko přístupnou věž. Komíňák říká, že nejtěžší bylo odlézt od 1.Q do římsy, je tam stavění do boku. Já to nemohu posoudit, protože jsem to na druhém legitimně oprasil přes smyci. Z římsy traverz přes druhý ke třetímu kruhu ujde, tam poladit nohy a technickou spárou směle ke 4.Q. Od něj dřina v mírně převislé cca VIIIa širočině - ta se mi vryla do paměti nejvíce. Váhám, zda nedat malou hvězdičku, ale to by bylo spíše za radost, že jsme to dolezli až na vrchol. Kažodpádně celkem bezpečná cesta. 8. přelez.
    &gt; [14.7.2010 11:33:50 david.griger@seznam.cz] Ještě jednou díky Alešáku. Kdyby jsi tu širočinu nevylezl, tak jsem se na ten krásný vrchol nepodíval. Pro mě to bylo to nejtěžší na celé cestě, ale je fakt že už jsem byl uplně fyzicky na dně. Stavění chce jen trochu šikovnosti a koordinace. Krásná věž, která uchvátí od pohledu z kterékoli části Řeřichové rokle. Komíňák
@@ -1797,6 +2515,8 @@ URL: https://www.piskari.cz/cs/skala/rosignano-1484/
 
 --- CESTY ---
 1. Velký polabinský problém | VIIa (19.5.1977)
+   Popis: Z náhorní strany stěnou doprava na lávku a po ní doprava přes severní hranu na údolní stranu věže ke kruhu. Stěnou podél hrany na vrchol.
+   Autor: Petr Mocek, K. Živný, J. Rymeš, M. Radimský
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1808,8 +2528,14 @@ URL: https://www.piskari.cz/cs/skala/rytir-zumbera-1478/
 
 --- CESTY ---
 1. Drátěná košile | VI (27.5.1978)
+   Popis: SV spárou na konec, stavěním a stěnou na vrchol.
+   Autor: Petr Mocek a Stanislav Lukavský, S. Pospíchal
 2. Klání | VIIa (27.5.1978)
+   Popis: Z bloku na náhorní straně stěnou na vrchol.
+   Autor: Stanislav Lukavský, J. Osif, S. Pospíchal, J. Trkal, P. Mocek
 3. Turnaj | VI (27.5.1978)
+   Popis: JZ spárou na konec, stěnou doleva na hranu a po ní na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1821,12 +2547,18 @@ URL: https://www.piskari.cz/cs/skala/rericha-1433/
 
 --- CESTY ---
 1. Letecký den | VIIb (6.5.2000)
+   Charakter: rajbas | širočina
+   Popis: V levé části JV stěny do komínu a vlevo spárou (kruh) na pilíř ke druhému slaňovacímu kruhu. Cestou Záložák na vrchol.
+   Autor: Aleš Skalák a Stanislav Lukavský, ...
    Komentáře:
    &gt; [21.7.2014 9:22:45 Šáfa] Stačí čtyři karabiny na 2 kruhy, 2.slaňák a dlouhou šitou smyci do výlezu. K 1.Q lehká širočina odsýpá, od něj to jde 2-3 metry mírně do převisu. Stěnový výlez je krásná třešnička. Charakter: širočina, rajbas. V knížce od Cikána s Mockem ještě za VIIa.
    &gt; [2.8.2015 20:43:13 nosicek] Překvapilo mě, jak málo se věž leze - na vršku málo popsaná knížka ještě od Kokši. Cesta je taková, jak vypadá - po cvaknutí kruhu dosti přituhne. Stěnka ke 2.kruhu je zajímavá, po cvaknutí už snadno na vrchol. Vyplatí se ;-)
    &gt; [10.7.2016 14:15:54 Lenin] Pánové, krapet jste se spletli. Záložák je zelená spára na druhé (západní) straně pilíře. Spárů, kterou pravděpodobně popisujete a je i na fotce je &quot;Letecký den&quot;. V průvodci není uvedena, ale ve vrcholovce, kde není mnoho zápisů, lze snadno dohledat. A nejste jediní, myslím, že vás bylo celkem 4, kdo se pravděpodobně takto spletl a udělal ze Záložáka polulárku :)
    &gt; [3.6.2019 8:56:25 Jony] Jak správně poznamenal Lenin, cesta je Letecký den, Záložák se zas tak nenosí. Zápis cesty upraven. Všechny zúčastněné prvovýstupce si nepamatuju.
 2. Padák | VIIc (3.6.1962)
+   Charakter: ruční spára | širočina
+   Popis: SV spárou přes jeskyňku k 1. a 2. kruhu. Spárou (stavěním ze sedačky) a komínem na předvrchol. Starou cestou na vrchol.
+   Autor: Karel Hauschke, V. Bohadlo
    Komentáře:
    &gt; [19.6.2009 12:44:01 Lenin] Nástup je prakticky z potoka širočinkou, takže tam úžasně jezdí pata-špička. V jeskyňce jde dobrý kinderkopf a je klíčový, neboť nad ním lezete nejtěšší místo cesty - výlez z jeskyňky do spáry. Pak už je tokrásné, spíše vytrvalostní lezní v žábě.
    &gt; [19.6.2009 13:19:53 Jony] Traduje se, že Kokša někde z vrchní partie hodil strašnou tlamu, snad prý kvůli jističově nepozornosti. Ještě ten večer si našel jinýho dobrovolníka a při svíčkách to dodělali. Tak či tak, hodit tlamu, ať už menší či větší, do vybavení co měli ...
@@ -1835,12 +2567,22 @@ URL: https://www.piskari.cz/cs/skala/rericha-1433/
    &gt; [28.6.2017 13:38:59 cervo] Keď je sucho, tak hviezdička myslím zaslúžená. Človek sa zadýcha hneď dole, na pohode nepridá ani vidina kúpeľu v potoku. Až po jaskynku som mal takmer celý čas hlbokú žabu, občas dokonca nejaké kolienko. Výlez cez previs dosť morálový, i keď som v jaskyni asi 15 minút montoval smyce, dôveru kruhu akosi vo mne nevzbudzovali. Našťastie čím vyššie, tým lepšie, no a od kruhu už tradá hore na žabách. Stavění som moc nepochopil, jediné miesto, kde by sa žiadalo stavať bol výlez z jaskynky pod 1.kruhom... Tuším 27.prelez ak si dobre pamätám Super lajna!
    &gt; [10.9.2024 21:48:58 Tomákk] Podmínka je zde nutná, spodek člověka pěkně rozdejchá, což se hodí, výlez z jeskyně mě uplně kvalitou smyček nenechal v klidu, ale nakonec to šlo dobře. Zbytek cesty je lehčí část.
 3. Padák – Přírodní restaurace | VIIIa (20.8.1992)
+   Popis: Vpravo od severního rohu spárou ke kruhu. Vlevo traverz stěnou do spáry cesty Padák.
+   Autor: Stanislav Lukavský a Petr Mocek
 4. Slepý střevo | VIIc (20.6.1986)
+   Popis: V údolní (SZ) stěně komínem (1. kruh) a soustavou spár ke 2. kruhu. Vlevo spárou a komínem na pilíř. Stěnou na další pilíř a vpravo po hraně na vrchol.
+   Autor: Petr Mocek, J. Přibyl
 5. Stará cesta | IV (0.0.0000)
+   Charakter: širočina | komín
+   Popis: Prvovýstup byl uskutečněn asi před rokem 1941. V pravé části JV stěny spárou a komínem na předvrchol. Stěnou na vrchol.
+   Autor: němečtí lezci
    Komentáře:
    &gt; [19.6.2009 13:12:20 Jony] V dolní části cesty jsem si říkal, jestli tolik té zeleniny mám opravdu zapotřebí.
    &gt; [18.9.2016 9:51:58 cervo] to ja som si zase říkal, čo to bolo za šialený nápad preliezť všetky staré saské cesty v Ádri, ale origoš Kokšova vrcholovka hore celkom potešila
 6. Záložák | VIIb (7.9.1999)
+   Charakter: rajbas | širočina
+   Popis: Z bloku u západního rohu věže přepadem a spárou (1. kruh) na pilíř ke druhému slaňovacímu kruhu. Stěnou podél žlábku (2. kruh) na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1860,7 +2602,10 @@ URL: https://www.piskari.cz/cs/skala/serafino-1434/
 
 --- CESTY ---
 1. Přes pupek | VIIIa (23.9.1973)
+   Popis: Z údolní strany (stavěním) soustavou spár (1. kruh) na balkon ke 2. kruhu. Stěnou na vrchol.
+   Autor: Miloš Nosek a Stanislav Lukavský a Petr Mocek
 2. Stará cesta | II (0.0.0000)
+   Popis: Od SV soustavou komínů na vrchol.
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1872,6 +2617,8 @@ URL: https://www.piskari.cz/cs/skala/setmelik-1451/
 
 --- CESTY ---
 1. Opilcovo trauma | V (29.6.1997)
+   Popis: Od JV spárou v koutě na plató. Spárou a stěnou na vrchol.
+   Autor: Petr Mocek, Š. Gereg, S. Lukavský
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1883,6 +2630,8 @@ URL: https://www.piskari.cz/cs/skala/sfingicka-1411/
 
 --- CESTY ---
 1. Stará cesta | IV (2.6.1984)
+   Popis: Náhorní (JV) stěnou na vrchol.
+   Autor: Milan Rusý, I. Sedláček
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1894,6 +2643,8 @@ URL: https://www.piskari.cz/cs/skala/sklerotik-1491/
 
 --- CESTY ---
 1. Stará cesta | V (3.7.1983)
+   Popis: Z okrajovky sestupem na náhorní (JV) stranu věže. Stavěním, hranou na pilíř, sestupem a přepadem ke kruhu. Vpravo hranou přes převis na vrchol.
+   Autor: Milan Rusý, A. Špinková
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1905,7 +2656,11 @@ URL: https://www.piskari.cz/cs/skala/skorepka-1483/
 
 --- CESTY ---
 1. Kniha přání a stížností | VIIIa (16.3.1991)
+   Popis: Vlevo na údolní (SZ) straně věže koutovou spárou a výše vpravo traverz přes severní hranu. Stěnou v dírách k trhlinám a jimi k 1. kruhu. Stěnou na balkon ke 2. kruhu. Stěnou traverz vpravo na hranu a tou na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek
 2. Ze Stromovky | II (29.10.1983)
+   Popis: Náhorní stěnou na vrchol.
+   Autor: Milan Rusý, M. Nývlt, A. Špinková, S. Adámková
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1917,6 +2672,8 @@ URL: https://www.piskari.cz/cs/skala/spaci-stryc-1476/
 
 --- CESTY ---
 1. Ukolébavka | VI (2.6.1978)
+   Popis: Z náhorní strany stěnou, nebo vpravo rozporem mezi Spacím strýcem a Pidikřístkem na plošinku (kruh). Stěnou na vrchol.
+   Autor: Karel Kmoníček a Petr Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1928,6 +2685,9 @@ URL: https://www.piskari.cz/cs/skala/strazce-smaragdove-rokle-1436/
 
 --- CESTY ---
 1. Kyzové dámské Pé | VIIIa (9.8.1996)
+   Charakter: stěna
+   Popis: Údolní stěnou (2 kruhy) ke 3. kruhu. Stěnou podél trhliny přímo, nebo vlevo po hraně na vrchol.
+   Autor: Zdeněk Zilvar a Petr Mocek
    Komentáře:
    &gt; [5.8.2014 22:47:59 Alešák] Když ne letos, tak kdy jindy? Parádní lezení po bohužel stále dost špinavé skále, ale letos je to alespoň suché. Pokud tam ještě někdo naleze a opucuje se to, bude z toho pěkná hvězdičková cesta, tak tam koukejte někdo naběhnout! K prvnímu se jde koutkem (vpravo za hranou) pod převis a doleva ke kruhu (informace z vrcholové knihy). Ke druhému lehká chytovatá stěna a od třetího klíč k cestě. Trhlinka nebo hrana? Na VIIIa vydatné. A kdo objeví kyzové dámské pé? My o našli :-) 1.opakování.
 </desc>
@@ -1941,11 +2701,20 @@ URL: https://www.piskari.cz/cs/skala/sultan-1461/
 
 --- CESTY ---
 1. Návesníkova | VIIb (23.7.1967)
+   Charakter: stěna | širočina
+   Popis: Od JV komínem k římse a v ní traverz doprava k 1. kruhu. Stavěním ze sedačky, traverz stěnou (2. kruh) doprava a spárou na vrchol.
+   Autor: Jan Farkaš a Ladislav Návesník, R. Kutílek
    Komentáře:
    &gt; [27.3.2010 10:23:08 Hans] Dobrodružná cesta :). První kruh nehezky exponovaně nad údolím (tuším, že jsme ho nahodili). Pak jeste prelez pres hranku a vrcholova sirocinka....taky poctivy VIIb
    &gt; [27.3.2010 10:48:18 lezecc] Opravdu velký dobrodružství:)Věž i cesta jsou hodně zapomenutý.První kruh jsme taky nacvakli, již připraveným klackem.Hold dolů do ůdolí to je kus cesty a traverz po rukách byl pěkná klouzačka.Od kruhu po vykulení za hranu, radši moc neotálet a valit:)Z balkonu spárami na vršek už jen pěkná dřina s ohromnou expozicí nad udolím.Hodně tvrdý VIIb.
 2. Návesníkova - Varianta Geronimo | VIIc (6.7.2008)
+   Charakter: stěna | trhlina | ruční spára
+   Popis: Od 2. kruhu cesty Návesníkova traverz vlevo za hranu, trhlinou a spárou na vrchol.
+   Autor: Petr John, J. Rutar, V. Kulhavý, D. Fajt
 3. Orientální laskominy | IV (21.5.1983)
+   Charakter: stěna | sokolík
+   Popis: Z náhorní strany rozporem a sokolíkem na pilířek. Přepadem a z rosporu stavěním (K) na polici. Stěnou n.v.
+   Autor: Petr Mocek, M. Rusý, V. Homolka, A. Špinková
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1957,7 +2726,10 @@ URL: https://www.piskari.cz/cs/skala/svist-1445/
 
 --- CESTY ---
 1. Náhorní komín | III (18.1.1975)
+   Autor: František Jaroš
 2. Údolní | IV (18.9.1982)
+   Popis: Z údolní strany komínem na blok. Spárou a komínem na vrchol.
+   Autor: František Jaroš, V. Bros
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1969,6 +2741,8 @@ URL: https://www.piskari.cz/cs/skala/synecek-1493/
 
 --- CESTY ---
 1. Dětské hrátky | VIIb (31.7.1983)
+   Popis: V náhorní (JV) stěně spárou na odštěp. Vpravo stěnou podél východní hrany (kruh) na vrchol.
+   Autor: Stanislav Lukavský a František Jaroš, J. Kavka
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1980,10 +2754,16 @@ URL: https://www.piskari.cz/cs/skala/sefildska-vez-1430/
 
 --- CESTY ---
 1. Anglická | V (9.9.1988)
+   Popis: Vlevo od náhorní (východní) hrany koutovou spárou na pilířek a stěnou na vrchol.
+   Autor: Zdeněk Zilvar, S. Barnaby
    Komentáře:
    &gt; [30.5.2020 19:32:17 Martin] Kvak s krátkým rajbáskem. Jištění po cestě nahoru borovička, slaňák ani knížka není.
 2. Anglická – Irská varianta | VIIa (16.9.1990)
+   Popis: Náhorní hranou na pilířek.
+   Autor: Ivo WondráčeK
 3. Cítím se dobře | VIIa (21.7.1990)
+   Popis: Od JZ komínem ke spáře a tou na pilířek. Stěnou doprava na hranu (kruh) a po ní na vrchol.
+   Autor: Ivo Wondráček, R. Samek, H. Červinková, I. Hlávka
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -1995,7 +2775,11 @@ URL: https://www.piskari.cz/cs/skala/stene-1376/
 
 --- CESTY ---
 1. Lomnická promenáda | VIIa (8.5.1980)
+   Popis: Z údolní strany spárami pod převis, stěnou traverz doprava na hranu a stěnou podél ní (kruh) na vrchol.
+   Autor: Petr Mocek a Stanislav Lukavský, J. Rymeš, V. Štefan, K. Lachmanová, H. Nežerková
 2. Zmýlená neplatí | VIIb (1.8.1979)
+   Popis: JV spárou a stěnou ke kruhu. Stěnou doprava a po hraně na vrchol.
+   Autor: Petr Mocek a Stanislav Lukavský, J. Vlček, L. Martinec, K. Kmoníček
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2007,6 +2791,9 @@ URL: https://www.piskari.cz/cs/skala/tadyk-1385/
 
 --- CESTY ---
 1. Tajklemo | IV (30.7.1986)
+   Charakter: stěna
+   Popis: Z police na náhorní straně věže (od Lvice) traverz stěnou doleva ke hraně a stěnou podél ní na vrchol.
+   Autor: Miloslav Matějka, P.Mocek, V.Vít
    Komentáře:
    &gt; [28.6.2010 9:32:44 Šáfa] Bezpečné - 4x hodiny. Hezká jehla, vynikne hlavně při pohledu z chodníku dole.
 </desc>
@@ -2020,6 +2807,8 @@ URL: https://www.piskari.cz/cs/skala/tampon-1470/
 
 --- CESTY ---
 1. Pocit čistoty | IV (17.5.1997)
+   Popis: Spárou v údolní (SZ) stěně na pilíř a komínem na další pilíř. Komínem vpravo, nebo žlábkem vlevo na předvrchol. Překrokem a stěnou na vrchol.
+   Autor: Petr Mocek, J. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2031,7 +2820,11 @@ URL: https://www.piskari.cz/cs/skala/trioleta-1471/
 
 --- CESTY ---
 1. Jižní | V (9.10.1981)
+   Popis: Od jihu komínem na blok pod JV stěnou věže. Stěnou doleva na hranu a po ní na vrchol.
+   Autor: Miloš Rain a Jaromír Jirásek
 2. Komín | IV (9.10.1981)
+   Popis: Vpravo na JZ straně věže komínem (mezi Trioletou a Violetou) na balkon a stěnou na vrchol.
+   Autor: Milan Rusý
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2043,22 +2836,41 @@ URL: https://www.piskari.cz/cs/skala/trojnik-1432/
 
 --- CESTY ---
 1. Habakukova hrana | VI (2.7.1978)
+   Popis: Vpravo od Staré cesty spárami na plošinku. Nad ní stavěním a stěnou na vrchol.
+   Autor: Ivan Kobr a Petr Mocek a Karel Živný, J. Rymeš
    Komentáře:
    &gt; [16.6.2025 20:19:07 Indy] Obtížnost sedí, spára trochu špinavá, ale ne nějak zásadně. Celkem dobrý smyčky, který odjisti šimravý kroky. Jen pozor, stavění se nedá tak úplně očůrat traverzem do Staré cesty.
 2. Hnojník | V (8.7.1978)
+   Popis: Vlevo od Staré cesty spárou pod převis, přes něj stěnou doleva, spárou do sedla a stěnou na vrchol.
+   Autor: Stanislav Lukavský, B. Ptáček, P. Mocek
 3. Levá jihozápadní spára | V (8.8.1982)
+   Popis: Levou spárou v JZ stěně na vrchol.
+   Autor: František Jaroš
 4. Lupénka | VI (2.7.1978)
+   Popis: Středem údolní stěny a spárou do sedla. Starou cestou na vrchol.
+   Autor: Petr Mocek, I. Kobr, K. Živný
    Komentáře:
    &gt; [31.8.2024 12:01:03 Vondra] Do spáry nic moc dát nešlo, poslední krůček pojistí borovička.
 5. Odporová | VIIb (9.10.1982)
+   Charakter: stěna | sokolík
+   Popis: Od SZ sokolíkem ke kruhy cesty Sláva trudu a žlábkem přímo do sedla. Stěnou zprava na vrchol.
+   Autor: Jaroslav Sklenář a Bohumír Mach, P. Hanuš
    Komentáře:
    &gt; [30.9.2013 11:28:58 birkof] Nad prvním kruhem vcelku peprný dolez na předvrchol
    &gt; [20.7.2015 10:02:04 Šáfa] Bezpečné, ale nic, kvůli čemu bych nedospal. Rajbas nad Q celkem křupe.
    &gt; [10.9.2017 21:49:49 Kuzma] Šikmá spára ke kroužku jde. Rajbas nad ním dost zajímavý. Nakonec mě to natlačilo na pravou hranu, odkud jsem skákal po soušce. Jednou a dost.
 6. Setkání po letech | V (24.8.1974)
+   Popis: V pravé části údolní stěny spárami do sedla a zprava stěnou na vrchol.
+   Autor: Jaroslav Houser, L. Martinec, F. Jaroš
 7. Sláva trudu | VI (9.10.1982)
+   Popis: Vlevo od náhorního (severního) rohu věže šikmým zářezem doprava ke kruhu. Stěnou na lávku, po ní traverz doprava do sedla mezi vrcholy a zprava stěnou na vrchol.
+   Autor: Bohumír Mach a Pavel Hanuš, J. Sklenář
 8. Stará cesta | IV (1.7.1963)
+   Popis: Vpravé části náhorní stěny spárou a komínem do sedla. Stěnou na vrchol.
+   Autor: Jaroslav Krecbach, F. Halamka
 9. Tuti – Fruti | VIIb (4.9.1991)
+   Popis: Vlevo od cesty Lupénka střídavě spárou, trhlinou a žlábkem do spáry, kterou na vrchol.
+   Autor: Stanislav Lukavský, I. Kobr, M. Volhejn
    Komentáře:
    &gt; [2.6.2025 17:43:57 Pajas] Při pohledu na jména autorů je celkem jasný, jaký bude charakter cesty. Při lezení se pohled na cestu trochu rozostří mlhou z prášícího se zelenýho lišejníku (těžko říct jestli jenom vizuálně nebo je člověk už sjetej jeho inhalací), ale nutno napsat, že si v cestě jde vyzkoušet asi všechny rozměry spár. V první polovině čeká trhlina, na polici nad ní jde velmi dobrá bambule. Dál už se pokračuje řádně špinavou véčkovou žábou s trhlinou uvnitř až na její konec, kde je jeskyňka s dobrou smyčkou. V dolezu žlábkem jsem už háček neviděl. Cesta je čerstvě přiměřeně vyčištěná, věřím, že kdyby se trochu lezla a dočistila by se hlavně prostřední část, šly by tam i smyčky, já to při značným nadávání už odlezl do jeskyňky. Všehovšudy bych to viděl na *!, pokud se to vyčistí a člověk bude schopnej namontovat smyčky, tak to na tu hvězdičku i bude. Obtížnostně to někde v sedmým stupni klasifikace celkem je.
 </desc>
@@ -2072,20 +2884,35 @@ URL: https://www.piskari.cz/cs/skala/tri-bratri-1435/
 
 --- CESTY ---
 1. Bratrská pomoc | V
+   Charakter: stěna | komín
+   Popis: V pravé části komínem na pilíř ke kruhu, stěnou pod převis a vlevo komínem na vrchol.
+   Autor: Zdeněk Zilvar a Petr Mocek, S. Lukavský
    Komentáře:
    &gt; [28.5.2017 21:21:56 Kuzma] Cvakání K z pilíře v pohodě, pak chyty, pohodový komín a po třech přepadech jste u knížky. Pěkné, bezpečné a hezký výhled.
    &gt; [15.6.2021 12:54:01 nosicek] Žabáka z fotky jsme nepotkali. Asi podlehl erozi :-(
 2. Nová cesta | IV (25.5.1963)
+   Popis: Z náhorní strany spárou na pilířek, traverz stěnou doprava a komínem na pilíř. Starou cestou na vrchol.
+   Autor: Ilja Špitálský, M. Rusý, S. Dvorský
    Komentáře:
    &gt; [23.6.2019 18:34:06 miloshell95@gmail.com] vcelku příjemná cesta s dobrým jištěním ;-)
 3. Pipšou | VIIIa (20.7.1988)
+   Popis: Z bloku Západní cesty traverz vlevo stěnou na balkon. Zprava stěnou do spáry, tou na pilířek k 1. kruhu. Vpravo stěnou na hranu a tou (2 kruhy) na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek, S. Lukavská
 4. Severovýchodní | IV (12.8.1982)
+   Popis: Ze SV hrany vnitřního komína spárou doprava na balkon. Spárou na další balkon a širokou spárou do sedla. Starou cestou na vrchol.
+   Autor: František Jaroš, M. Havlík
 5. Skleněná spára | VIIa (27.3.1982)
+   Popis: Z traverzu Nové cesty vlevo v JV stěně spárou na pilíř. Starou cestou na vrchol.
+   Autor: Stanislav Lukavský, P. Mocek, A. Skalák
    Komentáře:
    &gt; [28.5.2017 21:14:34 Kuzma] Ve vrcholovce jako Skleněná spára.
    &gt; [13.6.2019 10:00:23 Jony] Opraveno na Skleněná spára. Obtíže spíš k VIIc.
 6. Stará cesta | IV (20.5.1961)
+   Popis: Z náhorní strany průlez komínem doleva do vnitřního prostoru. Soustavou komínů na pilíř, překrokem na předvrchol a stěnou na vrchol.
+   Autor: Ivo Sedláček, L. Litera, J. Šmarda
 7. Západní | IV (23.9.1974)
+   Popis: Od JZ komínem na blok, spárou a komínem na předvrchol. Starou cestou na vrchol.
+   Autor: František Jaroš, P. Obršál
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2097,10 +2924,16 @@ URL: https://www.piskari.cz/cs/skala/tri-sestry-3680/
 
 --- CESTY ---
 1. Fanánek | VIIIb
+   Charakter: stěna | rajbas
+   Popis: Vpravo od cesty Sovy v mazutu hranou 2 borháky a stěnou kruh na vrchol.
+   Autor: Ota Srovnal ml. (jištěn)
    Komentáře:
    &gt; [13.8.2015 9:46:58 Staník] Hezký směr na zajímavě modelované hraně. Není jasné jestli se při odlezu od 1. bh &quot;může&quot; odšlápnout rozporem předskalí. &quot;Lege artis&quot; to bude určitě těžší :-) Autor slíbil nahradit normované borháky kruhy (možná už proběhlo). Těším se až sundám pytel :-)
    &gt; [23.5.2018 9:53:32 Hlaďas] Fantastická hrana kde se furt leze, a nepolevuje:-)jasné je, že se leze furt ve stěně a rozpor je mimo hru, a navíc by pomohl tak k jednomu kroku. Cesta už je kompletně okruhovaná. Obtíže jsou vyšší VIIIc/IXa. Nádhera.
 2. Highway č.1 | VIIa
+   Charakter: rajbas | ruční spára
+   Popis: Z mezivěží levou spárou ( 2 kruhy) na pilíř (3.kruh) a vpravo po hraně na vrchol.
+   Autor: Petr Waller, J.Koudelka
    Komentáře:
    &gt; [17.6.2013 14:29:01 Šáfa] Nová věž mezi Milenci a Lesáčkem. Cca 5 metrů pod nástupem do Údolní na Lesáčka zahněte do komínu vlevo. Je to ta cesta, kde svítí dva stříbrňáky. I v současnosti suché na troud. Smyce netřeba.
    &gt; [24.7.2013 20:04:57 nosicek] Krásná spárka, skoro až na zaučení. Řekl bych, že až překruhováno, první by vůbec být nemusel, až ke druhému super žába. Oblez třetího je pěná třešnička na dortu.
@@ -2110,6 +2943,9 @@ URL: https://www.piskari.cz/cs/skala/tri-sestry-3680/
    &gt; [28.5.2018 20:41:13 Páša] Super lajna, jak už bylo řečeno. Stává se asi dost vyhledávanou, protože potkat zamágovanou spáru, to už je jiná.
    &gt; [3.6.2018 19:03:45 cervo] Haluz :) tie prvé dva kruhy by som vedel v Adršpachu síce využiť efektívnejšie, ale začínajúcich špárarov určite potešia.
 3. Sovy v mazutu | VI (0.0.0000)
+   Charakter: ruční spára | širočina
+   Popis: Z mezivěží pravou spárou v koutě kruh, na vrchol.
+   Autor: Petr Waller, J.Koudelka
    Komentáře:
    &gt; [13.8.2015 9:40:12 Staník] O něco lehčí než Highway č. 1 ale chce to trochu nadhled a zručnost - nebát se třeba vysunout ze spáry do rozporu :-). Dole tutová lanovice, pak asi nějaká bambule.
 </desc>
@@ -2123,14 +2959,28 @@ URL: https://www.piskari.cz/cs/skala/uhlirska-1414/
 
 --- CESTY ---
 1. Hojbařská spára | VIIb (8.5.1977)
+   Popis: V levé části SZ stěny spárkou pod převis, stěnou doleva ke spáře, tou a komínem do jeskyně. Rozporem a spárou na plošinu. Spárou a komínem na vrchol.
+   Autor: Karel Živný a Gustav Lamka a Petr Mocek
 2. Písečná duna | VIIIb
+   Charakter: stěna | trhlina | ruční spára
+   Popis: Cestou Hojbařská spára do díry a zleva do jeskyňky (nebo vlevo trhlinou a zprava do jeskyňky) a ke kruhu. Spárou, stěnou a zase spárou, kterou na konec. Vlevo stěnou na hranu a podél trhliny ke 2. kruhu. Vpravo stěnou ke 3. kruhu. Hranou, výše stěnou vpravo do žlabu, kterým na balkon. Cestou Údolní komín na vrchol.
+   Autor: Petr John, J. Leníček
 3. Stará cesta | V (20.8.1924)
+   Charakter: komín
+   Popis: Náhorním komínem ( od Milenců ) na vrchol.
+   Autor: Kurt Franzke, O. Rülke
    Komentáře:
    &gt; [17.5.2012 9:57:00 Bin] Prostě komín... Zhruba ve 2/3 je potřeba prolézt zúžením a něco mi řiká, že jsem míjel i nějakej kruh. Leč - spolulezkyně zrovna neoplývala nadšením pro celkem zajímavej nástup ani pro komín, takže sám samotinkej.... Bin
    &gt; [29.5.2015 16:24:17 Pavlík] no prostě komín, jak píše Bín. prvních 20 metrů je to šoukačka, než se člověk dostane do samotného komínu (přesedák), potom je to 25 metrů pomalu se rozšiřujícím se komínem (záda-nohy), kdy člověk pořád kouká nahoru a modlí se, aby se do toho zúžení vlezl, naštěstí se vleze. dyž jsme to lezli, šel kolem Cikán a říkal, že jsme docela hrdinové, že to taky jednou lezl.
    &gt; [18.9.2016 9:49:25 cervo] proste komín... smyčky asi môžu zostať dole v piesku
 4. Tuhé palivo | IXc
+   Charakter: stěna | sokolík
+   Popis: Na východní hraně soustavou trhlin (4 kruhy) pod převis a vpravo na balkon. Údolní cestou na vrchol.
+   Autor: Jiří Šrůtek a Ján Smoleň
 5. Údolní | VIIb (22.9.1960)
+   Charakter: širočina | komín
+   Popis: Od SV rozporem ke kruhu, spárou a komínem na vrchol.
+   Autor: Manfred Meissner, W. Rump
    Komentáře:
    &gt; [14.3.2010 14:41:53 Hans] Celkem pěkná linie, bohužel spodek dost solí. Od kruhu kus pěkný žáby a pak následuje širočinokomín a komín na vrchol.
    &gt; [3.7.2011 20:10:13 lezecc] i přes ten solivý komín na začátku, si cesta hvězdičku zaslouží, spárový úsek od kruhu je parádní a dolezový komín je povinná dřina za odměnu:)
@@ -2141,6 +2991,9 @@ URL: https://www.piskari.cz/cs/skala/uhlirska-1414/
    &gt; [17.7.2019 22:50:20 Pavlík] Když se cvakne kruh, tak je vyhráno. Lanovice v převise mi nepřišli úplně tutové. Spárka za VIIa. Tutová žába a pěkné jištění. Celkově mi to přišlo lehčí. Ale zase na druhou stranu je to nahoru docela štreka..houkařina se vším, co k tomu patří
    &gt; [27.6.2021 16:31:59 martin blažek] Průlez úvodním komínem je velkolepý. Dobré smyčky jdou dát zkraje stropu, ale od půlky dál mi to teda přišlo, že je lepší valit ke kruhu a moc se neohlížet. Hodně exponované. Samotný dolez ke kruhu ok. Dále už pěkně lezení, bambula s sebou. Na balkoně by to chtělo dobírák, aby tam člověk nemusel trčet jak korek ve spáře při dobírání. Nahoře kdyby se dal slaňák o dva metry výš, tak se taky nic nestane.
 6. Údolní komín | VI (19.8.1966)
+   Charakter: ruční spára | komín
+   Popis: Vpravo od nástupu Údolní cesty soustavou spár a vnitřním komínem na lávku, po ní doprava a komínem na balkon. Vpravo žlabem a komínem na vrchol.
+   Autor: Klaus Fels a Klaus Helmig
    Komentáře:
    &gt; [10.5.2010 14:56:23 Tatuš] Řekl bych že to před náma hodně dlouho nikdo nelezl - úvodní spáru jsem musel celou vyhrabat. Následuje průlez do vnitřního komína - ten se ale nahoře uzavírá - je tedy třeba prolézt více dovnitř kde je to širší. Ten průlez je vodorovný a tak úzký že jsme museli sundat úvazky. Dále se traverzuje v údolní stěně po dost nejistých lupenech do takového žlabokomínu kterým se vpravo dostaneme k velkým stromům. Od nich už jen žlab a komín a je posekáno. V knížce nebyl žádný zápis této skvostné cesty.
    &gt; [11.5.2010 11:42:12 Aleš] Ještě dodám že na tom průlezu je nepříjemné hlavně to, že je vodorovný. Bez úvazku jde prolézt v pohodě a hned za průlezem je komín širší, tam jsme dobrali a zase si úvazky oblékli.
@@ -2159,6 +3012,8 @@ URL: https://www.piskari.cz/cs/skala/ul-1473/
 
 --- CESTY ---
 1. Varoáza | IV (21.6.1997)
+   Popis: Náhorním komínem na polici a vpravo stěnou na vrchol.
+   Autor: Petr Mocek, Š. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2170,9 +3025,14 @@ URL: https://www.piskari.cz/cs/skala/uzovka-1384/
 
 --- CESTY ---
 1. Červený měsíčky | VI
+   Charakter: rajbas | komín
+   Popis: V pravé části stěny spárou a komínem na pilíř, spárkou na další pilíř, stavěním (kruh) a stěnou na vrchol l
+   Autor: Stanislav Lukavský, Petr Mocek, M. Svěcená A. Rosenberg, M. Kulhavý
    Komentáře:
    &gt; [31.7.2015 10:14:32 shama] Docela pěkný, speciálně oblez stavění , kterej se dá vymyslet, klasa odhadem - bouldřík-
 2. Žluté měsíčky | V (14.8.1997)
+   Popis: Od SV (mezi Užovkou a Hadí) spárou, výše rozporovým komínem ke kruhu. Stěnou na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2184,6 +3044,8 @@ URL: https://www.piskari.cz/cs/skala/vcelar-1475/
 
 --- CESTY ---
 1. Dojení včel | VI (21.6.1997)
+   Popis: Náhorní stěnou vlevo (kruh) na vrchol.
+   Autor: Štěpán Gereg a Petr Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2195,6 +3057,9 @@ URL: https://www.piskari.cz/cs/skala/vikyrnik-1372/
 
 --- CESTY ---
 1. Náhorní | V (15.6.1969)
+   Charakter: stěna
+   Popis: Pravou částí náhorní stěny na vrchol.
+   Autor: Petr Mocek
    Komentáře:
    &gt; [26.7.2010 15:30:08 Jony] Nevím v jakým stavu je cesta teď, ale když jsme to lezli (2004), tak to byl na pětku slušnej boj.
 </desc>
@@ -2208,7 +3073,12 @@ URL: https://www.piskari.cz/cs/skala/vintentou-1375/
 
 --- CESTY ---
 1. Hrana | II (2.8.1979)
+   Popis: Náhorní stěnou do sedla a žlábkem na vrchol.
+   Autor: Petr Mocek, K. Kmoníček
 2. Údolní přískoky | VIIIb (2.8.1979)
+   Charakter: stěna | sokolík
+   Popis: V pravé části údolní (východní) stěny koutovou spárkou, traverz vlevo stěnou a sokolíkovými zářezy ke kruhu. Sokolíky a stěnou podél hrany na vrchol.
+   Autor: Petr Mocek, K. Kmoníček, J. Vlček
    Komentáře:
    &gt; [10.9.2013 10:20:56 Jony] Pěkný a míň špinavý.
 </desc>
@@ -2222,7 +3092,12 @@ URL: https://www.piskari.cz/cs/skala/violeta-1472/
 
 --- CESTY ---
 1. Bartoliniho žlaibuňk | VIIa (9.10.1981)
+   Popis: Náhorním komínem (mezi Violetou a Úlem) ke žlábku a jím ke kruhu. Stavěním a vlevo stěnou na vrchol.
+   Autor: Miloš Rain, J. Jirásek, M. Rusý, P. Blahna
 2. Dvouletá | VIIIb (2.5.1975)
+   Charakter: stěna | rajbas | ruční spára
+   Popis: Od JZ komínem na blok, (stavěním) nebo vlevo trhlinou a soustavou spár k 1. a 2. kruhu. Stěnou doleva ke 3. kruhu (stavěním ze sedačky) a žlábkem na vrchol.
+   Autor: Jan Farkaš a Jaroslav Přibyl, L . Návesník, M. Rain, L. Klikar
    Komentáře:
    &gt; [18.7.2010 16:23:51 Jony] Excelentní dlouhá schovaná linie. Jestli si dobře pamatuju, tak morálově nepříjemný mi přišel přelez dolního stavění a následný odlez do spáry a pak závěrečný vrcholový žlábek.
    &gt; [20.2.2014 20:10:17 lezecc] Velkolepé dobrodružství začíná už samotným nalezením nástupu jež je v místech kde by už takovýhle lezení skoro nikdo nehledal. První dobrodružné chvilky začnou hned na začátku kdy se člověk rozhodne podívat do trhliny která není vlevo ale vpravo. Prvních pár metrů je celkem nepříjemných a když jsem se podíval dolů od první podle mě slušné smyce ...nooo docela zážitek, a ke kruhu ještě daleko.Cvaknutím prvního se hodně ulevilo. Kouto stěna ke druhému celkem pěkný lezení a v porovnání se spodkem i bezpečný. Ke třetímu není daleko ale kroky těžknou. Stavění je spíš o trpělivosti zkoušet a následný žlábek prověří odhodlanost lezců jestli se vážně chtějí podívat na vrchol, který je alespon podle zápisů hodně opuštěný. Dvouletá je jedna z těch co si člověk bude dlouho pamatovat.
@@ -2237,12 +3112,22 @@ URL: https://www.piskari.cz/cs/skala/vosi-vez-1447/
 
 --- CESTY ---
 1. Baucuk | VI (8.5.1978)
+   Popis: Vpravo v JZ stěně spárou na plošinu (kruh). Vlevo z plošinky stavěním na lávku, po ní doleva a spárou na plošinu. Po hraně na vrchol.
+   Autor: Petr Mocek a Zdeněk Zilvar, V. Květoň, Jiří Bečka, J. Bečka, J. Stuchlíková
 2. Hup cuk | VIIIa (27.7.2008)
+   Charakter: stěna
+   Popis: Od JV stěnou do zářezu, jím a stěnou ke kruhu cesty Baucuk. Stěnou přímo (2 kruhy) a komínkem na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek
    Komentáře:
    &gt; [2.7.2015 19:32:23 Staník] Asi jsme (omylem) nastoupili vlevo spárou Baucukem, přímo mi to přišlo jako těžká boulderová varianta. Dále jemné přebírání vlnek a kyzů. Klíč je odlez od 1. Q. Docela fajn.
    &gt; [29.5.2018 10:06:34 Hlaďas] Krasná přímá linie. Boulder pod 1.Q je parádní, dále to zjemni jak pise Staník. Obtíž cesty je vyšší.
 3. Stará cesta | V (1.8.1963)
+   Popis: Od SV spárou a stěnou na vrchol.
+   Autor: Klaus Fels, K. Helmig
 4. Východní | VI (21.8.1966)
+   Charakter: rajbas | ruční spára
+   Popis: Vlevo od Staré cesty spárou na balkón ke kruhu (stavěním) a stěnou na vrchol.
+   Autor: Klaus Helmig, H.Seidel, K.Fels
    Komentáře:
    &gt; [1.9.2009 15:14:58 Čaj] Parádní žabka ke kruhu + pěkný VIIa rajbas.
    &gt; [23.6.2011 13:46:56 Alešák] Kratší nádherná cesta.
@@ -2263,14 +3148,25 @@ URL: https://www.piskari.cz/cs/skala/vresova-1388/
 
 --- CESTY ---
 1. Náhodná | VIIIa (23.7.1983)
+   Charakter: stěna | rajbas
+   Popis: Od Závojové cesty stěnou podél trhlinek k římse, traverz stěnou vpravo na hranu ke kruhu a stěnou na vrchol.
+   Autor: Petr Zeiska a Josef Kleprlík
    Komentáře:
    &gt; [4.7.2014 9:29:28 Jony] Od kruhu na vršek celkem štreka, kde je dobrý si hlídat kecky, v jednom místě se dá v případě vážné potřeby uhnout do lehčího terénu Závojové.
 2. Rehabilitační triky | VIIIb (4.5.1988)
+   Popis: Uprostřed JV stěny zářezem a stěnou k 1. kruhu. Vpravo mělkým vhloubením ke 2. kruhu. Stěnou přímo na vrchol.
+   Autor: Stanislav Lukavský, S. Lukavská
    Komentáře:
    &gt; [17.12.2014 14:55:30 Staník] Na pohled pěkná linka, realita je docela tvrdá. Svižné lezení na smyčkách s otazníkem. K tomu trochu odsoluje matroš. Na druhém pěkné kroky na prvním pytel. Asi nebyl den.
 3. Stará cesta | VI (30.6.1962)
+   Popis: V levé části JV stěny zalomenou spárkou k římse a stěnou doleva na plošinku. Stěnou ke kruhu, stavěním (ze sedačky) a stěnou na vrchol.
+   Autor: Zdeněk Studnička, M. Smrček
 4. Zákruta | VIIa (1.8.1982)
+   Popis: Z údolní strany spárami pod temeno SV pilíře, stěnou doprava (kruh) a zářezem na plošinku. Starou cestou na vrchol.
+   Autor: Jaroslav Houser a Stanislav Lukavský, Jos. Houser
 5. Závojová | VIIb (25.7.1970)
+   Popis: V pravé části JV stěny spárou na pilíř a stěnou (kruh) na vrchol.
+   Autor: Stanislav Lukavský a Jaroslav Seifert, F. Rázl
    Komentáře:
    &gt; [10.7.2017 8:56:54 Šáfa] Hezké, ale dvě hvězdy nedám. Kdyby to ujelo v rozhodujícím místě nahoře v rajbasu, vycházelo by to asi přesně na pilíř. Nicméně klasifikačně bez záludnosti - VIIb spíš lehčí (předchozí den VIIa na Dědečkové předkožce bylo jiné kafe). Spára byla zcela bez problémů se žábami.
    &gt; [3.8.2024 9:08:45 Vondra] Vše výše napsáno, nad Q se mi nic dát nepodařilo. Chce to na jistotu nebo mít hodně dobrého jističe. Docela se i leze.
@@ -2285,8 +3181,14 @@ URL: https://www.piskari.cz/cs/skala/zamazana-1422/
 
 --- CESTY ---
 1. Bělinova | VIIa (0.0.0000)
+   Popis: V levé části JZ stěny komínem na pilířek a vpravo stěnou ke kruhu. Trhlinou a spárou na vrchol.
+   Autor: Karel Bělina
 2. Odřená | VI (17.10.1965)
+   Popis: Ze schodiště turistické cesty stavěním pod převis a stěnou doprava ke kruhu. Stavěním ze sedačky, spárou a komínem na předvrchol. Vlevo stěnou na vrchol.
+   Autor: Milan Rusý, P. Rada
 3. Tajný výlet | VIIb (19.6.1980)
+   Popis: Vlevo od severního rohu soustavou spár ke kruhu. Vpravo spárou dva metry, v římse doprava za severní hranu do komína a jím na předvrchol. Odřenou cestou na vrchol.
+   Autor: Petr Mocek, J. Rymeš
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2298,7 +3200,11 @@ URL: https://www.piskari.cz/cs/skala/zapadla-1390/
 
 --- CESTY ---
 1. Náhradní | IV (15.9.1974)
+   Popis: Vpravo od Staré cesty komínem na pilíř a po hraně na vrchol.
+   Autor: Jaroslav Houser, Z. Hubka, S. Lukavský, M. Havlák
 2. Stará cesta | VIIa (23.7.1972)
+   Popis: Z náhorní strany stavěním, spárou a žlabem na vrchol.
+   Autor: Rudolf Eisenreich, R. Poschwitz
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2310,9 +3216,17 @@ URL: https://www.piskari.cz/cs/skala/zarijova-1474/
 
 --- CESTY ---
 1. Dvorana slávy | VIIIa (21.8.1992)
+   Popis: Nástup je na údolní (SV) straně věže. Traverz vpravo v římse na severní hranu a tou (5 kruhy) na pilíř. Přechodem přes přepadlý blok, stěnou a po levé hraně na předvrchol. Překrokem na vrchol.
+   Autor: Stanislav Lukavský a Petr Mocek, L. Jánský
 2. Festivalová | V (27.9.1981)
+   Popis: Vlevo od Sestupové cesty z bloku traverz stěnou doleva za hranu, stěnou na předvrchol a Sestupovou cestou na vrchol.
+   Autor: Milan Rusý, M. Vaňásková, M. Hůlková
 3. Po hřbetě | IV (15.9.1981)
+   Popis: Vpravo na náhorní straně věže průlez komínem na údolní kazatelnu. Stavěním na lávku (kruh), stěnou doleva na hranu a po ní na vrchol.
+   Autor: Milan Rusý, M. Hůlková
 4. Sestupová | II (15.9.1981)
+   Popis: Vlevo na náhorní straně věže komínem na předvrchol a stěnou na vrchol.
+   Autor: Milan Rusý, M. Hůlková
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2324,6 +3238,8 @@ URL: https://www.piskari.cz/cs/skala/zloduch-1393/
 
 --- CESTY ---
 1. Mezilidské vztahy | VIIa (17.10.1998)
+   Popis: Z turistické cesty spárou a komínem k 1. a 2. kruhu. Z rozporu přepadem a po hraně na vrchol.
+   Autor: Petr Mocek, J. Gereg
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2335,7 +3251,11 @@ URL: https://www.piskari.cz/cs/skala/zoologicka-zahrada-1397/
 
 --- CESTY ---
 1. Cesta velkého opičáka | VIIb (10.8.1997)
+   Popis: Z turistické cesty komínem na pilíř a přechodem na polici v údolní stěně k 1. kruhu. Stěnou podél východní hrany (2. kruh) na temeno.
+   Autor: Stanislav Lukavský a Jiří Prokop, Z. Zilvar, P. Mocek
 2. Cesta velkého opičáka – Varianta | VIIb (10.8.1997)
+   Popis: Vlevo od Cesty velkého opičáka vnitřním komínem na pilíř.
+   Autor: Petr Mocek
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
@@ -2347,6 +3267,8 @@ URL: https://www.piskari.cz/cs/skala/ziziho-vez-1402/
 
 --- CESTY ---
 1. Svatební cesta | VI (26.10.1985)
+   Popis: Cestou Via vitae na Hrad do komína před 1. kruhem. Vlevo stěnou (kruh) na vrchol.
+   Autor: Vratislav Votýpka, P. Binhak, L. Binhak, J. Kaprasová, J. Špecián
 </desc>
     <sym>Flag, Blue</sym>
   </wpt>
